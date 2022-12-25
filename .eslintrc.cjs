@@ -9,4 +9,10 @@ module.exports = {
     "@vue/eslint-config-typescript/recommended",
     "@vue/eslint-config-prettier",
   ],
+  parserOptions: {
+    parser: "@typescript-eslint/parser",
+    ecmaFeatures: {
+      jsx: false,
+    },
+  },
 };

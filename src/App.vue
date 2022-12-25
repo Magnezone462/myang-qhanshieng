@@ -1,91 +1,75 @@
 <script setup lang="ts">
-import { RouterLink, RouterView } from "vue-router";
-import HelloWorld from "./components/HelloWorld.vue";
+import { ref } from "vue";
+import { jyongKriemsakkho } from "./stores/kriemsak";
+
+type Drawer = boolean | null;
+
+const kriemsakkho = jyongKriemsakkho();
+
+const drawer = ref(<Drawer>null);
+
+const xuanThryuthei = () => {
+  drawer.value = !drawer.value;
+};
+const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
 </script>
 
 <template>
-  <header>
-    <img
-      alt="Vue logo"
-      class="logo"
-      src="@/assets/logo.svg"
-      width="125"
-      height="125"
-    />
+  <v-app>
+    <v-system-bar> </v-system-bar>
 
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+    <v-app-bar>
+      <v-app-bar-nav-icon @click="xuanThryuthei()"></v-app-bar-nav-icon>
+      <v-toolbar-title>網絡本《漢字文聲義》</v-toolbar-title>
+    </v-app-bar>
 
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-      </nav>
-    </div>
-  </header>
+    <v-navigation-drawer v-model="drawer" bottom>
+      <v-sheet color="grey-lighten-4" class="pa-4">
+        <v-text-field
+          v-model="kriemsakkho.qhandziwShyonip"
+          label="漢字"
+          placeholder="天地玄黄宇宙洪荒"
+          clearable
+        />
+        <v-btn block rounded @click="kriemsakkho.triwKriemsakKetkua()">
+          檢索
+        </v-btn>
+      </v-sheet>
 
-  <RouterView />
+      <v-divider></v-divider>
+
+      <v-list>
+        <v-list-item
+          v-for="baryu in kriemsakkho.twkKriemsakKetkua"
+          :key="baryu.pieutiwbyo"
+          @click="kriemsakkho.syendrakKriemsakKetkua(baryu)"
+          link
+        >
+          <v-list-item-title>{{ baryu.dziw }}</v-list-item-title>
+          {{ qhruaSikrokXaumra(baryu.sikrok_xaumra) }}
+        </v-list-item>
+      </v-list>
+    </v-navigation-drawer>
+
+    <v-main>
+      <v-container fluid>
+        <v-row>
+          <v-col>
+            {{ kriemsakkho.twkSrioSyenKriemsakKetkua.dziw }}
+            <!-- {{
+              qhruaSikrokXaumra(
+                kriemsakkho.twkSrioSyenKriemsakKetkua.sikrok_xaumra
+              )
+            }} -->
+            <div
+              v-for="baryu in kriemsakkho.twkKriemsakKetkuaDziwqrim"
+              :key="baryu.pieutiwbyo"
+            >
+              {{ baryu.zyepheng }}
+            </div>
+          </v-col>
+        </v-row>
+      </v-container>
+    </v-main>
+  </v-app>
 </template>
-
-<style scoped>
-header {
-  line-height: 1.5;
-  max-height: 100vh;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-nav {
-  width: 100%;
-  font-size: 12px;
-  text-align: center;
-  margin-top: 2rem;
-}
-
-nav a.router-link-exact-active {
-  color: var(--color-text);
-}
-
-nav a.router-link-exact-active:hover {
-  background-color: transparent;
-}
-
-nav a {
-  display: inline-block;
-  padding: 0 1rem;
-  border-left: 1px solid var(--color-border);
-}
-
-nav a:first-of-type {
-  border: 0;
-}
-
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-
-  nav {
-    text-align: left;
-    margin-left: -1rem;
-    font-size: 1rem;
-
-    padding: 1rem 0;
-    margin-top: 1rem;
-  }
-}
-</style>
