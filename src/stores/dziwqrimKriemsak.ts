@@ -75,8 +75,12 @@ export const jyongDziwqrimKriemsakkho = defineStore("dziwqrimKriemsak", () => {
       const lioShiengmu = srioSyenShiengmu.value
         ? tuiziang.shieng === srioSyenShiengmu.value
         : true;
+      const myuinip =
+        !srioNipZyepheng.value &&
+        !srioSyenShiwxryn.value &&
+        !srioSyenShiengmu.value;
 
-      return lioZyepheng && lioShiwxryn && lioShiengmu;
+      return !myuinip && lioZyepheng && lioShiwxryn && lioShiengmu;
     });
   };
 
