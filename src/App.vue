@@ -181,16 +181,16 @@ const twkQhZQh = (dziwqrim: Dziwqrim) => {
 
     <v-main>
       <v-container fluid>
-        <v-tabs v-model="dziwdeu.srioSyenTyolanPieuchiem">
-          <v-tab
-            v-for="dziwbyo in dziwdeu.srioSyenDziwdu"
-            :key="dziwbyo"
-            :value="dziwbyo"
-            @click="dziwdeu.triwSrioSyenXengqrim(dziwbyo)"
-          >
-            {{ dziwbyo }}
-          </v-tab>
-        </v-tabs>
+        <v-select
+          label="字種"
+          v-model="dziwdeu.srioSyenDziwbyo"
+          :items="[...dziwdeu.srioSyenDziwdu]"
+          @update:modelValue="
+            dziwdeu.triwSrioSyenXengqrim(dziwdeu.srioSyenDziwbyo)
+          "
+          variant="underlined"
+          density="compact"
+        />
         <v-row>
           <v-col>
             <h2>{{ dziwdeu.srioSyenDziwbyo }}</h2>
