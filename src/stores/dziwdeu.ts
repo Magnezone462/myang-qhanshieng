@@ -1,8 +1,8 @@
 import { ref, computed } from "vue";
 import { defineStore } from "pinia";
-import dziwqrim from "../sryokio/dziwqrim.json";
-// import dziwtyong from "../sryokio/dziwtyong.json";
 import dziwxeng from "../sryokio/dziwxeng.json";
+import dziwqrim from "../sryokio/dziwqrim.json";
+import tiengdziw from "../sryokio/tiengdziw.json";
 
 interface Dziwxeng {
   pieutiwbyo: string;
@@ -57,18 +57,43 @@ export const jyongDziwdeukho = defineStore("dziwdeu", () => {
   const srioSyenDziwdu = ref("");
   const srioSyenDziwxeng = ref(<Dziwxeng[]>[]);
   const srioSyenDziwqrim = ref(<Dziwqrim[]>[]);
+  const srioSyenTyolanPieuchiem = ref("");
+  const srioSyenDziwbyo = ref("");
 
   const twkSrioSyenDziwdu = computed(() => srioSyenDziwdu.value);
   const twkSrioSyenDziwxeng = computed(() => srioSyenDziwxeng.value);
   const twkSrioSyenDziwqrim = computed(() => srioSyenDziwqrim.value);
+  const twkSrioSyenTyolanPieuchiem = computed(
+    () => srioSyenTyolanPieuchiem.value
+  );
 
-  const triwSrioSyenDziwdu = (grian: string) => {
-    srioSyenDziwdu.value = grian;
+  const triwSrioSyenDziwdu = (grien: string) => {
+    srioSyenDziwdu.value = "";
+    srioSyenDziwxeng.value = [];
+    srioSyenDziwqrim.value = [];
+    const zyoktiengLietprieu = tiengdziw.filter((tuiziang) => {
+      return tuiziang.zyokdziw === grien;
+    });
+    for (const driw of zyoktiengLietprieu) {
+      srioSyenDziwdu.value = srioSyenDziwdu.value + driw.tiengdziw;
+    }
+    if (srioSyenDziwdu.value.length === 1) {
+      triwSrioSyenXengqrim(srioSyenDziwdu.value);
+      srioSyenTyolanPieuchiem.value = srioSyenDziwdu.value;
+    } else if (srioSyenDziwdu.value.includes(grien)) {
+      triwSrioSyenXengqrim(grien);
+      srioSyenTyolanPieuchiem.value = grien;
+    } else {
+      srioSyenDziwbyo.value = "";
+    }
+  };
+  const triwSrioSyenXengqrim = (grien: string) => {
+    srioSyenDziwbyo.value = grien;
     srioSyenDziwxeng.value = dziwxeng.filter((tuiziang) => {
-      return tuiziang.dziw === grian;
+      return tuiziang.dziw === grien;
     });
     srioSyenDziwqrim.value = dziwqrim.filter((tuiziang) => {
-      return tuiziang.dziw === grian;
+      return tuiziang.dziw === grien;
     });
   };
 
@@ -76,9 +101,13 @@ export const jyongDziwdeukho = defineStore("dziwdeu", () => {
     srioSyenDziwdu,
     srioSyenDziwxeng,
     srioSyenDziwqrim,
+    srioSyenTyolanPieuchiem,
+    srioSyenDziwbyo,
     twkSrioSyenDziwdu,
     twkSrioSyenDziwxeng,
     twkSrioSyenDziwqrim,
+    twkSrioSyenTyolanPieuchiem,
     triwSrioSyenDziwdu,
+    triwSrioSyenXengqrim,
   };
 });

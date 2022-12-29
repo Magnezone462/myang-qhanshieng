@@ -29,6 +29,10 @@ const qanShiwxryn = (tuiziang: Dziwqrim) => {
   penlanPieuchiem.value = "qrit";
 };
 
+const qanKriemsakKetkua = (tuiziang: string) => {
+  dziwdeu.triwSrioSyenDziwdu(tuiziang);
+};
+
 const xuanThryuthei = () => {
   thryuthei.value = !thryuthei.value;
 };
@@ -109,7 +113,7 @@ const twkQhZQh = (dziwqrim: Dziwqrim) => {
             <v-list-item
               v-for="tuiziang in dziwbyoKriemsakkho.twkKriemsakKetkua"
               :key="tuiziang.pieutiwbyo"
-              @click="dziwdeu.triwSrioSyenDziwdu(tuiziang.dziw)"
+              @click="qanKriemsakKetkua(tuiziang.dziw)"
               link
             >
               <v-list-item-title>{{ tuiziang.dziw }}</v-list-item-title>
@@ -164,7 +168,7 @@ const twkQhZQh = (dziwqrim: Dziwqrim) => {
             <v-list-item
               v-for="tuiziang in dziwqrimKriemsakkho.twkKriemsakKetkua"
               :key="tuiziang.pieutiwbyo"
-              @click="dziwdeu.triwSrioSyenDziwdu(tuiziang.dziw)"
+              @click="qanKriemsakKetkua(tuiziang.dziw)"
               link
             >
               <v-list-item-title>{{ tuiziang.dziw }}</v-list-item-title>
@@ -177,9 +181,19 @@ const twkQhZQh = (dziwqrim: Dziwqrim) => {
 
     <v-main>
       <v-container fluid>
+        <v-tabs v-model="dziwdeu.srioSyenTyolanPieuchiem">
+          <v-tab
+            v-for="dziwbyo in dziwdeu.srioSyenDziwdu"
+            :key="dziwbyo"
+            :value="dziwbyo"
+            @click="dziwdeu.triwSrioSyenXengqrim(dziwbyo)"
+          >
+            {{ dziwbyo }}
+          </v-tab>
+        </v-tabs>
         <v-row>
           <v-col>
-            <h2>{{ dziwdeu.srioSyenDziwdu }}</h2>
+            <h2>{{ dziwdeu.srioSyenDziwbyo }}</h2>
             <div
               v-for="tuiziang in dziwdeu.twkSrioSyenDziwqrim"
               :key="tuiziang.pieutiwbyo"
