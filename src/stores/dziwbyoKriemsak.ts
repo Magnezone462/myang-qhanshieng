@@ -2,7 +2,7 @@ import { ref, computed } from "vue";
 import { defineStore } from "pinia";
 import dziwxeng from "../sryokio/dziwxeng.json";
 
-interface Dziwxeng {
+export interface Dziwxeng {
   pieutiwbyo: string;
   dziw: string;
   dziw_QhSh: string;
@@ -13,7 +13,7 @@ interface Dziwxeng {
   tyoshiek: string;
 }
 
-export const jyongKriemsakkho = defineStore("dziwbyoKriemsak", () => {
+export const jyongDziwbyoKriemsakkho = defineStore("dziwbyoKriemsak", () => {
   const srioNipQhandziwthyen = ref("");
   const kriemsakKetkua = ref(<Dziwxeng[]>[]);
 

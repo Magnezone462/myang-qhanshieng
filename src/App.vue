@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref } from "vue";
-import { jyongKriemsakkho } from "./stores/dziwbyoKriemsak";
+import { jyongDziwbyoKriemsakkho } from "./stores/dziwbyoKriemsak";
 import {
   jyongDziwqrimKriemsakkho,
   type Dziwqrim,
@@ -10,13 +10,24 @@ import shiwxryn from "./sryokio/shiwxryn.json";
 import shiengmu from "./sryokio/shiengmu.json";
 
 type Thryuthei = boolean | null;
+type PenlanPieuchiem = string | null;
 
-const kriemsakkho = jyongKriemsakkho();
+const dziwbyoKriemsakkho = jyongDziwbyoKriemsakkho();
 const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho();
 const dziwdeu = jyongDziwdeukho();
 
 const thryuthei = ref(<Thryuthei>null);
-const penlanPieuchiem = ref(null);
+const penlanPieuchiem = ref(<PenlanPieuchiem>null);
+
+const qanZyepheng = (tuiziang: Dziwqrim) => {
+  dziwqrimKriemsakkho.triwSrioNipZyepheng(tuiziang.zyepheng);
+  penlanPieuchiem.value = "qrit";
+};
+
+const qanShiwxryn = (tuiziang: Dziwqrim) => {
+  dziwqrimKriemsakkho.triwSrioSyenShiwxryn(tuiziang.shiwxryn);
+  penlanPieuchiem.value = "qrit";
+};
 
 const xuanThryuthei = () => {
   thryuthei.value = !thryuthei.value;
@@ -30,8 +41,6 @@ const twkDryenthungQrimlyi = (dziwqrim: Dziwqrim) => {
     dziwqrim.deu,
     dziwqrim.xryn,
     dziwqrim.shieng,
-    "　",
-    dziwqrim.shiwxryn,
   ].join("");
 };
 const twkChX = (dziwqrim: Dziwqrim) => {
@@ -80,12 +89,16 @@ const twkQhZQh = (dziwqrim: Dziwqrim) => {
         <v-window-item value="krap">
           <v-sheet class="pa-4">
             <v-text-field
-              v-model="kriemsakkho.srioNipQhandziwthyen"
+              v-model="dziwbyoKriemsakkho.srioNipQhandziwthyen"
               label="漢字"
               placeholder="天地玄黄宇宙洪荒"
               clearable
             />
-            <v-btn block rounded @click="kriemsakkho.triwKriemsakKetkua()">
+            <v-btn
+              block
+              rounded
+              @click="dziwbyoKriemsakkho.triwKriemsakKetkua()"
+            >
               檢索
             </v-btn>
           </v-sheet>
@@ -94,7 +107,7 @@ const twkQhZQh = (dziwqrim: Dziwqrim) => {
 
           <v-list>
             <v-list-item
-              v-for="tuiziang in kriemsakkho.twkKriemsakKetkua"
+              v-for="tuiziang in dziwbyoKriemsakkho.twkKriemsakKetkua"
               :key="tuiziang.pieutiwbyo"
               @click="dziwdeu.triwSrioSyenDziwdu(tuiziang.dziw)"
               link
@@ -106,7 +119,15 @@ const twkQhZQh = (dziwqrim: Dziwqrim) => {
         </v-window-item>
         <v-window-item value="qrit">
           <v-sheet class="pa-4">
-            <v-row>
+            <v-col>
+              <v-text-field
+                v-model="dziwqrimKriemsakkho.srioNipZyepheng"
+                label="隋拼"
+                placeholder="Thendʼî xuenxuaŋ"
+                density="compact"
+                variant="underlined"
+                clearable
+              />
               <v-select
                 label="平水韵"
                 v-model="dziwqrimKriemsakkho.srioSyenShiwxryn"
@@ -114,8 +135,9 @@ const twkQhZQh = (dziwqrim: Dziwqrim) => {
                 item-title="xryn_driang"
                 item-value="xryn_tuan"
                 variant="underlined"
+                density="compact"
                 clearable
-              ></v-select>
+              />
               <v-select
                 label="聲母"
                 v-model="dziwqrimKriemsakkho.srioSyenShiengmu"
@@ -123,9 +145,10 @@ const twkQhZQh = (dziwqrim: Dziwqrim) => {
                 item-title="shiengmu_ziangdzieng"
                 item-value="shiengmu"
                 variant="underlined"
+                density="compact"
                 clearable
-              ></v-select>
-            </v-row>
+              />
+            </v-col>
             <v-btn
               block
               rounded
@@ -156,18 +179,23 @@ const twkQhZQh = (dziwqrim: Dziwqrim) => {
       <v-container fluid>
         <v-row>
           <v-col>
-            <!-- <h2>{{ kriemsakkho.twkSrioSyenKriemsakKetkua.dziw }}</h2> -->
             <h2>{{ dziwdeu.srioSyenDziwdu }}</h2>
             <div
               v-for="tuiziang in dziwdeu.twkSrioSyenDziwqrim"
               :key="tuiziang.pieutiwbyo"
             >
               <v-card>
-                <v-card-title>
+                <v-card-title
+                  @click="qanZyepheng(tuiziang)"
+                  style="cursor: pointer"
+                >
                   {{ tuiziang.zyepheng }}
                 </v-card-title>
                 <v-card-subtitle>
                   {{ twkDryenthungQrimlyi(tuiziang) }}
+                  <span class="hei-sui-in" @click="qanShiwxryn(tuiziang)">
+                    {{ tuiziang.shiwxryn }}
+                  </span>
                 </v-card-subtitle>
                 <v-card-text>
                   <div v-if="tuiziang.pyanchet_ChX">
@@ -200,3 +228,10 @@ const twkQhZQh = (dziwqrim: Dziwqrim) => {
     </v-main>
   </v-app>
 </template>
+
+<style scoped lang="css">
+.hei-sui-in {
+  border: 1px solid;
+  cursor: pointer;
+}
+</style>
