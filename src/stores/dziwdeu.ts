@@ -98,7 +98,11 @@ export const jyongDziwdeukho = defineStore("dziwdeu", () => {
     !jiwtheiSinsiwk?.nitpundziw
       ? true
       : jiwtheidziwco.push(`日作“${jiwtheiSinsiwk.nitpundziw}”`);
-    srioSyenJiwtheidziw.value = jiwtheidziwco.join("、");
+    srioSyenJiwtheidziw.value = jiwtheidziwco.join("，");
+    !srioSyenJiwtheidziw.value
+      ? true
+      : (srioSyenJiwtheidziw.value = srioSyenJiwtheidziw.value.concat("。"));
+
     srioSyenDziwxeng.value = dziwxeng.filter((tuiziang) => {
       return tuiziang.dziw === grien;
     });
