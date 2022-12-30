@@ -57,15 +57,11 @@ export const jyongDziwdeukho = defineStore("dziwdeu", () => {
   const srioSyenDziwdu = ref("");
   const srioSyenDziwxeng = ref(<Dziwxeng[]>[]);
   const srioSyenDziwqrim = ref(<Dziwqrim[]>[]);
-  const srioSyenTyolanPieuchiem = ref("");
   const srioSyenDziwbyo = ref("");
 
   const twkSrioSyenDziwdu = computed(() => srioSyenDziwdu.value);
   const twkSrioSyenDziwxeng = computed(() => srioSyenDziwxeng.value);
   const twkSrioSyenDziwqrim = computed(() => srioSyenDziwqrim.value);
-  const twkSrioSyenTyolanPieuchiem = computed(
-    () => srioSyenTyolanPieuchiem.value
-  );
 
   const triwSrioSyenDziwdu = (grien: string) => {
     srioSyenDziwdu.value = "";
@@ -79,10 +75,8 @@ export const jyongDziwdeukho = defineStore("dziwdeu", () => {
     }
     if (srioSyenDziwdu.value.length === 1) {
       triwSrioSyenXengqrim(srioSyenDziwdu.value);
-      srioSyenTyolanPieuchiem.value = srioSyenDziwdu.value;
     } else if (srioSyenDziwdu.value.includes(grien)) {
       triwSrioSyenXengqrim(grien);
-      srioSyenTyolanPieuchiem.value = grien;
     } else {
       srioSyenDziwbyo.value = "";
     }
@@ -101,12 +95,10 @@ export const jyongDziwdeukho = defineStore("dziwdeu", () => {
     srioSyenDziwdu,
     srioSyenDziwxeng,
     srioSyenDziwqrim,
-    srioSyenTyolanPieuchiem,
     srioSyenDziwbyo,
     twkSrioSyenDziwdu,
     twkSrioSyenDziwxeng,
     twkSrioSyenDziwqrim,
-    twkSrioSyenTyolanPieuchiem,
     triwSrioSyenDziwdu,
     triwSrioSyenXengqrim,
   };
