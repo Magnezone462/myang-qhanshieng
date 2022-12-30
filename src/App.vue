@@ -194,6 +194,7 @@ const twkQhZQh = (dziwqrim: Dziwqrim) => {
         <v-row>
           <v-col>
             <h2>{{ dziwdeu.srioSyenDziwbyo }}</h2>
+            <p>{{ dziwdeu.srioSyenJiwtheidziw }}</p>
             <div
               v-for="tuiziang in dziwdeu.twkSrioSyenDziwqrim"
               :key="tuiziang.pieutiwbyo"

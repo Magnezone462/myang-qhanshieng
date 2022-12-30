@@ -3,6 +3,7 @@ import { defineStore } from "pinia";
 import dziwxeng from "../sryokio/dziwxeng.json";
 import dziwqrim from "../sryokio/dziwqrim.json";
 import tiengdziw from "../sryokio/tiengdziw.json";
+import dziwtyong from "../sryokio/dziwtyong.json";
 
 interface Dziwxeng {
   pieutiwbyo: string;
@@ -58,6 +59,7 @@ export const jyongDziwdeukho = defineStore("dziwdeu", () => {
   const srioSyenDziwxeng = ref(<Dziwxeng[]>[]);
   const srioSyenDziwqrim = ref(<Dziwqrim[]>[]);
   const srioSyenDziwbyo = ref("");
+  const srioSyenJiwtheidziw = ref("");
 
   const twkSrioSyenDziwdu = computed(() => srioSyenDziwdu.value);
   const twkSrioSyenDziwxeng = computed(() => srioSyenDziwxeng.value);
@@ -83,6 +85,21 @@ export const jyongDziwdeukho = defineStore("dziwdeu", () => {
   };
   const triwSrioSyenXengqrim = (grien: string) => {
     srioSyenDziwbyo.value = grien;
+    const jiwtheiSinsiwk = dziwtyong.find((tuiziang) => {
+      return tuiziang.dziw === grien;
+    });
+    const syenjyongdziw = !jiwtheiSinsiwk?.syenjyongdziw
+      ? ""
+      : `選用“${jiwtheiSinsiwk.syenjyongdziw}”`;
+    const krenqhruadziw = !jiwtheiSinsiwk?.krenqhruadziw
+      ? ""
+      : `簡作“${jiwtheiSinsiwk.krenqhruadziw}”`;
+    const nitpundziw = !jiwtheiSinsiwk?.nitpundziw
+      ? ""
+      : `日作“${jiwtheiSinsiwk.nitpundziw}”`;
+    srioSyenJiwtheidziw.value = [syenjyongdziw, krenqhruadziw, nitpundziw].join(
+      ","
+    );
     srioSyenDziwxeng.value = dziwxeng.filter((tuiziang) => {
       return tuiziang.dziw === grien;
     });
@@ -96,6 +113,7 @@ export const jyongDziwdeukho = defineStore("dziwdeu", () => {
     srioSyenDziwxeng,
     srioSyenDziwqrim,
     srioSyenDziwbyo,
+    srioSyenJiwtheidziw,
     twkSrioSyenDziwdu,
     twkSrioSyenDziwxeng,
     twkSrioSyenDziwqrim,
