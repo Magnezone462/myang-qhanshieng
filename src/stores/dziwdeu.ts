@@ -88,18 +88,17 @@ export const jyongDziwdeukho = defineStore("dziwdeu", () => {
     const jiwtheiSinsiwk = dziwtyong.find((tuiziang) => {
       return tuiziang.dziw === grien;
     });
-    const syenjyongdziw = !jiwtheiSinsiwk?.syenjyongdziw
-      ? ""
-      : `選用“${jiwtheiSinsiwk.syenjyongdziw}”`;
-    const krenqhruadziw = !jiwtheiSinsiwk?.krenqhruadziw
-      ? ""
-      : `簡作“${jiwtheiSinsiwk.krenqhruadziw}”`;
-    const nitpundziw = !jiwtheiSinsiwk?.nitpundziw
-      ? ""
-      : `日作“${jiwtheiSinsiwk.nitpundziw}”`;
-    srioSyenJiwtheidziw.value = [syenjyongdziw, krenqhruadziw, nitpundziw].join(
-      ","
-    );
+    const jiwtheidziwco = <string[]>[];
+    !jiwtheiSinsiwk?.syenjyongdziw
+      ? true
+      : jiwtheidziwco.push(`選用“${jiwtheiSinsiwk.syenjyongdziw}”`);
+    !jiwtheiSinsiwk?.krenqhruadziw
+      ? true
+      : jiwtheidziwco.push(`簡作“${jiwtheiSinsiwk.krenqhruadziw}”`);
+    !jiwtheiSinsiwk?.nitpundziw
+      ? true
+      : jiwtheidziwco.push(`日作“${jiwtheiSinsiwk.nitpundziw}”`);
+    srioSyenJiwtheidziw.value = jiwtheidziwco.join("、");
     srioSyenDziwxeng.value = dziwxeng.filter((tuiziang) => {
       return tuiziang.dziw === grien;
     });
