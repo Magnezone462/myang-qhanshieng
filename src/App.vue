@@ -1,27 +1,25 @@
 <script setup lang="ts">
-import {
-  jyongDziwqrimKriemsakkho,
-  type Dziwqrim,
-} from "./stores/dziwqrimKriemsak";
+import { jyongDziwqrimKriemsakkho } from "./stores/dziwqrimKriemsak";
 import { jyongDziwdeukho } from "./stores/dziwdeu";
 import KriemsakPenlan from "./components/KriemsakPenlan.vue";
 import { jyongXeithongkho } from "./stores/xeithong";
+import type { DziwqrimSryokio } from "./assets/lyixeng";
 
 const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho();
 const dziwdeu = jyongDziwdeukho();
 const xeithongkho = jyongXeithongkho();
 
-const qanZyepheng = (tuiziang: Dziwqrim) => {
+const qanZyepheng = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioNipZyepheng(tuiziang.zyepheng);
   xeithongkho.kriemsakPenlanPieuchiem = "qrit";
 };
 
-const qanShiwxryn = (tuiziang: Dziwqrim) => {
+const qanShiwxryn = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioSyenShiwxryn(tuiziang.shiwxryn);
   xeithongkho.kriemsakPenlanPieuchiem = "qrit";
 };
 
-const twkDryenthungQrimlyi = (dziwqrim: Dziwqrim) => {
+const twkDryenthungQrimlyi = (dziwqrim: DziwqrimSryokio) => {
   return [
     dziwqrim.shiep,
     dziwqrim.qho,
@@ -31,27 +29,27 @@ const twkDryenthungQrimlyi = (dziwqrim: Dziwqrim) => {
     dziwqrim.shieng,
   ].join("");
 };
-const twkChX = (dziwqrim: Dziwqrim) => {
+const twkChX = (dziwqrim: DziwqrimSryokio) => {
   const tyo =
     dziwqrim.pyanchet_ChX_tyo !== "" ? `（${dziwqrim.pyanchet_ChX_tyo}）` : "";
   return [dziwqrim.pyanchet_ChX, tyo].join("");
 };
-const twkXX = (dziwqrim: Dziwqrim) => {
+const twkXX = (dziwqrim: DziwqrimSryokio) => {
   const tyo =
     dziwqrim.pyanchet_XX_tyo !== "" ? `（${dziwqrim.pyanchet_XX_tyo}）` : "";
   return [dziwqrim.pyanchet_XX, tyo].join("");
 };
-const twkKX = (dziwqrim: Dziwqrim) => {
+const twkKX = (dziwqrim: DziwqrimSryokio) => {
   const tyo =
     dziwqrim.pyanchet_KX_tyo !== "" ? `（${dziwqrim.pyanchet_KX_tyo}）` : "";
   return [dziwqrim.pyanchet_KX, tyo].join("");
 };
-const twkDzX = (dziwqrim: Dziwqrim) => {
+const twkDzX = (dziwqrim: DziwqrimSryokio) => {
   const tyo =
     dziwqrim.pyanchet_DzX_tyo !== "" ? `（${dziwqrim.pyanchet_DzX_tyo}）` : "";
   return [dziwqrim.pyanchet_DzX, tyo].join("");
 };
-const twkQhZQh = (dziwqrim: Dziwqrim) => {
+const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
   return [dziwqrim.QhZQh_shieng, dziwqrim.QhZQh_xryn, dziwqrim.QhZQh_deu].join(
     ""
   );

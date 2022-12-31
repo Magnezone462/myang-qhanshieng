@@ -1,15 +1,15 @@
 <script setup lang="ts">
+import { jyongXeithongkho } from "@/stores/xeithong";
 import { jyongDziwbyoKriemsakkho } from "../stores/dziwbyoKriemsak";
 import { jyongDziwqrimKriemsakkho } from "../stores/dziwqrimKriemsak";
 import { jyongDziwdeukho } from "../stores/dziwdeu";
 import shiwxryn from "../sryokio/shiwxryn.json";
 import shiengmu from "../sryokio/shiengmu.json";
-import { jyongXeithongkho } from "@/stores/xeithong";
 
+const xeithongkho = jyongXeithongkho();
 const dziwbyoKriemsakkho = jyongDziwbyoKriemsakkho();
 const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho();
 const dziwdeukho = jyongDziwdeukho();
-const xeithongkho = jyongXeithongkho();
 
 const qanKriemsakKetkua = (tuiziang: string) => {
   dziwdeukho.triwSrioSyenDziwdu(tuiziang);
@@ -58,7 +58,7 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
             <v-text-field
               v-model="dziwqrimKriemsakkho.srioNipZyepheng"
               label="隋拼"
-              placeholder="Thendʼî xuenxuaŋ"
+              placeholder="tuŋ"
               density="compact"
               variant="underlined"
               clearable
