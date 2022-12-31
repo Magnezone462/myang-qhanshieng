@@ -6,15 +6,22 @@ type Thryuthei = boolean | null;
 
 export const jyongXeithongkho = defineStore("xeithong", () => {
   const kriemsakPenlanPieuchiem = ref(<Pieuchiem>null);
-  const kriemsakPenlanThryuthei = ref(<Thryuthei>null);
+  const kriemsakPenlanThryutheiCatia = ref(<Thryuthei>null);
+  const kriemsakPenlanThryutheiXyutia = ref(<Thryuthei>null);
 
-  const xuanKriemsakPenlanThryuthei = () => {
-    kriemsakPenlanThryuthei.value = !kriemsakPenlanThryuthei.value;
+  const xuanKriemsakPenlanThryutheiCatia = () => {
+    kriemsakPenlanThryutheiCatia.value = !kriemsakPenlanThryutheiCatia.value;
+  };
+
+  const xuanKriemsakPenlanThryutheiXyutia = () => {
+    kriemsakPenlanThryutheiXyutia.value = !kriemsakPenlanThryutheiXyutia.value;
   };
 
   return {
     kriemsakPenlanPieuchiem,
-    kriemsakPenlanThryuthei,
-    xuanKriemsakPenlanThryuthei,
+    kriemsakPenlanThryutheiCatia,
+    kriemsakPenlanThryutheiXyutia,
+    xuanKriemsakPenlanThryutheiCatia,
+    xuanKriemsakPenlanThryutheiXyutia,
   };
 });
