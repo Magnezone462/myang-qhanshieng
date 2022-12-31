@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import KriemsakPenlan from "@/components/KriemsakPenlan.vue";
+import KriemsakPenlanCatia from "@/components/KriemsakPenlanCatia.vue";
 import KriemsakTyolan from "@/components/KriemsakTyolan.vue";
 import { jyongXeithongkho } from "@/stores/xeithong";
 
@@ -26,7 +26,7 @@ const xeithongkho = jyongXeithongkho();
       <v-spacer />
     </v-app-bar>
 
-    <KriemsakPenlan />
+    <KriemsakPenlanCatia />
 
     <v-main>
       <KriemsakTyolan />

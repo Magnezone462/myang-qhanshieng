@@ -5,7 +5,7 @@ type Pieuchiem = string | null;
 type Thryuthei = boolean | null;
 
 export const jyongXeithongkho = defineStore("xeithong", () => {
-  const kriemsakPenlanPieuchiem = ref(<Pieuchiem>null);
+  const kriemsakPenlanPieuchiemCatia = ref(<Pieuchiem>null);
   const kriemsakPenlanThryutheiCatia = ref(<Thryuthei>null);
   const kriemsakPenlanThryutheiXyutia = ref(<Thryuthei>null);
 
@@ -18,7 +18,7 @@ export const jyongXeithongkho = defineStore("xeithong", () => {
   };
 
   return {
-    kriemsakPenlanPieuchiem,
+    kriemsakPenlanPieuchiemCatia,
     kriemsakPenlanThryutheiCatia,
     kriemsakPenlanThryutheiXyutia,
     xuanKriemsakPenlanThryutheiCatia,
