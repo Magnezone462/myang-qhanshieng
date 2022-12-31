@@ -19,7 +19,10 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
 </script>
 
 <template>
-  <v-navigation-drawer v-model="xeithongkho.kriemsakPenlanThryutheiCatia">
+  <v-navigation-drawer
+    v-model="xeithongkho.kriemsakPenlanThryutheiCatia"
+    location="left"
+  >
     <v-tabs v-model="xeithongkho.kriemsakPenlanPieuchiemCatia" fixed-tabs>
       <v-tab value="krap">字符</v-tab>
       <v-tab value="qrit">字音</v-tab>
