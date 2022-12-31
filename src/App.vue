@@ -8,7 +8,15 @@ const xeithongkho = jyongXeithongkho();
 
 <template>
   <v-app>
-    <v-system-bar> </v-system-bar>
+    <v-system-bar
+      ><v-spacer />
+      <v-btn
+        href="https://github.com/Magnezone462/myang-qhanshieng"
+        target="_blank"
+      >
+        Gitto Habu de mimasu
+      </v-btn></v-system-bar
+    >
 
     <v-app-bar>
       <v-app-bar-nav-icon
