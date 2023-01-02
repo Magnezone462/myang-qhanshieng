@@ -19,12 +19,15 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
 </script>
 
 <template>
-  <v-navigation-drawer v-model="xeithongkho.kriemsakPenlanThryuthei" bottom>
-    <v-tabs v-model="xeithongkho.kriemsakPenlanPieuchiem" fixed-tabs>
+  <v-navigation-drawer
+    v-model="xeithongkho.kriemsakPenlanCatiaThryuthei"
+    location="left"
+  >
+    <v-tabs v-model="xeithongkho.kriemsakPenlanCatiaPieuchiem" fixed-tabs>
       <v-tab value="krap">字符</v-tab>
       <v-tab value="qrit">字音</v-tab>
     </v-tabs>
-    <v-window v-model="xeithongkho.kriemsakPenlanPieuchiem">
+    <v-window v-model="xeithongkho.kriemsakPenlanCatiaPieuchiem">
       <v-window-item value="krap">
         <v-sheet class="pa-4">
           <v-text-field
@@ -38,7 +41,7 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
           </v-btn>
         </v-sheet>
 
-        <v-divider></v-divider>
+        <v-divider />
 
         <v-list>
           <v-list-item
@@ -89,7 +92,7 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
           </v-btn>
         </v-sheet>
 
-        <v-divider></v-divider>
+        <v-divider />
 
         <v-list>
           <v-list-item

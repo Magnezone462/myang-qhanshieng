@@ -2,20 +2,22 @@
 import { jyongXeithongkho } from "@/stores/xeithong";
 import { jyongDziwqrimKriemsakkho } from "@/stores/dziwqrimKriemsak";
 import { jyongDziwdeukho } from "@/stores/dziwdeu";
+import { jyongShiochiemkho } from "@/stores/shiochiem";
 import type { DziwqrimSryokio } from "@/assets/lyixeng";
 
 const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho();
 const dziwdeu = jyongDziwdeukho();
 const xeithongkho = jyongXeithongkho();
+const shiochiemkho = jyongShiochiemkho();
 
 const qanZyepheng = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioNipZyepheng(tuiziang.zyepheng);
-  xeithongkho.kriemsakPenlanPieuchiem = "qrit";
+  xeithongkho.kriemsakPenlanCatiaPieuchiem = "qrit";
 };
 
 const qanShiwxryn = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioSyenShiwxryn(tuiziang.shiwxryn);
-  xeithongkho.kriemsakPenlanPieuchiem = "qrit";
+  xeithongkho.kriemsakPenlanCatiaPieuchiem = "qrit";
 };
 
 const twkDryenthungQrimlyi = (dziwqrim: DziwqrimSryokio) => {
@@ -69,48 +71,54 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
       <v-col>
         <h2>{{ dziwdeu.srioSyenDziwbyo }}</h2>
         <p>{{ dziwdeu.srioSyenJiwtheidziw }}</p>
-        <div
+      </v-col>
+      <v-spacer />
+      <v-btn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
+        <v-icon v-if="shiochiemkho.diepyuXwmDziwbyo(dziwdeu.srioSyenDziwbyo)">
+          mdi-bookmark
+        </v-icon>
+        <v-icon v-else> mdi-bookmark-outline </v-icon>
+      </v-btn>
+    </v-row>
+    <v-row>
+      <v-col>
+        <v-card
           v-for="tuiziang in dziwdeu.twkSrioSyenDziwqrim"
           :key="tuiziang.pieutiwbyo"
         >
-          <v-card>
-            <v-card-title
-              @click="qanZyepheng(tuiziang)"
-              style="cursor: pointer"
-            >
-              {{ tuiziang.zyepheng }}
-            </v-card-title>
-            <v-card-subtitle>
-              {{ twkDryenthungQrimlyi(tuiziang) }}
-              <span class="hei-sui-in" @click="qanShiwxryn(tuiziang)">
-                {{ tuiziang.shiwxryn }}
-              </span>
-            </v-card-subtitle>
-            <v-card-text>
-              <div v-if="tuiziang.pyanchet_ChX">
-                {{ `《切韵》${twkChX(tuiziang)}` }}
-              </div>
-              <div v-if="tuiziang.pyanchet_XX">
-                {{ `《王韵》${twkXX(tuiziang)}` }}
-              </div>
-              <div v-if="tuiziang.pyanchet_KX">
-                {{ `《廣韵》${twkKX(tuiziang)}` }}
-              </div>
-              <div v-if="tuiziang.pyanchet_DzX">
-                {{ `《集韵》${twkDzX(tuiziang)}` }}
-              </div>
-              <div v-if="tuiziang.QhZQh_shieng">
-                {{ `《漢辭海》${twkQhZQh(tuiziang)}` }}
-              </div>
-              <div v-if="tuiziang.qrimtyo">
-                {{ `釋音：${tuiziang.qrimtyo}` }}
-              </div>
-              <div v-if="tuiziang.ngrietyo">
-                {{ `釋音義：${tuiziang.ngrietyo}` }}
-              </div>
-            </v-card-text>
-          </v-card>
-        </div>
+          <v-card-title @click="qanZyepheng(tuiziang)" style="cursor: pointer">
+            {{ tuiziang.zyepheng }}
+          </v-card-title>
+          <v-card-subtitle>
+            {{ twkDryenthungQrimlyi(tuiziang) }}
+            <span class="hei-sui-in" @click="qanShiwxryn(tuiziang)">
+              {{ tuiziang.shiwxryn }}
+            </span>
+          </v-card-subtitle>
+          <v-card-text>
+            <div v-if="tuiziang.pyanchet_ChX">
+              {{ `《切韵》${twkChX(tuiziang)}` }}
+            </div>
+            <div v-if="tuiziang.pyanchet_XX">
+              {{ `《王韵》${twkXX(tuiziang)}` }}
+            </div>
+            <div v-if="tuiziang.pyanchet_KX">
+              {{ `《廣韵》${twkKX(tuiziang)}` }}
+            </div>
+            <div v-if="tuiziang.pyanchet_DzX">
+              {{ `《集韵》${twkDzX(tuiziang)}` }}
+            </div>
+            <div v-if="tuiziang.QhZQh_shieng">
+              {{ `《漢辭海》${twkQhZQh(tuiziang)}` }}
+            </div>
+            <p v-if="tuiziang.qrimtyo">
+              {{ `釋音：${tuiziang.qrimtyo}` }}
+            </p>
+            <p v-if="tuiziang.ngrietyo">
+              {{ `釋音義：${tuiziang.ngrietyo}` }}
+            </p>
+          </v-card-text>
+        </v-card>
       </v-col>
     </v-row>
   </v-container>
