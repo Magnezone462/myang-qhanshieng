@@ -10,6 +10,9 @@ export const jyongShiochiemkho = defineStore(
     // dziwbyoco o risetto suru kansu desu
     const byukDziwbyoco = () => (dziwbyoco.value = []);
 
+    // dziwbyoco ni oyazi ga aruka hante suru kansu desu
+    const diepyuXwmDziwbyo = (grien: string) => dziwbyoco.value.includes(grien);
+
     // dziwbyoco kara oyazi o sakuzyo suru kansu desu
     const drioDziwbyo = (grien: string) => {
       dziwbyoco.value = dziwbyoco.value.filter((dziwbyo) => dziwbyo !== grien);
@@ -20,9 +23,6 @@ export const jyongShiochiemkho = defineStore(
       if (grien) dziwbyoco.value.push(grien);
     };
 
-    // dziwbyoco ni oyazi ga aruka hante suru kansu desu
-    const diepyuXwmDziwbyo = (grien: string) => dziwbyoco.value.includes(grien);
-
     // dziwbyoco no oyazi o kirikaeru kansu desu
     const xuanDziwbyo = (grien: string) => {
       diepyuXwmDziwbyo(grien) ? drioDziwbyo(grien) : kraDziwbyo(grien);
@@ -31,9 +31,9 @@ export const jyongShiochiemkho = defineStore(
     return {
       dziwbyoco,
       byukDziwbyoco,
+      diepyuXwmDziwbyo,
       drioDziwbyo,
       kraDziwbyo,
-      diepyuXwmDziwbyo,
       xuanDziwbyo,
     };
   },

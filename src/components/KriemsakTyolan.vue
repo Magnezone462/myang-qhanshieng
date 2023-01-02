@@ -12,12 +12,12 @@ const shiochiemkho = jyongShiochiemkho();
 
 const qanZyepheng = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioNipZyepheng(tuiziang.zyepheng);
-  xeithongkho.kriemsakPenlanPieuchiemCatia = "qrit";
+  xeithongkho.kriemsakPenlanCatiaPieuchiem = "qrit";
 };
 
 const qanShiwxryn = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioSyenShiwxryn(tuiziang.shiwxryn);
-  xeithongkho.kriemsakPenlanPieuchiemCatia = "qrit";
+  xeithongkho.kriemsakPenlanCatiaPieuchiem = "qrit";
 };
 
 const twkDryenthungQrimlyi = (dziwqrim: DziwqrimSryokio) => {

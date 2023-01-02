@@ -5,6 +5,7 @@ import dziwxeng from "../sryokio/dziwxeng.json";
 import dziwqrim from "../sryokio/dziwqrim.json";
 import tiengdziw from "../sryokio/tiengdziw.json";
 import type { DziwqrimSryokio, DziwxengSryokio } from "@/assets/lyixeng";
+import { jyongLeksriwkho } from "./leksriw";
 
 export const jyongDziwdeukho = defineStore("dziwdeu", () => {
   const srioSyenDziwdu = ref("");
@@ -36,7 +37,10 @@ export const jyongDziwdeukho = defineStore("dziwdeu", () => {
     }
   };
   const triwSrioSyenXengqrim = (grien: string) => {
+    const leksriwkho = jyongLeksriwkho();
+
     srioSyenDziwbyo.value = grien;
+    leksriwkho.kraDziwbyo(grien);
     const jiwtheiSinsiwk = dziwtyong.find((tuiziang) => {
       return tuiziang.dziw === grien;
     });
