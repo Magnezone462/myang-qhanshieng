@@ -41,7 +41,7 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
           </v-btn>
         </v-sheet>
 
-        <v-divider></v-divider>
+        <v-divider />
 
         <v-list>
           <v-list-item
@@ -92,7 +92,7 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
           </v-btn>
         </v-sheet>
 
-        <v-divider></v-divider>
+        <v-divider />
 
         <v-list>
           <v-list-item

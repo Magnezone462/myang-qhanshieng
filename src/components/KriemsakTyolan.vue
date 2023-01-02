@@ -74,7 +74,7 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
       </v-col>
       <v-spacer />
       <v-btn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
-        <v-icon v-if="shiochiemkho.xwmDziwbyo(dziwdeu.srioSyenDziwbyo)">
+        <v-icon v-if="shiochiemkho.diepyuXwmDziwbyo(dziwdeu.srioSyenDziwbyo)">
           mdi-bookmark
         </v-icon>
         <v-icon v-else> mdi-bookmark-outline </v-icon>
