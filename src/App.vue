@@ -23,8 +23,7 @@ const xeithongkho = jyongXeithongkho();
       <v-app-bar-nav-icon
         @click="xeithongkho.xuanKriemsakPenlanThryutheiCatia()"
       ></v-app-bar-nav-icon>
-      <v-toolbar-title>網絡本《漢字文聲義》</v-toolbar-title>
-      <v-spacer />
+      <v-app-bar-title>網絡本《漢字文聲義》</v-app-bar-title>
       <v-app-bar-nav-icon
         @click="xeithongkho.xuanKriemsakPenlanThryutheiXyutia()"
       >
