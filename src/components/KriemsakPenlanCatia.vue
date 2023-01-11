@@ -35,6 +35,7 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
             label="漢字"
             placeholder="天地玄黄宇宙洪荒"
             clearable
+            @keydown.enter="dziwbyoKriemsakkho.triwKriemsakKetkua()"
           />
           <v-btn block rounded @click="dziwbyoKriemsakkho.triwKriemsakKetkua()">
             檢索
@@ -65,6 +66,7 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
               density="compact"
               variant="underlined"
               clearable
+              @keydown.enter="dziwqrimKriemsakkho.triwKriemsakKetkua"
             />
             <v-select
               label="平水韵"
