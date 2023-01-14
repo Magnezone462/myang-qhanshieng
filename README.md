@@ -1,46 +1,24 @@
-# myang-qhanshieng
+# 網絡本《漢字文聲義》 | オンライン　エディション　ノ　《アヤナブミ　ノ　コエゴコロ》
 
-This template should help get you started developing with Vue 3 in Vite.
+[《漢字文聲義》](https://www.melonbooks.co.jp/detail/detail.php?product_id=1599693)のオンラインバージョンです。
 
-## Recommended IDE Setup
+## GitHub Pages | ギットハブ　ページス
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[網絡本《漢字文聲義》](https://magnezone462.github.io/myang-qhanshieng/)
 
-## Type Support for `.vue` Imports in TS
+## 利用方法 | ツカイカタ
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
-
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
-
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+1. 左サイドバー（漢字檢索）
+   1. 左サイドバーから漢字を檢索します。上メニューバー左部のボタンを押すと，左サイドバーが開閉します。
+   2. “字符”タブを選擇すると，入力した漢字をそのまま檢索できます。“字音”タブを選擇すると，各種の字音情報から檢索できます。
+   3. 檢索條件を入力し，リターンキーまたは檢索ボタンを押すと，データベースに該當する字の登録がある場合は，下にその檢索結果一覽が表示されます。
+   4. 檢索結果一覽から字を選擇します。中央メインウィンドウに字の詳細が表示されます。
+2. 中央メインウィンドウ（漢字詳細）
+   1. 中央メインウィンドウから漢字の詳細情報を閲覽します。
+   2. 選擇した字を字體として持つ字種が複數ある場合は，上セレクトボックスからそれを切り替えると，メインウィンドウの表示がそれに從ひます。
+   3. 右のブックマークボタンを押すと，その字がブックマークに登録されます。すでに登録濟みの場合は，登録が解除されます。
+3. 右サイドバー（ブックマークと履歷）
+   1. 右サイドバーからブックマークと履歷を閲覽します。上メニューバー右部のボタンを押すと，右サイドバーが開閉します。
+   2. “書籤”タブを選擇すると，ブックマーク登録された字の一覽が表示されます。“歷史”タブを選擇すると，これまでに表示した字の一覽が表示されます。
+   3. 一覽から字を選擇すると，中央メインウィンドウに字の詳細が表示されます。
+   4. 右サイドバー下部のゴミ箱ボタンを押すと，ブックマークまたは履歷がすべて削除されます。
