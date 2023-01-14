@@ -1,21 +1,21 @@
 <script setup lang="ts">
-import { jyongXeithongkho } from "@/stores/xeithong";
-import { jyongDziwbyoKriemsakkho } from "../stores/dziwbyoKriemsak";
-import { jyongDziwqrimKriemsakkho } from "../stores/dziwqrimKriemsak";
-import { jyongDziwdeukho } from "../stores/dziwdeu";
-import shiwxryn from "../sryokio/shiwxryn.json";
-import shiengmu from "../sryokio/shiengmu.json";
+import { jyongXeithongkho } from '@/stores/xeithong'
+import { jyongDziwbyoKriemsakkho } from '../stores/dziwbyoKriemsak'
+import { jyongDziwqrimKriemsakkho } from '../stores/dziwqrimKriemsak'
+import { jyongDziwdeukho } from '../stores/dziwdeu'
+import shiwxryn from '../sryokio/shiwxryn.json'
+import shiengmu from '../sryokio/shiengmu.json'
 
-const xeithongkho = jyongXeithongkho();
-const dziwbyoKriemsakkho = jyongDziwbyoKriemsakkho();
-const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho();
-const dziwdeukho = jyongDziwdeukho();
+const xeithongkho = jyongXeithongkho()
+const dziwbyoKriemsakkho = jyongDziwbyoKriemsakkho()
+const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho()
+const dziwdeukho = jyongDziwdeukho()
 
 const qanKriemsakKetkua = (tuiziang: string) => {
-  dziwdeukho.triwSrioSyenDziwdu(tuiziang);
-};
+  dziwdeukho.triwSrioSyenDziwdu(tuiziang)
+}
 
-const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
+const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join('、')
 </script>
 
 <template>
@@ -23,7 +23,10 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
     v-model="xeithongkho.kriemsakPenlanCatiaThryuthei"
     location="left"
   >
-    <v-tabs v-model="xeithongkho.kriemsakPenlanCatiaPieuchiem" fixed-tabs>
+    <v-tabs
+      v-model="xeithongkho.kriemsakPenlanCatiaPieuchiem"
+      fixed-tabs
+    >
       <v-tab value="krap">字符</v-tab>
       <v-tab value="qrit">字音</v-tab>
     </v-tabs>
@@ -37,7 +40,11 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
             clearable
             @keydown.enter="dziwbyoKriemsakkho.triwKriemsakKetkua()"
           />
-          <v-btn block rounded @click="dziwbyoKriemsakkho.triwKriemsakKetkua()">
+          <v-btn
+            block
+            rounded
+            @click="dziwbyoKriemsakkho.triwKriemsakKetkua()"
+          >
             檢索
           </v-btn>
         </v-sheet>
@@ -89,7 +96,11 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join("、");
               clearable
             />
           </v-col>
-          <v-btn block rounded @click="dziwqrimKriemsakkho.triwKriemsakKetkua">
+          <v-btn
+            block
+            rounded
+            @click="dziwqrimKriemsakkho.triwKriemsakKetkua"
+          >
             檢索
           </v-btn>
         </v-sheet>

@@ -1,28 +1,26 @@
 <script setup lang="ts">
-import { computed } from "vue";
-import { jyongDziwdeukho } from "@/stores/dziwdeu";
-import { jyongLeksriwkho } from "@/stores/leksriw";
-import { jyongShiochiemkho } from "@/stores/shiochiem";
-import { jyongXeithongkho } from "@/stores/xeithong";
+import { computed } from 'vue'
+import { jyongDziwdeukho } from '@/stores/dziwdeu'
+import { jyongLeksriwkho } from '@/stores/leksriw'
+import { jyongShiochiemkho } from '@/stores/shiochiem'
+import { jyongXeithongkho } from '@/stores/xeithong'
 
-const dziwdeukho = jyongDziwdeukho();
-const leksriwkho = jyongLeksriwkho();
-const shiochiemkho = jyongShiochiemkho();
-const xeithongkho = jyongXeithongkho();
+const dziwdeukho = jyongDziwdeukho()
+const leksriwkho = jyongLeksriwkho()
+const shiochiemkho = jyongShiochiemkho()
+const xeithongkho = jyongXeithongkho()
 
 const diepyuQannryuJiwDeng = computed(() =>
-  xeithongkho.kriemsakPenlanXyutiaPieuchiem === "krap"
-    ? !shiochiemkho.dziwbyoco.length
-    : !leksriwkho.dziwbyoco.length
-);
+  xeithongkho.kriemsakPenlanXyutiaPieuchiem === 'krap' ? !shiochiemkho.dziwbyoco.length : !leksriwkho.dziwbyoco.length
+)
 
 const qanByukxryiQannryu = () => {
-  if (xeithongkho.kriemsakPenlanXyutiaPieuchiem === "krap") {
-    shiochiemkho.byukDziwbyoco();
+  if (xeithongkho.kriemsakPenlanXyutiaPieuchiem === 'krap') {
+    shiochiemkho.byukDziwbyoco()
   } else {
-    leksriwkho.byukDziwbyoco();
+    leksriwkho.byukDziwbyoco()
   }
-};
+}
 </script>
 
 <template>
@@ -30,7 +28,10 @@ const qanByukxryiQannryu = () => {
     v-model="xeithongkho.kriemsakPenlanXyutiaThryuthei"
     location="right"
   >
-    <v-tabs v-model="xeithongkho.kriemsakPenlanXyutiaPieuchiem" fixed-tabs>
+    <v-tabs
+      v-model="xeithongkho.kriemsakPenlanXyutiaPieuchiem"
+      fixed-tabs
+    >
       <v-tab value="krap">書籤</v-tab>
       <v-tab value="qrit">歷史</v-tab>
     </v-tabs>

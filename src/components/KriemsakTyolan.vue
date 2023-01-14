@@ -1,60 +1,47 @@
 <script setup lang="ts">
-import { jyongXeithongkho } from "@/stores/xeithong";
-import { jyongDziwqrimKriemsakkho } from "@/stores/dziwqrimKriemsak";
-import { jyongDziwdeukho } from "@/stores/dziwdeu";
-import { jyongShiochiemkho } from "@/stores/shiochiem";
-import type { DziwqrimSryokio } from "@/assets/lyixeng";
+import { jyongXeithongkho } from '@/stores/xeithong'
+import { jyongDziwqrimKriemsakkho } from '@/stores/dziwqrimKriemsak'
+import { jyongDziwdeukho } from '@/stores/dziwdeu'
+import { jyongShiochiemkho } from '@/stores/shiochiem'
+import type { DziwqrimSryokio } from '@/assets/lyixeng'
 
-const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho();
-const dziwdeu = jyongDziwdeukho();
-const xeithongkho = jyongXeithongkho();
-const shiochiemkho = jyongShiochiemkho();
+const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho()
+const dziwdeu = jyongDziwdeukho()
+const xeithongkho = jyongXeithongkho()
+const shiochiemkho = jyongShiochiemkho()
 
 const qanZyepheng = (tuiziang: DziwqrimSryokio) => {
-  dziwqrimKriemsakkho.triwSrioNipZyepheng(tuiziang.zyepheng);
-  xeithongkho.kriemsakPenlanCatiaPieuchiem = "qrit";
-};
+  dziwqrimKriemsakkho.triwSrioNipZyepheng(tuiziang.zyepheng)
+  xeithongkho.kriemsakPenlanCatiaPieuchiem = 'qrit'
+}
 
 const qanShiwxryn = (tuiziang: DziwqrimSryokio) => {
-  dziwqrimKriemsakkho.triwSrioSyenShiwxryn(tuiziang.shiwxryn);
-  xeithongkho.kriemsakPenlanCatiaPieuchiem = "qrit";
-};
+  dziwqrimKriemsakkho.triwSrioSyenShiwxryn(tuiziang.shiwxryn)
+  xeithongkho.kriemsakPenlanCatiaPieuchiem = 'qrit'
+}
 
 const twkDryenthungQrimlyi = (dziwqrim: DziwqrimSryokio) => {
-  return [
-    dziwqrim.shiep,
-    dziwqrim.qho,
-    dziwqrim.twng,
-    dziwqrim.deu,
-    dziwqrim.xryn,
-    dziwqrim.shieng,
-  ].join("");
-};
+  return [dziwqrim.shiep, dziwqrim.qho, dziwqrim.twng, dziwqrim.deu, dziwqrim.xryn, dziwqrim.shieng].join('')
+}
 const twkChX = (dziwqrim: DziwqrimSryokio) => {
-  const tyo =
-    dziwqrim.pyanchet_ChX_tyo !== "" ? `（${dziwqrim.pyanchet_ChX_tyo}）` : "";
-  return [dziwqrim.pyanchet_ChX, tyo].join("");
-};
+  const tyo = dziwqrim.pyanchet_ChX_tyo !== '' ? `（${dziwqrim.pyanchet_ChX_tyo}）` : ''
+  return [dziwqrim.pyanchet_ChX, tyo].join('')
+}
 const twkXX = (dziwqrim: DziwqrimSryokio) => {
-  const tyo =
-    dziwqrim.pyanchet_XX_tyo !== "" ? `（${dziwqrim.pyanchet_XX_tyo}）` : "";
-  return [dziwqrim.pyanchet_XX, tyo].join("");
-};
+  const tyo = dziwqrim.pyanchet_XX_tyo !== '' ? `（${dziwqrim.pyanchet_XX_tyo}）` : ''
+  return [dziwqrim.pyanchet_XX, tyo].join('')
+}
 const twkKX = (dziwqrim: DziwqrimSryokio) => {
-  const tyo =
-    dziwqrim.pyanchet_KX_tyo !== "" ? `（${dziwqrim.pyanchet_KX_tyo}）` : "";
-  return [dziwqrim.pyanchet_KX, tyo].join("");
-};
+  const tyo = dziwqrim.pyanchet_KX_tyo !== '' ? `（${dziwqrim.pyanchet_KX_tyo}）` : ''
+  return [dziwqrim.pyanchet_KX, tyo].join('')
+}
 const twkDzX = (dziwqrim: DziwqrimSryokio) => {
-  const tyo =
-    dziwqrim.pyanchet_DzX_tyo !== "" ? `（${dziwqrim.pyanchet_DzX_tyo}）` : "";
-  return [dziwqrim.pyanchet_DzX, tyo].join("");
-};
+  const tyo = dziwqrim.pyanchet_DzX_tyo !== '' ? `（${dziwqrim.pyanchet_DzX_tyo}）` : ''
+  return [dziwqrim.pyanchet_DzX, tyo].join('')
+}
 const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
-  return [dziwqrim.QhZQh_shieng, dziwqrim.QhZQh_xryn, dziwqrim.QhZQh_deu].join(
-    ""
-  );
-};
+  return [dziwqrim.QhZQh_shieng, dziwqrim.QhZQh_xryn, dziwqrim.QhZQh_deu].join('')
+}
 </script>
 
 <template>
@@ -74,9 +61,7 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
       </v-col>
       <v-spacer />
       <v-btn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
-        <v-icon v-if="shiochiemkho.diepyuXwmDziwbyo(dziwdeu.srioSyenDziwbyo)">
-          mdi-bookmark
-        </v-icon>
+        <v-icon v-if="shiochiemkho.diepyuXwmDziwbyo(dziwdeu.srioSyenDziwbyo)"> mdi-bookmark </v-icon>
         <v-icon v-else> mdi-bookmark-outline </v-icon>
       </v-btn>
     </v-row>
@@ -86,12 +71,18 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
           v-for="tuiziang in dziwdeu.twkSrioSyenDziwqrim"
           :key="tuiziang.pieutiwbyo"
         >
-          <v-card-title @click="qanZyepheng(tuiziang)" style="cursor: pointer">
+          <v-card-title
+            @click="qanZyepheng(tuiziang)"
+            style="cursor: pointer"
+          >
             {{ tuiziang.zyepheng }}
           </v-card-title>
           <v-card-subtitle>
             {{ twkDryenthungQrimlyi(tuiziang) }}
-            <span class="hei-sui-in" @click="qanShiwxryn(tuiziang)">
+            <span
+              class="hei-sui-in"
+              @click="qanShiwxryn(tuiziang)"
+            >
               {{ tuiziang.shiwxryn }}
             </span>
           </v-card-subtitle>
