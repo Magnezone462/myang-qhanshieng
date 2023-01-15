@@ -3,9 +3,12 @@
 import KriemsakPenlanCatia from '@/cogrien/KriemsakPenlanCatia.vue'
 import KriemsakPenlanXyutia from '@/cogrien/KriemsakPenlanXyutia.vue'
 import KriemsakTyolan from '@/cogrien/KriemsakTyolan.vue'
+import KriemsakTyolanChrioshiw from './cogrien/KriemsakTyolanChrioshiw.vue'
 import { jyongXeithongkho } from '@/changkho/xeithong'
+import { jyongDziwdeukho } from '@/changkho/dziwdeu'
 
 const xeithongkho = jyongXeithongkho()
+const dziwdeukho = jyongDziwdeukho()
 </script>
 
 <template>
@@ -31,7 +34,8 @@ const xeithongkho = jyongXeithongkho()
     <KriemsakPenlanCatia />
 
     <v-main>
-      <KriemsakTyolan />
+      <KriemsakTyolanChrioshiw v-if="dziwdeukho.srioSyenDziwdu === ''" />
+      <KriemsakTyolan v-else />
     </v-main>
 
     <KriemsakPenlanXyutia />
