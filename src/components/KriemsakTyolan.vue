@@ -3,7 +3,7 @@ import { jyongXeithongkho } from '@/stores/xeithong'
 import { jyongDziwqrimKriemsakkho } from '@/stores/dziwqrimKriemsak'
 import { jyongDziwdeukho } from '@/stores/dziwdeu'
 import { jyongShiochiemkho } from '@/stores/shiochiem'
-import type { DziwqrimSryokio } from '@/assets/lyixeng'
+import type { DziwqrimSryokio } from '@/cisren/lyixeng'
 
 const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho()
 const dziwdeu = jyongDziwdeukho()

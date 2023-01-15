@@ -1,7 +1,7 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
 import dziwqrim from '../sryokio/dziwqrim.json'
-import type { DziwqrimSryokio } from '@/assets/lyixeng'
+import type { DziwqrimSryokio } from '@/cisren/lyixeng'
 
 type SrioNipZyepheng = string | null
 type SrioSyenShiwxryn = string | null

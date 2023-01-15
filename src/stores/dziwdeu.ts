@@ -4,7 +4,7 @@ import dziwtyong from '../sryokio/dziwtyong.json'
 import dziwxeng from '../sryokio/dziwxeng.json'
 import dziwqrim from '../sryokio/dziwqrim.json'
 import tiengdziw from '../sryokio/tiengdziw.json'
-import type { DziwqrimSryokio, DziwxengSryokio } from '@/assets/lyixeng'
+import type { DziwqrimSryokio, DziwxengSryokio } from '@/cisren/lyixeng'
 import { jyongLeksriwkho } from './leksriw'
 
 export const jyongDziwdeukho = defineStore('dziwdeu', () => {

@@ -1,7 +1,7 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
 import dziwxeng from '../sryokio/dziwxeng.json'
-import type { DziwxengSryokio } from '@/assets/lyixeng'
+import type { DziwxengSryokio } from '@/cisren/lyixeng'
 
 export const jyongDziwbyoKriemsakkho = defineStore('dziwbyoKriemsak', () => {
   const srioNipQhandziwthyen = ref('')
