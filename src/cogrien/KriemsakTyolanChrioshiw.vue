@@ -10,14 +10,14 @@
               <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1599693"> 《漢字文聲義》 </a>
               のオンラインバージョンです。
             </p>
-            <p>紙面の制約とかがないのでこっちのが少しだけ詳しいです。</p>
+            <p>紙面の制約とかがないので，こっちのが少しだけ詳しいです。</p>
           </v-card-text>
         </v-card>
         <v-card>
           <v-card-title> GitHub </v-card-title>
           <v-card-subtitle> ギットハブ </v-card-subtitle>
           <v-card-text>
-            <p><a href="https://github.com/Magnezone462/myang-qhanshieng/"> Magnezone462 / myang-qhanshieng </a></p>
+            <p><a href="https://github.com/Magnezone462/myang-qhanshieng"> Magnezone462 / myang-qhanshieng </a></p>
             <p>右上のボタンからも行けます。</p>
           </v-card-text>
         </v-card>
@@ -29,7 +29,7 @@
                 <v-card>
                   <v-card-title class="tekisuto-sabutaitoru-wan"> 左サイドバー（漢字檢索） </v-card-title>
                   <v-card-subtitle class="tekisuto-kyapusyon">
-                    ヒダリ ノ サイドバー（チュウゴク-モジ オ サガス）
+                    ヒダリ ノ サイドバー（チューゴク-モジ オ サガス）
                   </v-card-subtitle>
                   <v-card-text>
                     <ol class="odado-risuto">
@@ -49,7 +49,7 @@
                 <v-card>
                   <v-card-title class="tekisuto-sabutaitoru-wan"> 中央メインウィンドウ（漢字詳細） </v-card-title>
                   <v-card-subtitle class="tekisuto-kyapusyon">
-                    マンナカ ノ メインウィンドウ（チュウゴク-モジ オ クワシク ミル）
+                    マンナカ ノ メインウインドー（チューゴク-モジ オ クワシク ミル）
                   </v-card-subtitle>
                   <v-card-text>
                     <ol class="odado-risuto">
