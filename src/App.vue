@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import KriemsakPenlanCatia from '@/components/KriemsakPenlanCatia.vue'
-import KriemsakPenlanXyutia from './components/KriemsakPenlanXyutia.vue'
+import KriemsakPenlanXyutia from '@/components/KriemsakPenlanXyutia.vue'
 import KriemsakTyolan from '@/components/KriemsakTyolan.vue'
-import { jyongXeithongkho } from '@/stores/xeithong'
+import { jyongXeithongkho } from '@/changkho/xeithong'
 
 const xeithongkho = jyongXeithongkho()
 </script>

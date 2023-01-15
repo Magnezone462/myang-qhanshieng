@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import { jyongDziwdeukho } from '@/stores/dziwdeu'
-import { jyongLeksriwkho } from '@/stores/leksriw'
-import { jyongShiochiemkho } from '@/stores/shiochiem'
-import { jyongXeithongkho } from '@/stores/xeithong'
+import { jyongDziwdeukho } from '@/changkho/dziwdeu'
+import { jyongLeksriwkho } from '@/changkho/leksriw'
+import { jyongShiochiemkho } from '@/changkho/shiochiem'
+import { jyongXeithongkho } from '@/changkho/xeithong'
 
 const dziwdeukho = jyongDziwdeukho()
 const leksriwkho = jyongLeksriwkho()

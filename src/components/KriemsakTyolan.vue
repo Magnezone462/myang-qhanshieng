@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { jyongXeithongkho } from '@/stores/xeithong'
-import { jyongDziwqrimKriemsakkho } from '@/stores/dziwqrimKriemsak'
-import { jyongDziwdeukho } from '@/stores/dziwdeu'
-import { jyongShiochiemkho } from '@/stores/shiochiem'
+import { jyongXeithongkho } from '@/changkho/xeithong'
+import { jyongDziwqrimKriemsakkho } from '@/changkho/dziwqrimKriemsak'
+import { jyongDziwdeukho } from '@/changkho/dziwdeu'
+import { jyongShiochiemkho } from '@/changkho/shiochiem'
 import type { DziwqrimSryokio } from '@/cisren/lyixeng'
 
 const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho()

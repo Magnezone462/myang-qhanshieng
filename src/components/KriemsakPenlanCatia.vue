@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { jyongXeithongkho } from '@/stores/xeithong'
-import { jyongDziwbyoKriemsakkho } from '../stores/dziwbyoKriemsak'
-import { jyongDziwqrimKriemsakkho } from '../stores/dziwqrimKriemsak'
-import { jyongDziwdeukho } from '../stores/dziwdeu'
+import { jyongXeithongkho } from '@/changkho/xeithong'
+import { jyongDziwbyoKriemsakkho } from '@/changkho/dziwbyoKriemsak'
+import { jyongDziwqrimKriemsakkho } from '@/changkho/dziwqrimKriemsak'
+import { jyongDziwdeukho } from '@/changkho/dziwdeu'
 import shiwxryn from '../sryokio/shiwxryn.json'
 import shiengmu from '../sryokio/shiengmu.json'
 
