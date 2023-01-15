@@ -10,12 +10,12 @@ Version 1.1.
 
 /* sosu han sanzu o daburyu o ehu ehu tu hwomatto de tukau */
 @font-face {
-  font-family: SourceHanSansCNW;
+  font-family: SiwwngyanQhwkthei;
   src: url(dziwthei/SourceHanSansCN-VF.otf.woff2);
 }
 /* sosu han serihu o daburyu o ehu ehu tu hwomatto de tukau */
 @font-face {
-  font-family: SourceHanSerifCNW;
+  font-family: SiwwngyanSongthei;
   src: url(dziwthei/SourceHanSerifCN-VF.otf.woff2);
 }
 

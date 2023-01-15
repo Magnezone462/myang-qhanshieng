@@ -56,7 +56,7 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
     />
     <v-row>
       <v-col>
-        <h2>{{ dziwdeu.srioSyenDziwbyo }}</h2>
+        <p class="tekisuto-eiti-tu font-weight-medium">{{ dziwdeu.srioSyenDziwbyo }}</p>
         <p>{{ dziwdeu.srioSyenJiwtheidziw }}</p>
       </v-col>
       <v-spacer />
