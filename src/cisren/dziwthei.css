@@ -1,0 +1,84 @@
+/*
+This file is from the Adobe Fonts (https://github.com/adobe-fonts/).
+Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font
+Name 'Source'. Source is a trademark of Adobe in the United States
+and/or other countries.
+
+This Font Software is licensed under the SIL Open Font License,
+Version 1.1.
+*/
+
+/* sosu han sanzu o daburyu o ehu ehu tu hwomatto de tukau */
+@font-face {
+  font-family: SourceHanSansCNW;
+  src: url(dziwthei/SourceHanSansCN-VF.otf.woff2);
+}
+/* sosu han serihu o daburyu o ehu ehu tu hwomatto de tukau */
+@font-face {
+  font-family: SourceHanSerifCNW;
+  src: url(dziwthei/SourceHanSerifCN-VF.otf.woff2);
+}
+
+/*
+This file is from the Andika project (https://software.sil.org/andika/).
+Copyright (c) 2004-2022 SIL International (http://www.sil.org/) with Reserved
+Font Names "Andika" and "SIL". This Font Software is licensed under the SIL
+Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
+*/
+
+/* use Andika - Regular in .woff format */
+@font-face {
+  font-family: AndikaW;
+  src: url(dziwthei/Andika-Regular.woff2);
+}
+/* use Andika - Italic in .woff2 format */
+@font-face {
+  font-family: AndikaW;
+  font-style: italic;
+  src: url(dziwthei/Andika-Italic.woff2);
+}
+/* use Andika - Bold in .woff2 format */
+@font-face {
+  font-family: AndikaW;
+  font-weight: bold;
+  src: url(dziwthei/Andika-Bold.woff2);
+}
+/* use Andika - Bold Italic in .woff2 format */
+@font-face {
+  font-family: AndikaW;
+  font-weight: bold;
+  font-style: italic;
+  src: url(dziwthei/Andika-BoldItalic.woff2);
+}
+
+/*
+This file is from the Charis SIL project (https://software.sil.org/charis/).
+Copyright (c) 1997-2022 SIL International (http://www.sil.org/) with Reserved
+Font Names "Charis" and "SIL". This Font Software is licensed under the SIL
+Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
+*/
+
+/* use Charis SIL - Regular in .woff2 format */
+@font-face {
+  font-family: CharisSILW;
+  src: url(dziwthei/CharisSIL-Regular.woff2);
+}
+/* use Charis SIL - Italic in .woff2 format */
+@font-face {
+  font-family: CharisSILW;
+  font-style: italic;
+  src: url(dziwthei/CharisSIL-Italic.woff2);
+}
+/* use Charis SIL - Bold in .woff2 format */
+@font-face {
+  font-family: CharisSILW;
+  font-weight: bold;
+  src: url(dziwthei/CharisSIL-Bold.woff2);
+}
+/* use Charis SIL - Bold Italic in .woff2 format */
+@font-face {
+  font-family: CharisSILW;
+  font-weight: bold;
+  font-style: italic;
+  src: url(dziwthei/CharisSIL-BoldItalic.woff2);
+}
