@@ -24,3 +24,11 @@
   letter-spacing: 0.009375em !important;
   text-transform: none !important;
 }
+
+.tekisuto-kyapusyon {
+  font-size: 0.75rem !important;
+  font-weight: 400;
+  line-height: 1.25rem;
+  letter-spacing: 0.0333333333em !important;
+  text-transform: none !important;
+}
