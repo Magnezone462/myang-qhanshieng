@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
 import KriemsakPenlanCatia from '@/cogrien/KriemsakPenlanCatia.vue'
 import KriemsakPenlanXyutia from '@/cogrien/KriemsakPenlanXyutia.vue'
