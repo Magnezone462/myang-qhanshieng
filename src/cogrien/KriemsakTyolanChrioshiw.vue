@@ -1,7 +1,7 @@
 <template>
   <v-container fluid>
     <v-row>
-      <v-col>
+      <v-col cols="12">
         <v-card>
           <v-card-title> 網絡本《漢字文聲義》</v-card-title>
           <v-card-subtitle> オンライン エディション ノ 《アヤナブミ ノ コエゴコロ》</v-card-subtitle>
@@ -13,6 +13,9 @@
             <p>紙面の制約とかがないので，こっちのが少しだけ詳しいです。</p>
           </v-card-text>
         </v-card>
+      </v-col>
+
+      <v-col cols="12">
         <v-card>
           <v-card-title> GitHub </v-card-title>
           <v-card-subtitle> ギットハブ </v-card-subtitle>
@@ -21,12 +24,15 @@
             <p>右上のボタンからも行けます。</p>
           </v-card-text>
         </v-card>
+      </v-col>
+
+      <v-col cols="12">
         <v-card>
           <v-card-title>利用方法 </v-card-title><v-card-subtitle> ツカイカタ </v-card-subtitle>
           <v-container fluid>
             <v-row>
               <v-col>
-                <v-card>
+                <v-card cols="4">
                   <v-card-title class="tekisuto-sabutaitoru-wan"> 左サイドバー（漢字檢索） </v-card-title>
                   <v-card-subtitle class="tekisuto-kyapusyon">
                     ヒダリ ノ サイドバー（チューゴク-モジ オ サガス）
@@ -46,6 +52,9 @@
                     </ol>
                   </v-card-text>
                 </v-card>
+              </v-col>
+
+              <v-col cols="4">
                 <v-card>
                   <v-card-title class="tekisuto-sabutaitoru-wan"> 中央メインウィンドウ（漢字詳細） </v-card-title>
                   <v-card-subtitle class="tekisuto-kyapusyon">
@@ -63,6 +72,9 @@
                     </ol>
                   </v-card-text>
                 </v-card>
+              </v-col>
+
+              <v-col cols="4">
                 <v-card>
                   <v-card-title class="tekisuto-sabutaitoru-wan"> 右サイドバー（ブックマークと履歷） </v-card-title>
                   <v-card-subtitle class="tekisuto-kyapusyon">
@@ -85,6 +97,41 @@
             </v-row>
           </v-container>
         </v-card>
+      </v-col>
+
+      <v-col cols="12">
+        <v-card>
+          <v-card-title> フォントに關して </v-card-title>
+          <v-card-subtitle> フォント ニ ツイテ </v-card-subtitle>
+          <v-card-text>
+            <p>本ページでは，Webフォントとして</p>
+            <ul class="odado-risuto">
+              <li>
+                <a href="https://software.sil.org/andika/">Andika</a>
+              </li>
+              <li>
+                <a href="https://software.sil.org/charis/">Charis SIL</a>
+              </li>
+              <li>
+                <a href="https://fonts.google.com/noto/specimen/Noto+Sans+SC/about">Noto Sans SC</a>
+              </li>
+              <li>
+                <a href="https://fonts.google.com/noto/specimen/Noto+Serif+SC/about">Noto Serif SC</a>
+              </li>
+            </ul>
+            <p>を使用してゐます。</p>
+            <p>
+              一部のブラウザでは，ローカルに
+              <a href="https://github.com/adobe-fonts/source-han-sans">思源黑體（Source Han Sans SC/CN）</a>
+              や
+              <a href="https://github.com/adobe-fonts/source-han-serif">思源宋體（Source Han Serif SC/CN）</a>
+              をインストールしておくと，通信が少し抑えられるかもしれません。
+            </p>
+          </v-card-text>
+        </v-card>
+      </v-col>
+
+      <v-col cols="12">
         <v-card>
           <v-card-title> その他 </v-card-title>
           <v-card-subtitle> ソノホカ </v-card-subtitle>
