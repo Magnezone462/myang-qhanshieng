@@ -1,12 +1,11 @@
 #app {
   font-family: 'AndikaW', '思源黑体 CN VF', 'Source Han Sans CN VF', '思源黑体 CN', 'Source Han Sans CN', '思源黑体 VF',
-    'Source Han Sans SC VF', '思源黑体', 'Source Han Sans SC', 'SiwwngyanQhwktheiTK', 'SiwwngyanQhwkthei', sans-serif;
+    'Source Han Sans SC VF', '思源黑体', 'Source Han Sans SC', 'Noto Sans SC', sans-serif;
 }
 
 .songthei {
   font-family: 'CharisSILW', '思源宋体 CN VF', 'Source Han Serif CN VF', '思源宋体 CN', 'Source Han Serif CN',
-    '思源宋体 VF', 'Source Han Serif SC VF', '思源宋体', 'Source Han Serif SC', 'SiwwngyanSongtheiTK',
-    'SiwwngyanSongthei', serif;
+    '思源宋体 VF', 'Source Han Serif SC VF', '思源宋体', 'Source Han Serif SC', 'Noto Serif SC', serif;
 }
 
 .tekisuto-eiti-tu {

@@ -1,32 +1,4 @@
-/*
-This file is from the Adobe Fonts (https://github.com/adobe-fonts/).
-Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font
-Name 'Source'. Source is a trademark of Adobe in the United States
-and/or other countries.
-
-This Font Software is licensed under the SIL Open Font License,
-Version 1.1.
-*/
-
-/* sosu han sanzu o daburyu o ehu ehu tu hwomatto de tukau */
-@font-face {
-  font-family: SiwwngyanQhwktheiTK;
-  src: url(dziwthei/SourceHanSansCN-VF.otf.woff2);
-}
-@font-face {
-  font-family: SiwwngyanQhwkthei;
-  src: url(dziwthei/SourceHanSansSC-VF.otf.woff2);
-}
-/* sosu han serihu o daburyu o ehu ehu tu hwomatto de tukau */
-@font-face {
-  font-family: SiwwngyanSongtheiTK;
-  src: url(dziwthei/SourceHanSerifCN-VF.otf.woff2);
-}
-/* sosu han serihu o daburyu o ehu ehu tu hwomatto de tukau */
-@font-face {
-  font-family: SiwwngyanSongthei;
-  src: url(dziwthei/SourceHanSerifSC-VF.otf.woff2);
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;300;400;500;700;900&family=Noto+Serif+SC:wght@200;300;400;500;600;700;900&display=swap');
 
 /*
 This file is from the Andika project (https://software.sil.org/andika/).
