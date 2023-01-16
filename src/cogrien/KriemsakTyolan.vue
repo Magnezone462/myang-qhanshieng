@@ -66,11 +66,12 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
       </v-btn>
     </v-row>
     <v-row>
-      <v-col>
-        <v-card
-          v-for="tuiziang in dziwdeu.twkSrioSyenDziwqrim"
-          :key="tuiziang.pieutiwbyo"
-        >
+      <v-col
+        v-for="tuiziang in dziwdeu.twkSrioSyenDziwqrim"
+        :key="tuiziang.pieutiwbyo"
+        cols="12"
+      >
+        <v-card>
           <v-card-title
             @click="qanZyepheng(tuiziang)"
             style="cursor: pointer"
