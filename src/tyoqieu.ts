@@ -6,8 +6,8 @@ import Qiwngjyong from '@/Qiwngjyong.vue'
 // import router from './router'
 
 import '@mdi/font/css/materialdesignicons.css'
-import '@/cisren/dziwthei.css'
-import '@/cisren/tyoqieu.css'
+import '@/cisren/dziwthei.scss'
+import '@/cisren/tyoqieu.scss'
 
 // Vuetify
 import 'vuetify/styles'
