@@ -1,26 +1,13 @@
 <script setup lang="ts">
-import { computed } from 'vue'
-import { jyongDziwdeukho } from '@/changkho/dziwdeu'
-import { jyongLeksriwkho } from '@/changkho/leksriw'
-import { jyongShiochiemkho } from '@/changkho/shiochiem'
+import { ref } from 'vue'
 import { jyongXeithongkho } from '@/changkho/xeithong'
+import { useTheme as jyongTyodei } from 'vuetify'
 
-const dziwdeukho = jyongDziwdeukho()
-const leksriwkho = jyongLeksriwkho()
-const shiochiemkho = jyongShiochiemkho()
 const xeithongkho = jyongXeithongkho()
+const tyodei = jyongTyodei()
+const dialog = ref(false)
 
-const diepyuQannryuJiwDeng = computed(() =>
-  xeithongkho.kriemsakPenlanXyutiaPieuchiem === 'krap' ? !shiochiemkho.dziwbyoco.length : !leksriwkho.dziwbyoco.length
-)
-
-const qanByukxryiQannryu = () => {
-  if (xeithongkho.kriemsakPenlanXyutiaPieuchiem === 'krap') {
-    shiochiemkho.byukDziwbyoco()
-  } else {
-    leksriwkho.byukDziwbyoco()
-  }
-}
+const xuanTyodei = () => (tyodei.global.name.value = tyodei.global.current.value.dark ? 'light' : 'dark')
 </script>
 
 <template>
@@ -28,52 +15,38 @@ const qanByukxryiQannryu = () => {
     v-model="xeithongkho.kriemsakPenlanXyutiaThryuthei"
     location="right"
   >
-    <v-tabs
-      v-model="xeithongkho.kriemsakPenlanXyutiaPieuchiem"
-      fixed-tabs
+    <v-btn
+      @click="xuanTyodei()"
+      block
     >
-      <v-tab value="krap">書籤</v-tab>
-      <v-tab value="qrit">歷史</v-tab>
-    </v-tabs>
-    <v-window v-model="xeithongkho.kriemsakPenlanXyutiaPieuchiem">
-      <v-window-item value="krap">
-        <v-list>
-          <v-list-item
-            v-for="dziwbyo in shiochiemkho.dziwbyoco"
-            :key="dziwbyo"
-            @click="dziwdeukho.triwSrioSyenDziwdu(dziwbyo)"
-            link
+      <v-icon>mdi-lightbulb</v-icon>
+    </v-btn>
+    <div class="text-center">
+      <v-dialog v-model="dialog">
+        <template v-slot:activator="{ props }">
+          <v-btn
+            color="primary"
+            v-bind="props"
+            block
           >
-            <v-list-item-title>{{ dziwbyo }}</v-list-item-title>
-          </v-list-item>
-        </v-list>
-      </v-window-item>
+            <v-icon>mdi-format-font</v-icon>
+          </v-btn>
+        </template>
 
-      <v-window-item value="qrit">
-        <v-list>
-          <v-list-item
-            v-for="dziwbyo in leksriwkho.dziwbyocoTentau"
-            :key="dziwbyo"
-            @click="dziwdeukho.triwSrioSyenDziwdu(dziwbyo)"
-            link
-          >
-            <v-list-item-title>{{ dziwbyo }}</v-list-item-title>
-          </v-list-item>
-        </v-list>
-      </v-window-item>
-    </v-window>
-
-    <v-divider />
-
-    <v-sheet class="pa-4">
-      <v-btn
-        block
-        color="error"
-        @click="qanByukxryiQannryu()"
-        :disabled="diepyuQannryuJiwDeng"
-      >
-        <v-icon> mdi-delete </v-icon>
-      </v-btn>
-    </v-sheet>
+        <v-card>
+          <v-card-text>
+            Google Fontから適切なフォントをインポートします。データ量がそこそこ多いので氣をつけてくださいませ。
+          </v-card-text>
+          <v-card-actions>
+            <v-btn
+              color="primary"
+              block
+              @click="dialog = false"
+              >Close Dialog</v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-dialog>
+    </div>
   </v-navigation-drawer>
 </template>

@@ -10,6 +10,8 @@ const dziwdeu = jyongDziwdeukho()
 const xeithongkho = jyongXeithongkho()
 const shiochiemkho = jyongShiochiemkho()
 
+const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.srioSyenDziwbyo}`
+
 const qanZyepheng = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioNipZyepheng(tuiziang.zyepheng)
   xeithongkho.kriemsakPenlanCatiaPieuchiem = 'qrit'
@@ -58,6 +60,7 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
       <v-col>
         <p class="tekisuto-eiti-tu font-weight-medium">{{ dziwdeu.srioSyenDziwbyo }}</p>
         <p>{{ dziwdeu.srioSyenJiwtheidziw }}</p>
+        <a :href="myutshiodangMyangtiwPyangqan">見《辭書 by 物書堂》</a>
       </v-col>
       <v-spacer />
       <v-btn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
