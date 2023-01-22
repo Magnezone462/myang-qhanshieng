@@ -13,6 +13,8 @@ const dziwdeukho = jyongDziwdeukho()
 
 <template>
   <v-app>
+    <KriemsakPenlanXyutia temporary />
+
     <v-system-bar>
       <v-spacer />
       <v-btn
@@ -39,7 +41,5 @@ const dziwdeukho = jyongDziwdeukho()
       <KriemsakTyolanChrioshiw v-if="dziwdeukho.srioSyenDziwdu === ''" />
       <KriemsakTyolan v-else />
     </v-main>
-
-    <KriemsakPenlanXyutia temporary />
   </v-app>
 </template>
