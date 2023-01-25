@@ -1,9 +1,9 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
-import KriemsakPenlanCatia from '@/cogrien/KriemsakPenlanCatia.vue'
+import KriemsakPenlan from '@/cogrien/KriemsakPenlan.vue'
 import ShiettriwPenlan from '@/cogrien/ShiettriwPenlan.vue'
 import KriemsakTyolan from '@/cogrien/KriemsakTyolan.vue'
-import KriemsakTyolanChrioshiw from './cogrien/KriemsakTyolanChrioshiw.vue'
+import ChriosriwTyolan from './cogrien/ChriosriwTyolan.vue'
 import { jyongXeithongkho } from '@/changkho/xeithong'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
 
@@ -35,10 +35,10 @@ const dziwdeukho = jyongDziwdeukho()
       </VBtn>
     </VAppBar>
 
-    <KriemsakPenlanCatia />
+    <KriemsakPenlan />
 
     <VMain>
-      <KriemsakTyolanChrioshiw v-if="dziwdeukho.srioSyenDziwdu === ''" />
+      <ChriosriwTyolan v-if="dziwdeukho.srioSyenDziwdu === ''" />
       <KriemsakTyolan v-else />
     </VMain>
   </VApp>

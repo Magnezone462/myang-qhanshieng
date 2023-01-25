@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { jyongXeithongkho } from '@/changkho/xeithong'
-import KriemsakPenlanCatiaDziwbyo from './KriemsakPenlanCatiaDziwbyo.vue'
-import KriemsakPenlanCatiaDziwqrim from './KriemsakPenlanCatiaDziwqrim.vue'
+import KriemsakPenlanShyonipDziwbyo from './KriemsakPenlanShyonipDziwbyo.vue'
+import KriemsakPenlanShyonipDziwqrim from './KriemsakPenlanShyonipDziwqrim.vue'
 
 const xeithongkho = jyongXeithongkho()
 </script>
@@ -14,12 +14,14 @@ const xeithongkho = jyongXeithongkho()
     <VTab value="krap">字符</VTab>
     <VTab value="qrit">字音</VTab>
   </VTabs>
+
   <VWindow v-model="xeithongkho.kriemsakPenlanCatiaPieuchiemKriemsak">
     <VWindowItem value="krap">
-      <KriemsakPenlanCatiaDziwbyo />
+      <KriemsakPenlanShyonipDziwbyo />
     </VWindowItem>
+
     <VWindowItem value="qrit">
-      <KriemsakPenlanCatiaDziwqrim />
+      <KriemsakPenlanShyonipDziwqrim />
     </VWindowItem>
   </VWindow>
 </template>

@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { jyongXeithongkho } from '@/changkho/xeithong'
-import KriemsakPenlanCatiaKriemsak from './KriemsakPenlanCatiaKriemsak.vue'
-import KriemsakPenlanCatiaShiochiem from './KriemsakPenlanCatiaShiochiem.vue'
-import KriemsakPenlanCatiaLeksriw from './KriemsakPenlanCatiaLeksriw.vue'
+import KriemsakPenlanShyonip from './KriemsakPenlanShyonip.vue'
+import KriemsakPenlanShiochiem from './KriemsakPenlanShiochiem.vue'
+import KriemsakPenlanLeksriw from './KriemsakPenlanLeksriw.vue'
 
 const xeithongkho = jyongXeithongkho()
 </script>
@@ -22,11 +22,11 @@ const xeithongkho = jyongXeithongkho()
     </VTabs>
     <VWindow v-model="xeithongkho.kriemsakPenlanCatiaPieuchiemDeiqit">
       <VWindowItem value="krap">
-        <KriemsakPenlanCatiaKriemsak />
+        <KriemsakPenlanShyonip />
       </VWindowItem>
-      <VWindowItem value="qrit"> <KriemsakPenlanCatiaShiochiem /> </VWindowItem>
+      <VWindowItem value="qrit"> <KriemsakPenlanShiochiem /> </VWindowItem>
       <VWindowItem value="prieng">
-        <KriemsakPenlanCatiaLeksriw />
+        <KriemsakPenlanLeksriw />
       </VWindowItem>
     </VWindow>
   </VNavigationDrawer>
