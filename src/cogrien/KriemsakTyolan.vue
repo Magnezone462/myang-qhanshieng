@@ -58,7 +58,7 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
     />
     <v-row>
       <v-col>
-        <p class="tekisuto-eiti-tu font-weight-medium">{{ dziwdeu.srioSyenDziwbyo }}</p>
+        <p class="text-h2 font-weight-medium">{{ dziwdeu.srioSyenDziwbyo }}</p>
         <p>{{ dziwdeu.srioSyenJiwtheidziw }}</p>
         <a :href="myutshiodangMyangtiwPyangqan">見《辭書 by 物書堂》</a>
       </v-col>

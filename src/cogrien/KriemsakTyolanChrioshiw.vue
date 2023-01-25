@@ -33,8 +33,8 @@
             <v-row>
               <v-col>
                 <v-card cols="12">
-                  <v-card-title class="tekisuto-sabutaitoru-wan"> 左サイドバー（漢字檢索） </v-card-title>
-                  <v-card-subtitle class="tekisuto-kyapusyon">
+                  <v-card-title class="text-subtitle-1"> 左サイドバー（漢字檢索） </v-card-title>
+                  <v-card-subtitle class="text-caption">
                     ヒダリ ノ サイドバー（チューゴク-モジ オ サガス）
                   </v-card-subtitle>
                   <v-card-text>
@@ -56,8 +56,8 @@
 
               <v-col cols="12">
                 <v-card>
-                  <v-card-title class="tekisuto-sabutaitoru-wan"> 中央メインウィンドウ（漢字詳細） </v-card-title>
-                  <v-card-subtitle class="tekisuto-kyapusyon">
+                  <v-card-title class="text-subtitle-1"> 中央メインウィンドウ（漢字詳細） </v-card-title>
+                  <v-card-subtitle class="text-caption">
                     マンナカ ノ メインウインドー（チューゴク-モジ オ クワシク ミル）
                   </v-card-subtitle>
                   <v-card-text>
@@ -76,8 +76,8 @@
 
               <v-col cols="12">
                 <v-card>
-                  <v-card-title class="tekisuto-sabutaitoru-wan"> 右サイドバー（ブックマークと履歷） </v-card-title>
-                  <v-card-subtitle class="tekisuto-kyapusyon">
+                  <v-card-title class="text-subtitle-1"> 右サイドバー（ブックマークと履歷） </v-card-title>
+                  <v-card-subtitle class="text-caption">
                     ミギ ノ サイドバー（ブックマーク ト ヒストリー オ ミル）
                   </v-card-subtitle>
                   <v-card-text>
