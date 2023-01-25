@@ -13,6 +13,7 @@
     "@mdi/font": "^7.1.96",
     "pinia": "^2.0.16",
     "pinia-plugin-persistedstate": "^3.0.2",
+    "vite-plugin-vuetify": "^1.0.1",
     "vue": "^3.2.37",
     "vue-router": "^4.1.2",
     "vuetify": "^3.0.6"

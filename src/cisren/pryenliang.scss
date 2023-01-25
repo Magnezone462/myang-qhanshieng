@@ -1,0 +1,16 @@
+@use 'vuetify/settings' with (
+  $body-font-family: (
+    'AndikaW',
+    '思源黑体 CN VF',
+    'Source Han Sans CN VF',
+    '思源黑体 CN',
+    'Source Han Sans CN',
+    '思源黑体 VF',
+    'Source Han Sans SC VF',
+    '思源黑体',
+    'Source Han Sans SC',
+    'Noto Sans SC',
+    'PingFang SC',
+    sans-serif,
+  )
+);
