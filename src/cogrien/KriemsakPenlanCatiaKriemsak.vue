@@ -7,19 +7,19 @@ const xeithongkho = jyongXeithongkho()
 </script>
 
 <template>
-  <v-tabs
+  <VTabs
     v-model="xeithongkho.kriemsakPenlanCatiaPieuchiemKriemsak"
     fixed-tabs
   >
-    <v-tab value="krap">字符</v-tab>
-    <v-tab value="qrit">字音</v-tab>
-  </v-tabs>
-  <v-window v-model="xeithongkho.kriemsakPenlanCatiaPieuchiemKriemsak">
-    <v-window-item value="krap">
+    <VTab value="krap">字符</VTab>
+    <VTab value="qrit">字音</VTab>
+  </VTabs>
+  <VWindow v-model="xeithongkho.kriemsakPenlanCatiaPieuchiemKriemsak">
+    <VWindowItem value="krap">
       <KriemsakPenlanCatiaDziwbyo />
-    </v-window-item>
-    <v-window-item value="qrit">
+    </VWindowItem>
+    <VWindowItem value="qrit">
       <KriemsakPenlanCatiaDziwqrim />
-    </v-window-item>
-  </v-window>
+    </VWindowItem>
+  </VWindow>
 </template>

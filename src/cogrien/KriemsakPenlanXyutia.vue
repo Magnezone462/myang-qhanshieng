@@ -11,47 +11,47 @@ const xuanTyodei = () => (tyodei.global.name.value = tyodei.global.current.value
 </script>
 
 <template>
-  <v-navigation-drawer
+  <VNavigationDrawer
     v-model="xeithongkho.kriemsakPenlanXyutiaThryuthei"
     location="right"
   >
-    <v-container>
-      <v-row>
-        <v-col cols="12">
-          <v-btn
+    <VContainer>
+      <VRow>
+        <VCol cols="12">
+          <VBtn
             @click="xuanTyodei()"
             block
           >
-            <v-icon>mdi-lightbulb</v-icon>
-          </v-btn>
-        </v-col>
-        <v-col cols="12">
-          <v-dialog v-model="dialog">
+            <VIcon>mdi-lightbulb</VIcon>
+          </VBtn>
+        </VCol>
+        <VCol cols="12">
+          <VDialog v-model="dialog">
             <template v-slot:activator="{ props }">
-              <v-btn
+              <VBtn
                 v-bind="props"
                 block
               >
-                <v-icon>mdi-format-font</v-icon>
-              </v-btn>
+                <VIcon>mdi-format-font</VIcon>
+              </VBtn>
             </template>
 
-            <v-card>
-              <v-card-text>
+            <VCard>
+              <VCardText>
                 Google Fontから適切なフォントをインポートします。データ量がそこそこ多いので氣をつけてくださいませ。
-              </v-card-text>
-              <v-card-actions>
-                <v-btn
+              </VCardText>
+              <VCard-actions>
+                <VBtn
                   color="primary"
                   block
                   @click="dialog = false"
-                  >Close Dialog</v-btn
+                  >Close Dialog</VBtn
                 >
-              </v-card-actions>
-            </v-card>
-          </v-dialog>
-        </v-col>
-      </v-row>
-    </v-container>
-  </v-navigation-drawer>
+              </VCard-actions>
+            </VCard>
+          </VDialog>
+        </VCol>
+      </VRow>
+    </VContainer>
+  </VNavigationDrawer>
 </template>

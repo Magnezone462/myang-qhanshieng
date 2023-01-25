@@ -12,27 +12,27 @@ const qanByukxryiQannryu = () => leksriwkho.byukDziwbyoco()
 </script>
 
 <template>
-  <v-list>
-    <v-list-item
+  <VList>
+    <VListItem
       v-for="dziwbyo in leksriwkho.dziwbyocoTentau"
       :key="dziwbyo"
       @click="dziwdeukho.triwSrioSyenDziwdu(dziwbyo)"
       link
     >
-      <v-list-item-title>{{ dziwbyo }}</v-list-item-title>
-    </v-list-item>
-  </v-list>
+      <VListItemTitle>{{ dziwbyo }}</VListItemTitle>
+    </VListItem>
+  </VList>
 
-  <v-divider />
+  <VDivider />
 
-  <v-sheet class="pa-4">
-    <v-btn
+  <VSheet class="pa-4">
+    <VBtn
       block
       color="error"
       @click="qanByukxryiQannryu()"
       :disabled="diepyuQannryuJiwDeng"
     >
-      <v-icon> mdi-delete </v-icon>
-    </v-btn>
-  </v-sheet>
+      <VIcon> mdi-delete </VIcon>
+    </VBtn>
+  </VSheet>
 </template>

@@ -8,26 +8,26 @@ const xeithongkho = jyongXeithongkho()
 </script>
 
 <template>
-  <v-navigation-drawer
+  <VNavigationDrawer
     v-model="xeithongkho.kriemsakPenlanCatiaThryuthei"
     location="left"
   >
-    <v-tabs
+    <VTabs
       v-model="xeithongkho.kriemsakPenlanCatiaPieuchiemDeiqit"
       fixed-tabs
     >
-      <v-tab value="krap"><v-icon> mdi-magnify </v-icon></v-tab>
-      <v-tab value="qrit"><v-icon> mdi-bookmark-multiple-outline </v-icon></v-tab>
-      <v-tab value="prieng"><v-icon> mdi-history </v-icon></v-tab>
-    </v-tabs>
-    <v-window v-model="xeithongkho.kriemsakPenlanCatiaPieuchiemDeiqit">
-      <v-window-item value="krap">
+      <VTab value="krap"><VIcon> mdi-magnify </VIcon></VTab>
+      <VTab value="qrit"><VIcon> mdi-bookmark-multiple-outline </VIcon></VTab>
+      <VTab value="prieng"><VIcon> mdi-history </VIcon></VTab>
+    </VTabs>
+    <VWindow v-model="xeithongkho.kriemsakPenlanCatiaPieuchiemDeiqit">
+      <VWindowItem value="krap">
         <KriemsakPenlanCatiaKriemsak />
-      </v-window-item>
-      <v-window-item value="qrit"> <KriemsakPenlanCatiaShiochiem /> </v-window-item>
-      <v-window-item value="prieng">
+      </VWindowItem>
+      <VWindowItem value="qrit"> <KriemsakPenlanCatiaShiochiem /> </VWindowItem>
+      <VWindowItem value="prieng">
         <KriemsakPenlanCatiaLeksriw />
-      </v-window-item>
-    </v-window>
-  </v-navigation-drawer>
+      </VWindowItem>
+    </VWindow>
+  </VNavigationDrawer>
 </template>

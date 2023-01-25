@@ -13,34 +13,34 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join('、')
 </script>
 
 <template>
-  <v-sheet class="pa-4">
-    <v-text-field
+  <VSheet class="pa-4">
+    <VTextField
       v-model="dziwbyoKriemsakkho.srioNipQhandziwthyen"
       label="漢字"
       placeholder="天地玄黄宇宙洪荒"
       clearable
       @keydown.enter="dziwbyoKriemsakkho.triwKriemsakKetkua()"
     />
-    <v-btn
+    <VBtn
       block
       rounded
       @click="dziwbyoKriemsakkho.triwKriemsakKetkua()"
     >
       檢索
-    </v-btn>
-  </v-sheet>
+    </VBtn>
+  </VSheet>
 
-  <v-divider />
+  <VDivider />
 
-  <v-list>
-    <v-list-item
+  <VList>
+    <VListItem
       v-for="tuiziang in dziwbyoKriemsakkho.twkKriemsakKetkua"
       :key="tuiziang.pieutiwbyo"
       @click="qanKriemsakKetkua(tuiziang.dziw)"
       link
     >
-      <v-list-item-title>{{ tuiziang.dziw }}</v-list-item-title>
+      <VListItemTitle>{{ tuiziang.dziw }}</VListItemTitle>
       {{ qhruaSikrokXaumra(tuiziang.sikrok_xaumra) }}
-    </v-list-item>
-  </v-list>
+    </VListItem>
+  </VList>
 </template>

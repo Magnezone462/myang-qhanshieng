@@ -13,9 +13,9 @@ const qanKriemsakKetkua = (tuiziang: string) => {
 </script>
 
 <template>
-  <v-sheet class="pa-4">
-    <v-col>
-      <v-text-field
+  <VSheet class="pa-4">
+    <VCol>
+      <VTextField
         v-model="dziwqrimKriemsakkho.srioNipZyepheng"
         label="隋拼"
         placeholder="tuŋ"
@@ -24,7 +24,7 @@ const qanKriemsakKetkua = (tuiziang: string) => {
         clearable
         @keydown.enter="dziwqrimKriemsakkho.triwKriemsakKetkua"
       />
-      <v-select
+      <VSelect
         label="平水韵"
         v-model="dziwqrimKriemsakkho.srioSyenShiwxryn"
         :items="shiwxryn"
@@ -34,7 +34,7 @@ const qanKriemsakKetkua = (tuiziang: string) => {
         density="compact"
         clearable
       />
-      <v-select
+      <VSelect
         label="聲母"
         v-model="dziwqrimKriemsakkho.srioSyenShiengmu"
         :items="shiengmu"
@@ -44,27 +44,27 @@ const qanKriemsakKetkua = (tuiziang: string) => {
         density="compact"
         clearable
       />
-    </v-col>
-    <v-btn
+    </VCol>
+    <VBtn
       block
       rounded
       @click="dziwqrimKriemsakkho.triwKriemsakKetkua"
     >
       檢索
-    </v-btn>
-  </v-sheet>
+    </VBtn>
+  </VSheet>
 
-  <v-divider />
+  <VDivider />
 
-  <v-list>
-    <v-list-item
+  <VList>
+    <VListItem
       v-for="tuiziang in dziwqrimKriemsakkho.twkKriemsakKetkua"
       :key="tuiziang.pieutiwbyo"
       @click="qanKriemsakKetkua(tuiziang.dziw)"
       link
     >
-      <v-list-item-title>{{ tuiziang.dziw }}</v-list-item-title>
+      <VListItemTitle>{{ tuiziang.dziw }}</VListItemTitle>
       {{ tuiziang.zyepheng }}
-    </v-list-item>
-  </v-list>
+    </VListItem>
+  </VList>
 </template>

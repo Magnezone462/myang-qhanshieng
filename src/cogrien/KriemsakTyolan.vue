@@ -14,12 +14,16 @@ const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.srioSyen
 
 const qanZyepheng = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioNipZyepheng(tuiziang.zyepheng)
-  xeithongkho.kriemsakPenlanCatiaPieuchiem = 'qrit'
+  dziwqrimKriemsakkho.triwSrioSyenShiwxryn('')
+  xeithongkho.kriemsakPenlanCatiaPieuchiemDeiqit = 'krap'
+  xeithongkho.kriemsakPenlanCatiaPieuchiemKriemsak = 'qrit'
 }
 
 const qanShiwxryn = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioSyenShiwxryn(tuiziang.shiwxryn)
-  xeithongkho.kriemsakPenlanCatiaPieuchiem = 'qrit'
+  dziwqrimKriemsakkho.triwSrioNipZyepheng('')
+  xeithongkho.kriemsakPenlanCatiaPieuchiemDeiqit = 'krap'
+  xeithongkho.kriemsakPenlanCatiaPieuchiemKriemsak = 'qrit'
 }
 
 const twkDryenthungQrimlyi = (dziwqrim: DziwqrimSryokio) => {
@@ -47,8 +51,8 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
 </script>
 
 <template>
-  <v-container fluid>
-    <v-select
+  <VContainer fluid>
+    <VSelect
       label="字種"
       v-model="dziwdeu.srioSyenDziwbyo"
       :items="[...dziwdeu.srioSyenDziwdu]"
@@ -56,32 +60,32 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
       variant="underlined"
       density="compact"
     />
-    <v-row>
-      <v-col>
+    <VRow>
+      <VCol>
         <p class="text-h2 font-weight-medium">{{ dziwdeu.srioSyenDziwbyo }}</p>
         <p>{{ dziwdeu.srioSyenJiwtheidziw }}</p>
         <a :href="myutshiodangMyangtiwPyangqan">見《辭書 by 物書堂》</a>
-      </v-col>
-      <v-spacer />
-      <v-btn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
-        <v-icon v-if="shiochiemkho.diepyuXwmDziwbyo(dziwdeu.srioSyenDziwbyo)"> mdi-bookmark </v-icon>
-        <v-icon v-else> mdi-bookmark-outline </v-icon>
-      </v-btn>
-    </v-row>
-    <v-row>
-      <v-col
+      </VCol>
+      <VSpacer />
+      <VBtn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
+        <VIcon v-if="shiochiemkho.diepyuXwmDziwbyo(dziwdeu.srioSyenDziwbyo)"> mdi-bookmark </VIcon>
+        <VIcon v-else> mdi-bookmark-outline </VIcon>
+      </VBtn>
+    </VRow>
+    <VRow>
+      <VCol
         v-for="tuiziang in dziwdeu.twkSrioSyenDziwqrim"
         :key="tuiziang.pieutiwbyo"
         cols="12"
       >
-        <v-card>
-          <v-card-title
+        <VCard>
+          <VCardTitle
             @click="qanZyepheng(tuiziang)"
             style="cursor: pointer"
           >
             {{ tuiziang.zyepheng }}
-          </v-card-title>
-          <v-card-subtitle>
+          </VCardTitle>
+          <VCardSubtitle>
             {{ twkDryenthungQrimlyi(tuiziang) }}
             <span
               class="hei-sui-in"
@@ -89,8 +93,8 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
             >
               {{ tuiziang.shiwxryn }}
             </span>
-          </v-card-subtitle>
-          <v-card-text>
+          </VCardSubtitle>
+          <VCardText>
             <div v-if="tuiziang.pyanchet_ChX">
               {{ `《切韵》${twkChX(tuiziang)}` }}
             </div>
@@ -112,11 +116,11 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
             <p v-if="tuiziang.ngrietyo">
               {{ `釋音義：${tuiziang.ngrietyo}` }}
             </p>
-          </v-card-text>
-        </v-card>
-      </v-col>
-    </v-row>
-  </v-container>
+          </VCardText>
+        </VCard>
+      </VCol>
+    </VRow>
+  </VContainer>
 </template>
 
 <style scoped lang="css">

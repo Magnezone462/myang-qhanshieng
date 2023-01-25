@@ -12,34 +12,34 @@ const dziwdeukho = jyongDziwdeukho()
 </script>
 
 <template>
-  <v-app>
+  <VApp>
     <KriemsakPenlanXyutia temporary />
 
-    <v-system-bar>
-      <v-spacer />
-      <v-btn
+    <VSystemBar>
+      <VSpacer />
+      <VBtn
         href="https://github.com/Magnezone462/myang-qhanshieng"
         target="_blank"
       >
         見源代碼
-      </v-btn>
-    </v-system-bar>
+      </VBtn>
+    </VSystemBar>
 
-    <v-app-bar>
-      <v-app-bar-nav-icon @click="xeithongkho.xuanKriemsakPenlanThryutheiCatia()" />
-      <v-app-bar-title>漢字文聲義</v-app-bar-title>
-      <v-btn
+    <VAppBar>
+      <VAppBarNavIcon @click="xeithongkho.xuanKriemsakPenlanThryutheiCatia()" />
+      <VAppBarTitle>漢字文聲義</VAppBarTitle>
+      <VBtn
         @click="xeithongkho.xuanKriemsakPenlanThryutheiXyutia()"
         icon="mdi-cog-outline"
       >
-      </v-btn>
-    </v-app-bar>
+      </VBtn>
+    </VAppBar>
 
     <KriemsakPenlanCatia />
 
-    <v-main>
+    <VMain>
       <KriemsakTyolanChrioshiw v-if="dziwdeukho.srioSyenDziwdu === ''" />
       <KriemsakTyolan v-else />
-    </v-main>
-  </v-app>
+    </VMain>
+  </VApp>
 </template>
