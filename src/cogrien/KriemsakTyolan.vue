@@ -52,25 +52,40 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
 
 <template>
   <VContainer fluid>
-    <VSelect
-      label="字種"
-      v-model="dziwdeu.srioSyenDziwbyo"
-      :items="[...dziwdeu.srioSyenDziwdu]"
-      @update:modelValue="dziwdeu.triwSrioSyenXengqrim(dziwdeu.srioSyenDziwbyo)"
-      variant="underlined"
-      density="compact"
-    />
     <VRow>
-      <VCol>
-        <p class="text-h2 font-weight-medium">{{ dziwdeu.srioSyenDziwbyo }}</p>
-        <p>{{ dziwdeu.srioSyenJiwtheidziw }}</p>
-        <a :href="myutshiodangMyangtiwPyangqan">見《辭書 by 物書堂》</a>
+      <VCol cols="1">
+        <VSelect
+          label="字種"
+          v-model="dziwdeu.srioSyenDziwbyo"
+          :items="[...dziwdeu.srioSyenDziwdu]"
+          @update:modelValue="dziwdeu.triwSrioSyenXengqrim(dziwdeu.srioSyenDziwbyo)"
+          variant="underlined"
+          density="compact"
+        />
       </VCol>
+    </VRow>
+    <VRow>
+      <VCol cols="9">
+        <p class="text-h2 font-weight-medium">{{ dziwdeu.srioSyenDziwbyo }}</p>
+        <p class="text-subtitle-1">{{ dziwdeu.srioSyenJiwtheidziw }}</p>
+      </VCol>
+
       <VSpacer />
-      <VBtn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
-        <VIcon v-if="shiochiemkho.diepyuXwmDziwbyo(dziwdeu.srioSyenDziwbyo)"> mdi-bookmark </VIcon>
-        <VIcon v-else> mdi-bookmark-outline </VIcon>
-      </VBtn>
+
+      <VCol cols="auto">
+        <a :href="myutshiodangMyangtiwPyangqan">
+          <VBtn>
+            <VIcon> mdi-book-alphabet </VIcon>
+          </VBtn>
+        </a>
+      </VCol>
+
+      <VCol cols="auto">
+        <VBtn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
+          <VIcon v-if="shiochiemkho.diepyuXwmDziwbyo(dziwdeu.srioSyenDziwbyo)"> mdi-bookmark </VIcon>
+          <VIcon v-else> mdi-bookmark-outline </VIcon>
+        </VBtn>
+      </VCol>
     </VRow>
     <VRow>
       <VCol

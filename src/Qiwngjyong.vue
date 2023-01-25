@@ -1,7 +1,7 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
 import KriemsakPenlanCatia from '@/cogrien/KriemsakPenlanCatia.vue'
-import KriemsakPenlanXyutia from '@/cogrien/KriemsakPenlanXyutia.vue'
+import ShiettriwPenlan from '@/cogrien/ShiettriwPenlan.vue'
 import KriemsakTyolan from '@/cogrien/KriemsakTyolan.vue'
 import KriemsakTyolanChrioshiw from './cogrien/KriemsakTyolanChrioshiw.vue'
 import { jyongXeithongkho } from '@/changkho/xeithong'
@@ -13,7 +13,7 @@ const dziwdeukho = jyongDziwdeukho()
 
 <template>
   <VApp>
-    <KriemsakPenlanXyutia temporary />
+    <ShiettriwPenlan temporary />
 
     <VSystemBar>
       <VSpacer />
