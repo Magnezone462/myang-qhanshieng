@@ -26,10 +26,10 @@ const dziwdeukho = jyongDziwdeukho()
     </VSystemBar>
 
     <VAppBar>
-      <VAppBarNavIcon @click="xeithongkho.xuanKriemsakPenlanThryutheiCatia()" />
+      <VAppBarNavIcon @click="xeithongkho.xuanKriemsakPenlanThryuthei()" />
       <VAppBarTitle>漢字文聲義</VAppBarTitle>
       <VBtn
-        @click="xeithongkho.xuanKriemsakPenlanThryutheiXyutia()"
+        @click="xeithongkho.xuanShiettriwPenlanThryuthei()"
         icon="mdi-cog-outline"
       >
       </VBtn>

@@ -1,42 +1,32 @@
 import { computed, ref } from 'vue'
 import { defineStore } from 'pinia'
 
+// 用歷史庫: ユーズ ヒストリー ストア
 export const jyongLeksriwkho = defineStore(
   'leksriw',
   () => {
-    // oyazi no rireki hairetu desu
+    // 字符組: キャラクター アレー
     const dziwbyoco = ref(<string[]>[])
 
-    // dziwbyoco o gyakuzyun de kaesi masu
-    const dziwbyocoTentau = computed(() => dziwbyoco.value.reverse())
+    // 字符組顛倒: キャラクター アレー リバース
+    const dziwbyocoTentau = computed((): string[] => dziwbyoco.value.reverse())
 
-    /**
-     * dziwbyoco o risetto suru kansu desu.
-     * @returns nanimo kaesimasen
-     */
-    const byukDziwbyoco = () => (dziwbyoco.value = [])
+    // 復字符組: イニシャライズ キャラクター アレー
+    const byukDziwbyoco = (): void => {
+      dziwbyoco.value = []
+    }
 
-    /**
-     * dziwbyoco ni oyazi ga aruka hante suru kansu desu.
-     * @param grien Sonzai o kakunin sitai oyazi desu.
-     * @returns Areba sin, nakereba gi o kaesimasu.
-     */
-    const diepyuXwmDziwbyo = (grien: string) => dziwbyoco.value.includes(grien)
+    // 是含字符: イズ インクルード キャラクター
+    const dieXwmDziwbyo = (grien: string): boolean => dziwbyoco.value.includes(grien)
 
-    /**
-     * dziwbyoco kara oyazi o sakuzyo suru kansu desu.
-     * @param grien Aakuzyo suru oyazi desu.
-     */
-    const drioDziwbyo = (grien: string) => {
+    // 除字符: デリート キャラクター
+    const drioDziwbyo = (grien: string): void => {
       dziwbyoco.value = dziwbyoco.value.filter((dziwbyo) => dziwbyo !== grien)
     }
 
-    /**
-     * dziwbyoco e oyazi o tuika suru kansu desu.
-     * @param grien Tuika suru oyazi desu.
-     */
-    const kraDziwbyo = (grien: string) => {
-      if (grien && !diepyuXwmDziwbyo(grien)) {
+    // 加字符: アド キャラクター
+    const kraDziwbyo = (grien: string): void => {
+      if (grien && !dieXwmDziwbyo(grien)) {
         dziwbyoco.value.push(grien)
       }
     }
@@ -45,7 +35,7 @@ export const jyongLeksriwkho = defineStore(
       dziwbyoco,
       dziwbyocoTentau,
       byukDziwbyoco,
-      diepyuXwmDziwbyo,
+      dieXwmDziwbyo,
       drioDziwbyo,
       kraDziwbyo,
     }

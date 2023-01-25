@@ -10,7 +10,7 @@ const xuanTyodei = () => (tyodei.global.name.value = tyodei.global.current.value
 
 <template>
   <VNavigationDrawer
-    v-model="xeithongkho.kriemsakPenlanXyutiaThryuthei"
+    v-model="xeithongkho.shiettriwPenlanThryuthei"
     location="right"
   >
     <VContainer>

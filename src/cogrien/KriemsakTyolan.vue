@@ -15,15 +15,15 @@ const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.srioSyen
 const qanZyepheng = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioNipZyepheng(tuiziang.zyepheng)
   dziwqrimKriemsakkho.triwSrioSyenShiwxryn('')
-  xeithongkho.kriemsakPenlanCatiaPieuchiemDeiqit = 'krap'
-  xeithongkho.kriemsakPenlanCatiaPieuchiemKriemsak = 'qrit'
+  xeithongkho.kriemsakPenlanTyoqieuPieuchiem = 'krap'
+  xeithongkho.kriemsakPenlanShyonipPieuchiem = 'qrit'
 }
 
 const qanShiwxryn = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioSyenShiwxryn(tuiziang.shiwxryn)
   dziwqrimKriemsakkho.triwSrioNipZyepheng('')
-  xeithongkho.kriemsakPenlanCatiaPieuchiemDeiqit = 'krap'
-  xeithongkho.kriemsakPenlanCatiaPieuchiemKriemsak = 'qrit'
+  xeithongkho.kriemsakPenlanTyoqieuPieuchiem = 'krap'
+  xeithongkho.kriemsakPenlanShyonipPieuchiem = 'qrit'
 }
 
 const twkDryenthungQrimlyi = (dziwqrim: DziwqrimSryokio) => {
@@ -82,7 +82,7 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
 
       <VCol cols="auto">
         <VBtn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
-          <VIcon v-if="shiochiemkho.diepyuXwmDziwbyo(dziwdeu.srioSyenDziwbyo)"> mdi-bookmark </VIcon>
+          <VIcon v-if="shiochiemkho.dieXwmDziwbyo(dziwdeu.srioSyenDziwbyo)"> mdi-bookmark </VIcon>
           <VIcon v-else> mdi-bookmark-outline </VIcon>
         </VBtn>
       </VCol>

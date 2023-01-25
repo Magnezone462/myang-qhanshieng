@@ -9,18 +9,18 @@ const xeithongkho = jyongXeithongkho()
 
 <template>
   <VNavigationDrawer
-    v-model="xeithongkho.kriemsakPenlanCatiaThryuthei"
+    v-model="xeithongkho.kriemsakPenlanThryuthei"
     location="left"
   >
     <VTabs
-      v-model="xeithongkho.kriemsakPenlanCatiaPieuchiemDeiqit"
+      v-model="xeithongkho.kriemsakPenlanTyoqieuPieuchiem"
       fixed-tabs
     >
       <VTab value="krap"><VIcon> mdi-magnify </VIcon></VTab>
       <VTab value="qrit"><VIcon> mdi-bookmark-multiple-outline </VIcon></VTab>
       <VTab value="prieng"><VIcon> mdi-history </VIcon></VTab>
     </VTabs>
-    <VWindow v-model="xeithongkho.kriemsakPenlanCatiaPieuchiemDeiqit">
+    <VWindow v-model="xeithongkho.kriemsakPenlanTyoqieuPieuchiem">
       <VWindowItem value="krap">
         <KriemsakPenlanShyonip />
       </VWindowItem>

@@ -8,14 +8,14 @@ const xeithongkho = jyongXeithongkho()
 
 <template>
   <VTabs
-    v-model="xeithongkho.kriemsakPenlanCatiaPieuchiemKriemsak"
+    v-model="xeithongkho.kriemsakPenlanShyonipPieuchiem"
     fixed-tabs
   >
     <VTab value="krap">字符</VTab>
     <VTab value="qrit">字音</VTab>
   </VTabs>
 
-  <VWindow v-model="xeithongkho.kriemsakPenlanCatiaPieuchiemKriemsak">
+  <VWindow v-model="xeithongkho.kriemsakPenlanShyonipPieuchiem">
     <VWindowItem value="krap">
       <KriemsakPenlanShyonipDziwbyo />
     </VWindowItem>
