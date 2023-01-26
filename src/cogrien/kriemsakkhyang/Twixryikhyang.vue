@@ -1,20 +1,24 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
 import { jyongDziwqrimKriemsakkho } from '@/changkho/dziwqrimKriemsak'
-import shiwxryn from '@/sryokio/shiwxryn.json'
+import twixryi from '@/sryokio/syenxrong/twixryi.json'
 
 const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho()
 </script>
 
 <template>
   <VSelect
-    label="平水韵"
-    v-model="dziwqrimKriemsakkho.srioSyenShiwxryn"
-    :items="shiwxryn"
-    item-title="xryn_driang"
-    item-value="xryn_tuan"
+    label="等位"
+    v-model="dziwqrimKriemsakkho.srioSyenTwixryi"
+    :items="twixryi"
+    item-title="qhandziw_driang"
+    item-value="qhandziw_tuan"
     variant="underlined"
     density="compact"
     clearable
-  />
+  >
+    <template v-slot:selection="{ item }">
+      {{ item.value }}
+    </template>
+  </VSelect>
 </template>

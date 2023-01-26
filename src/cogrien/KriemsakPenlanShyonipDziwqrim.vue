@@ -1,12 +1,11 @@
 <script setup lang="ts">
+import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/lyixeng'
 import { jyongDziwqrimKriemsakkho } from '@/changkho/dziwqrimKriemsak'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
-import shiwxryn from '../sryokio/shiwxryn.json'
-import shiengmu from '../sryokio/shiengmu.json'
 import KriemsakPenlanShyonipDziwqrimChwitan from './KriemsakPenlanShyonipDziwqrimChwitan.vue'
-import Zyephengkhyang from '@/cogrien/kriemsakkhyang/Zyephengkhyang.vue'
-import Briengshyixrynkhyang from '@/cogrien/kriemsakkhyang/Briengshyixrynkhyang.vue'
-import Shiengmukhyang from './kriemsakkhyang/Shiengmukhyang.vue'
+import ZyephengKhyoxrwk from '@/cogrien/kriemsakKhyoxrywk/ZyephengKhyoxrywk.vue'
+import ShiwxrynKhyoxrywk from '@/cogrien/kriemsakKhyoxrywk/ShiwxrynKhyoxrywk.vue'
+import TwixrynxrokKhyoxrywk from '@/cogrien/kriemsakKhyoxrywk/TwixrynxrokKhyoxrywk.vue'
 
 const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho()
 const dziwdeukho = jyongDziwdeukho()
@@ -22,15 +21,9 @@ const qanKriemsakKetkua = (tuiziang: string) => {
       <VCol cols="12">
         <KriemsakPenlanShyonipDziwqrimChwitan />
       </VCol>
-      <VCol cols="12">
-        <Zyephengkhyang />
-      </VCol>
-      <VCol cols="12">
-        <Briengshyixrynkhyang />
-      </VCol>
-      <VCol cols="12">
-        <Shiengmukhyang />
-      </VCol>
+      <ZyephengKhyoxrwk v-if="dziwqrimKriemsakkho.pyangshiwk === Pyangshiwk.zyepheng" />
+      <ShiwxrynKhyoxrywk v-if="dziwqrimKriemsakkho.pyangshiwk === Pyangshiwk.briengshyixryn" />
+      <TwixrynxrokKhyoxrywk v-if="dziwqrimKriemsakkho.pyangshiwk === Pyangshiwk.twixrynxrok" />
       <VCol cols="12">
         <VBtn
           block

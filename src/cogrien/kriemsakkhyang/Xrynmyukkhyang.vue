@@ -1,18 +1,18 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
 import { jyongDziwqrimKriemsakkho } from '@/changkho/dziwqrimKriemsak'
-import shiengmu from '@/sryokio/syenxrong/shiengmu.json'
+import xrynmyuk from '@/sryokio/syenxrong/xrynmyuk.json'
 
 const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho()
 </script>
 
 <template>
   <VSelect
-    label="聲母"
-    v-model="dziwqrimKriemsakkho.srioSyenShiengmu"
-    :items="shiengmu"
-    item-title="shiengmu_ziangdzieng"
-    item-value="shiengmu"
+    label="韵目"
+    v-model="dziwqrimKriemsakkho.srioSyenXrynmyuk"
+    :items="xrynmyuk"
+    item-title="xryn_driang"
+    item-value="xryn_tuan"
     variant="underlined"
     density="compact"
     clearable

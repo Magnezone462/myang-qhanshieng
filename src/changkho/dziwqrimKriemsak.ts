@@ -1,23 +1,35 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
 import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/lyixeng'
-import dziwqrim from '../sryokio/dziwqrim.json'
+import dziwqrim from '@/sryokio/dziwqrim.json'
 import type { DziwqrimSryokio } from '@/cisren/lyixeng'
 
+// 所入隋拼: インプテッド スイ チャイニーズ アルファベット
 type SrioNipZyepheng = string | null
+
+// 所選詩韵: セレクテッド チャイニーズ ポエム ライム
 type SrioSyenShiwxryn = string | null
+
+// 所選韵攝, 所選, 所選, 所選, 所選: セレクテッド チャイニーズ ポエム ライム
+type SrioSyenXrynShiep = string | null
+type SrioSyenKhwixwp = string | null
+type SrioSyenTwixryi = string | null
+type SrioSyenSishieng = string | null
+type SrioSyenXrynmyuk = string | null
 type SrioSyenShiengmu = string | null
 
 export const jyongDziwqrimKriemsakkho = defineStore('dziwqrimKriemsak', () => {
   const pyangshiwk = ref(<Pyangshiwk>Pyangshiwk.zyepheng)
   const srioNipZyepheng = ref(<SrioNipZyepheng>null)
   const srioSyenShiwxryn = ref(<SrioSyenShiwxryn>null)
+  const srioSyenXrynshiep = ref(<SrioSyenXrynShiep>null)
+  const srioSyenKhwixwp = ref(<SrioSyenKhwixwp>null)
+  const srioSyenTwixryi = ref(<SrioSyenTwixryi>null)
+  const srioSyenSishieng = ref(<SrioSyenSishieng>null)
+  const srioSyenXrynmyuk = ref(<SrioSyenXrynmyuk>null)
   const srioSyenShiengmu = ref(<SrioSyenShiengmu>null)
   const kriemsakKetkua = ref(<DziwqrimSryokio[]>[])
 
-  const twkSrioNipZyepheng = computed(() => srioNipZyepheng.value)
-  const twkSrioSyenShiwxryn = computed(() => srioSyenShiwxryn.value)
-  const twkSrioSyenShiengmu = computed(() => srioSyenShiengmu.value)
   const twkKriemsakKetkua = computed(() => kriemsakKetkua.value)
 
   const triwPyangshiwk = (grien: Pyangshiwk) => {
@@ -44,8 +56,22 @@ export const jyongDziwqrimKriemsakkho = defineStore('dziwqrimKriemsak', () => {
           const myuinip = !srioSyenShiwxryn.value && !srioSyenShiengmu.value
           return !myuinip && lioShiwxryn && lioShiengmu
         }
-        case Pyangshiwk.twixrynxrok:
-          return false
+        case Pyangshiwk.twixrynxrok: {
+          const myuinip =
+            !srioSyenXrynshiep.value &&
+            !srioSyenKhwixwp.value &&
+            !srioSyenTwixryi.value &&
+            !srioSyenSishieng.value &&
+            !srioSyenXrynmyuk.value &&
+            !srioSyenShiengmu.value
+          const lioXrynshiep = srioSyenXrynshiep.value ? tuiziang.shiep === srioSyenXrynshiep.value : true
+          const lioKhwixwp = srioSyenKhwixwp.value ? tuiziang.qho === srioSyenKhwixwp.value : true
+          const lioTwixryi = srioSyenTwixryi.value ? tuiziang.twng === srioSyenTwixryi.value : true
+          const lioSishieng = srioSyenSishieng.value ? tuiziang.deu === srioSyenSishieng.value : true
+          const lioXrynmyuk = srioSyenXrynmyuk.value ? tuiziang.xryn === srioSyenXrynmyuk.value : true
+          const lioShiengmu = srioSyenShiengmu.value ? tuiziang.shieng === srioSyenShiengmu.value : true
+          return !myuinip && lioXrynshiep && lioKhwixwp && lioTwixryi && lioSishieng && lioXrynmyuk && lioShiengmu
+        }
       }
     })
   }
@@ -54,10 +80,12 @@ export const jyongDziwqrimKriemsakkho = defineStore('dziwqrimKriemsak', () => {
     pyangshiwk,
     srioNipZyepheng,
     srioSyenShiwxryn,
+    srioSyenXrynshiep,
+    srioSyenKhwixwp,
+    srioSyenTwixryi,
+    srioSyenSishieng,
+    srioSyenXrynmyuk,
     srioSyenShiengmu,
-    twkSrioNipZyepheng,
-    twkSrioSyenShiwxryn,
-    twkSrioSyenShiengmu,
     twkKriemsakKetkua,
     triwPyangshiwk,
     triwSrioNipZyepheng,

@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/lyixeng'
 import { jyongXeithongkho } from '@/changkho/xeithong'
 import { jyongDziwqrimKriemsakkho } from '@/changkho/dziwqrimKriemsak'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
@@ -17,6 +18,8 @@ const qanZyepheng = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioSyenShiwxryn('')
   xeithongkho.kriemsakPenlanTyoqieuPieuchiem = 'krap'
   xeithongkho.kriemsakPenlanShyonipPieuchiem = 'qrit'
+  xeithongkho.kriemsakPenlanShyonipPieuchiem = 'qrit'
+  dziwqrimKriemsakkho.triwPyangshiwk(Pyangshiwk.zyepheng)
 }
 
 const qanShiwxryn = (tuiziang: DziwqrimSryokio) => {
@@ -24,6 +27,7 @@ const qanShiwxryn = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioNipZyepheng('')
   xeithongkho.kriemsakPenlanTyoqieuPieuchiem = 'krap'
   xeithongkho.kriemsakPenlanShyonipPieuchiem = 'qrit'
+  dziwqrimKriemsakkho.triwPyangshiwk(Pyangshiwk.briengshyixryn)
 }
 
 const twkDryenthungQrimlyi = (dziwqrim: DziwqrimSryokio) => {
