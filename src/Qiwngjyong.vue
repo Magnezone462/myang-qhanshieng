@@ -1,54 +1,59 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
-import KriemsakPenlanCatia from '@/cogrien/KriemsakPenlanCatia.vue'
-import KriemsakPenlanXyutia from '@/cogrien/KriemsakPenlanXyutia.vue'
-import KriemsakTyolan from '@/cogrien/KriemsakTyolan.vue'
-import KriemsakTyolanChrioshiw from './cogrien/KriemsakTyolanChrioshiw.vue'
-import { jyongXeithongkho } from '@/changkho/xeithong'
-import { jyongDziwdeukho } from '@/changkho/dziwdeu'
+import { onMounted } from 'vue'
 import { useTheme as jyongTyodei } from 'vuetify'
+import { Nguaikuan } from '@/cisren/lyixeng'
+import { jyongXeithongkho } from '@/changkho/xeithong'
+import { jyongXeithongPundhikho } from '@/changkho/xeithongPundhi'
+import { jyongDziwdeukho } from '@/changkho/dziwdeu'
+import ChriosriwTyolan from './cogrien/ChriosriwTyolan.vue'
+import KriemsakPenlan from '@/cogrien/KriemsakPenlan.vue'
+import KriemsakTyolan from '@/cogrien/KriemsakTyolan.vue'
+import ShiettriwPenlan from '@/cogrien/ShiettriwPenlan.vue'
 
-const xeithongkho = jyongXeithongkho()
-const dziwdeukho = jyongDziwdeukho()
 const tyodei = jyongTyodei()
+const xeithongkho = jyongXeithongkho()
+const xeithongPundhikho = jyongXeithongPundhikho()
+const dziwdeukho = jyongDziwdeukho()
 
-const xuanTyodei = () => (tyodei.global.name.value = tyodei.global.current.value.dark ? 'light' : 'dark')
+onMounted(() => {
+  if (xeithongPundhikho.nguaikuan === Nguaikuan.dzidung) {
+    tyodei.global.name.value = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+  } else {
+    tyodei.global.name.value = xeithongPundhikho.nguaikuan
+  }
+})
 </script>
 
 <template>
-  <v-app>
-    <v-system-bar>
-      <v-spacer />
-      <v-btn
+  <VApp>
+    <ShiettriwPenlan temporary />
+
+    <VSystemBar>
+      <VSpacer />
+      <VBtn
         href="https://github.com/Magnezone462/myang-qhanshieng"
         target="_blank"
       >
         見源代碼
-      </v-btn>
-    </v-system-bar>
+      </VBtn>
+    </VSystemBar>
 
-    <v-app-bar>
-      <v-app-bar-nav-icon @click="xeithongkho.xuanKriemsakPenlanThryutheiCatia()" />
-      <v-app-bar-title>漢字文聲義</v-app-bar-title>
-      <v-btn
-        @click="xuanTyodei()"
-        icon="mdi-lightbulb"
+    <VAppBar>
+      <VAppBarNavIcon @click="xeithongkho.xuanKriemsakPenlanThryuthei()" />
+      <VAppBarTitle>漢字文聲義</VAppBarTitle>
+      <VBtn
+        @click="xeithongkho.xuanShiettriwPenlanThryuthei()"
+        icon="mdi-cog-outline"
       >
-      </v-btn>
-      <v-btn
-        @click="xeithongkho.xuanKriemsakPenlanThryutheiXyutia()"
-        icon="mdi-bookmark-multiple-outline"
-      >
-      </v-btn>
-    </v-app-bar>
+      </VBtn>
+    </VAppBar>
 
-    <KriemsakPenlanCatia />
+    <KriemsakPenlan />
 
-    <v-main>
-      <KriemsakTyolanChrioshiw v-if="dziwdeukho.srioSyenDziwdu === ''" />
+    <VMain>
+      <ChriosriwTyolan v-if="dziwdeukho.srioSyenDziwdu === ''" />
       <KriemsakTyolan v-else />
-    </v-main>
-
-    <KriemsakPenlanXyutia temporary />
-  </v-app>
+    </VMain>
+  </VApp>
 </template>

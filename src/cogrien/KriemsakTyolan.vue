@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/lyixeng'
 import { jyongXeithongkho } from '@/changkho/xeithong'
 import { jyongDziwqrimKriemsakkho } from '@/changkho/dziwqrimKriemsak'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
@@ -10,14 +11,23 @@ const dziwdeu = jyongDziwdeukho()
 const xeithongkho = jyongXeithongkho()
 const shiochiemkho = jyongShiochiemkho()
 
+const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.srioSyenDziwbyo}`
+
 const qanZyepheng = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioNipZyepheng(tuiziang.zyepheng)
-  xeithongkho.kriemsakPenlanCatiaPieuchiem = 'qrit'
+  dziwqrimKriemsakkho.triwSrioSyenShiwxryn('')
+  xeithongkho.kriemsakPenlanTyoqieuPieuchiem = 'krap'
+  xeithongkho.kriemsakPenlanShyonipPieuchiem = 'qrit'
+  xeithongkho.kriemsakPenlanShyonipPieuchiem = 'qrit'
+  dziwqrimKriemsakkho.triwPyangshiwk(Pyangshiwk.zyepheng)
 }
 
 const qanShiwxryn = (tuiziang: DziwqrimSryokio) => {
   dziwqrimKriemsakkho.triwSrioSyenShiwxryn(tuiziang.shiwxryn)
-  xeithongkho.kriemsakPenlanCatiaPieuchiem = 'qrit'
+  dziwqrimKriemsakkho.triwSrioNipZyepheng('')
+  xeithongkho.kriemsakPenlanTyoqieuPieuchiem = 'krap'
+  xeithongkho.kriemsakPenlanShyonipPieuchiem = 'qrit'
+  dziwqrimKriemsakkho.triwPyangshiwk(Pyangshiwk.briengshyixryn)
 }
 
 const twkDryenthungQrimlyi = (dziwqrim: DziwqrimSryokio) => {
@@ -45,40 +55,71 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
 </script>
 
 <template>
-  <v-container fluid>
-    <v-select
-      label="字種"
-      v-model="dziwdeu.srioSyenDziwbyo"
-      :items="[...dziwdeu.srioSyenDziwdu]"
-      @update:modelValue="dziwdeu.triwSrioSyenXengqrim(dziwdeu.srioSyenDziwbyo)"
-      variant="underlined"
-      density="compact"
-    />
-    <v-row>
-      <v-col>
-        <p class="tekisuto-eiti-tu font-weight-medium">{{ dziwdeu.srioSyenDziwbyo }}</p>
-        <p>{{ dziwdeu.srioSyenJiwtheidziw }}</p>
-      </v-col>
-      <v-spacer />
-      <v-btn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
-        <v-icon v-if="shiochiemkho.diepyuXwmDziwbyo(dziwdeu.srioSyenDziwbyo)"> mdi-bookmark </v-icon>
-        <v-icon v-else> mdi-bookmark-outline </v-icon>
-      </v-btn>
-    </v-row>
-    <v-row>
-      <v-col
+  <VContainer fluid>
+    <VRow>
+      <VCol cols="1">
+        <VSelect
+          label="字種"
+          v-model="dziwdeu.srioSyenDziwbyo"
+          :items="[...dziwdeu.srioSyenDziwdu]"
+          @update:modelValue="dziwdeu.triwSrioSyenXengqrim(dziwdeu.srioSyenDziwbyo)"
+          variant="underlined"
+          density="compact"
+        />
+      </VCol>
+    </VRow>
+    <VRow>
+      <VCol cols="9">
+        <p class="text-h2 font-weight-medium">{{ dziwdeu.srioSyenDziwbyo }}</p>
+        <p class="text-subtitle-1">{{ dziwdeu.srioSyenJiwtheidziw }}</p>
+      </VCol>
+
+      <VSpacer />
+
+      <VCol cols="auto">
+        <a :href="myutshiodangMyangtiwPyangqan">
+          <VBtn color="cyan">
+            <VIcon
+              size="x-large"
+              color="white"
+            >
+              mdi-bookshelf
+            </VIcon>
+          </VBtn>
+        </a>
+      </VCol>
+
+      <VCol cols="auto">
+        <VBtn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
+          <VIcon
+            v-if="shiochiemkho.dieXwmDziwbyo(dziwdeu.srioSyenDziwbyo)"
+            size="x-large"
+          >
+            mdi-bookmark
+          </VIcon>
+          <VIcon
+            v-else
+            size="x-large"
+          >
+            mdi-bookmark-outline
+          </VIcon>
+        </VBtn>
+      </VCol>
+    </VRow>
+    <VRow>
+      <VCol
         v-for="tuiziang in dziwdeu.twkSrioSyenDziwqrim"
         :key="tuiziang.pieutiwbyo"
         cols="12"
       >
-        <v-card>
-          <v-card-title
+        <VCard>
+          <VCardTitle
             @click="qanZyepheng(tuiziang)"
             style="cursor: pointer"
           >
             {{ tuiziang.zyepheng }}
-          </v-card-title>
-          <v-card-subtitle>
+          </VCardTitle>
+          <VCardSubtitle>
             {{ twkDryenthungQrimlyi(tuiziang) }}
             <span
               class="hei-sui-in"
@@ -86,8 +127,8 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
             >
               {{ tuiziang.shiwxryn }}
             </span>
-          </v-card-subtitle>
-          <v-card-text>
+          </VCardSubtitle>
+          <VCardText>
             <div v-if="tuiziang.pyanchet_ChX">
               {{ `《切韵》${twkChX(tuiziang)}` }}
             </div>
@@ -109,11 +150,11 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
             <p v-if="tuiziang.ngrietyo">
               {{ `釋音義：${tuiziang.ngrietyo}` }}
             </p>
-          </v-card-text>
-        </v-card>
-      </v-col>
-    </v-row>
-  </v-container>
+          </VCardText>
+        </VCard>
+      </VCol>
+    </VRow>
+  </VContainer>
 </template>
 
 <style scoped lang="css">

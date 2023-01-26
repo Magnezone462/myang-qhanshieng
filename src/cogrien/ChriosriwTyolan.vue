@@ -1,43 +1,43 @@
 <template>
-  <v-container fluid>
-    <v-row>
-      <v-col cols="12">
-        <v-card>
-          <v-card-title> 網絡本《漢字文聲義》</v-card-title>
-          <v-card-subtitle> オンライン エディション ノ 《アヤナブミ ノ コエゴコロ》</v-card-subtitle>
-          <v-card-text>
+  <VContainer fluid>
+    <VRow>
+      <VCol cols="12">
+        <VCard>
+          <VCardTitle> 網絡本《漢字文聲義》</VCardTitle>
+          <VCardSubtitle> オンライン エディション ノ 《アヤナブミ ノ コエゴコロ》</VCardSubtitle>
+          <VCardText>
             <p>
               <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1599693"> 《漢字文聲義》 </a>
               のオンラインバージョンです。
             </p>
             <p>紙面の制約とかがないので，こっちのが少しだけ詳しいです。</p>
-          </v-card-text>
-        </v-card>
-      </v-col>
+          </VCardText>
+        </VCard>
+      </VCol>
 
-      <v-col cols="12">
-        <v-card>
-          <v-card-title> GitHub </v-card-title>
-          <v-card-subtitle> ギットハブ </v-card-subtitle>
-          <v-card-text>
+      <VCol cols="12">
+        <VCard>
+          <VCardTitle> GitHub </VCardTitle>
+          <VCardSubtitle> ギットハブ </VCardSubtitle>
+          <VCardText>
             <p><a href="https://github.com/Magnezone462/myang-qhanshieng"> Magnezone462 / myang-qhanshieng </a></p>
             <p>右上のボタンからも行けます。</p>
-          </v-card-text>
-        </v-card>
-      </v-col>
+          </VCardText>
+        </VCard>
+      </VCol>
 
-      <v-col cols="12">
-        <v-card>
-          <v-card-title>利用方法 </v-card-title><v-card-subtitle> ツカイカタ </v-card-subtitle>
-          <v-container fluid>
-            <v-row>
-              <v-col>
-                <v-card cols="auto">
-                  <v-card-title class="tekisuto-sabutaitoru-wan"> 左サイドバー（漢字檢索） </v-card-title>
-                  <v-card-subtitle class="tekisuto-kyapusyon">
+      <VCol cols="12">
+        <VCard>
+          <VCardTitle>利用方法 </VCardTitle><VCardSubtitle> ツカイカタ </VCardSubtitle>
+          <VContainer fluid>
+            <VRow>
+              <VCol>
+                <VCard cols="12">
+                  <VCardTitle class="text-subtitle-1"> 左サイドバー（漢字檢索） </VCardTitle>
+                  <VCardSubtitle class="text-caption">
                     ヒダリ ノ サイドバー（チューゴク-モジ オ サガス）
-                  </v-card-subtitle>
-                  <v-card-text>
+                  </VCardSubtitle>
+                  <VCardText>
                     <ol class="odado-risuto">
                       <li>
                         左サイドバーから漢字を檢索します。上メニューバー左部のボタンを押すと，左サイドバーが開閉します。
@@ -50,17 +50,17 @@
                       </li>
                       <li>檢索結果一覽から字を選擇します。中央メインウィンドウに字の詳細が表示されます。</li>
                     </ol>
-                  </v-card-text>
-                </v-card>
-              </v-col>
+                  </VCardText>
+                </VCard>
+              </VCol>
 
-              <v-col cols="auto">
-                <v-card>
-                  <v-card-title class="tekisuto-sabutaitoru-wan"> 中央メインウィンドウ（漢字詳細） </v-card-title>
-                  <v-card-subtitle class="tekisuto-kyapusyon">
+              <VCol cols="12">
+                <VCard>
+                  <VCardTitle class="text-subtitle-1"> 中央メインウィンドウ（漢字詳細） </VCardTitle>
+                  <VCardSubtitle class="text-caption">
                     マンナカ ノ メインウインドー（チューゴク-モジ オ クワシク ミル）
-                  </v-card-subtitle>
-                  <v-card-text>
+                  </VCardSubtitle>
+                  <VCardText>
                     <ol class="odado-risuto">
                       <li>中央メインウィンドウから漢字の詳細情報を閲覽します。</li>
                       <li>
@@ -70,17 +70,17 @@
                         右のブックマークボタンを押すと，その字がブックマークに登録されます。すでに登録濟みの場合は，登録が解除されます。
                       </li>
                     </ol>
-                  </v-card-text>
-                </v-card>
-              </v-col>
+                  </VCardText>
+                </VCard>
+              </VCol>
 
-              <v-col cols="auto">
-                <v-card>
-                  <v-card-title class="tekisuto-sabutaitoru-wan"> 右サイドバー（ブックマークと履歷） </v-card-title>
-                  <v-card-subtitle class="tekisuto-kyapusyon">
+              <VCol cols="12">
+                <VCard>
+                  <VCardTitle class="text-subtitle-1"> 右サイドバー（ブックマークと履歷） </VCardTitle>
+                  <VCardSubtitle class="text-caption">
                     ミギ ノ サイドバー（ブックマーク ト ヒストリー オ ミル）
-                  </v-card-subtitle>
-                  <v-card-text>
+                  </VCardSubtitle>
+                  <VCardText>
                     <ol class="odado-risuto">
                       <li>
                         右サイドバーからブックマークと履歷を閲覽します。上メニューバー右部のボタンを押すと，右サイドバーが開閉します。
@@ -91,19 +91,19 @@
                       <li>一覽から字を選擇すると，中央メインウィンドウに字の詳細が表示されます。</li>
                       <li>右サイドバー下部のゴミ箱ボタンを押すと，ブックマークまたは履歷がすべて削除されます。</li>
                     </ol>
-                  </v-card-text>
-                </v-card>
-              </v-col>
-            </v-row>
-          </v-container>
-        </v-card>
-      </v-col>
+                  </VCardText>
+                </VCard>
+              </VCol>
+            </VRow>
+          </VContainer>
+        </VCard>
+      </VCol>
 
-      <v-col cols="12">
-        <v-card>
-          <v-card-title> フォントに關して </v-card-title>
-          <v-card-subtitle> フォント ニ ツイテ </v-card-subtitle>
-          <v-card-text>
+      <VCol cols="12">
+        <VCard>
+          <VCardTitle> フォントに關して </VCardTitle>
+          <VCardSubtitle> フォント ニ ツイテ </VCardSubtitle>
+          <VCardText>
             <p>本ページでは，Webフォントとして</p>
             <ul class="odado-risuto">
               <li>
@@ -127,15 +127,15 @@
               <a href="https://github.com/adobe-fonts/source-han-serif">思源宋體（Source Han Serif SC/CN）</a>
               をインストールしておくと，通信が少し抑えられるかもしれません。
             </p>
-          </v-card-text>
-        </v-card>
-      </v-col>
+          </VCardText>
+        </VCard>
+      </VCol>
 
-      <v-col cols="12">
-        <v-card>
-          <v-card-title> その他 </v-card-title>
-          <v-card-subtitle> ソノホカ </v-card-subtitle>
-          <v-card-text>
+      <VCol cols="12">
+        <VCard>
+          <VCardTitle> その他 </VCardTitle>
+          <VCardSubtitle> ソノホカ </VCardSubtitle>
+          <VCardText>
             <p>
               追加して欲しい/追加したい機能、情報を募集してゐます。聯絡はGitHubもしくは
               <a href="https://twitter.com/Magnezone462">@Magnezone462@twitter.com </a>
@@ -144,11 +144,11 @@
             <p>
               ただし未收録字はまだ氣合ひで追加してるのでそれに關してはナシで。（資料とか全て整理してくれるならいいよ。）
             </p>
-          </v-card-text>
-        </v-card>
-      </v-col>
-    </v-row>
-  </v-container>
+          </VCardText>
+        </VCard>
+      </VCol>
+    </VRow>
+  </VContainer>
 </template>
 
 <style scoped lang="scss">

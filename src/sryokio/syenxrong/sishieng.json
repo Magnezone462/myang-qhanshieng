@@ -1,0 +1,38 @@
+[
+    {
+        "zio": "1",
+        "qhandziw_tuan": "平",
+        "qhandziw_driang": "平聲",
+        "zyepheng_tuan": "Brieŋ",
+        "zyepheng_driang": "Brieŋshieŋ",
+        "katakana_mizikai": "レベル",
+        "katakana_nagai": "レベル トーン"
+    },
+    {
+        "zio": "2",
+        "qhandziw_tuan": "上",
+        "qhandziw_driang": "上聲",
+        "zyepheng_tuan": "Diáŋ",
+        "zyepheng_driang": "Diáŋshieŋ",
+        "katakana_mizikai": "ライジング",
+        "katakana_nagai": "ライジング トーン"
+    },
+    {
+        "zio": "3",
+        "qhandziw_tuan": "去",
+        "qhandziw_driang": "去聲",
+        "zyepheng_tuan": "Khiô",
+        "zyepheng_driang": "Khiôshieŋ",
+        "katakana_mizikai": "デパーチング",
+        "katakana_nagai": "デパーチング トーン"
+    },
+    {
+        "zio": "4",
+        "qhandziw_tuan": "入",
+        "qhandziw_driang": "入聲",
+        "zyepheng_tuan": "Nip",
+        "zyepheng_driang": "Nipshieŋ",
+        "katakana_mizikai": "エンタリング",
+        "katakana_nagai": "エンタリング トーン"
+    }
+]
