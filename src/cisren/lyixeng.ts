@@ -48,3 +48,10 @@ export interface DziwqrimSryokio {
   ngrietyo: string
   thongqitmra: string
 }
+
+// 外觀: アピアランス
+export enum Nguaikuan {
+  chiensriwk = 'light',
+  shimsriwk = 'dark',
+  dzidung = 'automatic',
+}

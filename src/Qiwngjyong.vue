@@ -1,14 +1,28 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
-import KriemsakPenlan from '@/cogrien/KriemsakPenlan.vue'
-import ShiettriwPenlan from '@/cogrien/ShiettriwPenlan.vue'
-import KriemsakTyolan from '@/cogrien/KriemsakTyolan.vue'
-import ChriosriwTyolan from './cogrien/ChriosriwTyolan.vue'
+import { onMounted } from 'vue'
+import { useTheme as jyongTyodei } from 'vuetify'
+import { Nguaikuan } from '@/cisren/lyixeng'
 import { jyongXeithongkho } from '@/changkho/xeithong'
+import { jyongXeithongPundhikho } from '@/changkho/xeithongPundhi'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
+import ChriosriwTyolan from './cogrien/ChriosriwTyolan.vue'
+import KriemsakPenlan from '@/cogrien/KriemsakPenlan.vue'
+import KriemsakTyolan from '@/cogrien/KriemsakTyolan.vue'
+import ShiettriwPenlan from '@/cogrien/ShiettriwPenlan.vue'
 
+const tyodei = jyongTyodei()
 const xeithongkho = jyongXeithongkho()
+const xeithongPundhikho = jyongXeithongPundhikho()
 const dziwdeukho = jyongDziwdeukho()
+
+onMounted(() => {
+  if (xeithongPundhikho.nguaikuan === Nguaikuan.dzidung) {
+    tyodei.global.name.value = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+  } else {
+    tyodei.global.name.value = xeithongPundhikho.nguaikuan
+  }
+})
 </script>
 
 <template>

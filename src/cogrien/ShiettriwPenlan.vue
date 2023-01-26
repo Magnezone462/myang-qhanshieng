@@ -1,11 +1,26 @@
 <script setup lang="ts">
-import { jyongXeithongkho } from '@/changkho/xeithong'
+import { computed } from 'vue'
 import { useTheme as jyongTyodei } from 'vuetify'
+import { Nguaikuan } from '@/cisren/lyixeng'
+import { jyongXeithongkho } from '@/changkho/xeithong'
+import { jyongXeithongPundhikho } from '@/changkho/xeithongPundhi'
 
-const xeithongkho = jyongXeithongkho()
 const tyodei = jyongTyodei()
+const xeithongkho = jyongXeithongkho()
+const xeithongPundhikho = jyongXeithongPundhikho()
 
-const xuanTyodei = () => (tyodei.global.name.value = tyodei.global.current.value.dark ? 'light' : 'dark')
+const xuanNguaikuan = (kradriw: Nguaikuan) => {
+  xeithongPundhikho.nguaikuan = kradriw
+  if (kradriw === Nguaikuan.dzidung) {
+    tyodei.global.name.value = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+  } else {
+    if (kradriw === 'dark') {
+      tyodei.global.name.value = 'dark'
+    } else {
+      tyodei.global.name.value = 'light'
+    }
+  }
+}
 </script>
 
 <template>
@@ -13,14 +28,38 @@ const xuanTyodei = () => (tyodei.global.name.value = tyodei.global.current.value
     v-model="xeithongkho.shiettriwPenlanThryuthei"
     location="right"
   >
+    <VToolbar>
+      <VToolbarTitle>設置</VToolbarTitle>
+    </VToolbar>
+
     <VContainer>
+      <div class="text-subtitle-2 font-weight-black text-undefined mb-0 ps-1">外觀</div>
       <VRow>
-        <VCol cols="12">
+        <VCol cols="6">
           <VBtn
-            @click="xuanTyodei()"
+            @click="xuanNguaikuan(Nguaikuan.chiensriwk)"
+            :class="xeithongPundhikho.nguaikuan === Nguaikuan.chiensriwk ? 'v-btn--active' : ''"
             block
           >
-            <VIcon>mdi-lightbulb</VIcon>
+            淺色
+          </VBtn>
+        </VCol>
+        <VCol cols="6">
+          <VBtn
+            @click="xuanNguaikuan(Nguaikuan.shimsriwk)"
+            :class="xeithongPundhikho.nguaikuan === Nguaikuan.shimsriwk ? 'v-btn--active' : ''"
+            block
+          >
+            深色
+          </VBtn>
+        </VCol>
+        <VCol cols="12">
+          <VBtn
+            @click="xuanNguaikuan(Nguaikuan.dzidung)"
+            :class="xeithongPundhikho.nguaikuan === Nguaikuan.dzidung ? 'v-btn--active' : ''"
+            block
+          >
+            自動
           </VBtn>
         </VCol>
       </VRow>
