@@ -7,7 +7,7 @@ export const jyongXeithongPundhikho = defineStore(
   'xeithongPundhi',
   () => {
     // 外觀: アピアランス
-    const nguaikuan = ref(<Nguaikuan>Nguaikuan.dzidung)
+    const nguaikuan = ref(Nguaikuan.dzidung)
 
     // 置外觀: セット アピアランス
     const triwNguaikuan = (kradriw: Nguaikuan): void => {

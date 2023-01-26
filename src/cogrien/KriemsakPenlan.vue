@@ -16,9 +16,9 @@ const xeithongkho = jyongXeithongkho()
       v-model="xeithongkho.kriemsakPenlanTyoqieuPieuchiem"
       fixed-tabs
     >
-      <VTab value="krap"><VIcon> mdi-magnify </VIcon></VTab>
-      <VTab value="qrit"><VIcon> mdi-bookmark-multiple-outline </VIcon></VTab>
-      <VTab value="prieng"><VIcon> mdi-history </VIcon></VTab>
+      <VTab value="krap"><VIcon size="large"> mdi-magnify </VIcon></VTab>
+      <VTab value="qrit"><VIcon size="large"> mdi-bookmark-multiple-outline </VIcon></VTab>
+      <VTab value="prieng"><VIcon size="large"> mdi-history </VIcon></VTab>
     </VTabs>
     <VWindow v-model="xeithongkho.kriemsakPenlanTyoqieuPieuchiem">
       <VWindowItem value="krap">

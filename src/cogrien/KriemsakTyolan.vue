@@ -74,16 +74,31 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
 
       <VCol cols="auto">
         <a :href="myutshiodangMyangtiwPyangqan">
-          <VBtn>
-            <VIcon> mdi-book-alphabet </VIcon>
+          <VBtn color="cyan">
+            <VIcon
+              size="x-large"
+              color="white"
+            >
+              mdi-bookshelf
+            </VIcon>
           </VBtn>
         </a>
       </VCol>
 
       <VCol cols="auto">
         <VBtn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
-          <VIcon v-if="shiochiemkho.dieXwmDziwbyo(dziwdeu.srioSyenDziwbyo)"> mdi-bookmark </VIcon>
-          <VIcon v-else> mdi-bookmark-outline </VIcon>
+          <VIcon
+            v-if="shiochiemkho.dieXwmDziwbyo(dziwdeu.srioSyenDziwbyo)"
+            size="x-large"
+          >
+            mdi-bookmark
+          </VIcon>
+          <VIcon
+            v-else
+            size="x-large"
+          >
+            mdi-bookmark-outline
+          </VIcon>
         </VBtn>
       </VCol>
     </VRow>
