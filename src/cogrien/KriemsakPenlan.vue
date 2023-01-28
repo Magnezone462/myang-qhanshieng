@@ -1,8 +1,9 @@
 <script setup lang="ts">
+import { KriemsakPieuchiem } from '@/cisren/muikio'
 import { jyongXeithongkho } from '@/changkho/xeithong'
-import KriemsakPenlanShyonip from './KriemsakPenlanShyonip.vue'
-import KriemsakPenlanShiochiem from './KriemsakPenlanShiochiem.vue'
-import KriemsakPenlanLeksriw from './KriemsakPenlanLeksriw.vue'
+import KriemsakPenlanShyonip from '@/cogrien/KriemsakPenlanShyonip.vue'
+import KriemsakPenlanShiochiem from '@/cogrien/KriemsakPenlanShiochiem.vue'
+import KriemsakPenlanLeksriw from '@/cogrien/KriemsakPenlanLeksriw.vue'
 
 const xeithongkho = jyongXeithongkho()
 </script>
@@ -13,19 +14,23 @@ const xeithongkho = jyongXeithongkho()
     location="left"
   >
     <VTabs
-      v-model="xeithongkho.kriemsakPenlanTyoqieuPieuchiem"
+      v-model="xeithongkho.kriemsakPieuchiem"
       fixed-tabs
     >
-      <VTab value="krap"><VIcon size="large"> mdi-magnify </VIcon></VTab>
-      <VTab value="qrit"><VIcon size="large"> mdi-bookmark-multiple-outline </VIcon></VTab>
-      <VTab value="prieng"><VIcon size="large"> mdi-history </VIcon></VTab>
+      <VTab :value="KriemsakPieuchiem.shyonip"><VIcon size="large"> mdi-magnify </VIcon></VTab>
+      <VTab :value="KriemsakPieuchiem.shiochiem"><VIcon size="large"> mdi-bookmark-multiple-outline </VIcon></VTab>
+      <VTab :value="KriemsakPieuchiem.leksriw"><VIcon size="large"> mdi-history </VIcon></VTab>
     </VTabs>
-    <VWindow v-model="xeithongkho.kriemsakPenlanTyoqieuPieuchiem">
-      <VWindowItem value="krap">
+    <VWindow v-model="xeithongkho.kriemsakPieuchiem">
+      <VWindowItem :value="KriemsakPieuchiem.shyonip">
         <KriemsakPenlanShyonip />
       </VWindowItem>
-      <VWindowItem value="qrit"> <KriemsakPenlanShiochiem /> </VWindowItem>
-      <VWindowItem value="prieng">
+
+      <VWindowItem :value="KriemsakPieuchiem.shiochiem">
+        <KriemsakPenlanShiochiem />
+      </VWindowItem>
+
+      <VWindowItem :value="KriemsakPieuchiem.leksriw">
         <KriemsakPenlanLeksriw />
       </VWindowItem>
     </VWindow>

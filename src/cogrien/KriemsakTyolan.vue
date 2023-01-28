@@ -16,17 +16,17 @@ const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.srioSyen
 const qanZyepheng = (tuiziang: DziwqrimSryokio) => {
   kriemsakDziwqrimkho.triwSrioNipZyepheng(tuiziang.zyepheng)
   kriemsakDziwqrimkho.triwSrioSyenShiwxryn('')
-  xeithongkho.kriemsakPenlanTyoqieuPieuchiem = 'krap'
-  xeithongkho.kriemsakPenlanShyonipPieuchiem = 'qrit'
-  xeithongkho.kriemsakPenlanShyonipPieuchiem = 'qrit'
+  xeithongkho.kriemsakPieuchiem = 'krap'
+  xeithongkho.shyonipPieuchiem = 'qrit'
+  xeithongkho.shyonipPieuchiem = 'qrit'
   kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.zyepheng)
 }
 
 const qanShiwxryn = (tuiziang: DziwqrimSryokio) => {
   kriemsakDziwqrimkho.triwSrioSyenShiwxryn(tuiziang.shiwxryn)
   kriemsakDziwqrimkho.triwSrioNipZyepheng('')
-  xeithongkho.kriemsakPenlanTyoqieuPieuchiem = 'krap'
-  xeithongkho.kriemsakPenlanShyonipPieuchiem = 'qrit'
+  xeithongkho.kriemsakPieuchiem = 'krap'
+  xeithongkho.shyonipPieuchiem = 'qrit'
   kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.briengshyixryn)
 }
 

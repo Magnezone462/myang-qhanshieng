@@ -1,26 +1,27 @@
 <script setup lang="ts">
+import { ShyonipPieuchiem } from '@/cisren/muikio'
 import { jyongXeithongkho } from '@/changkho/xeithong'
-import KriemsakPenlanShyonipDziwbyo from './KriemsakPenlanShyonipDziwbyo.vue'
-import KriemsakPenlanShyonipDziwqrim from './KriemsakPenlanShyonipDziwqrim.vue'
+import KriemsakPenlanShyonipDziwbyo from '@/cogrien/KriemsakPenlanShyonipDziwbyo.vue'
+import KriemsakPenlanShyonipDziwqrim from '@/cogrien/KriemsakPenlanShyonipDziwqrim.vue'
 
 const xeithongkho = jyongXeithongkho()
 </script>
 
 <template>
   <VTabs
-    v-model="xeithongkho.kriemsakPenlanShyonipPieuchiem"
+    v-model="xeithongkho.shyonipPieuchiem"
     fixed-tabs
   >
-    <VTab value="krap">字符</VTab>
-    <VTab value="qrit">字音</VTab>
+    <VTab :value="ShyonipPieuchiem.dziwbyo">字符</VTab>
+    <VTab :value="ShyonipPieuchiem.dziqrim">字音</VTab>
   </VTabs>
 
-  <VWindow v-model="xeithongkho.kriemsakPenlanShyonipPieuchiem">
-    <VWindowItem value="krap">
+  <VWindow v-model="xeithongkho.shyonipPieuchiem">
+    <VWindowItem :value="ShyonipPieuchiem.dziwbyo">
       <KriemsakPenlanShyonipDziwbyo />
     </VWindowItem>
 
-    <VWindowItem value="qrit">
+    <VWindowItem :value="ShyonipPieuchiem.dziqrim">
       <KriemsakPenlanShyonipDziwqrim />
     </VWindowItem>
   </VWindow>
