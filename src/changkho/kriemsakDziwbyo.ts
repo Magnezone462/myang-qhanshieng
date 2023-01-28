@@ -1,37 +1,38 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
-import dziwxeng from '../sryokio/dziwxeng.json'
-import type { DziwxengSryokio } from '@/cisren/lyixeng'
+import DZIWBYO from '../sryokio/DZIWBYO.json'
+import type { DziwbyoCileu } from '@/cisren/lyixeng'
 
 export const jyongKriemsakDziwbyokho = defineStore('kriemsakDziwbyo', () => {
-  const srioNipQhandziwthyen = ref('')
-  const kriemsakKetkua = ref(<DziwxengSryokio[]>[])
+  // 字符串: キャラクター ストリング
+  const qhandziwthyen = ref('')
 
-  const twkSrioNipQhandziwthyen = computed(() => srioNipQhandziwthyen.value)
-  const twkKriemsakKetkua = computed(() => kriemsakKetkua.value)
+  // 結果: リザルト
+  const ketkua = ref(<DziwbyoCileu[]>[])
 
-  const triwSrioNipQhandziwthyen = (grien: string) => {
-    srioNipQhandziwthyen.value = grien
-  }
+  // 得結果: ゲット リザルト
+  const twkKetkua = computed(() => ketkua.value)
 
-  const triwKriemsakKetkua = () => {
-    kriemsakKetkua.value = []
-    for (const dziwbyo of srioNipQhandziwthyen.value) {
-      const dziwbyoKriemsakKetkua = dziwxeng.filter((tuiziang) => {
-        return tuiziang.dziw === dziwbyo
+  // 置結果: セット リザルト
+  const triwKetkua = () => {
+    ketkua.value = []
+    console.log('hoge2')
+    // dziwbyo（字符: キャラクター)
+    for (const dziwbyo of qhandziwthyen.value) {
+      // tandziwKetkua (單字結果: シングル キャラクター リザルト)
+      // kiwlyok (記録: レコード)
+      console.log('hoge')
+      const tandziwKetkua = DZIWBYO.find((kiwlyok) => {
+        return kiwlyok.dziwbyo === dziwbyo
       })
-      for (const tuiziang of dziwbyoKriemsakKetkua) {
-        kriemsakKetkua.value.push(tuiziang)
-      }
+      if (tandziwKetkua) ketkua.value.push(tandziwKetkua)
     }
   }
 
   return {
-    srioNipQhandziwthyen,
-    kriemsakKetkua,
-    twkSrioNipQhandziwthyen,
-    twkKriemsakKetkua,
-    triwSrioNipQhandziwthyen,
-    triwKriemsakKetkua,
+    qhandziwthyen,
+    ketkua,
+    twkKetkua,
+    triwKetkua,
   }
 })

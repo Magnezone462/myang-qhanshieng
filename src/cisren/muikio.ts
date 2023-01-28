@@ -25,6 +25,7 @@ export type Nguaikuan = (typeof Nguaikuan)[keyof typeof Nguaikuan]
 // 輸入標籤: インプット タブ
 export const ShyonipPieuchiem = {
   dziwbyo: 0,
-  dziqrim: 1,
+  dziwxeng: 1,
+  dziqrim: 2,
 } as const
 export type ShyonipPieuchiem = (typeof ShyonipPieuchiem)[keyof typeof ShyonipPieuchiem]

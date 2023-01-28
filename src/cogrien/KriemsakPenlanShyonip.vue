@@ -13,11 +13,16 @@ const xeithongkho = jyongXeithongkho()
     fixed-tabs
   >
     <VTab :value="ShyonipPieuchiem.dziwbyo">字符</VTab>
+    <VTab :value="ShyonipPieuchiem.dziwxeng">字形</VTab>
     <VTab :value="ShyonipPieuchiem.dziqrim">字音</VTab>
   </VTabs>
 
   <VWindow v-model="xeithongkho.shyonipPieuchiem">
     <VWindowItem :value="ShyonipPieuchiem.dziwbyo">
+      <KriemsakPenlanShyonipDziwbyo />
+    </VWindowItem>
+
+    <VWindowItem :value="ShyonipPieuchiem.dziwxeng">
       <KriemsakPenlanShyonipDziwbyo />
     </VWindowItem>
 

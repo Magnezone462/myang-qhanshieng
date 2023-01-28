@@ -1,3 +1,13 @@
+/**
+ * 字符資料: キャラクター データ
+ */
+export interface DziwbyoCileu {
+  pieutiwbyo: string
+  dziwbyo: string
+  dziwbyoNguaidziw: string
+  thongqitmra: string
+}
+
 // Dziwxeng.json no kata tegi desu.
 export interface DziwxengSryokio {
   pieutiwbyo: string
