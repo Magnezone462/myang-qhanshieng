@@ -2,89 +2,93 @@ import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
 import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/muikio'
 import dziwqrim from '@/sryokio/dziwqrim.json'
-import type { DziwqrimSryokio } from '@/cisren/lyixeng'
+import type { DziwqrimCileu } from '@/cisren/lyixeng'
 
-// 所選詩韵: セレクテッド チャイニーズ ポエム ライム
-type SrioSyenShiwxryn = string | null
+/**
+ * 下拉框: ドロップダウン フィールド
+ */
+type Xralakhyang = string | null
 
-// 所選韵攝, 所選開合, 所選等位, 所選四聲, 所選韵目, 所選聲母: セレクテッド チャイニーズ ライム スタヂーズ インフォメーションズ
-type SrioSyenXrynShiep = string | null
-type SrioSyenKhwixwp = string | null
-type SrioSyenTwixryi = string | null
-type SrioSyenSishieng = string | null
-type SrioSyenXrynmyuk = string | null
-type SrioSyenShiengmu = string | null
-
+/**
+ * 用檢索字音庫: ユーズ サーチ プロナンシエーション ストア
+ */
 export const jyongKriemsakDziwqrimkho = defineStore('kriemsakDziwqrim', () => {
-  // 方式: モード
+  /**
+   * 方式: モード
+   */
   const pyangshiwk = ref(<Pyangshiwk>Pyangshiwk.zyepheng)
 
-  // 所入隋拼: インプテッド スイ チャイニーズ アルファベット
-  const srioNipZyepheng = ref(<string>'')
+  /**
+   * 隋拼: スイ チャイニーズ アルファベット
+   */
+  const zyepheng = ref(<string>'')
 
-  // 所選詩韵: セレクテッド チャイニーズ ポエム ライム
-  const srioSyenShiwxryn = ref(<SrioSyenShiwxryn>null)
+  /**
+   * 詩韵: チャイニーズ ポエム ライム
+   */
+  const shiwxryn = ref(<Xralakhyang>null)
 
-  // 所選韵攝, 所選開合, 所選等位, 所選四聲, 所選韵目, 所選聲母: セレクテッド チャイニーズ ライム スタヂーズ インフォメーションズ
-  const srioSyenXrynshiep = ref(<SrioSyenXrynShiep>null)
-  const srioSyenKhwixwp = ref(<SrioSyenKhwixwp>null)
-  const srioSyenTwixryi = ref(<SrioSyenTwixryi>null)
-  const srioSyenSishieng = ref(<SrioSyenSishieng>null)
-  const srioSyenXrynmyuk = ref(<SrioSyenXrynmyuk>null)
-  const srioSyenShiengmu = ref(<SrioSyenShiengmu>null)
+  // 韵攝, 開合, 等位, 四聲, 韵目, 聲母: チャイニーズ ライム スタヂーズ インフォメーションズ
+  const xrynshiep = ref(<Xralakhyang>null)
+  const khwixwp = ref(<Xralakhyang>null)
+  const twixryi = ref(<Xralakhyang>null)
+  const sishieng = ref(<Xralakhyang>null)
+  const xrynmyuk = ref(<Xralakhyang>null)
+  const shiengmu = ref(<Xralakhyang>null)
 
-  // 檢索結果: サーチ リザルト
-  const kriemsakKetkua = ref(<DziwqrimSryokio[]>[])
+  /**
+   * 結果: リザルト
+   */
+  const ketkua = ref(<DziwqrimCileu[]>[])
 
-  // 得檢索結果: ゲット サーチ リザルト
-  const twkKriemsakKetkua = computed(() => kriemsakKetkua.value)
+  /**
+   * 得結果: ゲット リザルト
+   */
+  const twkKetkua = computed(() => ketkua.value)
 
-  // 置檢索結果: セット サーチ リザルト
-  const triwPyangshiwk = (grien: Pyangshiwk) => {
-    pyangshiwk.value = grien
-  }
+  /**
+   * 置方式: セット モード
+   */
+  const triwPyangshiwk = (grien: Pyangshiwk) => (pyangshiwk.value = grien)
 
-  // 置檢索結果: セット サーチ リザルト
-  const triwSrioNipZyepheng = (grien: SrioNipZyepheng) => {
-    srioNipZyepheng.value = grien
-  }
+  /**
+   * 置隋拼: セット スイ チャイニーズ アルファベット
+   */
+  const triwZyepheng = (grien: string) => (zyepheng.value = grien)
 
-  // 置檢索結果: セット サーチ リザルト
-  const triwSrioSyenShiwxryn = (grien: SrioSyenShiwxryn) => {
-    srioSyenShiwxryn.value = grien
-  }
+  /**
+   * 置詩韵: セット チャイニーズ ポエム ライム
+   */
+  const triwShiwxryn = (grien: Xralakhyang) => (shiwxryn.value = grien)
 
-  // 置檢索結果: セット サーチ リザルト
-  const triwSrioSyenShiengmu = (grien: SrioSyenShiengmu) => {
-    srioSyenShiwxryn.value = grien
-  }
-
-  // 置檢索結果: セット サーチ リザルト
-  const triwKriemsakKetkua = () => {
-    kriemsakKetkua.value = dziwqrim.filter((tuiziang) => {
+  /**
+   * 置結果: セット リザルト
+   */
+  const triwKetkua = () => {
+    ketkua.value = dziwqrim.filter((kiwlyok) => {
       switch (pyangshiwk.value) {
         case Pyangshiwk.zyepheng:
-          return tuiziang.zyepheng === srioNipZyepheng.value
+          return kiwlyok.zyepheng === zyepheng.value
         case Pyangshiwk.briengshyixryn: {
-          const lioShiwxryn = srioSyenShiwxryn.value ? tuiziang.shiwxryn === srioSyenShiwxryn.value : true
-          const lioShiengmu = srioSyenShiengmu.value ? tuiziang.shieng === srioSyenShiengmu.value : true
-          const myuinip = !srioSyenShiwxryn.value && !srioSyenShiengmu.value
+          const myuinip = !shiwxryn.value && !shiengmu.value
+          const lioShiwxryn = shiwxryn.value ? kiwlyok.shiwxryn === shiwxryn.value : true
+          const lioShiengmu = shiengmu.value ? kiwlyok.shieng === shiengmu.value : true
           return !myuinip && lioShiwxryn && lioShiengmu
         }
         case Pyangshiwk.twixrynxrok: {
           const myuinip =
-            !srioSyenXrynshiep.value &&
-            !srioSyenKhwixwp.value &&
-            !srioSyenTwixryi.value &&
-            !srioSyenSishieng.value &&
-            !srioSyenXrynmyuk.value &&
-            !srioSyenShiengmu.value
-          const lioXrynshiep = srioSyenXrynshiep.value ? tuiziang.shiep === srioSyenXrynshiep.value : true
-          const lioKhwixwp = srioSyenKhwixwp.value ? tuiziang.qho === srioSyenKhwixwp.value : true
-          const lioTwixryi = srioSyenTwixryi.value ? tuiziang.twng === srioSyenTwixryi.value : true
-          const lioSishieng = srioSyenSishieng.value ? tuiziang.deu === srioSyenSishieng.value : true
-          const lioXrynmyuk = srioSyenXrynmyuk.value ? tuiziang.xryn === srioSyenXrynmyuk.value : true
-          const lioShiengmu = srioSyenShiengmu.value ? tuiziang.shieng === srioSyenShiengmu.value : true
+            !xrynshiep.value &&
+            !khwixwp.value &&
+            !twixryi.value &&
+            !sishieng.value &&
+            !xrynmyuk.value &&
+            !shiengmu.value
+          const lioXrynshiep = xrynshiep.value ? kiwlyok.shiep === xrynshiep.value : true
+          const lioKhwixwp = khwixwp.value ? kiwlyok.qho === khwixwp.value : true
+          const lioTwixryi = twixryi.value ? kiwlyok.twng === twixryi.value : true
+          const lioSishieng = sishieng.value ? kiwlyok.deu === sishieng.value : true
+          const lioXrynmyuk = xrynmyuk.value ? kiwlyok.xryn === xrynmyuk.value : true
+          const lioShiengmu = shiengmu.value ? kiwlyok.shieng === shiengmu.value : true
           return !myuinip && lioXrynshiep && lioKhwixwp && lioTwixryi && lioSishieng && lioXrynmyuk && lioShiengmu
         }
       }
@@ -93,19 +97,18 @@ export const jyongKriemsakDziwqrimkho = defineStore('kriemsakDziwqrim', () => {
 
   return {
     pyangshiwk,
-    srioNipZyepheng,
-    srioSyenShiwxryn,
-    srioSyenXrynshiep,
-    srioSyenKhwixwp,
-    srioSyenTwixryi,
-    srioSyenSishieng,
-    srioSyenXrynmyuk,
-    srioSyenShiengmu,
-    twkKriemsakKetkua,
+    zyepheng,
+    shiwxryn,
+    xrynshiep,
+    khwixwp,
+    twixryi,
+    sishieng,
+    xrynmyuk,
+    shiengmu,
+    twkKetkua,
     triwPyangshiwk,
-    triwSrioNipZyepheng,
-    triwSrioSyenShiwxryn,
-    triwSrioSyenShiengmu,
-    triwKriemsakKetkua,
+    triwZyepheng,
+    triwShiwxryn,
+    triwKetkua,
   }
 })

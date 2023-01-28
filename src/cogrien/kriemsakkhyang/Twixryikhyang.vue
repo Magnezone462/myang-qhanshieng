@@ -8,14 +8,14 @@ const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
 
 <template>
   <VSelect
-    label="等位"
-    v-model="kriemsakDziwqrimkho.srioSyenTwixryi"
+    v-model="kriemsakDziwqrimkho.twixryi"
     :items="twixryi"
     item-title="qhandziw_driang"
     item-value="qhandziw_tuan"
-    variant="underlined"
-    density="compact"
     clearable
+    label="等位"
+    density="compact"
+    variant="underlined"
   >
     <template v-slot:selection="{ item }">
       {{ item.value }}

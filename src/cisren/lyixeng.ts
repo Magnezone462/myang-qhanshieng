@@ -20,8 +20,10 @@ export interface DziwxengSryokio {
   tyoshiek: string
 }
 
-// Dziwqrim.json no kata tegi desu.
-export interface DziwqrimSryokio {
+/**
+ * 字音資料: プロナンシエーション データ
+ */
+export interface DziwqrimCileu {
   pieutiwbyo: string
   dziw: string
   dziw_biekhuet: string

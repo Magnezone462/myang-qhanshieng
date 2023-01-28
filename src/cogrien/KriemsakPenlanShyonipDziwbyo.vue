@@ -7,6 +7,10 @@ import type { DziwbyoCileu } from '@/cisren/lyixeng'
 const kriemsakDziwbyokho = jyongKriemsakDziwbyokho()
 const dziwdeukho = jyongDziwdeukho()
 
+/**
+ * 按結果: プッシュ リザルト
+ * @param xrongmyuk 項目: アイテム
+ */
 const qanKetkua = (xrongmyuk: DziwbyoCileu) => {
   dziwdeukho.triwSrioSyenDziwdu(xrongmyuk.dziwbyo)
 }
@@ -16,13 +20,15 @@ const qanKetkua = (xrongmyuk: DziwbyoCileu) => {
   <VContainer>
     <VRow>
       <QhandziwKhyoxrywk />
-      <VBtn
-        @click="kriemsakDziwbyokho.triwKetkua()"
-        block
-        rounded
-      >
-        檢索
-      </VBtn>
+      <VCol cols="12">
+        <VBtn
+          @click="kriemsakDziwbyokho.triwKetkua()"
+          block
+          rounded
+        >
+          檢索
+        </VBtn>
+      </VCol>
     </VRow>
   </VContainer>
 
@@ -35,8 +41,13 @@ const qanKetkua = (xrongmyuk: DziwbyoCileu) => {
       @click="qanKetkua(xrongmyuk)"
       link
     >
-      <VListItemTitle>{{ xrongmyuk.dziwbyo }}</VListItemTitle>
-      <VListItemSubtitle>{{ xrongmyuk.thongqitmra }}</VListItemSubtitle>
+      <VListItemTitle>
+        {{ xrongmyuk.dziwbyo }}
+      </VListItemTitle>
+
+      <VListItemSubtitle>
+        {{ xrongmyuk.thongqitmra }}
+      </VListItemSubtitle>
     </VListItem>
   </VList>
 </template>

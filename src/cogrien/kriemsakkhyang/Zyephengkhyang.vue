@@ -7,12 +7,12 @@ const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
 
 <template>
   <VTextField
-    v-model="kriemsakDziwqrimkho.srioNipZyepheng"
+    v-model="kriemsakDziwqrimkho.zyepheng"
+    clearable
+    @keydown.enter="kriemsakDziwqrimkho.triwKetkua"
     label="隋拼"
     placeholder="tuŋ"
     density="compact"
     variant="underlined"
-    clearable
-    @keydown.enter="kriemsakDziwqrimkho.triwKriemsakKetkua"
   />
 </template>
