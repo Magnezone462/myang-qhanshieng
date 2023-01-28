@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/muikio'
+import { KriemsakPieuchiem, ShyonipPieuchiem, KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/muikio'
 import { jyongXeithongkho } from '@/changkho/xeithong'
 import { jyongKriemsakDziwqrimkho } from '@/changkho/kriemsakDziwqrim'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
@@ -16,17 +16,16 @@ const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.srioSyen
 const qanZyepheng = (tuiziang: DziwqrimSryokio) => {
   kriemsakDziwqrimkho.triwSrioNipZyepheng(tuiziang.zyepheng)
   kriemsakDziwqrimkho.triwSrioSyenShiwxryn('')
-  xeithongkho.kriemsakPieuchiem = 'krap'
-  xeithongkho.shyonipPieuchiem = 'qrit'
-  xeithongkho.shyonipPieuchiem = 'qrit'
+  xeithongkho.kriemsakPieuchiem = KriemsakPieuchiem.shyonip
+  xeithongkho.shyonipPieuchiem = ShyonipPieuchiem.dziqrim
   kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.zyepheng)
 }
 
 const qanShiwxryn = (tuiziang: DziwqrimSryokio) => {
   kriemsakDziwqrimkho.triwSrioSyenShiwxryn(tuiziang.shiwxryn)
   kriemsakDziwqrimkho.triwSrioNipZyepheng('')
-  xeithongkho.kriemsakPieuchiem = 'krap'
-  xeithongkho.shyonipPieuchiem = 'qrit'
+  xeithongkho.kriemsakPieuchiem = KriemsakPieuchiem.shyonip
+  xeithongkho.shyonipPieuchiem = ShyonipPieuchiem.dziqrim
   kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.briengshyixryn)
 }
 
