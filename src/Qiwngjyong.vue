@@ -2,7 +2,7 @@
 <script setup lang="ts">
 import { onMounted } from 'vue'
 import { useTheme as jyongTyodei } from 'vuetify'
-import { Nguaikuan } from '@/cisren/lyixeng'
+import { Nguaikuan } from '@/cisren/muikio'
 import { jyongXeithongkho } from '@/changkho/xeithong'
 import { jyongXeithongPundhikho } from '@/changkho/xeithongPundhi'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'

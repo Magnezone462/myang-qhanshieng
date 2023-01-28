@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/lyixeng'
+import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/muikio'
 import { jyongKriemsakDziwqrimkho } from '@/changkho/kriemsakDziwqrim'
 
 const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
