@@ -1,0 +1,1274 @@
+[
+  {
+    "zio": 1,
+    "xruek": 1,
+    "qhandziw_tuan": "一",
+    "qhandziw_driang": "一部"
+  },
+  {
+    "zio": 2,
+    "xruek": 1,
+    "qhandziw_tuan": "丨",
+    "qhandziw_driang": "丨部"
+  },
+  {
+    "zio": 3,
+    "xruek": 1,
+    "qhandziw_tuan": "丶",
+    "qhandziw_driang": "丶部"
+  },
+  {
+    "zio": 4,
+    "xruek": 1,
+    "qhandziw_tuan": "丿",
+    "qhandziw_driang": "丿部"
+  },
+  {
+    "zio": 5,
+    "xruek": 1,
+    "qhandziw_tuan": "乙",
+    "qhandziw_driang": "乙部"
+  },
+  {
+    "zio": 6,
+    "xruek": 1,
+    "qhandziw_tuan": "亅",
+    "qhandziw_driang": "亅部"
+  },
+  {
+    "zio": 7,
+    "xruek": 2,
+    "qhandziw_tuan": "二",
+    "qhandziw_driang": "二部"
+  },
+  {
+    "zio": 8,
+    "xruek": 2,
+    "qhandziw_tuan": "亠",
+    "qhandziw_driang": "亠部"
+  },
+  {
+    "zio": 9,
+    "xruek": 2,
+    "qhandziw_tuan": "人",
+    "qhandziw_driang": "人部"
+  },
+  {
+    "zio": 10,
+    "xruek": 2,
+    "qhandziw_tuan": "儿",
+    "qhandziw_driang": "儿部"
+  },
+  {
+    "zio": 11,
+    "xruek": 2,
+    "qhandziw_tuan": "入",
+    "qhandziw_driang": "入部"
+  },
+  {
+    "zio": 12,
+    "xruek": 2,
+    "qhandziw_tuan": "八",
+    "qhandziw_driang": "八部"
+  },
+  {
+    "zio": 13,
+    "xruek": 2,
+    "qhandziw_tuan": "冂",
+    "qhandziw_driang": "冂部"
+  },
+  {
+    "zio": 14,
+    "xruek": 2,
+    "qhandziw_tuan": "冖",
+    "qhandziw_driang": "冖部"
+  },
+  {
+    "zio": 15,
+    "xruek": 2,
+    "qhandziw_tuan": "冫",
+    "qhandziw_driang": "冫部"
+  },
+  {
+    "zio": 16,
+    "xruek": 2,
+    "qhandziw_tuan": "几",
+    "qhandziw_driang": "几部"
+  },
+  {
+    "zio": 17,
+    "xruek": 2,
+    "qhandziw_tuan": "凵",
+    "qhandziw_driang": "凵部"
+  },
+  {
+    "zio": 18,
+    "xruek": 2,
+    "qhandziw_tuan": "刀",
+    "qhandziw_driang": "刀部"
+  },
+  {
+    "zio": 19,
+    "xruek": 2,
+    "qhandziw_tuan": "力",
+    "qhandziw_driang": "力部"
+  },
+  {
+    "zio": 20,
+    "xruek": 2,
+    "qhandziw_tuan": "勹",
+    "qhandziw_driang": "勹部"
+  },
+  {
+    "zio": 21,
+    "xruek": 2,
+    "qhandziw_tuan": "匕",
+    "qhandziw_driang": "匕部"
+  },
+  {
+    "zio": 22,
+    "xruek": 2,
+    "qhandziw_tuan": "匚",
+    "qhandziw_driang": "匚部"
+  },
+  {
+    "zio": 24,
+    "xruek": 2,
+    "qhandziw_tuan": "十",
+    "qhandziw_driang": "十部"
+  },
+  {
+    "zio": 25,
+    "xruek": 2,
+    "qhandziw_tuan": "卜",
+    "qhandziw_driang": "卜部"
+  },
+  {
+    "zio": 26,
+    "xruek": 2,
+    "qhandziw_tuan": "卩",
+    "qhandziw_driang": "卩部"
+  },
+  {
+    "zio": 27,
+    "xruek": 2,
+    "qhandziw_tuan": "厂",
+    "qhandziw_driang": "厂部"
+  },
+  {
+    "zio": 28,
+    "xruek": 2,
+    "qhandziw_tuan": "厶",
+    "qhandziw_driang": "厶部"
+  },
+  {
+    "zio": 29,
+    "xruek": 2,
+    "qhandziw_tuan": "又",
+    "qhandziw_driang": "又部"
+  },
+  {
+    "zio": 30,
+    "xruek": 3,
+    "qhandziw_tuan": "口",
+    "qhandziw_driang": "口部"
+  },
+  {
+    "zio": 31,
+    "xruek": 3,
+    "qhandziw_tuan": "囗",
+    "qhandziw_driang": "囗部"
+  },
+  {
+    "zio": 32,
+    "xruek": 3,
+    "qhandziw_tuan": "土",
+    "qhandziw_driang": "土部"
+  },
+  {
+    "zio": 33,
+    "xruek": 3,
+    "qhandziw_tuan": "士",
+    "qhandziw_driang": "士部"
+  },
+  {
+    "zio": 34,
+    "xruek": 3,
+    "qhandziw_tuan": "夂",
+    "qhandziw_driang": "夂部"
+  },
+  {
+    "zio": 36,
+    "xruek": 3,
+    "qhandziw_tuan": "夕",
+    "qhandziw_driang": "夕部"
+  },
+  {
+    "zio": 37,
+    "xruek": 3,
+    "qhandziw_tuan": "大",
+    "qhandziw_driang": "大部"
+  },
+  {
+    "zio": 38,
+    "xruek": 3,
+    "qhandziw_tuan": "女",
+    "qhandziw_driang": "女部"
+  },
+  {
+    "zio": 39,
+    "xruek": 3,
+    "qhandziw_tuan": "子",
+    "qhandziw_driang": "子部"
+  },
+  {
+    "zio": 40,
+    "xruek": 3,
+    "qhandziw_tuan": "宀",
+    "qhandziw_driang": "宀部"
+  },
+  {
+    "zio": 41,
+    "xruek": 3,
+    "qhandziw_tuan": "寸",
+    "qhandziw_driang": "寸部"
+  },
+  {
+    "zio": 42,
+    "xruek": 3,
+    "qhandziw_tuan": "小",
+    "qhandziw_driang": "小部"
+  },
+  {
+    "zio": 43,
+    "xruek": 3,
+    "qhandziw_tuan": "尢",
+    "qhandziw_driang": "尢部"
+  },
+  {
+    "zio": 44,
+    "xruek": 3,
+    "qhandziw_tuan": "尸",
+    "qhandziw_driang": "尸部"
+  },
+  {
+    "zio": 45,
+    "xruek": 3,
+    "qhandziw_tuan": "屮",
+    "qhandziw_driang": "屮部"
+  },
+  {
+    "zio": 46,
+    "xruek": 3,
+    "qhandziw_tuan": "山",
+    "qhandziw_driang": "山部"
+  },
+  {
+    "zio": 47,
+    "xruek": 3,
+    "qhandziw_tuan": "巛",
+    "qhandziw_driang": "巛部"
+  },
+  {
+    "zio": 48,
+    "xruek": 3,
+    "qhandziw_tuan": "工",
+    "qhandziw_driang": "工部"
+  },
+  {
+    "zio": 49,
+    "xruek": 3,
+    "qhandziw_tuan": "己",
+    "qhandziw_driang": "己部"
+  },
+  {
+    "zio": 50,
+    "xruek": 3,
+    "qhandziw_tuan": "巾",
+    "qhandziw_driang": "巾部"
+  },
+  {
+    "zio": 51,
+    "xruek": 3,
+    "qhandziw_tuan": "干",
+    "qhandziw_driang": "干部"
+  },
+  {
+    "zio": 52,
+    "xruek": 3,
+    "qhandziw_tuan": "幺",
+    "qhandziw_driang": "幺部"
+  },
+  {
+    "zio": 53,
+    "xruek": 3,
+    "qhandziw_tuan": "广",
+    "qhandziw_driang": "广部"
+  },
+  {
+    "zio": 54,
+    "xruek": 3,
+    "qhandziw_tuan": "廴",
+    "qhandziw_driang": "廴部"
+  },
+  {
+    "zio": 55,
+    "xruek": 3,
+    "qhandziw_tuan": "廾",
+    "qhandziw_driang": "廾部"
+  },
+  {
+    "zio": 56,
+    "xruek": 3,
+    "qhandziw_tuan": "弋",
+    "qhandziw_driang": "弋部"
+  },
+  {
+    "zio": 57,
+    "xruek": 3,
+    "qhandziw_tuan": "弓",
+    "qhandziw_driang": "弓部"
+  },
+  {
+    "zio": 58,
+    "xruek": 3,
+    "qhandziw_tuan": "彐",
+    "qhandziw_driang": "彐部"
+  },
+  {
+    "zio": 59,
+    "xruek": 3,
+    "qhandziw_tuan": "彡",
+    "qhandziw_driang": "彡部"
+  },
+  {
+    "zio": 60,
+    "xruek": 3,
+    "qhandziw_tuan": "彳",
+    "qhandziw_driang": "彳部"
+  },
+  {
+    "zio": 61,
+    "xruek": 4,
+    "qhandziw_tuan": "心",
+    "qhandziw_driang": "心部"
+  },
+  {
+    "zio": 62,
+    "xruek": 4,
+    "qhandziw_tuan": "戈",
+    "qhandziw_driang": "戈部"
+  },
+  {
+    "zio": 63,
+    "xruek": 4,
+    "qhandziw_tuan": "户",
+    "qhandziw_driang": "户部"
+  },
+  {
+    "zio": 64,
+    "xruek": 4,
+    "qhandziw_tuan": "手",
+    "qhandziw_driang": "手部"
+  },
+  {
+    "zio": 65,
+    "xruek": 4,
+    "qhandziw_tuan": "支",
+    "qhandziw_driang": "支部"
+  },
+  {
+    "zio": 66,
+    "xruek": 4,
+    "qhandziw_tuan": "攴",
+    "qhandziw_driang": "攴部"
+  },
+  {
+    "zio": 67,
+    "xruek": 4,
+    "qhandziw_tuan": "文",
+    "qhandziw_driang": "文部"
+  },
+  {
+    "zio": 68,
+    "xruek": 4,
+    "qhandziw_tuan": "斗",
+    "qhandziw_driang": "斗部"
+  },
+  {
+    "zio": 69,
+    "xruek": 4,
+    "qhandziw_tuan": "斤",
+    "qhandziw_driang": "斤部"
+  },
+  {
+    "zio": 70,
+    "xruek": 4,
+    "qhandziw_tuan": "方",
+    "qhandziw_driang": "方部"
+  },
+  {
+    "zio": 71,
+    "xruek": 4,
+    "qhandziw_tuan": "无",
+    "qhandziw_driang": "无部"
+  },
+  {
+    "zio": 72,
+    "xruek": 4,
+    "qhandziw_tuan": "日",
+    "qhandziw_driang": "日部"
+  },
+  {
+    "zio": 73,
+    "xruek": 4,
+    "qhandziw_tuan": "曰",
+    "qhandziw_driang": "曰部"
+  },
+  {
+    "zio": 74,
+    "xruek": 4,
+    "qhandziw_tuan": "月",
+    "qhandziw_driang": "月部"
+  },
+  {
+    "zio": 75,
+    "xruek": 4,
+    "qhandziw_tuan": "木",
+    "qhandziw_driang": "木部"
+  },
+  {
+    "zio": 76,
+    "xruek": 4,
+    "qhandziw_tuan": "欠",
+    "qhandziw_driang": "欠部"
+  },
+  {
+    "zio": 77,
+    "xruek": 4,
+    "qhandziw_tuan": "止",
+    "qhandziw_driang": "止部"
+  },
+  {
+    "zio": 78,
+    "xruek": 4,
+    "qhandziw_tuan": "歹",
+    "qhandziw_driang": "歹部"
+  },
+  {
+    "zio": 79,
+    "xruek": 4,
+    "qhandziw_tuan": "殳",
+    "qhandziw_driang": "殳部"
+  },
+  {
+    "zio": 80,
+    "xruek": 4,
+    "qhandziw_tuan": "毋",
+    "qhandziw_driang": "毋部"
+  },
+  {
+    "zio": 81,
+    "xruek": 4,
+    "qhandziw_tuan": "比",
+    "qhandziw_driang": "比部"
+  },
+  {
+    "zio": 82,
+    "xruek": 4,
+    "qhandziw_tuan": "毛",
+    "qhandziw_driang": "毛部"
+  },
+  {
+    "zio": 83,
+    "xruek": 4,
+    "qhandziw_tuan": "氏",
+    "qhandziw_driang": "氏部"
+  },
+  {
+    "zio": 84,
+    "xruek": 4,
+    "qhandziw_tuan": "气",
+    "qhandziw_driang": "气部"
+  },
+  {
+    "zio": 85,
+    "xruek": 4,
+    "qhandziw_tuan": "水",
+    "qhandziw_driang": "水部"
+  },
+  {
+    "zio": 86,
+    "xruek": 4,
+    "qhandziw_tuan": "火",
+    "qhandziw_driang": "火部"
+  },
+  {
+    "zio": 87,
+    "xruek": 4,
+    "qhandziw_tuan": "爪",
+    "qhandziw_driang": "爪部"
+  },
+  {
+    "zio": 88,
+    "xruek": 4,
+    "qhandziw_tuan": "父",
+    "qhandziw_driang": "父部"
+  },
+  {
+    "zio": 89,
+    "xruek": 4,
+    "qhandziw_tuan": "爻",
+    "qhandziw_driang": "爻部"
+  },
+  {
+    "zio": 90,
+    "xruek": 4,
+    "qhandziw_tuan": "爿",
+    "qhandziw_driang": "爿部"
+  },
+  {
+    "zio": 91,
+    "xruek": 4,
+    "qhandziw_tuan": "片",
+    "qhandziw_driang": "片部"
+  },
+  {
+    "zio": 92,
+    "xruek": 4,
+    "qhandziw_tuan": "牙",
+    "qhandziw_driang": "牙部"
+  },
+  {
+    "zio": 93,
+    "xruek": 4,
+    "qhandziw_tuan": "牛",
+    "qhandziw_driang": "牛部"
+  },
+  {
+    "zio": 94,
+    "xruek": 4,
+    "qhandziw_tuan": "犬",
+    "qhandziw_driang": "犬部"
+  },
+  {
+    "zio": 95,
+    "xruek": 5,
+    "qhandziw_tuan": "玄",
+    "qhandziw_driang": "玄部"
+  },
+  {
+    "zio": 96,
+    "xruek": 5,
+    "qhandziw_tuan": "玉",
+    "qhandziw_driang": "玉部"
+  },
+  {
+    "zio": 97,
+    "xruek": 5,
+    "qhandziw_tuan": "瓜",
+    "qhandziw_driang": "瓜部"
+  },
+  {
+    "zio": 98,
+    "xruek": 5,
+    "qhandziw_tuan": "瓦",
+    "qhandziw_driang": "瓦部"
+  },
+  {
+    "zio": 99,
+    "xruek": 5,
+    "qhandziw_tuan": "甘",
+    "qhandziw_driang": "甘部"
+  },
+  {
+    "zio": 100,
+    "xruek": 5,
+    "qhandziw_tuan": "生",
+    "qhandziw_driang": "生部"
+  },
+  {
+    "zio": 101,
+    "xruek": 5,
+    "qhandziw_tuan": "用",
+    "qhandziw_driang": "用部"
+  },
+  {
+    "zio": 102,
+    "xruek": 5,
+    "qhandziw_tuan": "田",
+    "qhandziw_driang": "田部"
+  },
+  {
+    "zio": 103,
+    "xruek": 5,
+    "qhandziw_tuan": "疋",
+    "qhandziw_driang": "疋部"
+  },
+  {
+    "zio": 104,
+    "xruek": 5,
+    "qhandziw_tuan": "疒",
+    "qhandziw_driang": "疒部"
+  },
+  {
+    "zio": 105,
+    "xruek": 5,
+    "qhandziw_tuan": "癶",
+    "qhandziw_driang": "癶部"
+  },
+  {
+    "zio": 106,
+    "xruek": 5,
+    "qhandziw_tuan": "白",
+    "qhandziw_driang": "白部"
+  },
+  {
+    "zio": 107,
+    "xruek": 5,
+    "qhandziw_tuan": "皮",
+    "qhandziw_driang": "皮部"
+  },
+  {
+    "zio": 108,
+    "xruek": 5,
+    "qhandziw_tuan": "皿",
+    "qhandziw_driang": "皿部"
+  },
+  {
+    "zio": 109,
+    "xruek": 5,
+    "qhandziw_tuan": "目",
+    "qhandziw_driang": "目部"
+  },
+  {
+    "zio": 110,
+    "xruek": 5,
+    "qhandziw_tuan": "矛",
+    "qhandziw_driang": "矛部"
+  },
+  {
+    "zio": 111,
+    "xruek": 5,
+    "qhandziw_tuan": "矢",
+    "qhandziw_driang": "矢部"
+  },
+  {
+    "zio": 112,
+    "xruek": 5,
+    "qhandziw_tuan": "石",
+    "qhandziw_driang": "石部"
+  },
+  {
+    "zio": 113,
+    "xruek": 5,
+    "qhandziw_tuan": "示",
+    "qhandziw_driang": "示部"
+  },
+  {
+    "zio": 114,
+    "xruek": 5,
+    "qhandziw_tuan": "禸",
+    "qhandziw_driang": "禸部"
+  },
+  {
+    "zio": 115,
+    "xruek": 5,
+    "qhandziw_tuan": "禾",
+    "qhandziw_driang": "禾部"
+  },
+  {
+    "zio": 116,
+    "xruek": 5,
+    "qhandziw_tuan": "穴",
+    "qhandziw_driang": "穴部"
+  },
+  {
+    "zio": 117,
+    "xruek": 5,
+    "qhandziw_tuan": "立",
+    "qhandziw_driang": "立部"
+  },
+  {
+    "zio": 118,
+    "xruek": 6,
+    "qhandziw_tuan": "竹",
+    "qhandziw_driang": "竹部"
+  },
+  {
+    "zio": 119,
+    "xruek": 6,
+    "qhandziw_tuan": "米",
+    "qhandziw_driang": "米部"
+  },
+  {
+    "zio": 120,
+    "xruek": 6,
+    "qhandziw_tuan": "糸",
+    "qhandziw_driang": "糸部"
+  },
+  {
+    "zio": 121,
+    "xruek": 6,
+    "qhandziw_tuan": "缶",
+    "qhandziw_driang": "缶部"
+  },
+  {
+    "zio": 122,
+    "xruek": 6,
+    "qhandziw_tuan": "网",
+    "qhandziw_driang": "网部"
+  },
+  {
+    "zio": 123,
+    "xruek": 6,
+    "qhandziw_tuan": "羊",
+    "qhandziw_driang": "羊部"
+  },
+  {
+    "zio": 124,
+    "xruek": 6,
+    "qhandziw_tuan": "羽",
+    "qhandziw_driang": "羽部"
+  },
+  {
+    "zio": 125,
+    "xruek": 6,
+    "qhandziw_tuan": "老",
+    "qhandziw_driang": "老部"
+  },
+  {
+    "zio": 126,
+    "xruek": 6,
+    "qhandziw_tuan": "而",
+    "qhandziw_driang": "而部"
+  },
+  {
+    "zio": 127,
+    "xruek": 6,
+    "qhandziw_tuan": "耒",
+    "qhandziw_driang": "耒部"
+  },
+  {
+    "zio": 128,
+    "xruek": 6,
+    "qhandziw_tuan": "耳",
+    "qhandziw_driang": "耳部"
+  },
+  {
+    "zio": 129,
+    "xruek": 6,
+    "qhandziw_tuan": "聿",
+    "qhandziw_driang": "聿部"
+  },
+  {
+    "zio": 130,
+    "xruek": 6,
+    "qhandziw_tuan": "肉",
+    "qhandziw_driang": "肉部"
+  },
+  {
+    "zio": 131,
+    "xruek": 6,
+    "qhandziw_tuan": "臣",
+    "qhandziw_driang": "臣部"
+  },
+  {
+    "zio": 132,
+    "xruek": 6,
+    "qhandziw_tuan": "自",
+    "qhandziw_driang": "自部"
+  },
+  {
+    "zio": 133,
+    "xruek": 6,
+    "qhandziw_tuan": "至",
+    "qhandziw_driang": "至部"
+  },
+  {
+    "zio": 134,
+    "xruek": 6,
+    "qhandziw_tuan": "臼",
+    "qhandziw_driang": "臼部"
+  },
+  {
+    "zio": 135,
+    "xruek": 6,
+    "qhandziw_tuan": "舌",
+    "qhandziw_driang": "舌部"
+  },
+  {
+    "zio": 136,
+    "xruek": 6,
+    "qhandziw_tuan": "舛",
+    "qhandziw_driang": "舛部"
+  },
+  {
+    "zio": 137,
+    "xruek": 6,
+    "qhandziw_tuan": "舟",
+    "qhandziw_driang": "舟部"
+  },
+  {
+    "zio": 138,
+    "xruek": 6,
+    "qhandziw_tuan": "艮",
+    "qhandziw_driang": "艮部"
+  },
+  {
+    "zio": 139,
+    "xruek": 6,
+    "qhandziw_tuan": "色",
+    "qhandziw_driang": "色部"
+  },
+  {
+    "zio": 140,
+    "xruek": 6,
+    "qhandziw_tuan": "艸",
+    "qhandziw_driang": "艸部"
+  },
+  {
+    "zio": 141,
+    "xruek": 6,
+    "qhandziw_tuan": "虍",
+    "qhandziw_driang": "虍部"
+  },
+  {
+    "zio": 142,
+    "xruek": 6,
+    "qhandziw_tuan": "虫",
+    "qhandziw_driang": "虫部"
+  },
+  {
+    "zio": 143,
+    "xruek": 6,
+    "qhandziw_tuan": "血",
+    "qhandziw_driang": "血部"
+  },
+  {
+    "zio": 144,
+    "xruek": 6,
+    "qhandziw_tuan": "行",
+    "qhandziw_driang": "行部"
+  },
+  {
+    "zio": 145,
+    "xruek": 6,
+    "qhandziw_tuan": "衣",
+    "qhandziw_driang": "衣部"
+  },
+  {
+    "zio": 146,
+    "xruek": 6,
+    "qhandziw_tuan": "襾",
+    "qhandziw_driang": "襾部"
+  },
+  {
+    "zio": 147,
+    "xruek": 7,
+    "qhandziw_tuan": "見",
+    "qhandziw_driang": "見部"
+  },
+  {
+    "zio": 148,
+    "xruek": 7,
+    "qhandziw_tuan": "角",
+    "qhandziw_driang": "角部"
+  },
+  {
+    "zio": 149,
+    "xruek": 7,
+    "qhandziw_tuan": "言",
+    "qhandziw_driang": "言部"
+  },
+  {
+    "zio": 150,
+    "xruek": 7,
+    "qhandziw_tuan": "谷",
+    "qhandziw_driang": "谷部"
+  },
+  {
+    "zio": 151,
+    "xruek": 7,
+    "qhandziw_tuan": "豆",
+    "qhandziw_driang": "豆部"
+  },
+  {
+    "zio": 152,
+    "xruek": 7,
+    "qhandziw_tuan": "豕",
+    "qhandziw_driang": "豕部"
+  },
+  {
+    "zio": 153,
+    "xruek": 7,
+    "qhandziw_tuan": "豸",
+    "qhandziw_driang": "豸部"
+  },
+  {
+    "zio": 154,
+    "xruek": 7,
+    "qhandziw_tuan": "貝",
+    "qhandziw_driang": "貝部"
+  },
+  {
+    "zio": 155,
+    "xruek": 7,
+    "qhandziw_tuan": "赤",
+    "qhandziw_driang": "赤部"
+  },
+  {
+    "zio": 156,
+    "xruek": 7,
+    "qhandziw_tuan": "走",
+    "qhandziw_driang": "走部"
+  },
+  {
+    "zio": 157,
+    "xruek": 7,
+    "qhandziw_tuan": "足",
+    "qhandziw_driang": "足部"
+  },
+  {
+    "zio": 158,
+    "xruek": 7,
+    "qhandziw_tuan": "身",
+    "qhandziw_driang": "身部"
+  },
+  {
+    "zio": 159,
+    "xruek": 7,
+    "qhandziw_tuan": "車",
+    "qhandziw_driang": "車部"
+  },
+  {
+    "zio": 160,
+    "xruek": 7,
+    "qhandziw_tuan": "辛",
+    "qhandziw_driang": "辛部"
+  },
+  {
+    "zio": 161,
+    "xruek": 7,
+    "qhandziw_tuan": "辰",
+    "qhandziw_driang": "辰部"
+  },
+  {
+    "zio": 162,
+    "xruek": 7,
+    "qhandziw_tuan": "辵",
+    "qhandziw_driang": "辵部"
+  },
+  {
+    "zio": 163,
+    "xruek": 7,
+    "qhandziw_tuan": "邑",
+    "qhandziw_driang": "邑部"
+  },
+  {
+    "zio": 164,
+    "xruek": 7,
+    "qhandziw_tuan": "酉",
+    "qhandziw_driang": "酉部"
+  },
+  {
+    "zio": 165,
+    "xruek": 7,
+    "qhandziw_tuan": "釆",
+    "qhandziw_driang": "釆部"
+  },
+  {
+    "zio": 166,
+    "xruek": 7,
+    "qhandziw_tuan": "里",
+    "qhandziw_driang": "里部"
+  },
+  {
+    "zio": 167,
+    "xruek": 8,
+    "qhandziw_tuan": "金",
+    "qhandziw_driang": "金部"
+  },
+  {
+    "zio": 168,
+    "xruek": 8,
+    "qhandziw_tuan": "長",
+    "qhandziw_driang": "長部"
+  },
+  {
+    "zio": 169,
+    "xruek": 8,
+    "qhandziw_tuan": "門",
+    "qhandziw_driang": "門部"
+  },
+  {
+    "zio": 170,
+    "xruek": 8,
+    "qhandziw_tuan": "阜",
+    "qhandziw_driang": "阜部"
+  },
+  {
+    "zio": 171,
+    "xruek": 8,
+    "qhandziw_tuan": "隶",
+    "qhandziw_driang": "隶部"
+  },
+  {
+    "zio": 172,
+    "xruek": 8,
+    "qhandziw_tuan": "隹",
+    "qhandziw_driang": "隹部"
+  },
+  {
+    "zio": 173,
+    "xruek": 8,
+    "qhandziw_tuan": "雨",
+    "qhandziw_driang": "雨部"
+  },
+  {
+    "zio": 174,
+    "xruek": 8,
+    "qhandziw_tuan": "青",
+    "qhandziw_driang": "青部"
+  },
+  {
+    "zio": 175,
+    "xruek": 8,
+    "qhandziw_tuan": "非",
+    "qhandziw_driang": "非部"
+  },
+  {
+    "zio": 176,
+    "xruek": 9,
+    "qhandziw_tuan": "面",
+    "qhandziw_driang": "面部"
+  },
+  {
+    "zio": 177,
+    "xruek": 9,
+    "qhandziw_tuan": "革",
+    "qhandziw_driang": "革部"
+  },
+  {
+    "zio": 178,
+    "xruek": 9,
+    "qhandziw_tuan": "韋",
+    "qhandziw_driang": "韋部"
+  },
+  {
+    "zio": 179,
+    "xruek": 9,
+    "qhandziw_tuan": "韭",
+    "qhandziw_driang": "韭部"
+  },
+  {
+    "zio": 180,
+    "xruek": 9,
+    "qhandziw_tuan": "音",
+    "qhandziw_driang": "音部"
+  },
+  {
+    "zio": 181,
+    "xruek": 9,
+    "qhandziw_tuan": "頁",
+    "qhandziw_driang": "頁部"
+  },
+  {
+    "zio": 182,
+    "xruek": 9,
+    "qhandziw_tuan": "風",
+    "qhandziw_driang": "風部"
+  },
+  {
+    "zio": 183,
+    "xruek": 9,
+    "qhandziw_tuan": "飛",
+    "qhandziw_driang": "飛部"
+  },
+  {
+    "zio": 184,
+    "xruek": 9,
+    "qhandziw_tuan": "食",
+    "qhandziw_driang": "食部"
+  },
+  {
+    "zio": 185,
+    "xruek": 9,
+    "qhandziw_tuan": "首",
+    "qhandziw_driang": "首部"
+  },
+  {
+    "zio": 186,
+    "xruek": 9,
+    "qhandziw_tuan": "香",
+    "qhandziw_driang": "香部"
+  },
+  {
+    "zio": 187,
+    "xruek": 10,
+    "qhandziw_tuan": "馬",
+    "qhandziw_driang": "馬部"
+  },
+  {
+    "zio": 188,
+    "xruek": 10,
+    "qhandziw_tuan": "骨",
+    "qhandziw_driang": "骨部"
+  },
+  {
+    "zio": 189,
+    "xruek": 10,
+    "qhandziw_tuan": "高",
+    "qhandziw_driang": "高部"
+  },
+  {
+    "zio": 190,
+    "xruek": 10,
+    "qhandziw_tuan": "髟",
+    "qhandziw_driang": "髟部"
+  },
+  {
+    "zio": 191,
+    "xruek": 10,
+    "qhandziw_tuan": "鬥",
+    "qhandziw_driang": "鬥部"
+  },
+  {
+    "zio": 192,
+    "xruek": 10,
+    "qhandziw_tuan": "鬯",
+    "qhandziw_driang": "鬯部"
+  },
+  {
+    "zio": 193,
+    "xruek": 10,
+    "qhandziw_tuan": "鬲",
+    "qhandziw_driang": "鬲部"
+  },
+  {
+    "zio": 194,
+    "xruek": 10,
+    "qhandziw_tuan": "鬼",
+    "qhandziw_driang": "鬼部"
+  },
+  {
+    "zio": 195,
+    "xruek": 11,
+    "qhandziw_tuan": "魚",
+    "qhandziw_driang": "魚部"
+  },
+  {
+    "zio": 196,
+    "xruek": 11,
+    "qhandziw_tuan": "鳥",
+    "qhandziw_driang": "鳥部"
+  },
+  {
+    "zio": 197,
+    "xruek": 11,
+    "qhandziw_tuan": "鹵",
+    "qhandziw_driang": "鹵部"
+  },
+  {
+    "zio": 198,
+    "xruek": 11,
+    "qhandziw_tuan": "鹿",
+    "qhandziw_driang": "鹿部"
+  },
+  {
+    "zio": 199,
+    "xruek": 11,
+    "qhandziw_tuan": "麥",
+    "qhandziw_driang": "麥部"
+  },
+  {
+    "zio": 200,
+    "xruek": 11,
+    "qhandziw_tuan": "麻",
+    "qhandziw_driang": "麻部"
+  },
+  {
+    "zio": 201,
+    "xruek": 12,
+    "qhandziw_tuan": "黄",
+    "qhandziw_driang": "黄部"
+  },
+  {
+    "zio": 202,
+    "xruek": 12,
+    "qhandziw_tuan": "黍",
+    "qhandziw_driang": "黍部"
+  },
+  {
+    "zio": 203,
+    "xruek": 12,
+    "qhandziw_tuan": "黑",
+    "qhandziw_driang": "黑部"
+  },
+  {
+    "zio": 204,
+    "xruek": 12,
+    "qhandziw_tuan": "黹",
+    "qhandziw_driang": "黹部"
+  },
+  {
+    "zio": 205,
+    "xruek": 13,
+    "qhandziw_tuan": "黽",
+    "qhandziw_driang": "黽部"
+  },
+  {
+    "zio": 206,
+    "xruek": 13,
+    "qhandziw_tuan": "鼎",
+    "qhandziw_driang": "鼎部"
+  },
+  {
+    "zio": 207,
+    "xruek": 13,
+    "qhandziw_tuan": "鼓",
+    "qhandziw_driang": "鼓部"
+  },
+  {
+    "zio": 208,
+    "xruek": 13,
+    "qhandziw_tuan": "鼠",
+    "qhandziw_driang": "鼠部"
+  },
+  {
+    "zio": 209,
+    "xruek": 14,
+    "qhandziw_tuan": "鼻",
+    "qhandziw_driang": "鼻部"
+  },
+  {
+    "zio": 210,
+    "xruek": 14,
+    "qhandziw_tuan": "齊",
+    "qhandziw_driang": "齊部"
+  },
+  {
+    "zio": 211,
+    "xruek": 15,
+    "qhandziw_tuan": "齒",
+    "qhandziw_driang": "齒部"
+  },
+  {
+    "zio": 212,
+    "xruek": 16,
+    "qhandziw_tuan": "龍",
+    "qhandziw_driang": "龍部"
+  },
+  {
+    "zio": 213,
+    "xruek": 16,
+    "qhandziw_tuan": "龜",
+    "qhandziw_driang": "龜部"
+  },
+  {
+    "zio": 214,
+    "xruek": 17,
+    "qhandziw_tuan": "龠",
+    "qhandziw_driang": "龠部"
+  }
+]
