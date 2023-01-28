@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/lyixeng'
 import { jyongXeithongkho } from '@/changkho/xeithong'
-import { jyongDziwqrimKriemsakkho } from '@/changkho/dziwqrimKriemsak'
+import { jyongDziwqrimKriemsakkho } from '@/changkho/kriemsakDziwqrim'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
 import { jyongShiochiemkho } from '@/changkho/shiochiem'
 import type { DziwqrimSryokio } from '@/cisren/lyixeng'

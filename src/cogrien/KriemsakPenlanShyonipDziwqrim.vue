@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/lyixeng'
-import { jyongDziwqrimKriemsakkho } from '@/changkho/dziwqrimKriemsak'
+import { jyongDziwqrimKriemsakkho } from '@/changkho/kriemsakDziwqrim'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
 import KriemsakPenlanShyonipDziwqrimChwitan from './KriemsakPenlanShyonipDziwqrimChwitan.vue'
 import ZyephengKhyoxrwk from '@/cogrien/kriemsakKhyoxrywk/ZyephengKhyoxrywk.vue'

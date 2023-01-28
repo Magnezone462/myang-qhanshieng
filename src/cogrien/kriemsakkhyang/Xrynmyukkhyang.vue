@@ -1,6 +1,6 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
-import { jyongDziwqrimKriemsakkho } from '@/changkho/dziwqrimKriemsak'
+import { jyongDziwqrimKriemsakkho } from '@/changkho/kriemsakDziwqrim'
 import xrynmyuk from '@/sryokio/syenxrong/xrynmyuk.json'
 
 const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho()
