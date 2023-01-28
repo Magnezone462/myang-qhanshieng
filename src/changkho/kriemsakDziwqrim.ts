@@ -4,13 +4,10 @@ import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/lyixeng'
 import dziwqrim from '@/sryokio/dziwqrim.json'
 import type { DziwqrimSryokio } from '@/cisren/lyixeng'
 
-// 所入隋拼: インプテッド スイ チャイニーズ アルファベット
-type SrioNipZyepheng = string | null
-
 // 所選詩韵: セレクテッド チャイニーズ ポエム ライム
 type SrioSyenShiwxryn = string | null
 
-// 所選韵攝, 所選, 所選, 所選, 所選: セレクテッド チャイニーズ ポエム ライム
+// 所選韵攝, 所選開合, 所選等位, 所選四聲, 所選韵目, 所選聲母: セレクテッド チャイニーズ ライム スタヂーズ インフォメーションズ
 type SrioSyenXrynShiep = string | null
 type SrioSyenKhwixwp = string | null
 type SrioSyenTwixryi = string | null
@@ -18,33 +15,51 @@ type SrioSyenSishieng = string | null
 type SrioSyenXrynmyuk = string | null
 type SrioSyenShiengmu = string | null
 
-export const jyongDziwqrimKriemsakkho = defineStore('dziwqrimKriemsak', () => {
+export const jyongKriemsakDziwqrimkho = defineStore('kriemsakDziwqrim', () => {
+  // 方式: モード
   const pyangshiwk = ref(<Pyangshiwk>Pyangshiwk.zyepheng)
-  const srioNipZyepheng = ref(<SrioNipZyepheng>null)
+
+  // 所入隋拼: インプテッド スイ チャイニーズ アルファベット
+  const srioNipZyepheng = ref(<string>'')
+
+  // 所選詩韵: セレクテッド チャイニーズ ポエム ライム
   const srioSyenShiwxryn = ref(<SrioSyenShiwxryn>null)
+
+  // 所選韵攝, 所選開合, 所選等位, 所選四聲, 所選韵目, 所選聲母: セレクテッド チャイニーズ ライム スタヂーズ インフォメーションズ
   const srioSyenXrynshiep = ref(<SrioSyenXrynShiep>null)
   const srioSyenKhwixwp = ref(<SrioSyenKhwixwp>null)
   const srioSyenTwixryi = ref(<SrioSyenTwixryi>null)
   const srioSyenSishieng = ref(<SrioSyenSishieng>null)
   const srioSyenXrynmyuk = ref(<SrioSyenXrynmyuk>null)
   const srioSyenShiengmu = ref(<SrioSyenShiengmu>null)
+
+  // 檢索結果: サーチ リザルト
   const kriemsakKetkua = ref(<DziwqrimSryokio[]>[])
 
+  // 得檢索結果: ゲット サーチ リザルト
   const twkKriemsakKetkua = computed(() => kriemsakKetkua.value)
 
+  // 置檢索結果: セット サーチ リザルト
   const triwPyangshiwk = (grien: Pyangshiwk) => {
     pyangshiwk.value = grien
   }
 
+  // 置檢索結果: セット サーチ リザルト
   const triwSrioNipZyepheng = (grien: SrioNipZyepheng) => {
     srioNipZyepheng.value = grien
   }
+
+  // 置檢索結果: セット サーチ リザルト
   const triwSrioSyenShiwxryn = (grien: SrioSyenShiwxryn) => {
     srioSyenShiwxryn.value = grien
   }
+
+  // 置檢索結果: セット サーチ リザルト
   const triwSrioSyenShiengmu = (grien: SrioSyenShiengmu) => {
     srioSyenShiwxryn.value = grien
   }
+
+  // 置檢索結果: セット サーチ リザルト
   const triwKriemsakKetkua = () => {
     kriemsakKetkua.value = dziwqrim.filter((tuiziang) => {
       switch (pyangshiwk.value) {

@@ -1,18 +1,18 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
-import { jyongDziwqrimKriemsakkho } from '@/changkho/kriemsakDziwqrim'
+import { jyongKriemsakDziwqrimkho } from '@/changkho/kriemsakDziwqrim'
 
-const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho()
+const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
 </script>
 
 <template>
   <VTextField
-    v-model="dziwqrimKriemsakkho.srioNipZyepheng"
+    v-model="kriemsakDziwqrimkho.srioNipZyepheng"
     label="隋拼"
     placeholder="tuŋ"
     density="compact"
     variant="underlined"
     clearable
-    @keydown.enter="dziwqrimKriemsakkho.triwKriemsakKetkua"
+    @keydown.enter="kriemsakDziwqrimkho.triwKriemsakKetkua"
   />
 </template>

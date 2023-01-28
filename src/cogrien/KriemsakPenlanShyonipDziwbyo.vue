@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { jyongDziwbyoKriemsakkho } from '@/changkho/dziwbyoKriemsak'
+import { jyongKriemsakDziwbyokho } from '@/changkho/kriemsakDziwbyo'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
 
-const dziwbyoKriemsakkho = jyongDziwbyoKriemsakkho()
+const kriemsakDziwbyokho = jyongKriemsakDziwbyokho()
 const dziwdeukho = jyongDziwdeukho()
 
 const qanKriemsakKetkua = (tuiziang: string) => {
@@ -15,16 +15,16 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join('、')
 <template>
   <VSheet class="pa-4">
     <VTextField
-      v-model="dziwbyoKriemsakkho.srioNipQhandziwthyen"
+      v-model="kriemsakDziwbyokho.srioNipQhandziwthyen"
       label="漢字"
       placeholder="天地玄黄宇宙洪荒"
       clearable
-      @keydown.enter="dziwbyoKriemsakkho.triwKriemsakKetkua()"
+      @keydown.enter="kriemsakDziwbyokho.triwKriemsakKetkua()"
     />
     <VBtn
       block
       rounded
-      @click="dziwbyoKriemsakkho.triwKriemsakKetkua()"
+      @click="kriemsakDziwbyokho.triwKriemsakKetkua()"
     >
       檢索
     </VBtn>
@@ -34,7 +34,7 @@ const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join('、')
 
   <VList>
     <VListItem
-      v-for="tuiziang in dziwbyoKriemsakkho.twkKriemsakKetkua"
+      v-for="tuiziang in kriemsakDziwbyokho.twkKriemsakKetkua"
       :key="tuiziang.pieutiwbyo"
       @click="qanKriemsakKetkua(tuiziang.dziw)"
       link

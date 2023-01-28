@@ -3,7 +3,7 @@ import { defineStore } from 'pinia'
 import dziwxeng from '../sryokio/dziwxeng.json'
 import type { DziwxengSryokio } from '@/cisren/lyixeng'
 
-export const jyongDziwbyoKriemsakkho = defineStore('dziwbyoKriemsak', () => {
+export const jyongKriemsakDziwbyokho = defineStore('kriemsakDziwbyo', () => {
   const srioNipQhandziwthyen = ref('')
   const kriemsakKetkua = ref(<DziwxengSryokio[]>[])
 

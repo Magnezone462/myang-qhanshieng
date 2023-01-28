@@ -1,15 +1,15 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
-import { jyongDziwqrimKriemsakkho } from '@/changkho/kriemsakDziwqrim'
+import { jyongKriemsakDziwqrimkho } from '@/changkho/kriemsakDziwqrim'
 import sishieng from '@/sryokio/syenxrong/sishieng.json'
 
-const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho()
+const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
 </script>
 
 <template>
   <VSelect
     label="四聲"
-    v-model="dziwqrimKriemsakkho.srioSyenSishieng"
+    v-model="kriemsakDziwqrimkho.srioSyenSishieng"
     :items="sishieng"
     item-title="qhandziw_driang"
     item-value="qhandziw_tuan"
