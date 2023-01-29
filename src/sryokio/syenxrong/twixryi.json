@@ -1,38 +1,30 @@
 [
     {
         "zio": "1",
-        "qhandziw_tuan": "一",
-        "qhandziw_driang": "一等韵",
-        "zyepheng_tuan": "Qit",
-        "zyepheng_driang": "Qittə́ixrŷn",
-        "katakana_mizikai": "ワン",
-        "katakana_nagai": "デビジョン ワン"
+        "qhandziwTuan": "一",
+        "qhandziwDriang": "一等韵",
+        "zyephengTuan": "I",
+        "zyephengDriang": "I‐tə́ixrŷn"
     },
     {
         "zio": "2",
-        "qhandziw_tuan": "二",
-        "qhandziw_driang": "二等韵",
-        "zyepheng_tuan": "Nî",
-        "zyepheng_driang": "Nîtə́ixrŷn",
-        "katakana_mizikai": "ツー",
-        "katakana_nagai": "デビジョン ツー"
+        "qhandziwTuan": "二",
+        "qhandziwDriang": "二等韵",
+        "zyephengTuan": "II",
+        "zyephengDriang": "II‐tə́ixrŷn"
     },
     {
         "zio": "3",
-        "qhandziw_tuan": "三",
-        "qhandziw_driang": "三等韵",
-        "zyepheng_tuan": "Sam",
-        "zyepheng_driang": "Samtə́ixrŷn",
-        "katakana_mizikai": "スリー",
-        "katakana_nagai": "デビジョン スリー"
+        "qhandziwTuan": "三",
+        "qhandziwDriang": "三等韵",
+        "zyephengTuan": "III",
+        "zyephengDriang": "III‐tə́ixrŷn"
     },
     {
         "zio": "4",
-        "qhandziw_tuan": "四",
-        "qhandziw_driang": "四等韵",
-        "zyepheng_tuan": "Sî",
-        "zyepheng_driang": "Sîtə́ixrŷn",
-        "katakana_mizikai": "フォー",
-        "katakana_nagai": "デビジョン フォー"
+        "qhandziwTuan": "四",
+        "qhandziwDriang": "四等韵",
+        "zyephengTuan": "IV",
+        "zyephengDriang": "IV‐tə́ixrŷn"
     }
 ]

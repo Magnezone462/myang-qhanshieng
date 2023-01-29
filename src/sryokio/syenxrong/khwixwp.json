@@ -1,18 +1,16 @@
 [
     {
         "zio": "1",
-        "qhandziw_tuan": "開",
-        "qhandziw_driang": "開口",
-        "zyepheng_tuan": "Khəi",
-        "zyepheng_driang": "Khəikhú",
-        "katakana": "オープンド"
+        "qhandziwTuan": "開",
+        "qhandziwDriang": "開口",
+        "zyephengTuan": "Khəi",
+        "zyephengDriang": "Khəikhú"
     },
     {
         "zio": "2",
-        "qhandziw_tuan": "合",
-        "qhandziw_driang": "合口",
-        "zyepheng_tuan": "Xəp",
-        "zyepheng_driang": "Xəpkhú",
-        "katakana": "クローズド"
+        "qhandziwTuan": "合",
+        "qhandziwDriang": "合口",
+        "zyephengTuan": "Xəp",
+        "zyephengDriang": "Xəpkhú"
     }
 ]
