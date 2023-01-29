@@ -63,19 +63,19 @@ const twkQhZQh = (dziwqrim: DziwqrimCungCileu) => {
 <template>
   <VContainer fluid>
     <VRow>
-      <VCol cols="1">
+      <VCol cols="2">
         <VSelect
-          label="字種"
           v-model="dziwdeu.dziwdu"
           :items="dziwdeu.dziwduco"
           @update:modelValue="dziwdeu.triwQrimXeng(dziwdeu.dziwdu)"
-          variant="underlined"
+          label="字種"
           density="compact"
+          variant="underlined"
         />
       </VCol>
     </VRow>
     <VRow>
-      <VCol cols="9">
+      <VCol cols="auto">
         <p class="text-h2 font-weight-medium">{{ dziwdeu.dziwdu }}</p>
         <p class="text-subtitle-1">{{ dziwdeu.jiwtheidziw }}</p>
       </VCol>
@@ -83,33 +83,40 @@ const twkQhZQh = (dziwqrim: DziwqrimCungCileu) => {
       <VSpacer />
 
       <VCol cols="auto">
-        <a :href="myutshiodangMyangtiwPyangqan">
-          <VBtn color="cyan">
-            <VIcon
-              size="x-large"
-              color="white"
-            >
-              mdi-bookshelf
-            </VIcon>
-          </VBtn>
-        </a>
-      </VCol>
+        <VRow>
+          <VCol cols="auto">
+            <a :href="myutshiodangMyangtiwPyangqan">
+              <VBtn color="cyan">
+                <VIcon
+                  size="x-large"
+                  color="white"
+                >
+                  mdi-bookshelf
+                </VIcon>
+              </VBtn>
+            </a>
+          </VCol>
+        </VRow>
 
-      <VCol cols="auto">
-        <VBtn @click="shiochiemkho.xuanDziwbyo(dziwdeu.dziwdu)">
-          <VIcon
-            v-if="shiochiemkho.dieXwmDziwbyo(dziwdeu.dziwdu)"
-            size="x-large"
-          >
-            mdi-bookmark
-          </VIcon>
-          <VIcon
-            v-else
-            size="x-large"
-          >
-            mdi-bookmark-outline
-          </VIcon>
-        </VBtn>
+        <VRow>
+          <VCol cols="auto">
+            <VBtn @click="shiochiemkho.xuanDziwbyo(dziwdeu.dziwdu)">
+              <VIcon
+                v-if="shiochiemkho.dieXwmDziwbyo(dziwdeu.dziwdu)"
+                size="x-large"
+              >
+                mdi-bookmark
+              </VIcon>
+
+              <VIcon
+                v-else
+                size="x-large"
+              >
+                mdi-bookmark-outline
+              </VIcon>
+            </VBtn>
+          </VCol>
+        </VRow>
       </VCol>
     </VRow>
     <VRow>

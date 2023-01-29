@@ -14,6 +14,13 @@ export const KriemsakPieuchiem = {
 } as const
 export type KriemsakPieuchiem = (typeof KriemsakPieuchiem)[keyof typeof KriemsakPieuchiem]
 
+// 檢索字形方式: サーチ グリフ モード
+export const KriemsakDziwxengPyangshiwk = {
+  sikrokXaumra: 0,
+  QhZQhBushyu: 1,
+} as const
+export type KriemsakDziwxengPyangshiwk = (typeof KriemsakDziwxengPyangshiwk)[keyof typeof KriemsakDziwxengPyangshiwk]
+
 // 外觀: アピアランス
 export const Nguaikuan = {
   chiensriwk: 'light',

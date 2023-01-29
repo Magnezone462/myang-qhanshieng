@@ -2,6 +2,7 @@
 import { ShyonipPieuchiem } from '@/cisren/muikio'
 import { jyongXeithongkho } from '@/changkho/xeithong'
 import KriemsakPenlanShyonipDziwbyo from '@/cogrien/KriemsakPenlanShyonipDziwbyo.vue'
+import KriemsakPenlanShyonipDziwxeng from './KriemsakPenlanShyonipDziwxeng.vue'
 import KriemsakPenlanShyonipDziwqrim from '@/cogrien/KriemsakPenlanShyonipDziwqrim.vue'
 
 const xeithongkho = jyongXeithongkho()
@@ -23,7 +24,7 @@ const xeithongkho = jyongXeithongkho()
     </VWindowItem>
 
     <VWindowItem :value="ShyonipPieuchiem.dziwxeng">
-      <KriemsakPenlanShyonipDziwbyo />
+      <KriemsakPenlanShyonipDziwxeng />
     </VWindowItem>
 
     <VWindowItem :value="ShyonipPieuchiem.dziqrim">

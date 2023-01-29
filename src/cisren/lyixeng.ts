@@ -91,3 +91,15 @@ export interface DziwxengSikrokXaumraCileu {
   pryentyong: string
   tyoshiek: string
 }
+
+export interface DziwxengQhZQhBushyuCileu {
+  pieutiwbyo: string
+  dziwbyo: string
+  dziwbyoNguaidziw: string
+  bushyu: string
+  bushyuZio: string
+  zhiwngjio: string
+  thongqitmra: string
+}
+
+export type Dziwxeng = DziwxengSikrokXaumraCileu | DziwxengQhZQhBushyuCileu

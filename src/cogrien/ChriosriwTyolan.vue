@@ -28,7 +28,8 @@
 
       <VCol cols="12">
         <VCard>
-          <VCardTitle>利用方法 </VCardTitle><VCardSubtitle> ツカイカタ </VCardSubtitle>
+          <VCardTitle>利用方法 </VCardTitle>
+          <VCardSubtitle> ツカイカタ </VCardSubtitle>
           <VContainer fluid>
             <VRow>
               <VCol>

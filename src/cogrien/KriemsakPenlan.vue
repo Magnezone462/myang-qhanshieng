@@ -17,10 +17,19 @@ const xeithongkho = jyongXeithongkho()
       v-model="xeithongkho.kriemsakPieuchiem"
       fixed-tabs
     >
-      <VTab :value="KriemsakPieuchiem.shyonip"><VIcon size="large"> mdi-magnify </VIcon></VTab>
-      <VTab :value="KriemsakPieuchiem.shiochiem"><VIcon size="large"> mdi-bookmark-multiple-outline </VIcon></VTab>
-      <VTab :value="KriemsakPieuchiem.leksriw"><VIcon size="large"> mdi-history </VIcon></VTab>
+      <VTab :value="KriemsakPieuchiem.shyonip">
+        <VIcon size="large"> mdi-magnify </VIcon>
+      </VTab>
+
+      <VTab :value="KriemsakPieuchiem.shiochiem">
+        <VIcon size="large"> mdi-bookmark-multiple-outline </VIcon>
+      </VTab>
+
+      <VTab :value="KriemsakPieuchiem.leksriw">
+        <VIcon size="large"> mdi-history </VIcon>
+      </VTab>
     </VTabs>
+
     <VWindow v-model="xeithongkho.kriemsakPieuchiem">
       <VWindowItem :value="KriemsakPieuchiem.shyonip">
         <KriemsakPenlanShyonip />
