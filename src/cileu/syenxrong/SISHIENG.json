@@ -1,0 +1,30 @@
+[
+    {
+        "zio": "1",
+        "qhandziwTuan": "平",
+        "qhandziwDriang": "平聲",
+        "zyephengTuan": "Brieŋ",
+        "zyephengDriang": "Brieŋshieŋ"
+    },
+    {
+        "zio": "2",
+        "qhandziwTuan": "上",
+        "qhandziwDriang": "上聲",
+        "zyephengTuan": "Diáŋ",
+        "zyephengDriang": "Diáŋshieŋ"
+    },
+    {
+        "zio": "3",
+        "qhandziwTuan": "去",
+        "qhandziwDriang": "去聲",
+        "zyephengTuan": "Khiô",
+        "zyephengDriang": "Khiôshieŋ"
+    },
+    {
+        "zio": "4",
+        "qhandziwTuan": "入",
+        "qhandziwDriang": "入聲",
+        "zyephengTuan": "Nip",
+        "zyephengDriang": "Nipshieŋ"
+    }
+]

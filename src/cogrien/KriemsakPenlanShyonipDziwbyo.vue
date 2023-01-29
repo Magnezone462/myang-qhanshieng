@@ -1,46 +1,53 @@
 <script setup lang="ts">
-import { jyongDziwbyoKriemsakkho } from '@/changkho/dziwbyoKriemsak'
+import { jyongKriemsakDziwbyokho } from '@/changkho/kriemsakDziwbyo'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
+import QhandziwKhyoxrywk from '@/cogrien/kriemsakKhyoxrywk/QhandziwKhyoxrywk.vue'
+import type { DziwbyoCileu } from '@/cisren/lyixeng'
 
-const dziwbyoKriemsakkho = jyongDziwbyoKriemsakkho()
+const kriemsakDziwbyokho = jyongKriemsakDziwbyokho()
 const dziwdeukho = jyongDziwdeukho()
 
-const qanKriemsakKetkua = (tuiziang: string) => {
-  dziwdeukho.triwSrioSyenDziwdu(tuiziang)
+/**
+ * 按結果: プッシュ リザルト
+ * @param xrongmyuk 項目: アイテム
+ */
+const qanKetkua = (xrongmyuk: DziwbyoCileu) => {
+  dziwdeukho.triwDziwdu(xrongmyuk.dziwbyo)
 }
-
-const qhruaSikrokXaumra = (xaumraco: string[]) => xaumraco.join('、')
 </script>
 
 <template>
-  <VSheet class="pa-4">
-    <VTextField
-      v-model="dziwbyoKriemsakkho.srioNipQhandziwthyen"
-      label="漢字"
-      placeholder="天地玄黄宇宙洪荒"
-      clearable
-      @keydown.enter="dziwbyoKriemsakkho.triwKriemsakKetkua()"
-    />
-    <VBtn
-      block
-      rounded
-      @click="dziwbyoKriemsakkho.triwKriemsakKetkua()"
-    >
-      檢索
-    </VBtn>
-  </VSheet>
+  <VContainer>
+    <VRow>
+      <QhandziwKhyoxrywk />
+      <VCol cols="12">
+        <VBtn
+          @click="kriemsakDziwbyokho.triwKetkua()"
+          block
+          rounded
+        >
+          檢索
+        </VBtn>
+      </VCol>
+    </VRow>
+  </VContainer>
 
   <VDivider />
 
   <VList>
     <VListItem
-      v-for="tuiziang in dziwbyoKriemsakkho.twkKriemsakKetkua"
-      :key="tuiziang.pieutiwbyo"
-      @click="qanKriemsakKetkua(tuiziang.dziw)"
+      v-for="xrongmyuk in kriemsakDziwbyokho.twkKetkua"
+      :key="xrongmyuk.pieutiwbyo"
+      @click="qanKetkua(xrongmyuk)"
       link
     >
-      <VListItemTitle>{{ tuiziang.dziw }}</VListItemTitle>
-      {{ qhruaSikrokXaumra(tuiziang.sikrok_xaumra) }}
+      <VListItemTitle>
+        {{ xrongmyuk.dziwbyo }}
+      </VListItemTitle>
+
+      <VListItemSubtitle>
+        {{ xrongmyuk.thongqitmra }}
+      </VListItemSubtitle>
     </VListItem>
   </VList>
 </template>

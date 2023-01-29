@@ -1,19 +1,17 @@
 import { ref } from 'vue'
 import { defineStore } from 'pinia'
-
-// 標籤: タブ
-type Pieuchiem = string | null
+import { KriemsakPieuchiem, ShyonipPieuchiem } from '@/cisren/muikio'
 
 // 抽屜: ドロワー
 type Thryuthei = boolean | null
 
 // 用系統庫: ユーズ システム ストア
 export const jyongXeithongkho = defineStore('xeithong', () => {
-  // 檢索邊欄主要標籤: サーチ サイドバー メイン タブ
-  const kriemsakPenlanTyoqieuPieuchiem = ref(<Pieuchiem>null)
+  // 檢索標籤: サーチ タブ
+  const kriemsakPieuchiem = ref(<KriemsakPieuchiem>KriemsakPieuchiem.shyonip)
 
-  // 檢索邊欄輸入標籤: サーチ サイドバー インプット タブ
-  const kriemsakPenlanShyonipPieuchiem = ref(<Pieuchiem>null)
+  // 輸入標籤: インプット タブ
+  const shyonipPieuchiem = ref(<ShyonipPieuchiem>ShyonipPieuchiem.dziwbyo)
 
   // 檢索邊欄抽屜: サーチ サイドバー ドロワー
   const kriemsakPenlanThryuthei = ref(<Thryuthei>null)
@@ -32,8 +30,8 @@ export const jyongXeithongkho = defineStore('xeithong', () => {
   }
 
   return {
-    kriemsakPenlanTyoqieuPieuchiem,
-    kriemsakPenlanShyonipPieuchiem,
+    kriemsakPieuchiem,
+    shyonipPieuchiem,
     kriemsakPenlanThryuthei,
     shiettriwPenlanThryuthei,
     xuanKriemsakPenlanThryuthei,

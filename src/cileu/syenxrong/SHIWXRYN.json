@@ -1,0 +1,744 @@
+[
+    {
+        "zio": "1",
+        "qhandziwTuan": "東",
+        "qhandziwDriang": "上平聲一東",
+        "zyephengTuan": "TUŊ",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐I TUŊ"
+    },
+    {
+        "zio": "2",
+        "qhandziwTuan": "冬",
+        "qhandziwDriang": "上平聲二冬",
+        "zyephengTuan": "TOŊ",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐II TOŊ"
+    },
+    {
+        "zio": "3",
+        "qhandziwTuan": "江",
+        "qhandziwDriang": "上平聲三江",
+        "zyephengTuan": "KROŊ",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐III KROŊ"
+    },
+    {
+        "zio": "4",
+        "qhandziwTuan": "支",
+        "qhandziwDriang": "上平聲四支",
+        "zyephengTuan": "TIE",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐IV TIE"
+    },
+    {
+        "zio": "5",
+        "qhandziwTuan": "微",
+        "qhandziwDriang": "上平聲五微",
+        "zyephengTuan": "MYUI",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐V MYUI"
+    },
+    {
+        "zio": "6",
+        "qhandziwTuan": "魚",
+        "qhandziwDriang": "上平聲六魚",
+        "zyephengTuan": "ŊIO",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐VI ŊIO"
+    },
+    {
+        "zio": "7",
+        "qhandziwTuan": "虞",
+        "qhandziwDriang": "上平聲七虞",
+        "zyephengTuan": "ŊYO",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐VII ŊYO"
+    },
+    {
+        "zio": "8",
+        "qhandziwTuan": "齊",
+        "qhandziwDriang": "上平聲八齊",
+        "zyephengTuan": "DZEI",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐VIII DZEI"
+    },
+    {
+        "zio": "9",
+        "qhandziwTuan": "佳",
+        "qhandziwDriang": "上平聲九佳",
+        "zyephengTuan": "KRE",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐IX KRE"
+    },
+    {
+        "zio": "10",
+        "qhandziwTuan": "灰",
+        "qhandziwDriang": "上平聲十灰",
+        "zyephengTuan": "QHUI",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐X QHUI"
+    },
+    {
+        "zio": "11",
+        "qhandziwTuan": "真",
+        "qhandziwDriang": "上平聲十一真",
+        "zyephengTuan": "TIN",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐XI TIN"
+    },
+    {
+        "zio": "12",
+        "qhandziwTuan": "文",
+        "qhandziwDriang": "上平聲十二文",
+        "zyephengTuan": "MYUN",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐XII MYUN"
+    },
+    {
+        "zio": "13",
+        "qhandziwTuan": "元",
+        "qhandziwDriang": "上平聲十三元",
+        "zyephengTuan": "ŊYAN",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐XIII ŊYAN"
+    },
+    {
+        "zio": "14",
+        "qhandziwTuan": "寒",
+        "qhandziwDriang": "上平聲十四寒",
+        "zyephengTuan": "XAN",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐XIV XAN"
+    },
+    {
+        "zio": "15",
+        "qhandziwTuan": "删",
+        "qhandziwDriang": "上平聲十五删",
+        "zyephengTuan": "SRAN",
+        "zyephengDriang": "Diáŋbrieŋshieŋ‐XV SRAN"
+    },
+    {
+        "zio": "16",
+        "qhandziwTuan": "先",
+        "qhandziwDriang": "下平聲一先",
+        "zyephengTuan": "SEN",
+        "zyephengDriang": "Xrábrieŋshieŋ‐I SEN"
+    },
+    {
+        "zio": "17",
+        "qhandziwTuan": "蕭",
+        "qhandziwDriang": "下平聲二蕭",
+        "zyephengTuan": "SEU",
+        "zyephengDriang": "Xrábrieŋshieŋ‐II SEU"
+    },
+    {
+        "zio": "18",
+        "qhandziwTuan": "肴",
+        "qhandziwDriang": "下平聲三肴",
+        "zyephengTuan": "XRAU",
+        "zyephengDriang": "Xrábrieŋshieŋ‐III XRAU"
+    },
+    {
+        "zio": "19",
+        "qhandziwTuan": "豪",
+        "qhandziwDriang": "下平聲四豪",
+        "zyephengTuan": "XAU",
+        "zyephengDriang": "Xrábrieŋshieŋ‐IV XAU"
+    },
+    {
+        "zio": "20",
+        "qhandziwTuan": "歌",
+        "qhandziwDriang": "下平聲五歌",
+        "zyephengTuan": "KA",
+        "zyephengDriang": "Xrábrieŋshieŋ‐V KA"
+    },
+    {
+        "zio": "21",
+        "qhandziwTuan": "麻",
+        "qhandziwDriang": "下平聲六麻",
+        "zyephengTuan": "MRA",
+        "zyephengDriang": "Xrábrieŋshieŋ‐VI MRA"
+    },
+    {
+        "zio": "22",
+        "qhandziwTuan": "陽",
+        "qhandziwDriang": "下平聲七陽",
+        "zyephengTuan": "JIAŊ",
+        "zyephengDriang": "Xrábrieŋshieŋ‐VII JIAŊ"
+    },
+    {
+        "zio": "23",
+        "qhandziwTuan": "庚",
+        "qhandziwDriang": "下平聲八庚",
+        "zyephengTuan": "KRAŊ",
+        "zyephengDriang": "Xrábrieŋshieŋ‐VIII KRAŊ"
+    },
+    {
+        "zio": "24",
+        "qhandziwTuan": "青",
+        "qhandziwDriang": "下平聲九青",
+        "zyephengTuan": "CHEŊ",
+        "zyephengDriang": "Xrábrieŋshieŋ‐IX CHEŊ"
+    },
+    {
+        "zio": "25",
+        "qhandziwTuan": "蒸",
+        "qhandziwDriang": "下平聲十蒸",
+        "zyephengTuan": "TIƏŊ",
+        "zyephengDriang": "Xrábrieŋshieŋ‐X TIƏŊ"
+    },
+    {
+        "zio": "26",
+        "qhandziwTuan": "尤",
+        "qhandziwDriang": "下平聲十一尤",
+        "zyephengTuan": "XYU",
+        "zyephengDriang": "Xrábrieŋshieŋ‐XI XYU"
+    },
+    {
+        "zio": "27",
+        "qhandziwTuan": "侵",
+        "qhandziwDriang": "下平聲十二侵",
+        "zyephengTuan": "CHIM",
+        "zyephengDriang": "Xrábrieŋshieŋ‐XII CHIM"
+    },
+    {
+        "zio": "28",
+        "qhandziwTuan": "覃",
+        "qhandziwDriang": "下平聲十三覃",
+        "zyephengTuan": "DƏM",
+        "zyephengDriang": "Xrábrieŋshieŋ‐XIII DƏM"
+    },
+    {
+        "zio": "29",
+        "qhandziwTuan": "鹽",
+        "qhandziwDriang": "下平聲十四鹽",
+        "zyephengTuan": "JIEM",
+        "zyephengDriang": "Xrábrieŋshieŋ‐XIV JIEM"
+    },
+    {
+        "zio": "30",
+        "qhandziwTuan": "咸",
+        "qhandziwDriang": "下平聲十五咸",
+        "zyephengTuan": "XREM",
+        "zyephengDriang": "Xrábrieŋshieŋ‐XV XREM"
+    },
+    {
+        "zio": "31",
+        "qhandziwTuan": "董",
+        "qhandziwDriang": "上聲一董",
+        "zyephengTuan": "TÚŊ",
+        "zyephengDriang": "Diáŋshieŋ‐I TÚŊ"
+    },
+    {
+        "zio": "32",
+        "qhandziwTuan": "腫",
+        "qhandziwDriang": "上聲二腫",
+        "zyephengTuan": "TYÓŊ",
+        "zyephengDriang": "Diáŋshieŋ‐II TYÓŊ"
+    },
+    {
+        "zio": "33",
+        "qhandziwTuan": "講",
+        "qhandziwDriang": "上聲三講",
+        "zyephengTuan": "KRÓŊ",
+        "zyephengDriang": "Diáŋshieŋ‐III KRÓŊ"
+    },
+    {
+        "zio": "34",
+        "qhandziwTuan": "紙",
+        "qhandziwDriang": "上聲四紙",
+        "zyephengTuan": "TIÉ",
+        "zyephengDriang": "Diáŋshieŋ‐IV TIÉ"
+    },
+    {
+        "zio": "35",
+        "qhandziwTuan": "尾",
+        "qhandziwDriang": "上聲五尾",
+        "zyephengTuan": "MYÚI",
+        "zyephengDriang": "Diáŋshieŋ‐V MYÚI"
+    },
+    {
+        "zio": "36",
+        "qhandziwTuan": "語",
+        "qhandziwDriang": "上聲六語",
+        "zyephengTuan": "ŊIÓ",
+        "zyephengDriang": "Diáŋshieŋ‐VI ŊIÓ"
+    },
+    {
+        "zio": "37",
+        "qhandziwTuan": "麌",
+        "qhandziwDriang": "上聲七麌",
+        "zyephengTuan": "ŊYÓ",
+        "zyephengDriang": "Diáŋshieŋ‐VII ŊYÓ"
+    },
+    {
+        "zio": "38",
+        "qhandziwTuan": "薺",
+        "qhandziwDriang": "上聲八薺",
+        "zyephengTuan": "DZÉI",
+        "zyephengDriang": "Diáŋshieŋ‐VIII DZÉI"
+    },
+    {
+        "zio": "39",
+        "qhandziwTuan": "蟹",
+        "qhandziwDriang": "上聲九蟹",
+        "zyephengTuan": "XRÉ",
+        "zyephengDriang": "Diáŋshieŋ‐IX XRÉ"
+    },
+    {
+        "zio": "40",
+        "qhandziwTuan": "賄",
+        "qhandziwDriang": "上聲十賄",
+        "zyephengTuan": "QHÚI",
+        "zyephengDriang": "Diáŋshieŋ‐X QHÚI"
+    },
+    {
+        "zio": "41",
+        "qhandziwTuan": "軫",
+        "qhandziwDriang": "上聲十一軫",
+        "zyephengTuan": "TÍN",
+        "zyephengDriang": "Diáŋshieŋ‐XI TÍN"
+    },
+    {
+        "zio": "42",
+        "qhandziwTuan": "吻",
+        "qhandziwDriang": "上聲十二吻",
+        "zyephengTuan": "MYÚN",
+        "zyephengDriang": "Diáŋshieŋ‐XII MYÚN"
+    },
+    {
+        "zio": "43",
+        "qhandziwTuan": "阮",
+        "qhandziwDriang": "上聲十三阮",
+        "zyephengTuan": "ŊYÁN",
+        "zyephengDriang": "Diáŋshieŋ‐XIII ŊYÁN"
+    },
+    {
+        "zio": "44",
+        "qhandziwTuan": "旱",
+        "qhandziwDriang": "上聲十四旱",
+        "zyephengTuan": "XÁN",
+        "zyephengDriang": "Diáŋshieŋ‐XIV XÁN"
+    },
+    {
+        "zio": "45",
+        "qhandziwTuan": "潸",
+        "qhandziwDriang": "上聲十五潸",
+        "zyephengTuan": "SRÁN",
+        "zyephengDriang": "Diáŋshieŋ‐XV SRÁN"
+    },
+    {
+        "zio": "46",
+        "qhandziwTuan": "銑",
+        "qhandziwDriang": "上聲十六銑",
+        "zyephengTuan": "SÉN",
+        "zyephengDriang": "Diáŋshieŋ‐XVI SÉN"
+    },
+    {
+        "zio": "47",
+        "qhandziwTuan": "篠",
+        "qhandziwDriang": "上聲十七篠",
+        "zyephengTuan": "SÉU",
+        "zyephengDriang": "Diáŋshieŋ‐XVII SÉU"
+    },
+    {
+        "zio": "48",
+        "qhandziwTuan": "巧",
+        "qhandziwDriang": "上聲十八巧",
+        "zyephengTuan": "KHRÁU",
+        "zyephengDriang": "Diáŋshieŋ‐XVIII KHRÁU"
+    },
+    {
+        "zio": "49",
+        "qhandziwTuan": "皓",
+        "qhandziwDriang": "上聲十九皓",
+        "zyephengTuan": "XÁU",
+        "zyephengDriang": "Diáŋshieŋ‐XIX XÁU"
+    },
+    {
+        "zio": "50",
+        "qhandziwTuan": "哿",
+        "qhandziwDriang": "上聲二十哿",
+        "zyephengTuan": "KÁ",
+        "zyephengDriang": "Diáŋshieŋ‐XX KÁ"
+    },
+    {
+        "zio": "51",
+        "qhandziwTuan": "馬",
+        "qhandziwDriang": "上聲二十一馬",
+        "zyephengTuan": "MRÁ",
+        "zyephengDriang": "Diáŋshieŋ‐XXI MRÁ"
+    },
+    {
+        "zio": "52",
+        "qhandziwTuan": "養",
+        "qhandziwDriang": "上聲二十二養",
+        "zyephengTuan": "JIÁŊ",
+        "zyephengDriang": "Diáŋshieŋ‐XXII JIÁŊ"
+    },
+    {
+        "zio": "53",
+        "qhandziwTuan": "梗",
+        "qhandziwDriang": "上聲二十三梗",
+        "zyephengTuan": "KRÁŊ",
+        "zyephengDriang": "Diáŋshieŋ‐XXIII KRÁŊ"
+    },
+    {
+        "zio": "54",
+        "qhandziwTuan": "迥",
+        "qhandziwDriang": "上聲二十四迥",
+        "zyephengTuan": "XUÉŊ",
+        "zyephengDriang": "Diáŋshieŋ‐XXIV XUÉŊ"
+    },
+    {
+        "zio": "55",
+        "qhandziwTuan": "有",
+        "qhandziwDriang": "上聲二十五有",
+        "zyephengTuan": "XYÚ",
+        "zyephengDriang": "Diáŋshieŋ‐XXV XYÚ"
+    },
+    {
+        "zio": "56",
+        "qhandziwTuan": "寢",
+        "qhandziwDriang": "上聲二十六寢",
+        "zyephengTuan": "CHÍM",
+        "zyephengDriang": "Diáŋshieŋ‐XXVI CHÍM"
+    },
+    {
+        "zio": "57",
+        "qhandziwTuan": "感",
+        "qhandziwDriang": "上聲二十七感",
+        "zyephengTuan": "KƏ́M",
+        "zyephengDriang": "Diáŋshieŋ‐XXVII KƏ́M"
+    },
+    {
+        "zio": "58",
+        "qhandziwTuan": "琰",
+        "qhandziwDriang": "上聲二十八琰",
+        "zyephengTuan": "JIÉM",
+        "zyephengDriang": "Diáŋshieŋ‐XXVIII JIÉM"
+    },
+    {
+        "zio": "59",
+        "qhandziwTuan": "豏",
+        "qhandziwDriang": "上聲二十九豏",
+        "zyephengTuan": "XRÉM",
+        "zyephengDriang": "Diáŋshieŋ‐XXIX XRÉM"
+    },
+    {
+        "zio": "60",
+        "qhandziwTuan": "送",
+        "qhandziwDriang": "去聲一送",
+        "zyephengTuan": "SÛŊ",
+        "zyephengDriang": "Khiôshieŋ‐I SÛŊ"
+    },
+    {
+        "zio": "61",
+        "qhandziwTuan": "宋",
+        "qhandziwDriang": "去聲二宋",
+        "zyephengTuan": "SÔŊ",
+        "zyephengDriang": "Khiôshieŋ‐II SÔŊ"
+    },
+    {
+        "zio": "62",
+        "qhandziwTuan": "絳",
+        "qhandziwDriang": "去聲三絳",
+        "zyephengTuan": "KRÔŊ",
+        "zyephengDriang": "Khiôshieŋ‐III KRÔŊ"
+    },
+    {
+        "zio": "63",
+        "qhandziwTuan": "寘",
+        "qhandziwDriang": "去聲四寘",
+        "zyephengTuan": "TIÊ",
+        "zyephengDriang": "Khiôshieŋ‐IV TIÊ"
+    },
+    {
+        "zio": "64",
+        "qhandziwTuan": "未",
+        "qhandziwDriang": "去聲五未",
+        "zyephengTuan": "MYÛI",
+        "zyephengDriang": "Khiôshieŋ‐V MYÛI"
+    },
+    {
+        "zio": "65",
+        "qhandziwTuan": "御",
+        "qhandziwDriang": "去聲六御",
+        "zyephengTuan": "ŊIÔ",
+        "zyephengDriang": "Khiôshieŋ‐VI ŊIÔ"
+    },
+    {
+        "zio": "66",
+        "qhandziwTuan": "遇",
+        "qhandziwDriang": "去聲七遇",
+        "zyephengTuan": "ŊYÔ",
+        "zyephengDriang": "Khiôshieŋ‐VII ŊYÔ"
+    },
+    {
+        "zio": "67",
+        "qhandziwTuan": "霽",
+        "qhandziwDriang": "去聲八霽",
+        "zyephengTuan": "CÊI",
+        "zyephengDriang": "Khiôshieŋ‐VIII CÊI"
+    },
+    {
+        "zio": "68",
+        "qhandziwTuan": "泰",
+        "qhandziwDriang": "去聲九泰",
+        "zyephengTuan": "THÂI",
+        "zyephengDriang": "Khiôshieŋ‐IX THÂI"
+    },
+    {
+        "zio": "69",
+        "qhandziwTuan": "卦",
+        "qhandziwDriang": "去聲十卦",
+        "zyephengTuan": "KRUÊ",
+        "zyephengDriang": "Khiôshieŋ‐X KRUÊ"
+    },
+    {
+        "zio": "70",
+        "qhandziwTuan": "隊",
+        "qhandziwDriang": "去聲十一隊",
+        "zyephengTuan": "DÛI",
+        "zyephengDriang": "Khiôshieŋ‐XI DÛI"
+    },
+    {
+        "zio": "71",
+        "qhandziwTuan": "震",
+        "qhandziwDriang": "去聲十二震",
+        "zyephengTuan": "TÎN",
+        "zyephengDriang": "Khiôshieŋ‐XII TÎN"
+    },
+    {
+        "zio": "72",
+        "qhandziwTuan": "問",
+        "qhandziwDriang": "去聲十三問",
+        "zyephengTuan": "MYÛN",
+        "zyephengDriang": "Khiôshieŋ‐XIII MYÛN"
+    },
+    {
+        "zio": "73",
+        "qhandziwTuan": "願",
+        "qhandziwDriang": "去聲十四願",
+        "zyephengTuan": "ŊYÂN",
+        "zyephengDriang": "Khiôshieŋ‐XIV ŊYÂN"
+    },
+    {
+        "zio": "74",
+        "qhandziwTuan": "翰",
+        "qhandziwDriang": "去聲十五翰",
+        "zyephengTuan": "XÂN",
+        "zyephengDriang": "Khiôshieŋ‐XV XÂN"
+    },
+    {
+        "zio": "75",
+        "qhandziwTuan": "諫",
+        "qhandziwDriang": "去聲十六諫",
+        "zyephengTuan": "KRÂN",
+        "zyephengDriang": "Khiôshieŋ‐XVI KRÂN"
+    },
+    {
+        "zio": "76",
+        "qhandziwTuan": "霰",
+        "qhandziwDriang": "去聲十七霰",
+        "zyephengTuan": "SÊN",
+        "zyephengDriang": "Khiôshieŋ‐XVII SÊN"
+    },
+    {
+        "zio": "77",
+        "qhandziwTuan": "嘯",
+        "qhandziwDriang": "去聲十八嘯",
+        "zyephengTuan": "SÊU",
+        "zyephengDriang": "Khiôshieŋ‐XVIII SÊU"
+    },
+    {
+        "zio": "78",
+        "qhandziwTuan": "效",
+        "qhandziwDriang": "去聲十九效",
+        "zyephengTuan": "XRÂU",
+        "zyephengDriang": "Khiôshieŋ‐XIX XRÂU"
+    },
+    {
+        "zio": "79",
+        "qhandziwTuan": "號",
+        "qhandziwDriang": "去聲二十號",
+        "zyephengTuan": "XÂU",
+        "zyephengDriang": "Khiôshieŋ‐XX XÂU"
+    },
+    {
+        "zio": "80",
+        "qhandziwTuan": "個",
+        "qhandziwDriang": "去聲二十一個",
+        "zyephengTuan": "KÂ",
+        "zyephengDriang": "Khiôshieŋ‐XXI KÂ"
+    },
+    {
+        "zio": "81",
+        "qhandziwTuan": "禡",
+        "qhandziwDriang": "去聲二十二禡",
+        "zyephengTuan": "MRÂ",
+        "zyephengDriang": "Khiôshieŋ‐XXII MRÂ"
+    },
+    {
+        "zio": "82",
+        "qhandziwTuan": "漾",
+        "qhandziwDriang": "去聲二十三漾",
+        "zyephengTuan": "JIÂŊ",
+        "zyephengDriang": "Khiôshieŋ‐XXIII JIÂŊ"
+    },
+    {
+        "zio": "83",
+        "qhandziwTuan": "敬",
+        "qhandziwDriang": "去聲二十四敬",
+        "zyephengTuan": "KRIÊŊ",
+        "zyephengDriang": "Khiôshieŋ‐XXIV KRIÊŊ"
+    },
+    {
+        "zio": "84",
+        "qhandziwTuan": "徑",
+        "qhandziwDriang": "去聲二十五徑",
+        "zyephengTuan": "KÊŊ",
+        "zyephengDriang": "Khiôshieŋ‐XXV KÊŊ"
+    },
+    {
+        "zio": "85",
+        "qhandziwTuan": "宥",
+        "qhandziwDriang": "去聲二十六宥",
+        "zyephengTuan": "XYÛ",
+        "zyephengDriang": "Khiôshieŋ‐XXVI XYÛ"
+    },
+    {
+        "zio": "86",
+        "qhandziwTuan": "沁",
+        "qhandziwDriang": "去聲二十七沁",
+        "zyephengTuan": "CHÎM",
+        "zyephengDriang": "Khiôshieŋ‐XXVII CHÎM"
+    },
+    {
+        "zio": "87",
+        "qhandziwTuan": "勘",
+        "qhandziwDriang": "去聲二十八勘",
+        "zyephengTuan": "KHƏ̂M",
+        "zyephengDriang": "Khiôshieŋ‐XXVIII KHƏ̂M"
+    },
+    {
+        "zio": "88",
+        "qhandziwTuan": "艷",
+        "qhandziwDriang": "去聲二十九艷",
+        "zyephengTuan": "JIÊM",
+        "zyephengDriang": "Khiôshieŋ‐XXIX JIÊM"
+    },
+    {
+        "zio": "89",
+        "qhandziwTuan": "陷",
+        "qhandziwDriang": "去聲三十陷",
+        "zyephengTuan": "XRÊM",
+        "zyephengDriang": "Khiôshieŋ‐XXX XRÊM"
+    },
+    {
+        "zio": "90",
+        "qhandziwTuan": "屋",
+        "qhandziwDriang": "入聲一屋",
+        "zyephengTuan": "QUK",
+        "zyephengDriang": "Nipshieŋ‐I QUK"
+    },
+    {
+        "zio": "91",
+        "qhandziwTuan": "沃",
+        "qhandziwDriang": "入聲二沃",
+        "zyephengTuan": "QOK",
+        "zyephengDriang": "Nipshieŋ‐II QOK"
+    },
+    {
+        "zio": "92",
+        "qhandziwTuan": "覺",
+        "qhandziwDriang": "入聲三覺",
+        "zyephengTuan": "KROK",
+        "zyephengDriang": "Nipshieŋ‐III KROK"
+    },
+    {
+        "zio": "93",
+        "qhandziwTuan": "質",
+        "qhandziwDriang": "入聲四質",
+        "zyephengTuan": "TIT",
+        "zyephengDriang": "Nipshieŋ‐IV TIT"
+    },
+    {
+        "zio": "94",
+        "qhandziwTuan": "物",
+        "qhandziwDriang": "入聲五物",
+        "zyephengTuan": "MYUT",
+        "zyephengDriang": "Nipshieŋ‐V MYUT"
+    },
+    {
+        "zio": "95",
+        "qhandziwTuan": "月",
+        "qhandziwDriang": "入聲六月",
+        "zyephengTuan": "ŊYAT",
+        "zyephengDriang": "Nipshieŋ‐VI ŊYAT"
+    },
+    {
+        "zio": "96",
+        "qhandziwTuan": "曷",
+        "qhandziwDriang": "入聲七曷",
+        "zyephengTuan": "XAT",
+        "zyephengDriang": "Nipshieŋ‐VII XAT"
+    },
+    {
+        "zio": "97",
+        "qhandziwTuan": "黠",
+        "qhandziwDriang": "入聲八黠",
+        "zyephengTuan": "XRET",
+        "zyephengDriang": "Nipshieŋ‐VIII XRET"
+    },
+    {
+        "zio": "98",
+        "qhandziwTuan": "屑",
+        "qhandziwDriang": "入聲九屑",
+        "zyephengTuan": "SET",
+        "zyephengDriang": "Nipshieŋ‐IX SET"
+    },
+    {
+        "zio": "99",
+        "qhandziwTuan": "藥",
+        "qhandziwDriang": "入聲十藥",
+        "zyephengTuan": "JIAK",
+        "zyephengDriang": "Nipshieŋ‐X JIAK"
+    },
+    {
+        "zio": "100",
+        "qhandziwTuan": "陌",
+        "qhandziwDriang": "入聲十一陌",
+        "zyephengTuan": "MRAK",
+        "zyephengDriang": "Nipshieŋ‐XI MRAK"
+    },
+    {
+        "zio": "101",
+        "qhandziwTuan": "錫",
+        "qhandziwDriang": "入聲十二錫",
+        "zyephengTuan": "SEK",
+        "zyephengDriang": "Nipshieŋ‐XII SEK"
+    },
+    {
+        "zio": "102",
+        "qhandziwTuan": "職",
+        "qhandziwDriang": "入聲十三職",
+        "zyephengTuan": "TIƏK",
+        "zyephengDriang": "Nipshieŋ‐XIII TIƏK"
+    },
+    {
+        "zio": "103",
+        "qhandziwTuan": "緝",
+        "qhandziwDriang": "入聲十四緝",
+        "zyephengTuan": "CHIP",
+        "zyephengDriang": "Nipshieŋ‐XIV CHIP"
+    },
+    {
+        "zio": "104",
+        "qhandziwTuan": "合",
+        "qhandziwDriang": "入聲十五合",
+        "zyephengTuan": "XƏP",
+        "zyephengDriang": "Nipshieŋ‐XV XƏP"
+    },
+    {
+        "zio": "105",
+        "qhandziwTuan": "葉",
+        "qhandziwDriang": "入聲十六葉",
+        "zyephengTuan": "JIEP",
+        "zyephengDriang": "Nipshieŋ‐XVI JIEP"
+    },
+    {
+        "zio": "106",
+        "qhandziwTuan": "洽",
+        "qhandziwDriang": "入聲十七洽",
+        "zyephengTuan": "XREP",
+        "zyephengDriang": "Nipshieŋ‐XVII XREP"
+    }
+]

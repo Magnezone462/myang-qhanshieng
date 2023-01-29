@@ -1,17 +1,22 @@
 <script setup lang="ts">
-import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/lyixeng'
-import { jyongDziwqrimKriemsakkho } from '@/changkho/dziwqrimKriemsak'
+import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/muikio'
+import { jyongKriemsakDziwqrimkho } from '@/changkho/kriemsakDziwqrim'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
-import KriemsakPenlanShyonipDziwqrimChwitan from './KriemsakPenlanShyonipDziwqrimChwitan.vue'
+import KriemsakPenlanShyonipDziwqrimChwitan from '@/cogrien/KriemsakPenlanShyonipDziwqrimChwitan.vue'
 import ZyephengKhyoxrwk from '@/cogrien/kriemsakKhyoxrywk/ZyephengKhyoxrywk.vue'
 import ShiwxrynKhyoxrywk from '@/cogrien/kriemsakKhyoxrywk/ShiwxrynKhyoxrywk.vue'
 import TwixrynxrokKhyoxrywk from '@/cogrien/kriemsakKhyoxrywk/TwixrynxrokKhyoxrywk.vue'
+import type { DziwqrimKrapCileu } from '@/cisren/lyixeng'
 
-const dziwqrimKriemsakkho = jyongDziwqrimKriemsakkho()
+const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
 const dziwdeukho = jyongDziwdeukho()
 
-const qanKriemsakKetkua = (tuiziang: string) => {
-  dziwdeukho.triwSrioSyenDziwdu(tuiziang)
+/**
+ * 按結果: プッシュ リザルト
+ * @param xrongmyuk 項目: アイテム
+ */
+const qanKetkua = (xrongmyuk: DziwqrimKrapCileu) => {
+  dziwdeukho.triwDziwdu(xrongmyuk.dziwbyo)
 }
 </script>
 
@@ -21,14 +26,16 @@ const qanKriemsakKetkua = (tuiziang: string) => {
       <VCol cols="12">
         <KriemsakPenlanShyonipDziwqrimChwitan />
       </VCol>
-      <ZyephengKhyoxrwk v-if="dziwqrimKriemsakkho.pyangshiwk === Pyangshiwk.zyepheng" />
-      <ShiwxrynKhyoxrywk v-if="dziwqrimKriemsakkho.pyangshiwk === Pyangshiwk.briengshyixryn" />
-      <TwixrynxrokKhyoxrywk v-if="dziwqrimKriemsakkho.pyangshiwk === Pyangshiwk.twixrynxrok" />
+
+      <ZyephengKhyoxrwk v-if="kriemsakDziwqrimkho.pyangshiwk === Pyangshiwk.zyepheng" />
+      <ShiwxrynKhyoxrywk v-if="kriemsakDziwqrimkho.pyangshiwk === Pyangshiwk.briengshyixryn" />
+      <TwixrynxrokKhyoxrywk v-if="kriemsakDziwqrimkho.pyangshiwk === Pyangshiwk.twixrynxrok" />
+
       <VCol cols="12">
         <VBtn
+          @click="kriemsakDziwqrimkho.triwKetkua()"
           block
           rounded
-          @click="dziwqrimKriemsakkho.triwKriemsakKetkua"
         >
           檢索
         </VBtn>
@@ -40,13 +47,18 @@ const qanKriemsakKetkua = (tuiziang: string) => {
 
   <VList>
     <VListItem
-      v-for="tuiziang in dziwqrimKriemsakkho.twkKriemsakKetkua"
-      :key="tuiziang.pieutiwbyo"
-      @click="qanKriemsakKetkua(tuiziang.dziw)"
+      v-for="xrongmyuk in kriemsakDziwqrimkho.twkKetkua"
+      :key="xrongmyuk.pieutiwbyo"
+      @click="qanKetkua(xrongmyuk)"
       link
     >
-      <VListItemTitle>{{ tuiziang.dziw }}</VListItemTitle>
-      {{ tuiziang.zyepheng }}
+      <VListItemTitle>
+        {{ xrongmyuk.dziwbyo }}
+      </VListItemTitle>
+
+      <VListItemSubtitle>
+        {{ xrongmyuk.zyepheng }}
+      </VListItemSubtitle>
     </VListItem>
   </VList>
 </template>

@@ -16,7 +16,7 @@ const qanByukxryiQannryu = () => shiochiemkho.byukDziwbyoco()
     <VListItem
       v-for="dziwbyo in shiochiemkho.dziwbyoco"
       :key="dziwbyo"
-      @click="dziwdeukho.triwSrioSyenDziwdu(dziwbyo)"
+      @click="dziwdeukho.triwDziwdu(dziwbyo)"
       link
     >
       <VListItemTitle>{{ dziwbyo }}</VListItemTitle>

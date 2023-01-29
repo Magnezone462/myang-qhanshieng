@@ -1,0 +1,306 @@
+[
+    {
+        "zio": "1",
+        "qhandziwTuan": "幫",
+        "qhandziwDriang": "幫母",
+        "zyephengTuan": "PAŊ",
+        "zyephengDriang": "PAŊ‐mú",
+        "ŋióqrim": "p‐"
+    },
+    {
+        "zio": "2",
+        "qhandziwTuan": "滂",
+        "qhandziwDriang": "滂母",
+        "zyephengTuan": "PHAŊ",
+        "zyephengDriang": "PHAŊ‐mú",
+        "ŋióqrim": "ph‐"
+    },
+    {
+        "zio": "3",
+        "qhandziwTuan": "並",
+        "qhandziwDriang": "並母",
+        "zyephengTuan": "BRÁŊ",
+        "zyephengDriang": "BRÁŊ‐mú",
+        "ŋióqrim": "b‐"
+    },
+    {
+        "zio": "4",
+        "qhandziwTuan": "明",
+        "qhandziwDriang": "明母",
+        "zyephengTuan": "MRIEŊ",
+        "zyephengDriang": "MRIEŊ‐mú",
+        "ŋióqrim": "m‐"
+    },
+    {
+        "zio": "5",
+        "qhandziwTuan": "端",
+        "qhandziwDriang": "端母",
+        "zyephengTuan": "TUAN",
+        "zyephengDriang": "TUAN‐mú",
+        "ŋióqrim": "t‐"
+    },
+    {
+        "zio": "6",
+        "qhandziwTuan": "透",
+        "qhandziwDriang": "透母",
+        "zyephengTuan": "THÛ",
+        "zyephengDriang": "THÛ‐mú",
+        "ŋióqrim": "th‐"
+    },
+    {
+        "zio": "7",
+        "qhandziwTuan": "定",
+        "qhandziwDriang": "定母",
+        "zyephengTuan": "DÊŊ",
+        "zyephengDriang": "DÊŊ‐mú",
+        "ŋióqrim": "d‐"
+    },
+    {
+        "zio": "8",
+        "qhandziwTuan": "泥",
+        "qhandziwDriang": "泥母",
+        "zyephengTuan": "NEI",
+        "zyephengDriang": "NEI‐mú",
+        "ŋióqrim": "n‐"
+    },
+    {
+        "zio": "9",
+        "qhandziwTuan": "來",
+        "qhandziwDriang": "來母",
+        "zyephengTuan": "LƏI",
+        "zyephengDriang": "LƏI‐mú",
+        "ŋióqrim": "l‐"
+    },
+    {
+        "zio": "10",
+        "qhandziwTuan": "知",
+        "qhandziwDriang": "知母",
+        "zyephengTuan": "TRIE",
+        "zyephengDriang": "TRIE‐mú",
+        "ŋióqrim": "tr‐"
+    },
+    {
+        "zio": "11",
+        "qhandziwTuan": "徹",
+        "qhandziwDriang": "徹母",
+        "zyephengTuan": "THRIET",
+        "zyephengDriang": "THRIET‐mú",
+        "ŋióqrim": "thr‐"
+    },
+    {
+        "zio": "12",
+        "qhandziwTuan": "澄",
+        "qhandziwDriang": "澄母",
+        "zyephengTuan": "DRIƏŊ",
+        "zyephengDriang": "DRIƏŊ‐mú",
+        "ŋióqrim": "dr‐"
+    },
+    {
+        "zio": "13",
+        "qhandziwTuan": "娘",
+        "qhandziwDriang": "娘母",
+        "zyephengTuan": "NRIAŊ",
+        "zyephengDriang": "NRIAŊ‐mú",
+        "ŋióqrim": "nr‐"
+    },
+    {
+        "zio": "14",
+        "qhandziwTuan": "精",
+        "qhandziwDriang": "精母",
+        "zyephengTuan": "CIEŊ",
+        "zyephengDriang": "CIEŊ‐mú",
+        "ŋióqrim": "c‐"
+    },
+    {
+        "zio": "15",
+        "qhandziwTuan": "清",
+        "qhandziwDriang": "清母",
+        "zyephengTuan": "CHIEŊ",
+        "zyephengDriang": "CHIEŊ‐mú",
+        "ŋióqrim": "ch‐"
+    },
+    {
+        "zio": "16",
+        "qhandziwTuan": "從",
+        "qhandziwDriang": "從母",
+        "zyephengTuan": "DZYOŊ",
+        "zyephengDriang": "DZYOŊ‐mú",
+        "ŋióqrim": "dz‐"
+    },
+    {
+        "zio": "17",
+        "qhandziwTuan": "心",
+        "qhandziwDriang": "心母",
+        "zyephengTuan": "SIM",
+        "zyephengDriang": "SIM‐mú",
+        "ŋióqrim": "s‐"
+    },
+    {
+        "zio": "18",
+        "qhandziwTuan": "邪",
+        "qhandziwDriang": "邪母",
+        "zyephengTuan": "ZIA",
+        "zyephengDriang": "ZIA‐mú",
+        "ŋióqrim": "z‐"
+    },
+    {
+        "zio": "19",
+        "qhandziwTuan": "莊",
+        "qhandziwDriang": "莊母",
+        "zyephengTuan": "CRIAŊ",
+        "zyephengDriang": "CRIAŊ‐mú",
+        "ŋióqrim": "cr‐"
+    },
+    {
+        "zio": "20",
+        "qhandziwTuan": "初",
+        "qhandziwDriang": "初母",
+        "zyephengTuan": "CHRIO",
+        "zyephengDriang": "CHRIO‐mú",
+        "ŋióqrim": "chr‐"
+    },
+    {
+        "zio": "21",
+        "qhandziwTuan": "崇",
+        "qhandziwDriang": "崇母",
+        "zyephengTuan": "DZRYUŊ",
+        "zyephengDriang": "DZRYUŊ‐mú",
+        "ŋióqrim": "dzr‐"
+    },
+    {
+        "zio": "22",
+        "qhandziwTuan": "生",
+        "qhandziwDriang": "生母",
+        "zyephengTuan": "SRIEŊ",
+        "zyephengDriang": "SRIEŊ‐mú",
+        "ŋióqrim": "sr‐"
+    },
+    {
+        "zio": "23",
+        "qhandziwTuan": "俟",
+        "qhandziwDriang": "俟母",
+        "zyephengTuan": "ZRIƏ́",
+        "zyephengDriang": "ZRIƏ́‐mú",
+        "ŋióqrim": "zr‐"
+    },
+    {
+        "zio": "24",
+        "qhandziwTuan": "章",
+        "qhandziwDriang": "章母",
+        "zyephengTuan": "TIAŊ",
+        "zyephengDriang": "TIAŊ‐mú",
+        "ŋióqrim": "tь‐"
+    },
+    {
+        "zio": "25",
+        "qhandziwTuan": "昌",
+        "qhandziwDriang": "昌母",
+        "zyephengTuan": "THIAŊ",
+        "zyephengDriang": "THIAŊ‐mú",
+        "ŋióqrim": "thь‐"
+    },
+    {
+        "zio": "26",
+        "qhandziwTuan": "禪",
+        "qhandziwDriang": "禪母",
+        "zyephengTuan": "DIEN",
+        "zyephengDriang": "DIEN‐mú",
+        "ŋióqrim": "dь‐"
+    },
+    {
+        "zio": "27",
+        "qhandziwTuan": "日",
+        "qhandziwDriang": "日母",
+        "zyephengTuan": "NIT",
+        "zyephengDriang": "NIT‐mú",
+        "ŋióqrim": "nь‐"
+    },
+    {
+        "zio": "28",
+        "qhandziwTuan": "書",
+        "qhandziwDriang": "書母",
+        "zyephengTuan": "SHIO",
+        "zyephengDriang": "SHIO‐mú",
+        "ŋióqrim": "shь‐"
+    },
+    {
+        "zio": "29",
+        "qhandziwTuan": "船",
+        "qhandziwDriang": "船母",
+        "zyephengTuan": "ZHYEN",
+        "zyephengDriang": "ZHYEN‐mú",
+        "ŋióqrim": "zhь‐"
+    },
+    {
+        "zio": "30",
+        "qhandziwTuan": "以",
+        "qhandziwDriang": "以母",
+        "zyephengTuan": "JIƏ́",
+        "zyephengDriang": "JIƏ́‐mú",
+        "ŋióqrim": "jь‐"
+    },
+    {
+        "zio": "31",
+        "qhandziwTuan": "見",
+        "qhandziwDriang": "見母",
+        "zyephengTuan": "KÊN",
+        "zyephengDriang": "KÊN‐mú",
+        "ŋióqrim": "k‐"
+    },
+    {
+        "zio": "32",
+        "qhandziwTuan": "溪",
+        "qhandziwDriang": "溪母",
+        "zyephengTuan": "KHEI",
+        "zyephengDriang": "KHEI‐mú",
+        "ŋióqrim": "kh‐"
+    },
+    {
+        "zio": "33",
+        "qhandziwTuan": "群",
+        "qhandziwDriang": "群母",
+        "zyephengTuan": "GYUN",
+        "zyephengDriang": "GYUN‐mú",
+        "ŋióqrim": "g‐"
+    },
+    {
+        "zio": "34",
+        "qhandziwTuan": "疑",
+        "qhandziwDriang": "疑母",
+        "zyephengTuan": "ŊIƏ",
+        "zyephengDriang": "ŊIƏ‐mú",
+        "ŋióqrim": "ŋ‐"
+    },
+    {
+        "zio": "35",
+        "qhandziwTuan": "影",
+        "qhandziwDriang": "影母",
+        "zyephengTuan": "QRIÉŊ",
+        "zyephengDriang": "QRIÉŊ‐mú",
+        "ŋióqrim": "q‐"
+    },
+    {
+        "zio": "36",
+        "qhandziwTuan": "曉",
+        "qhandziwDriang": "曉母",
+        "zyephengTuan": "QHÉU",
+        "zyephengDriang": "QHÉU‐mú",
+        "ŋióqrim": "qh‐"
+    },
+    {
+        "zio": "37",
+        "qhandziwTuan": "匣",
+        "qhandziwDriang": "匣母",
+        "zyephengTuan": "XRAP",
+        "zyephengDriang": "XRAP‐mú",
+        "ŋióqrim": "x‐"
+    },
+    {
+        "zio": "38",
+        "qhandziwTuan": "云",
+        "qhandziwDriang": "云母",
+        "zyephengTuan": "XYUN",
+        "zyephengDriang": "XYUN‐mú",
+        "ŋióqrim": "xь‐"
+    }
+]

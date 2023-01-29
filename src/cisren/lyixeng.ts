@@ -1,65 +1,105 @@
-// Dziwxeng.json no kata tegi desu.
-export interface DziwxengSryokio {
+/**
+ * 字符資料: キャラクター データ
+ */
+export interface DziwbyoCileu {
   pieutiwbyo: string
-  dziw: string
-  dziw_QhSh: string
-  dziwxeng: string
-  sikrok_xaumra: string[]
+  dziwbyo: string
+  dziwbyoNguaidziw: string
   thongqitmra: string
-  pryentyong: string
-  tyoshiek: string
 }
 
-// Dziwqrim.json no kata tegi desu.
-export interface DziwqrimSryokio {
+/**
+ * 字音甲資料: プロナンシエーション エー データ
+ */
+export interface DziwqrimKrapCileu {
   pieutiwbyo: string
-  dziw: string
-  dziw_biekhuet: string
+  dziwbyo: string
+  dziwbyoNguaidziw: string
   zyepheng: string
-  zyepheng_biekhuet: string
+  zyephengNguaidziw: string
   shiwxryn: string | null
-  shiep: string | null
-  qho: string | null
-  twng: string | null
-  deu: string | null
-  xryn: string | null
-  shieng: string | null
+  xrynshiep: string | null
+  khwixwp: string | null
+  twixryi: string | null
+  sishieng: string | null
+  xrynmyuk: string | null
+  shiengmu: string | null
   xrynmu: string | null
-  ChX_ziosryo_sishieng: string | null
-  ChX_ziosryo_xrynmyuk: string | null
-  ChX_ziosryo_sieuxryn: string | null
-  diangko_xryn: string | null
-  ChX_dzankryen_lyi: string | null
-  ChX_dzankryen: string[]
-  pyanchet_ChX: string | null
-  pyanchet_ChX_tyo: string
-  pyanchet_XX: string | null
-  pyanchet_XX_tyo: string
-  pyanchet_KX: string | null
-  pyanchet_KX_tyo: string
-  pyanchet_DzX: string | null
-  pyanchet_DzX_tyo: string
-  QhZQh_shieng: string | null
-  QhZQh_xryn: string | null
-  QhZQh_deu: string | null
-  ZNg_shiwxryn: string
-  ZNg_shiwxryn_tyo: string
+  thongqitmra: string
+}
+
+/**
+ * 字音乙資料: プロナンシエーション ビー データ
+ */
+export interface DziwqrimQritCileu {
+  pieutiwbyo: string
+  dziwbyo: string
+  dziwbyoNguaidziw: string
+  zyepheng: string
+  zyephengNguaidziw: string
+  ChXZiosryoSishieng: string | null
+  ChXZiosryoXrynmyuk: string | null
+  ChXZiosryoSieuxryn: string | null
+  ChXDzankryenlyi: string | null
+  ChXDzankryen: string[]
+  ChXPyanchet: string | null
+  ChXPyanchetPotyo: string
+  XXPyanchet: string | null
+  XXPyanchetPotyo: string
+  KXPyanchet: string | null
+  KXPyanchetPotyo: string
+  DzXPyanchet: string | null
+  DzXPyanchetPotyo: string
+  QhZQhShienglyi: string | null
+  QhZQhXrynlyi: string | null
+  QhZQhDeuyi: string | null
+  thongqitmra: string
+}
+
+/**
+ * 字音丙資料: プロナンシエーション シー データ
+ */
+export interface DziwqrimPriengCileu {
+  pieutiwbyo: string
+  dziwbyo: string
+  dziwbyoNguaidziw: string
+  zyepheng: string
+  zyephengNguaidziw: string
+  diangkoXrynbu: string | null
+  ZNgShiwxryn: string
+  ZNgShiwxrynPotyo: string
   qrimtyo: string
   ngrietyo: string
   thongqitmra: string
 }
 
-// 外觀: アピアランス
-export enum Nguaikuan {
-  chiensriwk = 'light',
-  shimsriwk = 'dark',
-  dzidung = 'automatic',
+/**
+ * 字音總資料: プロナンシエーション ジェネラル データ
+ */
+export interface DziwqrimCungCileu extends DziwqrimKrapCileu, DziwqrimQritCileu, DziwqrimPriengCileu {}
+
+/**
+ * 字形四角號碼資料: グリフ フォー コーナー コード データ
+ */
+export interface DziwxengSikrokXaumraCileu {
+  pieutiwbyo: string
+  dziwbyo: string
+  dziwbyoNguaidziw: string
+  dziwxeng: string
+  sikrokXaumra: string[]
+  thongqitmra: string
+  pryentyong: string
+  tyoshiek: string
 }
 
-// 檢索字音方式: サーチ プロナンシエーション モード
-export const KriemsakDziwqrimPyangshiwk = {
-  zyepheng: 0,
-  briengshyixryn: 1,
-  twixrynxrok: 2,
-} as const
-export type KriemsakDziwqrimPyangshiwk = typeof KriemsakDziwqrimPyangshiwk[keyof typeof KriemsakDziwqrimPyangshiwk]
+export interface DziwxengQhZQhBushyuCileu {
+  pieutiwbyo: string
+  dziwbyo: string
+  dziwbyoNguaidziw: string
+  bushyu: string
+  bushyuZio: string
+  zhiwngjio: string
+  thongqitmra: string
+}
+
+export type Dziwxeng = DziwxengSikrokXaumraCileu | DziwxengQhZQhBushyuCileu

@@ -1,0 +1,1698 @@
+[
+    {
+        "zio": "1",
+        "qhandziwTuan": "一",
+        "qhandziwDriang": "一部",
+        "zyephengTuan": "QIT",
+        "zyephengDriang": "QIT‐bú",
+        "xruek": "1"
+    },
+    {
+        "zio": "2",
+        "qhandziwTuan": "丨",
+        "qhandziwDriang": "丨部",
+        "zyephengTuan": "KÚN",
+        "zyephengDriang": "KÚN‐bú",
+        "xruek": "1"
+    },
+    {
+        "zio": "3",
+        "qhandziwTuan": "丶",
+        "qhandziwDriang": "丶部",
+        "zyephengTuan": "TRYÓ",
+        "zyephengDriang": "TRYÓ‐bú",
+        "xruek": "1"
+    },
+    {
+        "zio": "4",
+        "qhandziwTuan": "丿",
+        "qhandziwDriang": "丿部",
+        "zyephengTuan": "PHET",
+        "zyephengDriang": "PHET‐bú",
+        "xruek": "1"
+    },
+    {
+        "zio": "5",
+        "qhandziwTuan": "乙",
+        "qhandziwDriang": "乙部",
+        "zyephengTuan": "QRIT",
+        "zyephengDriang": "QRIT‐bú",
+        "xruek": "1"
+    },
+    {
+        "zio": "6",
+        "qhandziwTuan": "亅",
+        "qhandziwDriang": "亅部",
+        "zyephengTuan": "GYAT",
+        "zyephengDriang": "GYAT‐bú",
+        "xruek": "1"
+    },
+    {
+        "zio": "7",
+        "qhandziwTuan": "二",
+        "qhandziwDriang": "二部",
+        "zyephengTuan": "NÎ",
+        "zyephengDriang": "NÎ‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "8",
+        "qhandziwTuan": "亠",
+        "qhandziwDriang": "亠部",
+        "zyephengTuan": "DU",
+        "zyephengDriang": "DU‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "9",
+        "qhandziwTuan": "人",
+        "qhandziwDriang": "人部",
+        "zyephengTuan": "NIN",
+        "zyephengDriang": "NIN‐bú (人)",
+        "xruek": "2"
+    },
+    {
+        "zio": "10",
+        "qhandziwTuan": "儿",
+        "qhandziwDriang": "儿部",
+        "zyephengTuan": "NIN",
+        "zyephengDriang": "NIN‐bú (儿)",
+        "xruek": "2"
+    },
+    {
+        "zio": "11",
+        "qhandziwTuan": "入",
+        "qhandziwDriang": "入部",
+        "zyephengTuan": "NIP",
+        "zyephengDriang": "NIP‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "12",
+        "qhandziwTuan": "八",
+        "qhandziwDriang": "八部",
+        "zyephengTuan": "PRET",
+        "zyephengDriang": "PRET‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "13",
+        "qhandziwTuan": "冂",
+        "qhandziwDriang": "冂部",
+        "zyephengTuan": "KUEŊ",
+        "zyephengDriang": "KUEŊ‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "14",
+        "qhandziwTuan": "冖",
+        "qhandziwDriang": "冖部",
+        "zyephengTuan": "MEK",
+        "zyephengDriang": "MEK‐bú (冖)",
+        "xruek": "2"
+    },
+    {
+        "zio": "15",
+        "qhandziwTuan": "冫",
+        "qhandziwDriang": "冫部",
+        "zyephengTuan": "PRYƏŊ",
+        "zyephengDriang": "PRYƏŊ‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "16",
+        "qhandziwTuan": "几",
+        "qhandziwDriang": "几部",
+        "zyephengTuan": "KÍ",
+        "zyephengDriang": "KÍ‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "17",
+        "qhandziwTuan": "凵",
+        "qhandziwDriang": "凵部",
+        "zyephengTuan": "KHYÁM",
+        "zyephengDriang": "KHYÁM‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "18",
+        "qhandziwTuan": "刀",
+        "qhandziwDriang": "刀部",
+        "zyephengTuan": "TAU",
+        "zyephengDriang": "TAU‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "19",
+        "qhandziwTuan": "力",
+        "qhandziwDriang": "力部",
+        "zyephengTuan": "LIƏK",
+        "zyephengDriang": "LIƏK‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "20",
+        "qhandziwTuan": "勹",
+        "qhandziwDriang": "勹部",
+        "zyephengTuan": "PRAU",
+        "zyephengDriang": "PRAU‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "21",
+        "qhandziwTuan": "匕",
+        "qhandziwDriang": "匕部",
+        "zyephengTuan": "PÍ",
+        "zyephengDriang": "PÍ‐bú (匕)",
+        "xruek": "2"
+    },
+    {
+        "zio": "22",
+        "qhandziwTuan": "匚",
+        "qhandziwDriang": "匚部",
+        "zyephengTuan": "PYAŊ",
+        "zyephengDriang": "PYAŊ‐bú (匚)",
+        "xruek": "2"
+    },
+    {
+        "zio": "24",
+        "qhandziwTuan": "十",
+        "qhandziwDriang": "十部",
+        "zyephengTuan": "DIP",
+        "zyephengDriang": "DIP‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "25",
+        "qhandziwTuan": "卜",
+        "qhandziwDriang": "卜部",
+        "zyephengTuan": "PUK",
+        "zyephengDriang": "PUK‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "26",
+        "qhandziwTuan": "卩",
+        "qhandziwDriang": "卩部",
+        "zyephengTuan": "CET",
+        "zyephengDriang": "CET‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "27",
+        "qhandziwTuan": "厂",
+        "qhandziwDriang": "厂部",
+        "zyephengTuan": "QHÁN",
+        "zyephengDriang": "QHÁN‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "28",
+        "qhandziwTuan": "厶",
+        "qhandziwDriang": "厶部",
+        "zyephengTuan": "SI",
+        "zyephengDriang": "SI‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "29",
+        "qhandziwTuan": "又",
+        "qhandziwDriang": "又部",
+        "zyephengTuan": "XYÛ",
+        "zyephengDriang": "XYÛ‐bú",
+        "xruek": "2"
+    },
+    {
+        "zio": "30",
+        "qhandziwTuan": "口",
+        "qhandziwDriang": "口部",
+        "zyephengTuan": "KHÚ",
+        "zyephengDriang": "KHÚ‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "31",
+        "qhandziwTuan": "囗",
+        "qhandziwDriang": "囗部",
+        "zyephengTuan": "XYUI",
+        "zyephengDriang": "XYUI‐bú (囗)",
+        "xruek": "3"
+    },
+    {
+        "zio": "32",
+        "qhandziwTuan": "土",
+        "qhandziwDriang": "土部",
+        "zyephengTuan": "THÓ",
+        "zyephengDriang": "THÓ‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "33",
+        "qhandziwTuan": "士",
+        "qhandziwDriang": "士部",
+        "zyephengTuan": "DZRIƏ́",
+        "zyephengDriang": "DZRIƏ́‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "34",
+        "qhandziwTuan": "夂",
+        "qhandziwDriang": "夂部",
+        "zyephengTuan": "TRÍ",
+        "zyephengDriang": "TRÍ‐bú (夂)",
+        "xruek": "3"
+    },
+    {
+        "zio": "36",
+        "qhandziwTuan": "夕",
+        "qhandziwDriang": "夕部",
+        "zyephengTuan": "ZIEK",
+        "zyephengDriang": "ZIEK‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "37",
+        "qhandziwTuan": "大",
+        "qhandziwDriang": "大部",
+        "zyephengTuan": "DÂI",
+        "zyephengDriang": "DÂI‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "38",
+        "qhandziwTuan": "女",
+        "qhandziwDriang": "女部",
+        "zyephengTuan": "NRIÓ",
+        "zyephengDriang": "NRIÓ‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "39",
+        "qhandziwTuan": "子",
+        "qhandziwDriang": "子部",
+        "zyephengTuan": "CIƏ́",
+        "zyephengDriang": "CIƏ́‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "40",
+        "qhandziwTuan": "宀",
+        "qhandziwDriang": "宀部",
+        "zyephengTuan": "MIEN",
+        "zyephengDriang": "MIEN‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "41",
+        "qhandziwTuan": "寸",
+        "qhandziwDriang": "寸部",
+        "zyephengTuan": "CHÛN",
+        "zyephengDriang": "CHÛN‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "42",
+        "qhandziwTuan": "小",
+        "qhandziwDriang": "小部",
+        "zyephengTuan": "SIÉU",
+        "zyephengDriang": "SIÉU‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "43",
+        "qhandziwTuan": "尢",
+        "qhandziwDriang": "尢部",
+        "zyephengTuan": "QUAŊ",
+        "zyephengDriang": "QUAŊ‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "44",
+        "qhandziwTuan": "尸",
+        "qhandziwDriang": "尸部",
+        "zyephengTuan": "SHI",
+        "zyephengDriang": "SHI‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "45",
+        "qhandziwTuan": "屮",
+        "qhandziwDriang": "屮部",
+        "zyephengTuan": "THRIET",
+        "zyephengDriang": "THRIET‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "46",
+        "qhandziwTuan": "山",
+        "qhandziwDriang": "山部",
+        "zyephengTuan": "SREN",
+        "zyephengDriang": "SREN‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "47",
+        "qhandziwTuan": "巛",
+        "qhandziwDriang": "巛部",
+        "zyephengTuan": "THYEN",
+        "zyephengDriang": "THYEN‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "48",
+        "qhandziwTuan": "工",
+        "qhandziwDriang": "工部",
+        "zyephengTuan": "KUŊ",
+        "zyephengDriang": "KUŊ‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "49",
+        "qhandziwTuan": "己",
+        "qhandziwDriang": "己部",
+        "zyephengTuan": "KIƏ́",
+        "zyephengDriang": "KIƏ́‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "50",
+        "qhandziwTuan": "巾",
+        "qhandziwDriang": "巾部",
+        "zyephengTuan": "KRIN",
+        "zyephengDriang": "KRIN‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "51",
+        "qhandziwTuan": "干",
+        "qhandziwDriang": "干部",
+        "zyephengTuan": "KAN",
+        "zyephengDriang": "KAN‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "52",
+        "qhandziwTuan": "幺",
+        "qhandziwDriang": "幺部",
+        "zyephengTuan": "QEU",
+        "zyephengDriang": "QEU‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "53",
+        "qhandziwTuan": "广",
+        "qhandziwDriang": "广部",
+        "zyephengTuan": "ŊRIÉM",
+        "zyephengDriang": "ŊRIÉM‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "54",
+        "qhandziwTuan": "廴",
+        "qhandziwDriang": "廴部",
+        "zyephengTuan": "JÍN",
+        "zyephengDriang": "JÍN‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "55",
+        "qhandziwTuan": "廾",
+        "qhandziwDriang": "廾部",
+        "zyephengTuan": "KYÓŊ",
+        "zyephengDriang": "KYÓŊ‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "56",
+        "qhandziwTuan": "弋",
+        "qhandziwDriang": "弋部",
+        "zyephengTuan": "JIƏK",
+        "zyephengDriang": "JIƏK‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "57",
+        "qhandziwTuan": "弓",
+        "qhandziwDriang": "弓部",
+        "zyephengTuan": "KYUŊ",
+        "zyephengDriang": "KYUŊ‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "58",
+        "qhandziwTuan": "彐",
+        "qhandziwDriang": "彐部",
+        "zyephengTuan": "KRIÊI",
+        "zyephengDriang": "KRIÊI‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "59",
+        "qhandziwTuan": "彡",
+        "qhandziwDriang": "彡部",
+        "zyephengTuan": "SRAM",
+        "zyephengDriang": "SRAM‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "60",
+        "qhandziwTuan": "彳",
+        "qhandziwDriang": "彳部",
+        "zyephengTuan": "THRIEK",
+        "zyephengDriang": "THRIEK‐bú",
+        "xruek": "3"
+    },
+    {
+        "zio": "61",
+        "qhandziwTuan": "心",
+        "qhandziwDriang": "心部",
+        "zyephengTuan": "SIM",
+        "zyephengDriang": "SIM‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "62",
+        "qhandziwTuan": "戈",
+        "qhandziwDriang": "戈部",
+        "zyephengTuan": "KUA",
+        "zyephengDriang": "KUA‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "63",
+        "qhandziwTuan": "户",
+        "qhandziwDriang": "户部",
+        "zyephengTuan": "XÓ",
+        "zyephengDriang": "XÓ‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "64",
+        "qhandziwTuan": "手",
+        "qhandziwDriang": "手部",
+        "zyephengTuan": "SHYÚ",
+        "zyephengDriang": "SHYÚ‐bú (手)",
+        "xruek": "4"
+    },
+    {
+        "zio": "65",
+        "qhandziwTuan": "支",
+        "qhandziwDriang": "支部",
+        "zyephengTuan": "TIE",
+        "zyephengDriang": "TIE‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "66",
+        "qhandziwTuan": "攴",
+        "qhandziwDriang": "攴部",
+        "zyephengTuan": "PHROK",
+        "zyephengDriang": "PHROK‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "67",
+        "qhandziwTuan": "文",
+        "qhandziwDriang": "文部",
+        "zyephengTuan": "MYUN",
+        "zyephengDriang": "MYUN‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "68",
+        "qhandziwTuan": "斗",
+        "qhandziwDriang": "斗部",
+        "zyephengTuan": "TÚ",
+        "zyephengDriang": "TÚ‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "69",
+        "qhandziwTuan": "斤",
+        "qhandziwDriang": "斤部",
+        "zyephengTuan": "KIƏN",
+        "zyephengDriang": "KIƏN‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "70",
+        "qhandziwTuan": "方",
+        "qhandziwDriang": "方部",
+        "zyephengTuan": "PYAŊ",
+        "zyephengDriang": "PYAŊ‐bú (方)",
+        "xruek": "4"
+    },
+    {
+        "zio": "71",
+        "qhandziwTuan": "无",
+        "qhandziwDriang": "无部",
+        "zyephengTuan": "MYO",
+        "zyephengDriang": "MYO‐bú (无)",
+        "xruek": "4"
+    },
+    {
+        "zio": "72",
+        "qhandziwTuan": "日",
+        "qhandziwDriang": "日部",
+        "zyephengTuan": "NIT",
+        "zyephengDriang": "NIT‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "73",
+        "qhandziwTuan": "曰",
+        "qhandziwDriang": "曰部",
+        "zyephengTuan": "XYAT",
+        "zyephengDriang": "XYAT‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "74",
+        "qhandziwTuan": "月",
+        "qhandziwDriang": "月部",
+        "zyephengTuan": "ŊYAT",
+        "zyephengDriang": "ŊYAT‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "75",
+        "qhandziwTuan": "木",
+        "qhandziwDriang": "木部",
+        "zyephengTuan": "MUK",
+        "zyephengDriang": "MUK‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "76",
+        "qhandziwTuan": "欠",
+        "qhandziwDriang": "欠部",
+        "zyephengTuan": "KHIÂM",
+        "zyephengDriang": "KHIÂM‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "77",
+        "qhandziwTuan": "止",
+        "qhandziwDriang": "止部",
+        "zyephengTuan": "TIƏ́",
+        "zyephengDriang": "TIƏ́‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "78",
+        "qhandziwTuan": "歹",
+        "qhandziwDriang": "歹部",
+        "zyephengTuan": "ŊAT",
+        "zyephengDriang": "ŊAT‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "79",
+        "qhandziwTuan": "殳",
+        "qhandziwDriang": "殳部",
+        "zyephengTuan": "DYO",
+        "zyephengDriang": "DYO‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "80",
+        "qhandziwTuan": "毋",
+        "qhandziwDriang": "毋部",
+        "zyephengTuan": "MYO",
+        "zyephengDriang": "MYO‐bú (毋)",
+        "xruek": "4"
+    },
+    {
+        "zio": "81",
+        "qhandziwTuan": "比",
+        "qhandziwDriang": "比部",
+        "zyephengTuan": "PÍ",
+        "zyephengDriang": "PÍ‐bú (比)",
+        "xruek": "4"
+    },
+    {
+        "zio": "82",
+        "qhandziwTuan": "毛",
+        "qhandziwDriang": "毛部",
+        "zyephengTuan": "MAU",
+        "zyephengDriang": "MAU‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "83",
+        "qhandziwTuan": "氏",
+        "qhandziwDriang": "氏部",
+        "zyephengTuan": "DIÉ",
+        "zyephengDriang": "DIÉ‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "84",
+        "qhandziwTuan": "气",
+        "qhandziwDriang": "气部",
+        "zyephengTuan": "KHIƏ̂I",
+        "zyephengDriang": "KHIƏ̂I‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "85",
+        "qhandziwTuan": "水",
+        "qhandziwDriang": "水部",
+        "zyephengTuan": "SHÝI",
+        "zyephengDriang": "SHÝI‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "86",
+        "qhandziwTuan": "火",
+        "qhandziwDriang": "火部",
+        "zyephengTuan": "QHUÁ",
+        "zyephengDriang": "QHUÁ‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "87",
+        "qhandziwTuan": "爪",
+        "qhandziwDriang": "爪部",
+        "zyephengTuan": "CRÁU",
+        "zyephengDriang": "CRÁU‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "88",
+        "qhandziwTuan": "父",
+        "qhandziwDriang": "父部",
+        "zyephengTuan": "BYÓ",
+        "zyephengDriang": "BYÓ‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "89",
+        "qhandziwTuan": "爻",
+        "qhandziwDriang": "爻部",
+        "zyephengTuan": "XRAU",
+        "zyephengDriang": "XRAU‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "90",
+        "qhandziwTuan": "爿",
+        "qhandziwDriang": "爿部",
+        "zyephengTuan": "DZIAŊ",
+        "zyephengDriang": "DZIAŊ‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "91",
+        "qhandziwTuan": "片",
+        "qhandziwDriang": "片部",
+        "zyephengTuan": "PHÊN",
+        "zyephengDriang": "PHÊN‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "92",
+        "qhandziwTuan": "牙",
+        "qhandziwDriang": "牙部",
+        "zyephengTuan": "ŊRA",
+        "zyephengDriang": "ŊRA‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "93",
+        "qhandziwTuan": "牛",
+        "qhandziwDriang": "牛部",
+        "zyephengTuan": "ŊYU",
+        "zyephengDriang": "ŊYU‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "94",
+        "qhandziwTuan": "犬",
+        "qhandziwDriang": "犬部",
+        "zyephengTuan": "KHUÉN",
+        "zyephengDriang": "KHUÉN‐bú",
+        "xruek": "4"
+    },
+    {
+        "zio": "95",
+        "qhandziwTuan": "玄",
+        "qhandziwDriang": "玄部",
+        "zyephengTuan": "XUEN",
+        "zyephengDriang": "XUEN‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "96",
+        "qhandziwTuan": "玉",
+        "qhandziwDriang": "玉部",
+        "zyephengTuan": "ŊYOK",
+        "zyephengDriang": "ŊYOK‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "97",
+        "qhandziwTuan": "瓜",
+        "qhandziwDriang": "瓜部",
+        "zyephengTuan": "KRUA",
+        "zyephengDriang": "KRUA‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "98",
+        "qhandziwTuan": "瓦",
+        "qhandziwDriang": "瓦部",
+        "zyephengTuan": "ŊRUÁ",
+        "zyephengDriang": "ŊRUÁ‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "99",
+        "qhandziwTuan": "甘",
+        "qhandziwDriang": "甘部",
+        "zyephengTuan": "KAM",
+        "zyephengDriang": "KAM‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "100",
+        "qhandziwTuan": "生",
+        "qhandziwDriang": "生部",
+        "zyephengTuan": "SRIEŊ",
+        "zyephengDriang": "SRIEŊ‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "101",
+        "qhandziwTuan": "用",
+        "qhandziwDriang": "用部",
+        "zyephengTuan": "JYÔŊ",
+        "zyephengDriang": "JYÔŊ‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "102",
+        "qhandziwTuan": "田",
+        "qhandziwDriang": "田部",
+        "zyephengTuan": "DEN",
+        "zyephengDriang": "DEN‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "103",
+        "qhandziwTuan": "疋",
+        "qhandziwDriang": "疋部",
+        "zyephengTuan": "SRIO",
+        "zyephengDriang": "SRIO‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "104",
+        "qhandziwTuan": "疒",
+        "qhandziwDriang": "疒部",
+        "zyephengTuan": "NREK",
+        "zyephengDriang": "NREK‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "105",
+        "qhandziwTuan": "癶",
+        "qhandziwDriang": "癶部",
+        "zyephengTuan": "PAT",
+        "zyephengDriang": "PAT‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "106",
+        "qhandziwTuan": "白",
+        "qhandziwDriang": "白部",
+        "zyephengTuan": "BRAK",
+        "zyephengDriang": "BRAK‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "107",
+        "qhandziwTuan": "皮",
+        "qhandziwDriang": "皮部",
+        "zyephengTuan": "BRIE",
+        "zyephengDriang": "BRIE‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "108",
+        "qhandziwTuan": "皿",
+        "qhandziwDriang": "皿部",
+        "zyephengTuan": "MRIÉŊ",
+        "zyephengDriang": "MRIÉŊ‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "109",
+        "qhandziwTuan": "目",
+        "qhandziwDriang": "目部",
+        "zyephengTuan": "MYUK",
+        "zyephengDriang": "MYUK‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "110",
+        "qhandziwTuan": "矛",
+        "qhandziwDriang": "矛部",
+        "zyephengTuan": "MYU",
+        "zyephengDriang": "MYU‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "111",
+        "qhandziwTuan": "矢",
+        "qhandziwDriang": "矢部",
+        "zyephengTuan": "SHÍ",
+        "zyephengDriang": "SHÍ‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "112",
+        "qhandziwTuan": "石",
+        "qhandziwDriang": "石部",
+        "zyephengTuan": "DIEK",
+        "zyephengDriang": "DIEK‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "113",
+        "qhandziwTuan": "示",
+        "qhandziwDriang": "示部",
+        "zyephengTuan": "ZHÎ",
+        "zyephengDriang": "ZHÎ‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "114",
+        "qhandziwTuan": "禸",
+        "qhandziwDriang": "禸部",
+        "zyephengTuan": "NYÚ",
+        "zyephengDriang": "NYÚ‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "115",
+        "qhandziwTuan": "禾",
+        "qhandziwDriang": "禾部",
+        "zyephengTuan": "XUA",
+        "zyephengDriang": "XUA‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "116",
+        "qhandziwTuan": "穴",
+        "qhandziwDriang": "穴部",
+        "zyephengTuan": "XUET",
+        "zyephengDriang": "XUET‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "117",
+        "qhandziwTuan": "立",
+        "qhandziwDriang": "立部",
+        "zyephengTuan": "LIP",
+        "zyephengDriang": "LIP‐bú",
+        "xruek": "5"
+    },
+    {
+        "zio": "118",
+        "qhandziwTuan": "竹",
+        "qhandziwDriang": "竹部",
+        "zyephengTuan": "TRYUK",
+        "zyephengDriang": "TRYUK‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "119",
+        "qhandziwTuan": "米",
+        "qhandziwDriang": "米部",
+        "zyephengTuan": "MÉI",
+        "zyephengDriang": "MÉI‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "120",
+        "qhandziwTuan": "糸",
+        "qhandziwDriang": "糸部",
+        "zyephengTuan": "MEK",
+        "zyephengDriang": "MEK‐bú (糸)",
+        "xruek": "6"
+    },
+    {
+        "zio": "121",
+        "qhandziwTuan": "缶",
+        "qhandziwDriang": "缶部",
+        "zyephengTuan": "PYÚ",
+        "zyephengDriang": "PYÚ‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "122",
+        "qhandziwTuan": "网",
+        "qhandziwDriang": "网部",
+        "zyephengTuan": "MYÁŊ",
+        "zyephengDriang": "MYÁŊ‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "123",
+        "qhandziwTuan": "羊",
+        "qhandziwDriang": "羊部",
+        "zyephengTuan": "JIAŊ",
+        "zyephengDriang": "JIAŊ‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "124",
+        "qhandziwTuan": "羽",
+        "qhandziwDriang": "羽部",
+        "zyephengTuan": "XYÓ",
+        "zyephengDriang": "XYÓ‐bú (羽)",
+        "xruek": "6"
+    },
+    {
+        "zio": "125",
+        "qhandziwTuan": "老",
+        "qhandziwDriang": "老部",
+        "zyephengTuan": "LÁU",
+        "zyephengDriang": "LÁU‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "126",
+        "qhandziwTuan": "而",
+        "qhandziwDriang": "而部",
+        "zyephengTuan": "NIƏ",
+        "zyephengDriang": "NIƏ‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "127",
+        "qhandziwTuan": "耒",
+        "qhandziwDriang": "耒部",
+        "zyephengTuan": "LÝI",
+        "zyephengDriang": "LÝI‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "128",
+        "qhandziwTuan": "耳",
+        "qhandziwDriang": "耳部",
+        "zyephengTuan": "NIƏ́",
+        "zyephengDriang": "NIƏ́‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "129",
+        "qhandziwTuan": "聿",
+        "qhandziwDriang": "聿部",
+        "zyephengTuan": "JYT",
+        "zyephengDriang": "JYT‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "130",
+        "qhandziwTuan": "肉",
+        "qhandziwDriang": "肉部",
+        "zyephengTuan": "NYUK",
+        "zyephengDriang": "NYUK‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "131",
+        "qhandziwTuan": "臣",
+        "qhandziwDriang": "臣部",
+        "zyephengTuan": "DIN",
+        "zyephengDriang": "DIN‐bú (臣)",
+        "xruek": "6"
+    },
+    {
+        "zio": "132",
+        "qhandziwTuan": "自",
+        "qhandziwDriang": "自部",
+        "zyephengTuan": "DZÎ",
+        "zyephengDriang": "DZÎ‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "133",
+        "qhandziwTuan": "至",
+        "qhandziwDriang": "至部",
+        "zyephengTuan": "TÎ",
+        "zyephengDriang": "TÎ‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "134",
+        "qhandziwTuan": "臼",
+        "qhandziwDriang": "臼部",
+        "zyephengTuan": "GYÚ",
+        "zyephengDriang": "GYÚ‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "135",
+        "qhandziwTuan": "舌",
+        "qhandziwDriang": "舌部",
+        "zyephengTuan": "ZHIET",
+        "zyephengDriang": "ZHIET‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "136",
+        "qhandziwTuan": "舛",
+        "qhandziwDriang": "舛部",
+        "zyephengTuan": "THYÉN",
+        "zyephengDriang": "THYÉN‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "137",
+        "qhandziwTuan": "舟",
+        "qhandziwDriang": "舟部",
+        "zyephengTuan": "TYU",
+        "zyephengDriang": "TYU‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "138",
+        "qhandziwTuan": "艮",
+        "qhandziwDriang": "艮部",
+        "zyephengTuan": "KƏ̂N",
+        "zyephengDriang": "KƏ̂N‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "139",
+        "qhandziwTuan": "色",
+        "qhandziwDriang": "色部",
+        "zyephengTuan": "SRIƏK",
+        "zyephengDriang": "SRIƏK‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "140",
+        "qhandziwTuan": "艸",
+        "qhandziwDriang": "艸部",
+        "zyephengTuan": "CHÁU",
+        "zyephengDriang": "CHÁU‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "141",
+        "qhandziwTuan": "虍",
+        "qhandziwDriang": "虍部",
+        "zyephengTuan": "QHO",
+        "zyephengDriang": "QHO‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "142",
+        "qhandziwTuan": "虫",
+        "qhandziwDriang": "虫部",
+        "zyephengTuan": "QHYÚI",
+        "zyephengDriang": "QHYÚI‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "143",
+        "qhandziwTuan": "血",
+        "qhandziwDriang": "血部",
+        "zyephengTuan": "QHUET",
+        "zyephengDriang": "QHUET‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "144",
+        "qhandziwTuan": "行",
+        "qhandziwDriang": "行部",
+        "zyephengTuan": "XRAŊ",
+        "zyephengDriang": "XRAŊ‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "145",
+        "qhandziwTuan": "衣",
+        "qhandziwDriang": "衣部",
+        "zyephengTuan": "QIƏI",
+        "zyephengDriang": "QIƏI‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "146",
+        "qhandziwTuan": "襾",
+        "qhandziwDriang": "襾部",
+        "zyephengTuan": "QRÂ",
+        "zyephengDriang": "QRÂ‐bú",
+        "xruek": "6"
+    },
+    {
+        "zio": "147",
+        "qhandziwTuan": "見",
+        "qhandziwDriang": "見部",
+        "zyephengTuan": "KÊN",
+        "zyephengDriang": "KÊN‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "148",
+        "qhandziwTuan": "角",
+        "qhandziwDriang": "角部",
+        "zyephengTuan": "KROK",
+        "zyephengDriang": "KROK‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "149",
+        "qhandziwTuan": "言",
+        "qhandziwDriang": "言部",
+        "zyephengTuan": "ŊIAN",
+        "zyephengDriang": "ŊIAN‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "150",
+        "qhandziwTuan": "谷",
+        "qhandziwDriang": "谷部",
+        "zyephengTuan": "KUK",
+        "zyephengDriang": "KUK‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "151",
+        "qhandziwTuan": "豆",
+        "qhandziwDriang": "豆部",
+        "zyephengTuan": "DÛ",
+        "zyephengDriang": "DÛ‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "152",
+        "qhandziwTuan": "豕",
+        "qhandziwDriang": "豕部",
+        "zyephengTuan": "SHIÉ",
+        "zyephengDriang": "SHIÉ‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "153",
+        "qhandziwTuan": "豸",
+        "qhandziwDriang": "豸部",
+        "zyephengTuan": "DRIÉ",
+        "zyephengDriang": "DRIÉ‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "154",
+        "qhandziwTuan": "貝",
+        "qhandziwDriang": "貝部",
+        "zyephengTuan": "PÂI",
+        "zyephengDriang": "PÂI‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "155",
+        "qhandziwTuan": "赤",
+        "qhandziwDriang": "赤部",
+        "zyephengTuan": "THIEK",
+        "zyephengDriang": "THIEK‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "156",
+        "qhandziwTuan": "走",
+        "qhandziwDriang": "走部",
+        "zyephengTuan": "CÚ",
+        "zyephengDriang": "CÚ‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "157",
+        "qhandziwTuan": "足",
+        "qhandziwDriang": "足部",
+        "zyephengTuan": "CYOK",
+        "zyephengDriang": "CYOK‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "158",
+        "qhandziwTuan": "身",
+        "qhandziwDriang": "身部",
+        "zyephengTuan": "SHIN",
+        "zyephengDriang": "SHIN‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "159",
+        "qhandziwTuan": "車",
+        "qhandziwDriang": "車部",
+        "zyephengTuan": "THIA",
+        "zyephengDriang": "THIA‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "160",
+        "qhandziwTuan": "辛",
+        "qhandziwDriang": "辛部",
+        "zyephengTuan": "SIN",
+        "zyephengDriang": "SIN‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "161",
+        "qhandziwTuan": "辰",
+        "qhandziwDriang": "辰部",
+        "zyephengTuan": "DIN",
+        "zyephengDriang": "DIN‐bú (辰)",
+        "xruek": "7"
+    },
+    {
+        "zio": "162",
+        "qhandziwTuan": "辵",
+        "qhandziwDriang": "辵部",
+        "zyephengTuan": "THRIAK",
+        "zyephengDriang": "THRIAK‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "163",
+        "qhandziwTuan": "邑",
+        "qhandziwDriang": "邑部",
+        "zyephengTuan": "QRIP",
+        "zyephengDriang": "QRIP‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "164",
+        "qhandziwTuan": "酉",
+        "qhandziwDriang": "酉部",
+        "zyephengTuan": "JYÚ",
+        "zyephengDriang": "JYÚ‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "165",
+        "qhandziwTuan": "釆",
+        "qhandziwDriang": "釆部",
+        "zyephengTuan": "BRÊN",
+        "zyephengDriang": "BRÊN‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "166",
+        "qhandziwTuan": "里",
+        "qhandziwDriang": "里部",
+        "zyephengTuan": "LIƏ́",
+        "zyephengDriang": "LIƏ́‐bú",
+        "xruek": "7"
+    },
+    {
+        "zio": "167",
+        "qhandziwTuan": "金",
+        "qhandziwDriang": "金部",
+        "zyephengTuan": "KRIM",
+        "zyephengDriang": "KRIM‐bú",
+        "xruek": "8"
+    },
+    {
+        "zio": "168",
+        "qhandziwTuan": "長",
+        "qhandziwDriang": "長部",
+        "zyephengTuan": "DRIAŊ",
+        "zyephengDriang": "DRIAŊ‐bú",
+        "xruek": "8"
+    },
+    {
+        "zio": "169",
+        "qhandziwTuan": "門",
+        "qhandziwDriang": "門部",
+        "zyephengTuan": "MUN",
+        "zyephengDriang": "MUN‐bú",
+        "xruek": "8"
+    },
+    {
+        "zio": "170",
+        "qhandziwTuan": "阜",
+        "qhandziwDriang": "阜部",
+        "zyephengTuan": "BYÚ",
+        "zyephengDriang": "BYÚ‐bú",
+        "xruek": "8"
+    },
+    {
+        "zio": "171",
+        "qhandziwTuan": "隶",
+        "qhandziwDriang": "隶部",
+        "zyephengTuan": "DƏ̂I",
+        "zyephengDriang": "DƏ̂I‐bú",
+        "xruek": "8"
+    },
+    {
+        "zio": "172",
+        "qhandziwTuan": "隹",
+        "qhandziwDriang": "隹部",
+        "zyephengTuan": "TYI",
+        "zyephengDriang": "TYI‐bú",
+        "xruek": "8"
+    },
+    {
+        "zio": "173",
+        "qhandziwTuan": "雨",
+        "qhandziwDriang": "雨部",
+        "zyephengTuan": "XYÓ",
+        "zyephengDriang": "XYÓ‐bú (雨)",
+        "xruek": "8"
+    },
+    {
+        "zio": "174",
+        "qhandziwTuan": "青",
+        "qhandziwDriang": "青部",
+        "zyephengTuan": "CHEŊ",
+        "zyephengDriang": "CHEŊ‐bú",
+        "xruek": "8"
+    },
+    {
+        "zio": "175",
+        "qhandziwTuan": "非",
+        "qhandziwDriang": "非部",
+        "zyephengTuan": "PYUI",
+        "zyephengDriang": "PYUI‐bú (非)",
+        "xruek": "8"
+    },
+    {
+        "zio": "176",
+        "qhandziwTuan": "面",
+        "qhandziwDriang": "面部",
+        "zyephengTuan": "MIÊN",
+        "zyephengDriang": "MIÊN‐bú",
+        "xruek": "9"
+    },
+    {
+        "zio": "177",
+        "qhandziwTuan": "革",
+        "qhandziwDriang": "革部",
+        "zyephengTuan": "KREK",
+        "zyephengDriang": "KREK‐bú",
+        "xruek": "9"
+    },
+    {
+        "zio": "178",
+        "qhandziwTuan": "韋",
+        "qhandziwDriang": "韋部",
+        "zyephengTuan": "XYUI",
+        "zyephengDriang": "XYUI‐bú (韋)",
+        "xruek": "9"
+    },
+    {
+        "zio": "179",
+        "qhandziwTuan": "韭",
+        "qhandziwDriang": "韭部",
+        "zyephengTuan": "KYÚ",
+        "zyephengDriang": "KYÚ‐bú",
+        "xruek": "9"
+    },
+    {
+        "zio": "180",
+        "qhandziwTuan": "音",
+        "qhandziwDriang": "音部",
+        "zyephengTuan": "QRIM",
+        "zyephengDriang": "QRIM‐bú",
+        "xruek": "9"
+    },
+    {
+        "zio": "181",
+        "qhandziwTuan": "頁",
+        "qhandziwDriang": "頁部",
+        "zyephengTuan": "XET",
+        "zyephengDriang": "XET‐bú",
+        "xruek": "9"
+    },
+    {
+        "zio": "182",
+        "qhandziwTuan": "風",
+        "qhandziwDriang": "風部",
+        "zyephengTuan": "PYUŊ",
+        "zyephengDriang": "PYUŊ‐bú",
+        "xruek": "9"
+    },
+    {
+        "zio": "183",
+        "qhandziwTuan": "飛",
+        "qhandziwDriang": "飛部",
+        "zyephengTuan": "PYUI",
+        "zyephengDriang": "PYUI‐bú (飛)",
+        "xruek": "9"
+    },
+    {
+        "zio": "184",
+        "qhandziwTuan": "食",
+        "qhandziwDriang": "食部",
+        "zyephengTuan": "ZHIƏK",
+        "zyephengDriang": "ZHIƏK‐bú",
+        "xruek": "9"
+    },
+    {
+        "zio": "185",
+        "qhandziwTuan": "首",
+        "qhandziwDriang": "首部",
+        "zyephengTuan": "SHYÚ",
+        "zyephengDriang": "SHYÚ‐bú (首)",
+        "xruek": "9"
+    },
+    {
+        "zio": "186",
+        "qhandziwTuan": "香",
+        "qhandziwDriang": "香部",
+        "zyephengTuan": "QHIAŊ",
+        "zyephengDriang": "QHIAŊ‐bú",
+        "xruek": "9"
+    },
+    {
+        "zio": "187",
+        "qhandziwTuan": "馬",
+        "qhandziwDriang": "馬部",
+        "zyephengTuan": "MRÁ",
+        "zyephengDriang": "MRÁ‐bú",
+        "xruek": "10"
+    },
+    {
+        "zio": "188",
+        "qhandziwTuan": "骨",
+        "qhandziwDriang": "骨部",
+        "zyephengTuan": "KUT",
+        "zyephengDriang": "KUT‐bú",
+        "xruek": "10"
+    },
+    {
+        "zio": "189",
+        "qhandziwTuan": "高",
+        "qhandziwDriang": "高部",
+        "zyephengTuan": "KAU",
+        "zyephengDriang": "KAU‐bú",
+        "xruek": "10"
+    },
+    {
+        "zio": "190",
+        "qhandziwTuan": "髟",
+        "qhandziwDriang": "髟部",
+        "zyephengTuan": "PIEU",
+        "zyephengDriang": "PIEU‐bú",
+        "xruek": "10"
+    },
+    {
+        "zio": "191",
+        "qhandziwTuan": "鬥",
+        "qhandziwDriang": "鬥部",
+        "zyephengTuan": "TÛ",
+        "zyephengDriang": "TÛ‐bú",
+        "xruek": "10"
+    },
+    {
+        "zio": "192",
+        "qhandziwTuan": "鬯",
+        "qhandziwDriang": "鬯部",
+        "zyephengTuan": "THRIÂŊ",
+        "zyephengDriang": "THRIÂŊ‐bú",
+        "xruek": "10"
+    },
+    {
+        "zio": "193",
+        "qhandziwTuan": "鬲",
+        "qhandziwDriang": "鬲部",
+        "zyephengTuan": "LEK",
+        "zyephengDriang": "LEK‐bú",
+        "xruek": "10"
+    },
+    {
+        "zio": "194",
+        "qhandziwTuan": "鬼",
+        "qhandziwDriang": "鬼部",
+        "zyephengTuan": "KYÚI",
+        "zyephengDriang": "KYÚI‐bú",
+        "xruek": "10"
+    },
+    {
+        "zio": "195",
+        "qhandziwTuan": "魚",
+        "qhandziwDriang": "魚部",
+        "zyephengTuan": "ŊIO",
+        "zyephengDriang": "ŊIO‐bú",
+        "xruek": "11"
+    },
+    {
+        "zio": "196",
+        "qhandziwTuan": "鳥",
+        "qhandziwDriang": "鳥部",
+        "zyephengTuan": "TÉU",
+        "zyephengDriang": "TÉU‐bú",
+        "xruek": "11"
+    },
+    {
+        "zio": "197",
+        "qhandziwTuan": "鹵",
+        "qhandziwDriang": "鹵部",
+        "zyephengTuan": "LÓ",
+        "zyephengDriang": "LÓ‐bú",
+        "xruek": "11"
+    },
+    {
+        "zio": "198",
+        "qhandziwTuan": "鹿",
+        "qhandziwDriang": "鹿部",
+        "zyephengTuan": "LUK",
+        "zyephengDriang": "LUK‐bú",
+        "xruek": "11"
+    },
+    {
+        "zio": "199",
+        "qhandziwTuan": "麥",
+        "qhandziwDriang": "麥部",
+        "zyephengTuan": "MREK",
+        "zyephengDriang": "MREK‐bú",
+        "xruek": "11"
+    },
+    {
+        "zio": "200",
+        "qhandziwTuan": "麻",
+        "qhandziwDriang": "麻部",
+        "zyephengTuan": "MRA",
+        "zyephengDriang": "MRA‐bú",
+        "xruek": "11"
+    },
+    {
+        "zio": "201",
+        "qhandziwTuan": "黄",
+        "qhandziwDriang": "黄部",
+        "zyephengTuan": "XUAŊ",
+        "zyephengDriang": "XUAŊ‐bú",
+        "xruek": "12"
+    },
+    {
+        "zio": "202",
+        "qhandziwTuan": "黍",
+        "qhandziwDriang": "黍部",
+        "zyephengTuan": "SHIÓ",
+        "zyephengDriang": "SHIÓ‐bú (黍)",
+        "xruek": "12"
+    },
+    {
+        "zio": "203",
+        "qhandziwTuan": "黑",
+        "qhandziwDriang": "黑部",
+        "zyephengTuan": "QHƏK",
+        "zyephengDriang": "QHƏK‐bú",
+        "xruek": "12"
+    },
+    {
+        "zio": "204",
+        "qhandziwTuan": "黹",
+        "qhandziwDriang": "黹部",
+        "zyephengTuan": "TRÍ",
+        "zyephengDriang": "TRÍ‐bú (黹)",
+        "xruek": "12"
+    },
+    {
+        "zio": "205",
+        "qhandziwTuan": "黽",
+        "qhandziwDriang": "黽部",
+        "zyephengTuan": "MRÉŊ",
+        "zyephengDriang": "MRÉŊ‐bú",
+        "xruek": "13"
+    },
+    {
+        "zio": "206",
+        "qhandziwTuan": "鼎",
+        "qhandziwDriang": "鼎部",
+        "zyephengTuan": "TÉŊ",
+        "zyephengDriang": "TÉŊ‐bú",
+        "xruek": "13"
+    },
+    {
+        "zio": "207",
+        "qhandziwTuan": "鼓",
+        "qhandziwDriang": "鼓部",
+        "zyephengTuan": "KÓ",
+        "zyephengDriang": "KÓ‐bú",
+        "xruek": "13"
+    },
+    {
+        "zio": "208",
+        "qhandziwTuan": "鼠",
+        "qhandziwDriang": "鼠部",
+        "zyephengTuan": "SHIÓ",
+        "zyephengDriang": "SHIÓ‐bú (鼠)",
+        "xruek": "13"
+    },
+    {
+        "zio": "209",
+        "qhandziwTuan": "鼻",
+        "qhandziwDriang": "鼻部",
+        "zyephengTuan": "BÎ",
+        "zyephengDriang": "BÎ‐bú",
+        "xruek": "14"
+    },
+    {
+        "zio": "210",
+        "qhandziwTuan": "齊",
+        "qhandziwDriang": "齊部",
+        "zyephengTuan": "DZEI",
+        "zyephengDriang": "DZEI‐bú",
+        "xruek": "14"
+    },
+    {
+        "zio": "211",
+        "qhandziwTuan": "齒",
+        "qhandziwDriang": "齒部",
+        "zyephengTuan": "THIƏ́",
+        "zyephengDriang": "THIƏ́‐bú",
+        "xruek": "15"
+    },
+    {
+        "zio": "212",
+        "qhandziwTuan": "龍",
+        "qhandziwDriang": "龍部",
+        "zyephengTuan": "LYOŊ",
+        "zyephengDriang": "LYOŊ‐bú",
+        "xruek": "16"
+    },
+    {
+        "zio": "213",
+        "qhandziwTuan": "龜",
+        "qhandziwDriang": "龜部",
+        "zyephengTuan": "KRYI",
+        "zyephengDriang": "KRYI‐bú",
+        "xruek": "16"
+    },
+    {
+        "zio": "214",
+        "qhandziwTuan": "龠",
+        "qhandziwDriang": "龠部",
+        "zyephengTuan": "JIAK",
+        "zyephengDriang": "JIAK‐bú",
+        "xruek": "17"
+    }
+]
