@@ -1,74 +1,70 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
-import dziwtyong from '../sryokio/dziwtyong.json'
-import dziwxeng from '../sryokio/dziwxeng.json'
-import dziwqrim from '../sryokio/dziwqrim.json'
-import tiengdziw from '../sryokio/tiengdziw.json'
-import type { DziwqrimSryokio, DziwxengSryokio } from '@/cisren/lyixeng'
+import DZIWTYONG from '@/cileu/DZIWTYONG.json'
+import DZIWXENG_SIKROK_XAUMRA from '@/cileu/DZIWXENG_SIKROK_XAUMRA.json'
+import DZIWQRIM from '@/cileu/dziwqrim.json'
+import TIENGDZIW from '@/cileu/TIENGDZIW.json'
+import type { DziwqrimCileu, DziwxengSikrokXaumraCileu } from '@/cisren/lyixeng'
 import { jyongLeksriwkho } from './leksriw'
 
 export const jyongDziwdeukho = defineStore('dziwdeu', () => {
-  const srioSyenDziwdu = ref('')
-  const srioSyenDziwxeng = ref(<DziwxengSryokio[]>[])
-  const srioSyenDziwqrim = ref(<DziwqrimSryokio[]>[])
-  const srioSyenDziwbyo = ref('')
-  const srioSyenJiwtheidziw = ref('')
+  const dziwdu = ref('')
+  const dziwxengSikrokXaumra = ref(<DziwxengSikrokXaumraCileu[]>[])
+  const dziwqrim = ref(<DziwqrimCileu[]>[])
+  const dziwbyo = ref('')
+  const jiwtheidziw = ref('')
 
-  const twkSrioSyenDziwdu = computed(() => srioSyenDziwdu.value)
-  const twkSrioSyenDziwxeng = computed(() => srioSyenDziwxeng.value)
-  const twkSrioSyenDziwqrim = computed(() => srioSyenDziwqrim.value)
+  const twkDziwqrim = computed(() => dziwqrim.value)
 
-  const triwSrioSyenDziwdu = (grien: string) => {
-    srioSyenDziwdu.value = ''
-    srioSyenDziwxeng.value = []
-    srioSyenDziwqrim.value = []
-    const zyoktiengLietprieu = tiengdziw.filter((tuiziang) => {
-      return tuiziang.zyokdziw === grien
+  const triwDziwdu = (grien: string) => {
+    dziwdu.value = ''
+    dziwxengSikrokXaumra.value = []
+    dziwqrim.value = []
+    const zyoktiengLietprieu = TIENGDZIW.filter((kiwlyok) => {
+      return kiwlyok.zyokdziw === grien
     })
-    for (const driw of zyoktiengLietprieu) {
-      srioSyenDziwdu.value = srioSyenDziwdu.value + driw.tiengdziw
+    for (const xrongmyuk of zyoktiengLietprieu) {
+      dziwdu.value = dziwdu.value + xrongmyuk.tiengdziw
     }
-    if (srioSyenDziwdu.value.length === 1) {
-      triwSrioSyenXengqrim(srioSyenDziwdu.value)
-    } else if (srioSyenDziwdu.value.includes(grien)) {
-      triwSrioSyenXengqrim(grien)
+    if (dziwdu.value.length === 1) {
+      triwQrimXeng(dziwdu.value)
+    } else if (dziwdu.value.includes(grien)) {
+      triwQrimXeng(grien)
     } else {
-      srioSyenDziwbyo.value = ''
+      dziwbyo.value = ''
     }
   }
-  const triwSrioSyenXengqrim = (grien: string) => {
+  const triwQrimXeng = (grien: string) => {
     const leksriwkho = jyongLeksriwkho()
 
-    srioSyenDziwbyo.value = grien
+    dziwbyo.value = grien
     leksriwkho.kraDziwbyo(grien)
-    const jiwtheiSinsiwk = dziwtyong.find((tuiziang) => {
-      return tuiziang.dziw === grien
+    const jiwtheiSinsiwk = DZIWTYONG.find((kiwlyok) => {
+      return kiwlyok.dziwbyo === grien
     })
-    const jiwtheidziwco = <string[]>[]
-    !jiwtheiSinsiwk?.syenjyongdziw ? true : jiwtheidziwco.push(`選用“${jiwtheiSinsiwk.syenjyongdziw}”`)
-    !jiwtheiSinsiwk?.krenqhruadziw ? true : jiwtheidziwco.push(`簡作“${jiwtheiSinsiwk.krenqhruadziw}”`)
-    !jiwtheiSinsiwk?.nitpundziw ? true : jiwtheidziwco.push(`日作“${jiwtheiSinsiwk.nitpundziw}”`)
-    srioSyenJiwtheidziw.value = jiwtheidziwco.join('，')
-    !srioSyenJiwtheidziw.value ? true : (srioSyenJiwtheidziw.value = srioSyenJiwtheidziw.value.concat('。'))
+    const jiwtheidziwco: string[] = []
+    if (jiwtheiSinsiwk?.syenjyongdziw) jiwtheidziwco.push(`選用“${jiwtheiSinsiwk.syenjyongdziw}”`)
+    if (jiwtheiSinsiwk?.krenqhruadziw) jiwtheidziwco.push(`簡作“${jiwtheiSinsiwk.krenqhruadziw}”`)
+    if (jiwtheiSinsiwk?.nitpundziw) jiwtheidziwco.push(`日作“${jiwtheiSinsiwk.nitpundziw}”`)
+    jiwtheidziw.value = jiwtheidziwco.join('，')
+    !jiwtheidziw.value ? true : (jiwtheidziw.value = jiwtheidziw.value.concat('。'))
 
-    srioSyenDziwxeng.value = dziwxeng.filter((tuiziang) => {
-      return tuiziang.dziw === grien
+    dziwxengSikrokXaumra.value = DZIWXENG_SIKROK_XAUMRA.filter((tuiziang) => {
+      return tuiziang.dziwbyo === grien
     })
-    srioSyenDziwqrim.value = dziwqrim.filter((tuiziang) => {
+    dziwqrim.value = DZIWQRIM.filter((tuiziang) => {
       return tuiziang.dziw === grien
     })
   }
 
   return {
-    srioSyenDziwdu,
-    srioSyenDziwxeng,
-    srioSyenDziwqrim,
-    srioSyenDziwbyo,
-    srioSyenJiwtheidziw,
-    twkSrioSyenDziwdu,
-    twkSrioSyenDziwxeng,
-    twkSrioSyenDziwqrim,
-    triwSrioSyenDziwdu,
-    triwSrioSyenXengqrim,
+    dziwdu,
+    dziwxengSikrokXaumra,
+    dziwqrim,
+    dziwbyo,
+    jiwtheidziw,
+    twkDziwqrim,
+    triwDziwdu,
+    triwQrimXeng,
   }
 })

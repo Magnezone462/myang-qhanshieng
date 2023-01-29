@@ -1,7 +1,7 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
 import { jyongKriemsakDziwqrimkho } from '@/changkho/kriemsakDziwqrim'
-import xrynmyuk from '@/sryokio/syenxrong/xrynmyuk.json'
+import XRYNMYUK from '@/cileu/syenxrong/XRYNMYUK.json'
 
 const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
 </script>
@@ -9,9 +9,9 @@ const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
 <template>
   <VSelect
     v-model="kriemsakDziwqrimkho.xrynmyuk"
-    :items="xrynmyuk"
-    item-title="xryn_driang"
-    item-value="xryn_tuan"
+    :items="XRYNMYUK"
+    item-title="qhandziwDriang"
+    item-value="qhandziwTuan"
     clearable
     label="韵目"
     density="compact"

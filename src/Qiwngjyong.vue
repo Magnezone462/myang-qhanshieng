@@ -52,7 +52,7 @@ onMounted(() => {
     <KriemsakPenlan />
 
     <VMain>
-      <ChriosriwTyolan v-if="dziwdeukho.srioSyenDziwdu === ''" />
+      <ChriosriwTyolan v-if="dziwdeukho.dziwdu === ''" />
       <KriemsakTyolan v-else />
     </VMain>
   </VApp>

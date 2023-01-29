@@ -9,12 +9,12 @@ export interface DziwbyoCileu {
 }
 
 // Dziwxeng.json no kata tegi desu.
-export interface DziwxengSryokio {
+export interface DziwxengSikrokXaumraCileu {
   pieutiwbyo: string
-  dziw: string
-  dziw_QhSh: string
+  dziwbyo: string
+  dziwbyoNguaidziw: string
   dziwxeng: string
-  sikrok_xaumra: string[]
+  sikrokXaumra: string[]
   thongqitmra: string
   pryentyong: string
   tyoshiek: string

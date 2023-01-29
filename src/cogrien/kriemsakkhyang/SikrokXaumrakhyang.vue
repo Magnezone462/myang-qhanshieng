@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { jyongKriemsakDziwxengkho } from '@/changkho/kriemsakDziwxeng'
-import qhzqhBushyu from '@/sryokio/syenxrong/qhzqhBushyu.json'
+import qhzqhBushyu from '@/cileu/syenxrong/qhzqhBushyu.json'
 
 const kriemsakDziwxengkho = jyongKriemsakDziwxengkho()
 </script>

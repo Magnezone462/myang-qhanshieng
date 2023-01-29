@@ -7,7 +7,7 @@ const kriemsakDziwbyokho = jyongKriemsakDziwbyokho()
 const dziwdeukho = jyongDziwdeukho()
 
 const qanKriemsakKetkua = (tuiziang: string) => {
-  dziwdeukho.triwSrioSyenDziwdu(tuiziang)
+  dziwdeukho.triwDziwdu(tuiziang)
 }
 </script>
 

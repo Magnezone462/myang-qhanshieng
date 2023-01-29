@@ -4,51 +4,51 @@ import { jyongXeithongkho } from '@/changkho/xeithong'
 import { jyongKriemsakDziwqrimkho } from '@/changkho/kriemsakDziwqrim'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
 import { jyongShiochiemkho } from '@/changkho/shiochiem'
-import type { DziwqrimSryokio } from '@/cisren/lyixeng'
+import type { DziwqrimCileu } from '@/cisren/lyixeng'
 
 const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
 const dziwdeu = jyongDziwdeukho()
 const xeithongkho = jyongXeithongkho()
 const shiochiemkho = jyongShiochiemkho()
 
-const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.srioSyenDziwbyo}`
+const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.dziwbyo}`
 
-const qanZyepheng = (tuiziang: DziwqrimSryokio) => {
-  kriemsakDziwqrimkho.triwSrioNipZyepheng(tuiziang.zyepheng)
-  kriemsakDziwqrimkho.triwSrioSyenShiwxryn('')
+const qanZyepheng = (tuiziang: DziwqrimCileu) => {
+  kriemsakDziwqrimkho.triwZyepheng(tuiziang.zyepheng)
+  kriemsakDziwqrimkho.triwShiwxryn('')
   xeithongkho.kriemsakPieuchiem = KriemsakPieuchiem.shyonip
   xeithongkho.shyonipPieuchiem = ShyonipPieuchiem.dziqrim
   kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.zyepheng)
 }
 
-const qanShiwxryn = (tuiziang: DziwqrimSryokio) => {
-  kriemsakDziwqrimkho.triwSrioSyenShiwxryn(tuiziang.shiwxryn)
-  kriemsakDziwqrimkho.triwSrioNipZyepheng('')
+const qanShiwxryn = (tuiziang: DziwqrimCileu) => {
+  kriemsakDziwqrimkho.triwShiwxryn(tuiziang.shiwxryn)
+  kriemsakDziwqrimkho.triwZyepheng('')
   xeithongkho.kriemsakPieuchiem = KriemsakPieuchiem.shyonip
   xeithongkho.shyonipPieuchiem = ShyonipPieuchiem.dziqrim
   kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.briengshyixryn)
 }
 
-const twkDryenthungQrimlyi = (dziwqrim: DziwqrimSryokio) => {
+const twkDryenthungQrimlyi = (dziwqrim: DziwqrimCileu) => {
   return [dziwqrim.shiep, dziwqrim.qho, dziwqrim.twng, dziwqrim.deu, dziwqrim.xryn, dziwqrim.shieng].join('')
 }
-const twkChX = (dziwqrim: DziwqrimSryokio) => {
+const twkChX = (dziwqrim: DziwqrimCileu) => {
   const tyo = dziwqrim.pyanchet_ChX_tyo !== '' ? `（${dziwqrim.pyanchet_ChX_tyo}）` : ''
   return [dziwqrim.pyanchet_ChX, tyo].join('')
 }
-const twkXX = (dziwqrim: DziwqrimSryokio) => {
+const twkXX = (dziwqrim: DziwqrimCileu) => {
   const tyo = dziwqrim.pyanchet_XX_tyo !== '' ? `（${dziwqrim.pyanchet_XX_tyo}）` : ''
   return [dziwqrim.pyanchet_XX, tyo].join('')
 }
-const twkKX = (dziwqrim: DziwqrimSryokio) => {
+const twkKX = (dziwqrim: DziwqrimCileu) => {
   const tyo = dziwqrim.pyanchet_KX_tyo !== '' ? `（${dziwqrim.pyanchet_KX_tyo}）` : ''
   return [dziwqrim.pyanchet_KX, tyo].join('')
 }
-const twkDzX = (dziwqrim: DziwqrimSryokio) => {
+const twkDzX = (dziwqrim: DziwqrimCileu) => {
   const tyo = dziwqrim.pyanchet_DzX_tyo !== '' ? `（${dziwqrim.pyanchet_DzX_tyo}）` : ''
   return [dziwqrim.pyanchet_DzX, tyo].join('')
 }
-const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
+const twkQhZQh = (dziwqrim: DziwqrimCileu) => {
   return [dziwqrim.QhZQh_shieng, dziwqrim.QhZQh_xryn, dziwqrim.QhZQh_deu].join('')
 }
 </script>
@@ -59,9 +59,9 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
       <VCol cols="1">
         <VSelect
           label="字種"
-          v-model="dziwdeu.srioSyenDziwbyo"
-          :items="[...dziwdeu.srioSyenDziwdu]"
-          @update:modelValue="dziwdeu.triwSrioSyenXengqrim(dziwdeu.srioSyenDziwbyo)"
+          v-model="dziwdeu.dziwbyo"
+          :items="[...dziwdeu.dziwdu]"
+          @update:modelValue="dziwdeu.triwQrimXeng(dziwdeu.dziwbyo)"
           variant="underlined"
           density="compact"
         />
@@ -69,8 +69,8 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
     </VRow>
     <VRow>
       <VCol cols="9">
-        <p class="text-h2 font-weight-medium">{{ dziwdeu.srioSyenDziwbyo }}</p>
-        <p class="text-subtitle-1">{{ dziwdeu.srioSyenJiwtheidziw }}</p>
+        <p class="text-h2 font-weight-medium">{{ dziwdeu.dziwbyo }}</p>
+        <p class="text-subtitle-1">{{ dziwdeu.jiwtheidziw }}</p>
       </VCol>
 
       <VSpacer />
@@ -89,9 +89,9 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
       </VCol>
 
       <VCol cols="auto">
-        <VBtn @click="shiochiemkho.xuanDziwbyo(dziwdeu.srioSyenDziwbyo)">
+        <VBtn @click="shiochiemkho.xuanDziwbyo(dziwdeu.dziwbyo)">
           <VIcon
-            v-if="shiochiemkho.dieXwmDziwbyo(dziwdeu.srioSyenDziwbyo)"
+            v-if="shiochiemkho.dieXwmDziwbyo(dziwdeu.dziwbyo)"
             size="x-large"
           >
             mdi-bookmark
@@ -107,7 +107,7 @@ const twkQhZQh = (dziwqrim: DziwqrimSryokio) => {
     </VRow>
     <VRow>
       <VCol
-        v-for="tuiziang in dziwdeu.twkSrioSyenDziwqrim"
+        v-for="tuiziang in dziwdeu.twkDziwqrim"
         :key="tuiziang.pieutiwbyo"
         cols="12"
       >

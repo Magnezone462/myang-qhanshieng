@@ -1,7 +1,7 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
 import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/muikio'
-import dziwqrim from '@/sryokio/dziwqrim.json'
+import dziwqrim from '@/cileu/dziwqrim.json'
 import type { DziwqrimCileu } from '@/cisren/lyixeng'
 
 /**

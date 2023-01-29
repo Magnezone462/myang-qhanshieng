@@ -12,7 +12,7 @@ const dziwdeukho = jyongDziwdeukho()
  * @param xrongmyuk 項目: アイテム
  */
 const qanKetkua = (xrongmyuk: DziwbyoCileu) => {
-  dziwdeukho.triwSrioSyenDziwdu(xrongmyuk.dziwbyo)
+  dziwdeukho.triwDziwdu(xrongmyuk.dziwbyo)
 }
 </script>
 

@@ -1,6 +1,6 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
-import DZIWBYO from '../sryokio/DZIWBYO.json'
+import DZIWBYO from '@/cileu/DZIWBYO.json'
 import type { DziwbyoCileu } from '@/cisren/lyixeng'
 
 /**
