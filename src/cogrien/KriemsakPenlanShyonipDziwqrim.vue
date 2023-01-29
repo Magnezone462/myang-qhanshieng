@@ -6,7 +6,7 @@ import KriemsakPenlanShyonipDziwqrimChwitan from './KriemsakPenlanShyonipDziwqri
 import ZyephengKhyoxrwk from '@/cogrien/kriemsakKhyoxrywk/ZyephengKhyoxrywk.vue'
 import ShiwxrynKhyoxrywk from '@/cogrien/kriemsakKhyoxrywk/ShiwxrynKhyoxrywk.vue'
 import TwixrynxrokKhyoxrywk from '@/cogrien/kriemsakKhyoxrywk/TwixrynxrokKhyoxrywk.vue'
-import type { DziwqrimCileu } from '@/cisren/lyixeng'
+import type { DziwqrimKrapCileu } from '@/cisren/lyixeng'
 
 const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
 const dziwdeukho = jyongDziwdeukho()
@@ -15,8 +15,8 @@ const dziwdeukho = jyongDziwdeukho()
  * 按結果: プッシュ リザルト
  * @param xrongmyuk 項目: アイテム
  */
-const qanKetkua = (xrongmyuk: DziwqrimCileu) => {
-  dziwdeukho.triwDziwdu(xrongmyuk.dziw)
+const qanKetkua = (xrongmyuk: DziwqrimKrapCileu) => {
+  dziwdeukho.triwDziwdu(xrongmyuk.dziwbyo)
 }
 </script>
 
@@ -51,7 +51,7 @@ const qanKetkua = (xrongmyuk: DziwqrimCileu) => {
       link
     >
       <VListItemTitle>
-        {{ xrongmyuk.dziw }}
+        {{ xrongmyuk.dziwbyo }}
       </VListItemTitle>
 
       <VListItemSubtitle>

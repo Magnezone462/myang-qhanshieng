@@ -4,16 +4,16 @@ import { jyongXeithongkho } from '@/changkho/xeithong'
 import { jyongKriemsakDziwqrimkho } from '@/changkho/kriemsakDziwqrim'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
 import { jyongShiochiemkho } from '@/changkho/shiochiem'
-import type { DziwqrimCileu } from '@/cisren/lyixeng'
+import type { DziwqrimCungCileu } from '@/cisren/lyixeng'
 
 const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
 const dziwdeu = jyongDziwdeukho()
 const xeithongkho = jyongXeithongkho()
 const shiochiemkho = jyongShiochiemkho()
 
-const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.dziwbyo}`
+const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.dziwdu}`
 
-const qanZyepheng = (tuiziang: DziwqrimCileu) => {
+const qanZyepheng = (tuiziang: DziwqrimCungCileu) => {
   kriemsakDziwqrimkho.triwZyepheng(tuiziang.zyepheng)
   kriemsakDziwqrimkho.triwShiwxryn('')
   xeithongkho.kriemsakPieuchiem = KriemsakPieuchiem.shyonip
@@ -21,7 +21,7 @@ const qanZyepheng = (tuiziang: DziwqrimCileu) => {
   kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.zyepheng)
 }
 
-const qanShiwxryn = (tuiziang: DziwqrimCileu) => {
+const qanShiwxryn = (tuiziang: DziwqrimCungCileu) => {
   kriemsakDziwqrimkho.triwShiwxryn(tuiziang.shiwxryn)
   kriemsakDziwqrimkho.triwZyepheng('')
   xeithongkho.kriemsakPieuchiem = KriemsakPieuchiem.shyonip
@@ -29,27 +29,34 @@ const qanShiwxryn = (tuiziang: DziwqrimCileu) => {
   kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.briengshyixryn)
 }
 
-const twkDryenthungQrimlyi = (dziwqrim: DziwqrimCileu) => {
-  return [dziwqrim.shiep, dziwqrim.qho, dziwqrim.twng, dziwqrim.deu, dziwqrim.xryn, dziwqrim.shieng].join('')
+const twkDryenthungQrimlyi = (dziwqrim: DziwqrimCungCileu) => {
+  return [
+    dziwqrim.xrynshiep,
+    dziwqrim.khwixwp,
+    dziwqrim.twixryi,
+    dziwqrim.sishieng,
+    dziwqrim.xrynmyuk,
+    dziwqrim.shiengmu,
+  ].join('')
 }
-const twkChX = (dziwqrim: DziwqrimCileu) => {
-  const tyo = dziwqrim.pyanchet_ChX_tyo !== '' ? `（${dziwqrim.pyanchet_ChX_tyo}）` : ''
-  return [dziwqrim.pyanchet_ChX, tyo].join('')
+const twkChX = (dziwqrim: DziwqrimCungCileu) => {
+  const potyo = dziwqrim.ChXPyanchetPotyo !== '' ? `（${dziwqrim.ChXPyanchetPotyo}）` : ''
+  return [dziwqrim.ChXPyanchet, potyo].join('')
 }
-const twkXX = (dziwqrim: DziwqrimCileu) => {
-  const tyo = dziwqrim.pyanchet_XX_tyo !== '' ? `（${dziwqrim.pyanchet_XX_tyo}）` : ''
-  return [dziwqrim.pyanchet_XX, tyo].join('')
+const twkXX = (dziwqrim: DziwqrimCungCileu) => {
+  const potyo = dziwqrim.XXPyanchetPotyo !== '' ? `（${dziwqrim.XXPyanchetPotyo}）` : ''
+  return [dziwqrim.XXPyanchet, potyo].join('')
 }
-const twkKX = (dziwqrim: DziwqrimCileu) => {
-  const tyo = dziwqrim.pyanchet_KX_tyo !== '' ? `（${dziwqrim.pyanchet_KX_tyo}）` : ''
-  return [dziwqrim.pyanchet_KX, tyo].join('')
+const twkKX = (dziwqrim: DziwqrimCungCileu) => {
+  const potyo = dziwqrim.KXPyanchetPotyo !== '' ? `（${dziwqrim.KXPyanchetPotyo}）` : ''
+  return [dziwqrim.KXPyanchet, potyo].join('')
 }
-const twkDzX = (dziwqrim: DziwqrimCileu) => {
-  const tyo = dziwqrim.pyanchet_DzX_tyo !== '' ? `（${dziwqrim.pyanchet_DzX_tyo}）` : ''
-  return [dziwqrim.pyanchet_DzX, tyo].join('')
+const twkDzX = (dziwqrim: DziwqrimCungCileu) => {
+  const potyo = dziwqrim.DzXPyanchetPotyo !== '' ? `（${dziwqrim.DzXPyanchetPotyo}）` : ''
+  return [dziwqrim.DzXPyanchet, potyo].join('')
 }
-const twkQhZQh = (dziwqrim: DziwqrimCileu) => {
-  return [dziwqrim.QhZQh_shieng, dziwqrim.QhZQh_xryn, dziwqrim.QhZQh_deu].join('')
+const twkQhZQh = (dziwqrim: DziwqrimCungCileu) => {
+  return [dziwqrim.QhZQhShienglyi, dziwqrim.QhZQhXrynlyi, dziwqrim.QhZQhDeuyi].join('')
 }
 </script>
 
@@ -59,9 +66,9 @@ const twkQhZQh = (dziwqrim: DziwqrimCileu) => {
       <VCol cols="1">
         <VSelect
           label="字種"
-          v-model="dziwdeu.dziwbyo"
-          :items="[...dziwdeu.dziwdu]"
-          @update:modelValue="dziwdeu.triwQrimXeng(dziwdeu.dziwbyo)"
+          v-model="dziwdeu.dziwdu"
+          :items="dziwdeu.dziwduco"
+          @update:modelValue="dziwdeu.triwQrimXeng(dziwdeu.dziwdu)"
           variant="underlined"
           density="compact"
         />
@@ -69,7 +76,7 @@ const twkQhZQh = (dziwqrim: DziwqrimCileu) => {
     </VRow>
     <VRow>
       <VCol cols="9">
-        <p class="text-h2 font-weight-medium">{{ dziwdeu.dziwbyo }}</p>
+        <p class="text-h2 font-weight-medium">{{ dziwdeu.dziwdu }}</p>
         <p class="text-subtitle-1">{{ dziwdeu.jiwtheidziw }}</p>
       </VCol>
 
@@ -89,9 +96,9 @@ const twkQhZQh = (dziwqrim: DziwqrimCileu) => {
       </VCol>
 
       <VCol cols="auto">
-        <VBtn @click="shiochiemkho.xuanDziwbyo(dziwdeu.dziwbyo)">
+        <VBtn @click="shiochiemkho.xuanDziwbyo(dziwdeu.dziwdu)">
           <VIcon
-            v-if="shiochiemkho.dieXwmDziwbyo(dziwdeu.dziwbyo)"
+            v-if="shiochiemkho.dieXwmDziwbyo(dziwdeu.dziwdu)"
             size="x-large"
           >
             mdi-bookmark
@@ -107,47 +114,47 @@ const twkQhZQh = (dziwqrim: DziwqrimCileu) => {
     </VRow>
     <VRow>
       <VCol
-        v-for="tuiziang in dziwdeu.twkDziwqrim"
-        :key="tuiziang.pieutiwbyo"
+        v-for="xrongmyuk in dziwdeu.twkDziwqrim"
+        :key="xrongmyuk.pieutiwbyo"
         cols="12"
       >
         <VCard>
           <VCardTitle
-            @click="qanZyepheng(tuiziang)"
+            @click="qanZyepheng(xrongmyuk)"
             style="cursor: pointer"
           >
-            {{ tuiziang.zyepheng }}
+            {{ xrongmyuk.zyepheng }}
           </VCardTitle>
           <VCardSubtitle>
-            {{ twkDryenthungQrimlyi(tuiziang) }}
+            {{ twkDryenthungQrimlyi(xrongmyuk) }}
             <span
               class="hei-sui-in"
-              @click="qanShiwxryn(tuiziang)"
+              @click="qanShiwxryn(xrongmyuk)"
             >
-              {{ tuiziang.shiwxryn }}
+              {{ xrongmyuk.shiwxryn }}
             </span>
           </VCardSubtitle>
           <VCardText>
-            <div v-if="tuiziang.pyanchet_ChX">
-              {{ `《切韵》${twkChX(tuiziang)}` }}
+            <div v-if="xrongmyuk.ChXPyanchet">
+              {{ `《切韵》${twkChX(xrongmyuk)}` }}
             </div>
-            <div v-if="tuiziang.pyanchet_XX">
-              {{ `《王韵》${twkXX(tuiziang)}` }}
+            <div v-if="xrongmyuk.XXPyanchet">
+              {{ `《王韵》${twkXX(xrongmyuk)}` }}
             </div>
-            <div v-if="tuiziang.pyanchet_KX">
-              {{ `《廣韵》${twkKX(tuiziang)}` }}
+            <div v-if="xrongmyuk.KXPyanchet">
+              {{ `《廣韵》${twkKX(xrongmyuk)}` }}
             </div>
-            <div v-if="tuiziang.pyanchet_DzX">
-              {{ `《集韵》${twkDzX(tuiziang)}` }}
+            <div v-if="xrongmyuk.DzXPyanchet">
+              {{ `《集韵》${twkDzX(xrongmyuk)}` }}
             </div>
-            <div v-if="tuiziang.QhZQh_shieng">
-              {{ `《漢辭海》${twkQhZQh(tuiziang)}` }}
+            <div v-if="xrongmyuk.QhZQhShienglyi">
+              {{ `《漢辭海》${twkQhZQh(xrongmyuk)}` }}
             </div>
-            <p v-if="tuiziang.qrimtyo">
-              {{ `釋音：${tuiziang.qrimtyo}` }}
+            <p v-if="xrongmyuk.qrimtyo">
+              {{ `釋音：${xrongmyuk.qrimtyo}` }}
             </p>
-            <p v-if="tuiziang.ngrietyo">
-              {{ `釋音義：${tuiziang.ngrietyo}` }}
+            <p v-if="xrongmyuk.ngrietyo">
+              {{ `釋音義：${xrongmyuk.ngrietyo}` }}
             </p>
           </VCardText>
         </VCard>
