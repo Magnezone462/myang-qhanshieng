@@ -10,5 +10,6 @@ const kriemsakDziwxengkho = jyongKriemsakDziwxengkho()
     clearable
     placeholder="XXXXX"
     label="四角號碼"
+    variant="underlined"
   />
 </template>

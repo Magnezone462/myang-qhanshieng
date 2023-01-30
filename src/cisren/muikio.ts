@@ -8,9 +8,11 @@ export type KriemsakDziwqrimPyangshiwk = (typeof KriemsakDziwqrimPyangshiwk)[key
 
 // 檢索標籤: サーチ タブ
 export const KriemsakPieuchiem = {
-  shyonip: 0,
-  shiochiem: 1,
-  leksriw: 2,
+  dziwbyo: 0,
+  dziqrim: 1,
+  dziwxeng: 2,
+  shiochiem: 3,
+  leksriw: 4,
 } as const
 export type KriemsakPieuchiem = (typeof KriemsakPieuchiem)[keyof typeof KriemsakPieuchiem]
 
@@ -28,11 +30,3 @@ export const Nguaikuan = {
   dzidung: 'automatic',
 } as const
 export type Nguaikuan = (typeof Nguaikuan)[keyof typeof Nguaikuan]
-
-// 輸入標籤: インプット タブ
-export const ShyonipPieuchiem = {
-  dziwbyo: 0,
-  dziwxeng: 1,
-  dziqrim: 2,
-} as const
-export type ShyonipPieuchiem = (typeof ShyonipPieuchiem)[keyof typeof ShyonipPieuchiem]

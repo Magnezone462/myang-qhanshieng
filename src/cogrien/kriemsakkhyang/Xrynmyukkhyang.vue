@@ -14,7 +14,6 @@ const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
     item-value="qhandziwTuan"
     clearable
     label="韵目"
-    density="compact"
     variant="underlined"
   >
     <template v-slot:selection="{ item }">

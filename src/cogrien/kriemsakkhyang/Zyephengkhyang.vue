@@ -10,9 +10,8 @@ const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
     v-model="kriemsakDziwqrimkho.zyepheng"
     clearable
     @keydown.enter="kriemsakDziwqrimkho.triwKetkua"
-    label="隋拼"
     placeholder="tuŋ"
-    density="compact"
+    label="隋拼"
     variant="underlined"
   />
 </template>
