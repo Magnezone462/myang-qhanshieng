@@ -1,7 +1,9 @@
 <script setup lang="ts">
 import { KriemsakPieuchiem } from '@/cisren/muikio'
 import { jyongXeithongkho } from '@/changkho/xeithong'
-import KriemsakPenlanShyonip from '@/cogrien/KriemsakPenlanShyonip.vue'
+import KriemsakPenlanDziwbyo from '@/cogrien/KriemsakPenlanDziwbyo.vue'
+import KriemsakPenlanDziwqrim from '@/cogrien/KriemsakPenlanDziwqrim.vue'
+import KriemsakPenlanDziwxeng from './KriemsakPenlanDziwxeng.vue'
 import KriemsakPenlanShiochiem from '@/cogrien/KriemsakPenlanShiochiem.vue'
 import KriemsakPenlanLeksriw from '@/cogrien/KriemsakPenlanLeksriw.vue'
 
@@ -17,22 +19,32 @@ const xeithongkho = jyongXeithongkho()
       v-model="xeithongkho.kriemsakPieuchiem"
       fixed-tabs
     >
-      <VTab :value="KriemsakPieuchiem.shyonip">
-        <VIcon size="large"> mdi-magnify </VIcon>
-      </VTab>
+      <VTab :value="KriemsakPieuchiem.dziwbyo"> 符 </VTab>
+
+      <VTab :value="KriemsakPieuchiem.dziqrim"> 音 </VTab>
+
+      <VTab :value="KriemsakPieuchiem.dziwxeng"> 形 </VTab>
 
       <VTab :value="KriemsakPieuchiem.shiochiem">
-        <VIcon size="large"> mdi-bookmark-multiple-outline </VIcon>
+        <VIcon> mdi-bookmark-multiple-outline </VIcon>
       </VTab>
 
       <VTab :value="KriemsakPieuchiem.leksriw">
-        <VIcon size="large"> mdi-history </VIcon>
+        <VIcon> mdi-history </VIcon>
       </VTab>
     </VTabs>
 
     <VWindow v-model="xeithongkho.kriemsakPieuchiem">
-      <VWindowItem :value="KriemsakPieuchiem.shyonip">
-        <KriemsakPenlanShyonip />
+      <VWindowItem :value="KriemsakPieuchiem.dziwbyo">
+        <KriemsakPenlanDziwbyo />
+      </VWindowItem>
+
+      <VWindowItem :value="KriemsakPieuchiem.dziqrim">
+        <KriemsakPenlanDziwqrim />
+      </VWindowItem>
+
+      <VWindowItem :value="KriemsakPieuchiem.dziwxeng">
+        <KriemsakPenlanDziwxeng />
       </VWindowItem>
 
       <VWindowItem :value="KriemsakPieuchiem.shiochiem">

@@ -2,29 +2,20 @@
 import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/muikio'
 import { jyongKriemsakDziwqrimkho } from '@/changkho/kriemsakDziwqrim'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
-import KriemsakPenlanShyonipDziwqrimChwitan from '@/cogrien/KriemsakPenlanShyonipDziwqrimChwitan.vue'
+import KriemsakPenlanDziwqrimChwitan from '@/cogrien/KriemsakPenlanDziwqrimChwitan.vue'
 import ZyephengKhyoxrwk from '@/cogrien/kriemsakKhyoxrywk/ZyephengKhyoxrywk.vue'
 import ShiwxrynKhyoxrywk from '@/cogrien/kriemsakKhyoxrywk/ShiwxrynKhyoxrywk.vue'
 import TwixrynxrokKhyoxrywk from '@/cogrien/kriemsakKhyoxrywk/TwixrynxrokKhyoxrywk.vue'
-import type { DziwqrimKrapCileu } from '@/cisren/lyixeng'
 
 const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
 const dziwdeukho = jyongDziwdeukho()
-
-/**
- * 按結果: プッシュ リザルト
- * @param xrongmyuk 項目: アイテム
- */
-const qanKetkua = (xrongmyuk: DziwqrimKrapCileu) => {
-  dziwdeukho.triwDziwdu(xrongmyuk.dziwbyo)
-}
 </script>
 
 <template>
   <VContainer>
     <VRow>
       <VCol cols="12">
-        <KriemsakPenlanShyonipDziwqrimChwitan />
+        <KriemsakPenlanDziwqrimChwitan />
       </VCol>
 
       <ZyephengKhyoxrwk v-if="kriemsakDziwqrimkho.pyangshiwk === Pyangshiwk.zyepheng" />
@@ -49,7 +40,7 @@ const qanKetkua = (xrongmyuk: DziwqrimKrapCileu) => {
     <VListItem
       v-for="xrongmyuk in kriemsakDziwqrimkho.twkKetkua"
       :key="xrongmyuk.pieutiwbyo"
-      @click="qanKetkua(xrongmyuk)"
+      @click="dziwdeukho.triwDziwdu(xrongmyuk.dziwbyo)"
       link
     >
       <VListItemTitle>
