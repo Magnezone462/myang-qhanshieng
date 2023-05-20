@@ -4,7 +4,8 @@ export const KriemsakDziwqrimPyangshiwk = {
   briengshyixryn: 1,
   twixrynxrok: 2,
 } as const
-export type KriemsakDziwqrimPyangshiwk = (typeof KriemsakDziwqrimPyangshiwk)[keyof typeof KriemsakDziwqrimPyangshiwk]
+export type KriemsakDziwqrimPyangshiwk =
+  (typeof KriemsakDziwqrimPyangshiwk)[keyof typeof KriemsakDziwqrimPyangshiwk]
 
 // 檢索標籤: サーチ タブ
 export const KriemsakPieuchiem = {
@@ -21,7 +22,8 @@ export const KriemsakDziwxengPyangshiwk = {
   sikrokXaumra: 0,
   QhZQhBushyu: 1,
 } as const
-export type KriemsakDziwxengPyangshiwk = (typeof KriemsakDziwxengPyangshiwk)[keyof typeof KriemsakDziwxengPyangshiwk]
+export type KriemsakDziwxengPyangshiwk =
+  (typeof KriemsakDziwxengPyangshiwk)[keyof typeof KriemsakDziwxengPyangshiwk]
 
 // 外觀: アピアランス
 export const Nguaikuan = {

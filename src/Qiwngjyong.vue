@@ -18,7 +18,9 @@ const dziwdeukho = jyongDziwdeukho()
 
 onMounted(() => {
   if (xeithongPundhikho.nguaikuan === Nguaikuan.dzidung) {
-    tyodei.global.name.value = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+    tyodei.global.name.value = window.matchMedia('(prefers-color-scheme: dark)').matches
+      ? 'dark'
+      : 'light'
   } else {
     tyodei.global.name.value = xeithongPundhikho.nguaikuan
   }
