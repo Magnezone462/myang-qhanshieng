@@ -1,30 +1,30 @@
 [
-    {
-        "zio": "1",
-        "qhandziwTuan": "一",
-        "qhandziwDriang": "一等韵",
-        "zyephengTuan": "I",
-        "zyephengDriang": "I‐tə́ixrŷn"
-    },
-    {
-        "zio": "2",
-        "qhandziwTuan": "二",
-        "qhandziwDriang": "二等韵",
-        "zyephengTuan": "II",
-        "zyephengDriang": "II‐tə́ixrŷn"
-    },
-    {
-        "zio": "3",
-        "qhandziwTuan": "三",
-        "qhandziwDriang": "三等韵",
-        "zyephengTuan": "III",
-        "zyephengDriang": "III‐tə́ixrŷn"
-    },
-    {
-        "zio": "4",
-        "qhandziwTuan": "四",
-        "qhandziwDriang": "四等韵",
-        "zyephengTuan": "IV",
-        "zyephengDriang": "IV‐tə́ixrŷn"
-    }
+  {
+    "zio": "1",
+    "qhandziwTuan": "一",
+    "qhandziwDriang": "一等韵",
+    "zyephengTuan": "I",
+    "zyephengDriang": "I‐tə́ixrŷn"
+  },
+  {
+    "zio": "2",
+    "qhandziwTuan": "二",
+    "qhandziwDriang": "二等韵",
+    "zyephengTuan": "II",
+    "zyephengDriang": "II‐tə́ixrŷn"
+  },
+  {
+    "zio": "3",
+    "qhandziwTuan": "三",
+    "qhandziwDriang": "三等韵",
+    "zyephengTuan": "III",
+    "zyephengDriang": "III‐tə́ixrŷn"
+  },
+  {
+    "zio": "4",
+    "qhandziwTuan": "四",
+    "qhandziwDriang": "四等韵",
+    "zyephengTuan": "IV",
+    "zyephengDriang": "IV‐tə́ixrŷn"
+  }
 ]

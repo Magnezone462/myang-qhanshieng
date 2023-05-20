@@ -76,7 +76,10 @@ export interface DziwqrimPriengCileu {
 /**
  * 字音總資料: プロナンシエーション ジェネラル データ
  */
-export interface DziwqrimCungCileu extends DziwqrimKrapCileu, DziwqrimQritCileu, DziwqrimPriengCileu {}
+export interface DziwqrimCungCileu
+  extends DziwqrimKrapCileu,
+    DziwqrimQritCileu,
+    DziwqrimPriengCileu {}
 
 /**
  * 字形四角號碼資料: グリフ フォー コーナー コード データ

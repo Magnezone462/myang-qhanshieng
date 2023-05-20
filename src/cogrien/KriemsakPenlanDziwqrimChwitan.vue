@@ -10,11 +10,17 @@ const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
     方式
     <VMenu activator="parent">
       <VList>
-        <VListItem @click="kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.zyepheng)"> 隋拼 </VListItem>
+        <VListItem @click="kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.zyepheng)">
+          隋拼
+        </VListItem>
 
-        <VListItem @click="kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.briengshyixryn)"> 平水韵 </VListItem>
+        <VListItem @click="kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.briengshyixryn)">
+          平水韵
+        </VListItem>
 
-        <VListItem @click="kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.twixrynxrok)"> 等韵學 </VListItem>
+        <VListItem @click="kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.twixrynxrok)">
+          等韵學
+        </VListItem>
       </VList>
     </VMenu>
   </VBtn>

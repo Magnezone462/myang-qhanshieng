@@ -40,5 +40,5 @@ export const jyongShiochiemkho = defineStore(
       xuanDziwbyo,
     }
   },
-  { persist: true }
+  { persist: true },
 )

@@ -19,5 +19,5 @@ export const jyongXeithongPundhikho = defineStore(
       triwNguaikuan,
     }
   },
-  { persist: true }
+  { persist: true },
 )

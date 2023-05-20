@@ -11,7 +11,9 @@ const xeithongPundhikho = jyongXeithongPundhikho()
 const xuanNguaikuan = (kradriw: Nguaikuan) => {
   xeithongPundhikho.nguaikuan = kradriw
   if (kradriw === Nguaikuan.dzidung) {
-    tyodei.global.name.value = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+    tyodei.global.name.value = window.matchMedia('(prefers-color-scheme: dark)').matches
+      ? 'dark'
+      : 'light'
   } else {
     if (kradriw === 'dark') {
       tyodei.global.name.value = 'dark'
