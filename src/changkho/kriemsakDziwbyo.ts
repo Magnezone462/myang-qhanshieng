@@ -1,6 +1,5 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
-import DZIWBYO from '@/cileu/DZIWBYO.json'
 import type { DziwbyoCileu } from '@/cisren/lyixeng'
 
 /**
@@ -25,10 +24,11 @@ export const jyongKriemsakDziwbyokho = defineStore('kriemsakDziwbyo', () => {
   /**
    * 置結果: セット リザルト
    */
-  const triwKetkua = (): void => {
+  const triwKetkua = async (): Promise<void> => {
     ketkua.value = []
     // dziwbyo（字符: キャラクター)
     for (const dziwbyo of qhandziwthyen.value) {
+      const DZIWBYO = (await import('@/cileu/DZIWBYO.json')).default
       // tandziwKetkua (單字結果: シングル キャラクター リザルト)
       // kiwlyok (記録: レコード)
       const tandziwKetkua = DZIWBYO.find((kiwlyok) => {

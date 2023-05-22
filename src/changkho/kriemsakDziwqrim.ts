@@ -1,7 +1,6 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
 import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/muikio'
-import DZIWQRIM_KRAP from '@/cileu/DZIWQRIM_KRAP.json'
 import type { DziwqrimKrapCileu } from '@/cisren/lyixeng'
 
 /**
@@ -64,7 +63,8 @@ export const jyongKriemsakDziwqrimkho = defineStore('kriemsakDziwqrim', () => {
   /**
    * 置結果: セット リザルト
    */
-  const triwKetkua = () => {
+  const triwKetkua = async (): Promise<void> => {
+    const DZIWQRIM_KRAP = (await import('@/cileu/DZIWQRIM_KRAP.json')).default
     // 記録: レコード
     ketkua.value = DZIWQRIM_KRAP.filter((kiwlyok) => {
       switch (pyangshiwk.value) {

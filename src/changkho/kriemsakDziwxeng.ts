@@ -1,8 +1,6 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
 import { KriemsakDziwxengPyangshiwk as Pyangshiwk } from '@/cisren/muikio'
-import DZIWXENG_SIKROK_XAUMRA from '@/cileu/DZIWXENG_SIKROK_XAUMRA.json'
-import DZIWXENG_QhZQh_BUSHYU from '@/cileu/DZIWXENG_QhZQh_BUSHYU.json'
 import type { Dziwxeng } from '@/cisren/lyixeng'
 
 export const jyongKriemsakDziwxengkho = defineStore('kriemsakDziwxeng', () => {
@@ -36,21 +34,25 @@ export const jyongKriemsakDziwxengkho = defineStore('kriemsakDziwxeng', () => {
   /**
    * 置結果: セット リザルト
    */
-  const triwKetkua = (): void => {
+  const triwKetkua = async (): Promise<void> => {
     switch (pyangshiwk.value) {
-      case Pyangshiwk.sikrokXaumra:
+      case Pyangshiwk.sikrokXaumra: {
+        const DZIWXENG_SIKROK_XAUMRA = (await import('@/cileu/DZIWXENG_SIKROK_XAUMRA.json')).default
         ketkua.value = DZIWXENG_SIKROK_XAUMRA.filter((kiwlyok) => {
           for (const xaumra of kiwlyok.sikrokXaumra) {
             return xaumra === sikrokXaumra.value
           }
         })
         break
+      }
 
-      case Pyangshiwk.QhZQhBushyu:
+      case Pyangshiwk.QhZQhBushyu: {
+        const DZIWXENG_QhZQh_BUSHYU = (await import('@/cileu/DZIWXENG_QhZQh_BUSHYU.json')).default
         ketkua.value = DZIWXENG_QhZQh_BUSHYU.filter((kiwlyok) => {
           return kiwlyok.bushyu === qhzqhBushyu.value
         })
         break
+      }
     }
   }
 
