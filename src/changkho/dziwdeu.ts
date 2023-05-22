@@ -1,11 +1,5 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
-import DZIWTYONG from '@/cileu/DZIWTYONG.json'
-import DZIWQRIM_KRAP from '@/cileu/DZIWQRIM_KRAP.json'
-import DZIWQRIM_QRIT from '@/cileu/DZIWQRIM_QRIT.json'
-import DZIWQRIM_PRIENG from '@/cileu/DZIWQRIM_PRIENG.json'
-import DZIWXENG_SIKROK_XAUMRA from '@/cileu/DZIWXENG_SIKROK_XAUMRA.json'
-import TIENGDZIW from '@/cileu/TIENGDZIW.json'
 import type { DziwqrimCungCileu, DziwxengSikrokXaumraCileu } from '@/cisren/lyixeng'
 import { jyongLeksriwkho } from '@/changkho/leksriw'
 
@@ -18,10 +12,11 @@ export const jyongDziwdeukho = defineStore('dziwdeu', () => {
 
   const twkDziwqrim = computed(() => dziwqrimco.value)
 
-  const triwDziwdu = (grien: string) => {
+  const triwDziwdu = async (grien: string): Promise<void> => {
     dziwdu.value = ''
     dziwduco.value = []
     dziwxengSikrokXaumra.value = []
+    const TIENGDZIW = (await import('@/cileu/TIENGDZIW.json')).default
     const zyoktiengLietprieu = TIENGDZIW.filter((kiwlyok) => kiwlyok.zyokdziw === grien)
     for (const xrongmyuk of zyoktiengLietprieu) {
       dziwduco.value.push(xrongmyuk.tiengdziw)
@@ -34,12 +29,13 @@ export const jyongDziwdeukho = defineStore('dziwdeu', () => {
       dziwdu.value = ''
     }
   }
-  const triwQrimXeng = (grien: string) => {
+  const triwQrimXeng = async (grien: string): Promise<void> => {
     dziwqrimco.value = []
     const leksriwkho = jyongLeksriwkho()
 
     dziwdu.value = grien
     leksriwkho.kraDziwbyo(grien)
+    const DZIWTYONG = (await import('@/cileu/DZIWTYONG.json')).default
     const jiwtheiSinsiwk = DZIWTYONG.find((kiwlyok) => {
       return kiwlyok.dziwbyo === grien
     })
@@ -50,16 +46,20 @@ export const jyongDziwdeukho = defineStore('dziwdeu', () => {
     jiwtheidziw.value = jiwtheidziwco.join('，')
     !jiwtheidziw.value ? true : (jiwtheidziw.value = jiwtheidziw.value.concat('。'))
 
+    const DZIWXENG_SIKROK_XAUMRA = (await import('@/cileu/DZIWXENG_SIKROK_XAUMRA.json')).default
     dziwxengSikrokXaumra.value = DZIWXENG_SIKROK_XAUMRA.filter((kiwlyok) => {
       return kiwlyok.dziwbyo === grien
     })
+    const DZIWQRIM_KRAP = (await import('@/cileu/DZIWQRIM_KRAP.json')).default
     const dziwqrimKrapco = DZIWQRIM_KRAP.filter((kiwlyok) => {
       return kiwlyok.dziwbyo === grien
     })
     for (const dziwqrimKrap of dziwqrimKrapco) {
+      const DZIWQRIM_QRIT = (await import('@/cileu/DZIWQRIM_QRIT.json')).default
       const dziwqrimQrit = DZIWQRIM_QRIT.find((kiwlyok) => {
         return kiwlyok.pieutiwbyo === dziwqrimKrap.pieutiwbyo
       })
+      const DZIWQRIM_PRIENG = (await import('@/cileu/DZIWQRIM_PRIENG.json')).default
       const dziwqrimPrieng = DZIWQRIM_PRIENG.find((kiwlyok) => {
         return kiwlyok.pieutiwbyo === dziwqrimKrap.pieutiwbyo
       })
