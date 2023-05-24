@@ -4,6 +4,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 034DD	㓝		U+34DD
 034F9	㓹		U+34F9
 03537	㔷		U+3537
+03558	㕘		U+3558
 0355F	㕟		U+355F
 03561	㕡		U+3561
 0356F	㕯		U+356F
@@ -22,6 +23,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 039D1	㧑		U+39D1
 039F1	㧱		U+39F1
 03A43	㩃		U+3A43
+03ABD	㪽		U+3ABD
 03ADA	㫚		U+3ADA
 03B2A	㬪		U+3B2A
 03B87	㮇		U+3B87
@@ -39,6 +41,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 03F75	㽵		U+3F75
 03FDF	㿟		U+3FDF
 040D5	䃕		U+40D5
+041AB	䆫		U+41AB
 041DF	䇟		U+41DF
 0420E	䈎		U+420E
 0428B	䊋		U+428B
@@ -52,6 +55,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 0459F	䖟		U+459F
 045B5	䖵		U+45B5
 04607	䘇		U+4607
+0462E	䘮		U+462E
 04677	䙷		U+4677
 0470B	䜋		U+470B
 04819	䠙		U+4819
@@ -60,6 +64,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 048BC	䢼		U+48BC
 0495D	䥝		U+495D
 04964	䥤		U+4964
+049DF	䧟		U+49DF
 04A68	䩨		U+4A68
 04B03	䬃		U+4B03
 04B7E	䭾		U+4B7E
@@ -82,11 +87,15 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 04E0A	上		U+4E0A
 04E0B	下		U+4E0B
 04E0F	丏		U+4E0F
+04E11	丑		U+4E11
+04E13	专		U+4E13
 04E16	世		U+4E16
 04E18	丘		U+4E18
 04E1A	业		U+4E1A
 04E1D	丝		U+4E1D
+04E25	严		U+4E25
 04E26	並		U+4E26
+04E27	丧		U+4E27
 04E28	丨		U+4E28
 04E29	丩		U+4E29
 04E2A	个		U+4E2A
@@ -101,11 +110,15 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 04E45	久		U+4E45
 04E49	义		U+4E49
 04E4B	之		U+4E4B
+04E50	乐		U+4E50
+04E55	乕		U+4E55
 04E56	乖		U+4E56
 04E57	乗		U+4E57
 04E58	乘		U+4E58
 04E5D	九		U+4E5D
 04E5E	乞		U+4E5E
+04E60	习		U+4E60
+04E61	乡		U+4E61
 04E66	书		U+4E66
 04E80	亀		U+4E80
 04E85	亅		U+4E85
@@ -116,16 +129,21 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 04E91	云		U+4E91
 04E94	五		U+4E94
 04E95	井		U+4E95
+04E9A	亚		U+4E9A
+04E9E	亞		U+4E9E
 04EA1	亡		U+4EA1
 04EA4	交		U+4EA4
 04EA6	亦		U+4EA6
+04EA7	产		U+4EA7
 04EA8	亨		U+4EA8
+04EA9	亩		U+4EA9
 04EAB	享		U+4EAB
 04EAC	京		U+4EAC
 04EAD	亭		U+4EAD
 04EAE	亮		U+4EAE
 04EAF	亯		U+4EAF
 04EB0	亰		U+4EB0
+04EB2	亲		U+4EB2
 04EB5	亵		U+4EB5
 04EB6	亶		U+4EB6
 04EBA	人		U+4EBA
@@ -137,6 +155,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 04EC7	仇		U+4EC7
 04ECA	今		U+4ECA
 04ECB	介		U+4ECB
+04ECE	从		U+4ECE
 04ED4	仔		U+4ED4
 04ED7	仗		U+4ED7
 04ED9	仙		U+4ED9
@@ -272,6 +291,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05148	先		U+5148
 05149	光		U+5149
 0514E	兎		U+514E
+05152	兒		U+5152
 05154	兔		U+5154
 05162	兢		U+5162
 05165	入		U+5165
@@ -282,6 +302,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 0516E	兮		U+516E
 05171	共		U+5171
 05173	关		U+5173
+05174	兴		U+5174
 05177	具		U+5177
 05178	典		U+5178
 05179	兹		U+5179
@@ -291,8 +312,10 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05185	内		U+5185
 05186	円		U+5186
 05188	冈		U+5188
+0518C	册		U+518C
 0518D	再		U+518D
 05191	冑		U+5191
+0519B	军		U+519B
 051AC	冬		U+51AC
 051B2	冲		U+51B2
 051B5	况		U+51B5
@@ -307,6 +330,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 051D3	凓		U+51D3
 051DB	凛		U+51DB
 051DC	凜		U+51DC
+051E0	几		U+51E0
 051E7	凧		U+51E7
 051EA	凪		U+51EA
 051EB	凫		U+51EB
@@ -322,6 +346,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05211	刑		U+5211
 05216	刖		U+5216
 05217	列		U+5217
+05219	则		U+5219
 0521A	刚		U+521A
 0521B	创		U+521B
 0521D	初		U+521D
@@ -394,6 +419,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05333	匳		U+5333
 05335	匵		U+5335
 05339	匹		U+5339
+05340	區		U+5340
 05341	十		U+5341
 05343	千		U+5343
 05344	卄		U+5344
@@ -409,8 +435,10 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05370	印		U+5370
 05375	卵		U+5375
 05378	卸		U+5378
+0537D	卽		U+537D
 05386	历		U+5386
 05389	厉		U+5389
+0538B	压		U+538B
 0538D	厍		U+538D
 05398	厘		U+5398
 05399	厙		U+5399
@@ -421,6 +449,9 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 053A5	厥		U+53A5
 053B2	厲		U+53B2
 053B9	厹		U+53B9
+053BF	县		U+53BF
+053C3	參		U+53C3
+053C5	叅		U+53C5
 053C8	又		U+53C8
 053CA	及		U+53CA
 053CB	友		U+53CB
@@ -432,6 +463,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 053E4	古		U+53E4
 053E5	句		U+53E5
 053E9	叩		U+53E9
+053EA	只		U+53EA
 053EB	叫		U+53EB
 053EE	叮		U+53EE
 053F0	台		U+53F0
@@ -462,6 +494,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 0542A	吪		U+542A
 0542B	含		U+542B
 0542E	吮		U+542E
+0542F	启		U+542F
 05433	吳		U+5433
 05434	吴		U+5434
 05435	吵		U+5435
@@ -519,6 +552,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 0554E	啎		U+554E
 0554F	問		U+554F
 05555	啕		U+5555
+0555F	啟		U+555F
 05563	啣		U+5563
 0556C	啬		U+556C
 0557E	啾		U+557E
@@ -562,6 +596,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 0569A	嚚		U+569A
 056A3	嚣		U+56A3
 056B3	嚳		U+56B3
+056B4	嚴		U+56B4
 056BB	嚻		U+56BB
 056BC	嚼		U+56BC
 056C2	囂		U+56C2
@@ -576,6 +611,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 056EE	囮		U+56EE
 056F0	困		U+56F0
 056F3	図		U+56F3
+056F4	围		U+56F4
 056FA	固		U+56FA
 056FE	图		U+56FE
 056FF	囿		U+56FF
@@ -583,6 +619,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05706	圆		U+5706
 05709	圉		U+5709
 0570A	圊		U+570A
+0570D	圍		U+570D
 0570E	圎		U+570E
 05712	園		U+5712
 05713	圓		U+5713
@@ -611,6 +648,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 057A4	垤		U+57A4
 057BB	垻		U+57BB
 057BE	垾		U+57BE
+057C0	埀		U+57C0
 057C7	埇		U+57C7
 057CB	埋		U+57CB
 057CE	城		U+57CE
@@ -651,6 +689,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 058C7	壇		U+58C7
 058C8	壈		U+58C8
 058D1	壑		U+58D1
+058D3	壓		U+58D3
 058D9	壙		U+58D9
 058DA	壚		U+58DA
 058DC	壜		U+58DC
@@ -659,13 +698,17 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 058EE	壮		U+58EE
 058EF	壯		U+58EF
 058F0	声		U+58F0
+058F3	壳		U+58F3
 058F6	壶		U+58F6
 058F7	壷		U+58F7
 058F8	壸		U+58F8
+058F9	壹		U+58F9
 058FA	壺		U+58FA
 058FC	壼		U+58FC
+058FD	壽		U+58FD
 058FF	壿		U+58FF
 05903	夃		U+5903
+05904	处		U+5904
 0590B	夋		U+590B
 05912	夒		U+5912
 05914	夔		U+5914
@@ -689,6 +732,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05958	奘		U+5958
 05961	奡		U+5961
 05962	奢		U+5962
+05967	奧		U+5967
 05968	奨		U+5968
 05969	奩		U+5969
 0596A	奪		U+596A
@@ -716,6 +760,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 059AC	妬		U+59AC
 059AF	妯		U+59AF
 059B2	妲		U+59B2
+059CA	姊		U+59CA
 059D1	姑		U+59D1
 059D3	姓		U+59D3
 059DC	姜		U+59DC
@@ -778,6 +823,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05B76	孶		U+5B76
 05B78	學		U+5B78
 05B80	宀		U+5B80
+05B82	宂		U+5B82
 05B84	宄		U+5B84
 05B88	守		U+5B88
 05B8B	宋		U+5B8B
@@ -794,13 +840,16 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05BA4	室		U+5BA4
 05BA5	宥		U+5BA5
 05BA6	宦		U+5BA6
+05BAA	宪		U+5BAA
 05BAB	宫		U+5BAB
 05BAE	宮		U+5BAE
 05BB5	宵		U+5BB5
 05BBF	宿		U+5BBF
 05BC7	寇		U+5BC7
+05BD1	寑		U+5BD1
 05BD2	寒		U+5BD2
 05BE1	寡		U+5BE1
+05BE2	寢		U+5BE2
 05BE4	寤		U+5BE4
 05BE6	實		U+5BE6
 05BE9	審		U+5BE9
@@ -809,11 +858,13 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05BF8	寸		U+5BF8
 05BF9	对		U+5BF9
 05BFA	寺		U+5BFA
+05BFB	寻		U+5BFB
 05BFC	导		U+5BFC
 05BFE	対		U+5BFE
 05C04	射		U+5C04
 05C06	将		U+5C06
 05C07	將		U+5C07
+05C08	專		U+5C08
 05C09	尉		U+5C09
 05C0A	尊		U+5C0A
 05C0D	對		U+5C0D
@@ -822,6 +873,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05C11	少		U+5C11
 05C16	尖		U+5C16
 05C18	尘		U+5C18
+05C19	尙		U+5C19
 05C1F	尟		U+5C1F
 05C24	尤		U+5C24
 05C2A	尪		U+5C2A
@@ -840,6 +892,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05C60	屠		U+5C60
 05C65	履		U+5C65
 05C67	屧		U+5C67
+05C6C	屬		U+5C6C
 05C6E	屮		U+5C6E
 05C71	山		U+5C71
 05C79	屹		U+5C79
@@ -852,6 +905,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05C91	岑		U+5C91
 05C97	岗		U+5C97
 05C98	岘		U+5C98
+05C9A	岚		U+5C9A
 05CA1	岡		U+5CA1
 05CA3	岣		U+5CA3
 05CA9	岩		U+5CA9
@@ -908,6 +962,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05DDE	州		U+5DDE
 05DDF	巟		U+5DDF
 05DE1	巡		U+5DE1
+05DE2	巢		U+5DE2
 05DE4	巤		U+5DE4
 05DE5	工		U+5DE5
 05DE6	左		U+5DE6
@@ -919,6 +974,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05DF7	巷		U+5DF7
 05DFE	巾		U+5DFE
 05E02	市		U+5E02
+05E05	帅 		U+5E05
+05E08	师		U+5E08
 05E10	帐		U+5E10
 05E11	帑		U+5E11
 05E15	帕		U+5E15
@@ -943,6 +1000,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05E81	庁		U+5E81
 05E83	広		U+5E83
 05E84	庄		U+5E84
+05E86	庆		U+5E86
 05E8A	床		U+5E8A
 05E8F	序		U+5E8F
 05E93	库		U+5E93
@@ -972,6 +1030,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05EFE	廾		U+5EFE
 05EFF	廿		U+5EFF
 05F00	开		U+5F00
+05F02	异		U+5F02
 05F03	弃		U+5F03
 05F04	弄		U+5F04
 05F08	弈		U+5F08
@@ -993,6 +1052,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05F4D	彍		U+5F4D
 05F50	彐		U+5F50
 05F51	彑		U+5F51
+05F52	归		U+5F52
 05F58	彘		U+5F58
 05F59	彙		U+5F59
 05F5A	彚		U+5F5A
@@ -1016,6 +1076,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 05F92	徒		U+5F92
 05F95	徕		U+5F95
 05F97	得		U+5F97
+05F9E	從		U+5F9E
 05FA0	徠		U+5FA0
 05FA1	御		U+5FA1
 05FA8	徨		U+5FA8
@@ -1051,6 +1112,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 06035	怵		U+6035
 0603C	怼		U+603C
 06043	恃		U+6043
+06046	恆		U+6046
 06047	恇		U+6047
 0604D	恍		U+604D
 06050	恐		U+6050
@@ -1104,6 +1166,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 06114	愔		U+6114
 06126	愦		U+6126
 0613A	愺		U+613A
+0613C	愼		U+613C
 0613E	愾		U+613E
 0613F	愿		U+613F
 06142	慂		U+6142
@@ -1153,6 +1216,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 0625E	扞		U+625E
 06262	扢		U+6262
 06263	扣		U+6263
+06267	执		U+6267
 06269	扩		U+6269
 0626A	扪		U+626A
 0626C	扬		U+626C
@@ -1222,14 +1286,17 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 063BC	掼		U+63BC
 063C5	揅		U+63C5
 063D1	揑		U+63D1
+063D2	插		U+63D2
 063DA	揚		U+63DA
 063E2	揢		U+63E2
 063F2	揲		U+63F2
+063F7	揷		U+63F7
 063FD	揽		U+63FD
 06405	搅		U+6405
 0640D	損		U+640D
 06412	搒		U+6412
 06413	搓		U+6413
+0641C	搜		U+641C
 0642A	搪		U+642A
 0642D	搭		U+642D
 06434	搴		U+6434
@@ -1272,6 +1339,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 06548	效		U+6548
 06549	敉		U+6549
 0654D	敍		U+654D
+0654E	敎		U+654E
 06551	救		U+6551
 06554	敔		U+6554
 06555	敕		U+6555
@@ -1294,6 +1362,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 06599	料		U+6599
 0659C	斜		U+659C
 065A8	斨		U+65A8
+065A9	斩		U+65A9
 065AB	斫		U+65AB
 065B2	斲		U+65B2
 065B9	方		U+65B9
@@ -1302,6 +1371,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 065C5	旅		U+65C5
 065CC	旌		U+65CC
 065D3	旓		U+65D3
+065E3	旣		U+65E3
 065E5	日		U+65E5
 065E6	旦		U+65E6
 065E7	旧		U+65E7
@@ -1359,6 +1429,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 066C6	曆		U+66C6
 066C7	曇		U+66C7
 066CD	曍		U+66CD
+066D1	曑		U+66D1
 066D9	曙		U+66D9
 066DC	曜		U+66DC
 066E0	曠		U+66E0
@@ -1369,7 +1440,10 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 066F3	曳		U+66F3
 066F6	曶		U+66F6
 066F8	書		U+66F8
+066FA	曺		U+66FA
+066FE	曾		U+66FE
 066FF	替		U+66FF
+06703	會		U+6703
 06708	月		U+6708
 06709	有		U+6709
 06710	朐		U+6710
@@ -1436,6 +1510,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 067FE	柾		U+67FE
 06803	栃		U+6803
 0680C	栌		U+680C
+06811	树		U+6811
 06813	栓		U+6813
 06817	栗		U+6817
 0681A	栚		U+681A
@@ -1453,6 +1528,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 06846	框		U+6846
 0684E	桎		U+684E
 06850	桐		U+6850
+06852	桒		U+6852
 06854	桔		U+6854
 0685D	桝		U+685D
 06862	桢		U+6862
@@ -1518,6 +1594,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 069F9	槹		U+69F9
 069FA	槺		U+69FA
 069FB	槻		U+69FB
+06A02	樂		U+6A02
 06A0B	樋		U+6A0B
 06A10	樐		U+6A10
 06A11	樑		U+6A11
@@ -1570,11 +1647,13 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 06B62	止		U+6B62
 06B63	正		U+6B63
 06B6B	歫		U+6B6B
+06B6C	歬		U+6B6C
 06B6F	歯		U+6B6F
 06B72	歲		U+6B72
 06B73	歳		U+6B73
 06B74	歴		U+6B74
 06B77	歷		U+6B77
+06B78	歸		U+6B78
 06B7E	歾		U+6B7E
 06B7F	歿		U+6B7F
 06B81	殁		U+6B81
@@ -1589,6 +1668,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 06BAE	殮		U+6BAE
 06BB3	殳		U+6BB3
 06BB8	殸		U+6BB8
+06BC1	毁		U+6BC1
+06BC9	毉		U+6BC9
 06BCC	毌		U+6BCC
 06BD5	毕		U+6BD5
 06BE1	毡		U+6BE1
@@ -1788,6 +1869,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 06F4A	潊		U+6F4A
 06F4B	潋		U+6F4B
 06F59	潙		U+6F59
+06F5B	潛		U+6F5B
 06F5D	潝		U+6F5D
 06F5E	潞		U+6F5E
 06F62	潢		U+6F62
@@ -1797,6 +1879,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 06F74	潴		U+6F74
 06F78	潸		U+6F78
 06F80	澀		U+6F80
+06F81	澁		U+6F81
 06F87	澇		U+6F87
 06F90	澐		U+6F90
 06F92	澒		U+6F92
@@ -1814,6 +1897,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 06FDE	濞		U+6FDE
 06FEB	濫		U+6FEB
 06FEF	濯		U+6FEF
+06FF3	濳		U+6FF3
 07006	瀆		U+7006
 07007	瀇		U+7007
 0700B	瀋		U+700B
@@ -1834,6 +1918,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 0706F	灯		U+706F
 07070	灰		U+7070
 07078	灸		U+7078
+0707E	灾		U+707E
 07080	炀		U+7080
 07089	炉		U+7089
 07092	炒		U+7092
@@ -1882,6 +1967,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 0721E	爞		U+721E
 0722D	爭		U+722D
 0722F	爯		U+722F
+07231	爱		U+7231
 07232	爲		U+7232
 07235	爵		U+7235
 0723F	爿		U+723F
@@ -1930,6 +2016,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 072E2	狢		U+72E2
 072E9	狩		U+72E9
 072F0	狰		U+72F0
+072F1	狱		U+72F1
 072F3	狳		U+72F3
 072F8	狸		U+72F8
 072FA	狺		U+72FA
@@ -1956,6 +2043,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07377	獷		U+7377
 07378	獸		U+7378
 0737A	獺		U+737A
+0737B	獻		U+737B
 07384	玄		U+7384
 07385	玅		U+7385
 07389	玉		U+7389
@@ -2006,6 +2094,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 0751C	甜		U+751C
 0751F	生		U+751F
 07521	甡		U+7521
+07522	產		U+7522
 07525	甥		U+7525
 07526	甦		U+7526
 07528	用		U+7528
@@ -2032,6 +2121,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07564	畤		U+7564
 07565	略		U+7565
 07567	畧		U+7567
+0756B	畫		U+756B
 0756C	畬		U+756C
 0756D	畭		U+756D
 0756F	畯		U+756F
@@ -2041,6 +2131,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07586	疆		U+7586
 07589	疉		U+7589
 0758A	疊		U+758A
+0758F	疏		U+758F
 07590	疐		U+7590
 07592	疒		U+7592
 07594	疔		U+7594
@@ -2115,9 +2206,11 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 076D1	监		U+76D1
 076D2	盒		U+76D2
 076D4	盔		U+76D4
+076D6	盖		U+76D6
 076D7	盗		U+76D7
 076DB	盛		U+76DB
 076DC	盜		U+76DC
+076E1	盡		U+76E1
 076E3	監		U+76E3
 076E6	盦		U+76E6
 076E7	盧		U+76E7
@@ -2134,6 +2227,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07704	眄		U+7704
 07707	眇		U+7707
 0771A	眚		U+771A
+0771E	眞		U+771E
 07729	眩		U+7729
 0772F	眯		U+772F
 07733	眳		U+7733
@@ -2157,6 +2251,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 077BC	瞼		U+77BC
 077BD	瞽		U+77BD
 077D1	矑		U+77D1
+077E6	矦		U+77E6
 077E9	矩		U+77E9
 077F3	石		U+77F3
 077F4	矴		U+77F4
@@ -2258,6 +2353,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07A4C	穌		U+7A4C
 07A4E	穎		U+7A4E
 07A51	穑		U+7A51
+07A57	穗		U+7A57
 07A5F	穟		U+7A5F
 07A61	穡		U+7A61
 07A62	穢		U+7A62
@@ -2274,6 +2370,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07A91	窑		U+7A91
 07A92	窒		U+7A92
 07A94	窔		U+7A94
+07A97	窗		U+7A97
 07A98	窘		U+7A98
 07A9F	窟		U+7A9F
 07AA5	窥		U+7AA5
@@ -2282,6 +2379,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07AAE	窮		U+7AAE
 07AAF	窯		U+7AAF
 07ABA	窺		U+7ABA
+07ABB	窻		U+7ABB
 07ABD	窽		U+7ABD
 07ABE	窾		U+7ABE
 07AC7	竇		U+7AC7
@@ -2289,6 +2387,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07ACB	立		U+7ACB
 07AD8	竘		U+7AD8
 07ADD	竝		U+7ADD
+07ADE	竞		U+7ADE
 07AE3	竣		U+7AE3
 07AEB	竫		U+7AEB
 07AF9	竹		U+7AF9
@@ -2377,6 +2476,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07C92	粒		U+7C92
 07C94	粔		U+7C94
 07C95	粕		U+7C95
+07C9B	粛		U+7C9B
 07C9C	粜		U+7C9C
 07C9D	粝		U+7C9D
 07CA7	粧		U+7CA7
@@ -2463,6 +2563,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07DFB	緻		U+7DFB
 07DFE	緾		U+7DFE
 07E22	縢		U+7E22
+07E23	縣		U+7E23
 07E2E	縮		U+7E2E
 07E34	縴		U+7E34
 07E3A	縺		U+7E3A
@@ -2472,6 +2573,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07E66	繦		U+7E66
 07E6D	繭		U+7E6D
 07E6E	繮		U+7E6E
+07E7C	繼		U+7E7C
 07E86	纆		U+7E86
 07E88	纈		U+7E88
 07E8A	纊		U+7E8A
@@ -2496,6 +2598,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07EBE	纾		U+7EBE
 07EC1	绁		U+7EC1
 07EC5	绅		U+7EC5
+07EC6	细		U+7EC6
 07EC8	终		U+7EC8
 07ECA	绊		U+7ECA
 07ECC	绌		U+7ECC
@@ -2508,6 +2611,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 07EDE	绞		U+7EDE
 07EDF	统		U+7EDF
 07EE1	绡		U+7EE1
+07EE7	继		U+7EE7
 07EEA	绪		U+7EEA
 07EED	续		U+7EED
 07EF2	绲		U+7EF2
@@ -2585,6 +2689,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 08072	聲		U+8072
 08075	聵		U+8075
 0807F	聿		U+807F
+08083	肃		U+8083
 08084	肄		U+8084
 08086	肆		U+8086
 08089	肉		U+8089
@@ -2853,6 +2958,9 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 08624	蘤		U+8624
 08653	虓		U+8653
 08654	虔		U+8654
+08655	處		U+8655
+08657	虗		U+8657
+0865B	虛		U+865B
 0865E	虞		U+865E
 0865F	號		U+865F
 0866B	虫		U+866B
@@ -2961,6 +3069,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 08896	袖		U+8896
 088A0	袠		U+88A0
 088A2	袢		U+88A2
+088AD	袭		U+88AD
 088B7	袷		U+88B7
 088BA	袺		U+88BA
 088BD	袽		U+88BD
@@ -3009,12 +3118,14 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 089BF	覿		U+89BF
 089C1	见		U+89C1
 089C4	规		U+89C4
+089C6	视		U+89C6
 089C8	览		U+89C8
 089C9	觉		U+89C9
 089CC	觌		U+89CC
 089D3	觓		U+89D3
 089DE	觞		U+89DE
 089E5	觥		U+89E5
+089E7	觧		U+89E7
 089E9	觩		U+89E9
 089F4	觴		U+89F4
 089F5	觵		U+89F5
@@ -3114,6 +3225,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 08BBE	设		U+8BBE
 08BBF	访		U+8BBF
 08BC2	诂		U+8BC2
+08BC9	诉		U+8BC9
 08BCE	诎		U+8BCE
 08BD3	诓		U+8BD3
 08BD7	诗		U+8BD7
@@ -3185,6 +3297,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 08CF4	賴		U+8CF4
 08CF8	賸		U+8CF8
 08D07	贇		U+8D07
+08D0A	贊		U+8D0A
 08D0F	贏		U+8D0F
 08D13	贓		U+8D13
 08D14	贔		U+8D14
@@ -3194,6 +3307,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 08D1E	贞		U+8D1E
 08D1F	负		U+8D1F
 08D21	贡		U+8D21
+08D23	责		U+8D23
 08D24	贤		U+8D24
 08D25	败		U+8D25
 08D27	货		U+8D27
@@ -3203,6 +3317,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 08D33	贳		U+8D33
 08D35	贵		U+8D35
 08D36	贶		U+8D36
+08D3C	贼		U+8D3C
 08D3F	贿		U+8D3F
 08D42	赂		U+8D42
 08D43	赃		U+8D43
@@ -3215,6 +3330,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 08D52	赒		U+8D52
 08D53	赓		U+8D53
 08D56	赖		U+8D56
+08D5E	赞		U+8D5E
 08D5F	赟		U+8D5F
 08D62	赢		U+8D62
 08D64	赤		U+8D64
@@ -3319,10 +3435,13 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 08F87	辇		U+8F87
 08F8B	辋		U+8F8B
 08F95	辕		U+8F95
+08F96	辖		U+8F96
 08F98	辘		U+8F98
 08F9C	辜		U+8F9C
 08FA2	辢		U+8FA2
 08FA3	辣		U+8FA3
+08FA4	辤		U+8FA4
+08FAD	辭		U+8FAD
 08FB5	辵		U+8FB5
 08FB9	边		U+8FB9
 08FBA	辺		U+8FBA
@@ -3405,6 +3524,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 090F4	郴		U+90F4
 090F5	郵		U+90F5
 090FD	都		U+90FD
+09109	鄉		U+9109
+09115	鄕		U+9115
 09116	鄖		U+9116
 09118	鄘		U+9118
 0911C	鄜		U+911C
@@ -3432,6 +3553,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 0919D	醝		U+919D
 091A2	醢		U+91A2
 091A4	醤		U+91A4
+091AB	醫		U+91AB
 091AC	醬		U+91AC
 091B4	醴		U+91B4
 091B7	醷		U+91B7
@@ -3444,6 +3566,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 091D1	金		U+91D1
 091D8	釘		U+91D8
 091DD	針		U+91DD
+091E1	釡		U+91E1
 091E6	釦		U+91E6
 091E7	釧		U+91E7
 091EC	釬		U+91EC
@@ -3648,6 +3771,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 09669	险		U+9669
 09670	陰		U+9670
 09676	陶		U+9676
+09677	陷		U+9677
 09678	陸		U+9678
 0967A	険		U+967A
 0967D	陽		U+967D
@@ -3671,7 +3795,9 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 096D2	雒		U+96D2
 096D4	雔		U+96D4
 096D5	雕		U+96D5
+096D9	雙		U+96D9
 096DD	雝		U+96DD
+096DE	雞		U+96DE
 096E0	雠		U+96E0
 096E3	難		U+96E3
 096E8	雨		U+96E8
@@ -3744,6 +3870,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 0983C	頼		U+983C
 0983D	頽		U+983D
 0984D	額		U+984D
+0984F	顏		U+984F
 09855	顕		U+9855
 09858	願		U+9858
 09867	顧		U+9867
@@ -3768,6 +3895,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 09893	颓		U+9893
 09894	颔		U+9894
 09896	颖		U+9896
+0989C	颜		U+989C
 0989D	额		U+989D
 098A4	颤		U+98A4
 098AE	颮		U+98AE
@@ -3835,6 +3963,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 09A30	騰		U+9A30
 09A35	騵		U+9A35
 09A41	驁		U+9A41
+09A45	驅		U+9A45
 09A4A	驊		U+9A4A
 09A57	驗		U+9A57
 09A5A	驚		U+9A5A
@@ -3843,6 +3972,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 09A6D	驭		U+9A6D
 09A6E	驮		U+9A6E
 09A6F	驯		U+9A6F
+09A71	驱		U+9A71
 09A72	驲		U+9A72
 09A73	驳		U+9A73
 09A77	驷		U+9A77
@@ -3865,6 +3995,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 09AC8	髈		U+9AC8
 09AD2	髒		U+9AD2
 09AD4	體		U+9AD4
+09AD9	髙		U+9AD9
 09ADF	髟		U+9ADF
 09AE3	髣		U+9AE3
 09AE4	髤		U+9AE4
@@ -3982,6 +4113,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 09DB1	鶱		U+9DB1
 09DBF	鶿		U+9DBF
 09DC0	鷀		U+9DC0
+09DC4	鷄		U+9DC4
 09DD3	鷓		U+9DD3
 09DD8	鷘		U+9DD8
 09DF3	鷳		U+9DF3
@@ -3994,6 +4126,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 09E15	鸕		U+9E15
 09E18	鸘		U+9E18
 09E20	鸠		U+9E20
+09E21	鸡		U+9E21
 09E23	鸣		U+9E23
 09E28	鸨		U+9E28
 09E2A	鸪		U+9E2A
@@ -4063,6 +4196,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 09F3B	鼻		U+9F3B
 09F3E	鼾		U+9F3E
 09F41	齁		U+9F41
+09F4A	齊		U+9F4A
+09F50	齐		U+9F50
 09F52	齒		U+9F52
 09F53	齓		U+9F53
 09F54	齔		U+9F54
@@ -4088,6 +4223,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	thongqitmra
 09FA5	龥		U+9FA5
 205E8	𠗨	⿰冫枼	U+205E8
 206EC	𠛬		U+206EC
+20991	𠦑		U+20991
 20A7A	𠩺	⿱⿰未攵厂	U+20A7A
 20B9F	𠮟		U+20B9F
 21301	𡌁	⿱㓝土	U+21301
