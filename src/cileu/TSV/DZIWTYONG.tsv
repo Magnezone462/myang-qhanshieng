@@ -40,6 +40,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 04E0A	上					U+4E0A
 04E0B	下					U+4E0B
 04E0F	丏					U+4E0F
+04E14	且					U+4E14
 04E16	世					U+4E16
 04E18	丘					U+4E18
 04E26	並		并			U+4E26
@@ -50,22 +51,27 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 04E2D	中					U+4E2D
 04E31	丱					U+4E31
 04E32	串					U+4E32
+04E38	丸					U+4E38
 04E39	丹					U+4E39
+04E3B	主					U+4E3B
 04E3C	丼					U+4E3C
 04E45	久					U+4E45
 04E4B	之					U+4E4B
 04E56	乖					U+4E56
 04E58	乘				乗	U+4E58
+04E59	乙					U+4E59
 04E5D	九					U+4E5D
 04E5E	乞					U+4E5E
 04E85	亅					U+4E85
 04E86	了					U+4E86
 04E88	予					U+4E88
 04E89	争					U+4E89
+04E8B	事					U+4E8B
 04E8C	二					U+4E8C
 04E91	云					U+4E91
 04E94	五					U+4E94
 04E95	井					U+4E95
+04E9E	亞			亚	亜	U+4E9E
 04EA1	亡					U+4EA1
 04EA4	交					U+4EA4
 04EA6	亦					U+4EA6
@@ -89,6 +95,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 04EDD	仝		同			U+4EDD
 04EDF	仟					U+4EDF
 04EE1	仡					U+4EE1
+04EE5	以					U+4EE5
 04EF2	仲					U+4EF2
 04EF5	仵					U+4EF5
 04EF6	件					U+4EF6
@@ -113,6 +120,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 04F50	佐					U+4F50
 04F51	佑					U+4F51
 04F53	体					U+4F53
+04F55	何					U+4F55
 04F58	佘					U+4F58
 04F59	余					U+4F59
 04F5A	佚					U+4F5A
@@ -136,6 +144,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 04F9C	侜					U+4F9C
 04F9D	依					U+4F9D
 04FA3	侣				侶	U+4FA3
+04FAF	侯					U+4FAF
 04FB7	侷		局			U+4FB7
 04FC2	係			系		U+4FC2
 04FC3	促					U+4FC3
@@ -154,6 +163,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 04FE3	俣					U+4FE3
 04FF1	俱					U+4FF1
 05000	倀			伥		U+5000
+05009	倉					U+5009
 0500B	個			个		U+500B
 05014	倔					U+5014
 0501C	倜					U+501C
@@ -190,25 +200,33 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0513A	儺			傩		U+513A
 0513F	儿					U+513F
 05141	允					U+5141
+05143	元					U+5143
 05144	兄					U+5144
 05145	充					U+5145
 05147	兇		凶			U+5147
 05148	先					U+5148
 05149	光					U+5149
+0514B	克					U+514B
+05152	兒			儿	児	U+5152
 05154	兔					U+5154
 05162	兢					U+5162
 05165	入					U+5165
 05168	全					U+5168
 0516B	八					U+516B
+0516C	公					U+516C
 0516D	六					U+516D
 0516E	兮					U+516E
 05171	共					U+5171
 05177	具					U+5177
 05178	典					U+5178
 05179	兹					U+5179
+0517C	兼					U+517C
 05180	冀					U+5180
 05185	内					U+5185
+0518C	册				冊	U+518C
 0518D	再					U+518D
+05197	冗					U+5197
+051A0	冠					U+51A0
 051AC	冬					U+51AC
 051B2	冲				沖	U+51B2
 051B5	况				況	U+51B5
@@ -228,8 +246,10 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 051F7	凷					U+51F7
 051F8	凸					U+51F8
 051FA	出					U+51FA
+05203	刃					U+5203
 05205	刅					U+5205
 05207	切					U+5207
+05208	刈					U+5208
 0520A	刊					U+520A
 0520E	刎					U+520E
 05211	刑					U+5211
@@ -240,11 +260,16 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05228	刨					U+5228
 05229	利					U+5229
 05235	刵					U+5235
+05236	制					U+5236
+0523A	刺					U+523A
+05247	則			则		U+5247
 0524A	削					U+524A
 0524C	剌					U+524C
+0524D	前					U+524D
 05259	剙		創	创		U+5259
 0525B	剛			刚		U+525B
 05269	剩				剰	U+5269
+05272	割					U+5272
 05273	剳		札			U+5273
 0527A	剺					U+527A
 05282	劂					U+5282
@@ -253,6 +278,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0528D	劍			剑	剣	U+528D
 0529B	力					U+529B
 0529F	功					U+529F
+052A0	加					U+52A0
 052A3	劣					U+52A3
 052AA	努					U+52AA
 052AC	劬					U+52AC
@@ -280,11 +306,13 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05316	化					U+5316
 0531A	匚					U+531A
 0531B	匛					U+531B
+05320	匠					U+5320
 05321	匡					U+5321
 0532D	匭			匦		U+532D
 05331	匱			匮		U+5331
 05335	匵					U+5335
 05339	匹					U+5339
+05340	區			区	区	U+5340
 05341	十					U+5341
 05343	千					U+5343
 05347	升					U+5347
@@ -292,7 +320,10 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05349	卉					U+5349
 0534A	半					U+534A
 05357	南					U+5357
+05360	占					U+5360
 05370	印					U+5370
+05371	危					U+5371
+05373	即					U+5373
 05375	卵					U+5375
 05378	卸					U+5378
 05398	厘					U+5398
@@ -304,9 +335,13 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 053A5	厥					U+53A5
 053B2	厲			厉		U+53B2
 053B9	厹					U+53B9
+053BB	去					U+53BB
+053C3	參			参	参	U+53C3
 053C8	又					U+53C8
 053CA	及					U+53CA
 053CB	友					U+53CB
+053D4	叔					U+53D4
+053D6	取					U+53D6
 053D7	受					U+53D7
 053D9	叙					U+53D9
 053E0	叠				畳	U+53E0
@@ -315,12 +350,16 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 053E5	句					U+53E5
 053E9	叩					U+53E9
 053EB	叫					U+53EB
+053EC	召					U+53EC
 053EE	叮					U+53EE
+053EF	可					U+53EF
 053F1	叱					U+53F1
+053F2	史					U+53F2
 053F3	右					U+53F3
 053F5	叵					U+53F5
 053F6	叶					U+53F6
 053F7	号					U+53F7
+053F8	司					U+53F8
 05403	吃					U+5403
 05404	各					U+5404
 05408	合					U+5408
@@ -342,17 +381,20 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05434	吴				呉	U+5434
 05435	吵					U+5435
 05438	吸					U+5438
+05439	吹					U+5439
 0543B	吻					U+543B
 0543C	吼					U+543C
 0543E	吾					U+543E
 05446	呆					U+5446
 05448	呈					U+5448
+0544A	告					U+544A
 05450	呐					U+5450
 0545F	呟					U+545F
 05468	周					U+5468
 0546C	呬					U+546C
 05474	呴					U+5474
 0547B	呻					U+547B
+0547C	呼					U+547C
 05484	咄					U+5484
 05486	咆					U+5486
 0548E	咎					U+548E
@@ -384,15 +426,19 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05546	商					U+5546
 0554E	啎		忤			U+554E
 0554F	問			问		U+554F
+05553	啓			启		U+5553
 05555	啕					U+5555
 0557E	啾					U+557E
 05580	喀					U+5580
 05583	喃					U+5583
+05584	善					U+5584
 0558B	喋					U+558B
 05591	喑					U+5591
+0559C	喜					U+559C
 0559F	喟					U+559F
 055A4	喤					U+55A4
 055A6	喦					U+55A6
+055AA	喪			丧		U+55AA
 055C7	嗇			啬		U+55C7
 055D2	嗒					U+55D2
 055DF	嗟					U+55DF
@@ -418,6 +464,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05695	嚕			噜		U+5695
 0569A	嚚					U+569A
 056B3	嚳			喾		U+56B3
+056B4	嚴			严	厳	U+56B4
 056BC	嚼					U+56BC
 056C2	囂			嚣		U+56C2
 056C8	囈			呓		U+56C8
@@ -425,6 +472,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 056D7	囗					U+56D7
 056DB	四					U+56DB
 056DE	回					U+56DE
+056E0	因					U+56E0
 056EE	囮					U+56EE
 056F0	困					U+56F0
 056FA	固					U+56FA
@@ -432,12 +480,14 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05704	圄					U+5704
 05709	圉					U+5709
 0570A	圊					U+570A
+0570D	圍			围	囲	U+570D
 05712	園			园		U+5712
 05713	圓			圆	円	U+5713
 05716	圖			图	図	U+5716
 0571F	土					U+571F
 05723	圣					U+5723
 05725	圥					U+5725
+05728	在					U+5728
 0572E	圮					U+572E
 0573C	圼					U+573C
 05740	址					U+5740
@@ -446,6 +496,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05764	坤					U+5764
 05766	坦					U+5766
 05774	坴					U+5774
+05782	垂					U+5782
 0578B	型					U+578B
 057A2	垢					U+57A2
 057A4	垤					U+57A4
@@ -458,6 +509,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 057E7	埧					U+57E7
 057F4	埴					U+57F4
 057F6	埶					U+57F6
+057F7	執			执		U+57F7
 05800	堀					U+5800
 05805	堅			坚		U+5805
 0581E	堞					U+581E
@@ -470,9 +522,11 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05854	塔					U+5854
 05857	塗			涂		U+5857
 05858	塘					U+5858
+0585E	塞					U+585E
 05864	塤			埙		U+5864
 05872	塲		場	场		U+5872
 05875	塵			尘		U+5875
+0587E	塾					U+587E
 05885	墅					U+5885
 05889	墉					U+5889
 0589C	墜			坠		U+589C
@@ -484,15 +538,20 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 058C5	壅					U+58C5
 058C7	壇			坛		U+58C7
 058D1	壑					U+58D1
+058D3	壓			压	圧	U+58D3
 058D9	壙			圹		U+58D9
 058DC	壜		罎	坛		U+58DC
 058DD	壝					U+58DD
 058E2	壢			坜		U+58E2
+058EB	士					U+58EB
 058EF	壯			壮	壮	U+58EF
+058F9	壹				壱	U+58F9
 058FA	壺			壶		U+58FA
 058FC	壼			壸		U+58FC
+058FD	壽			寿	寿	U+58FD
 05903	夃					U+5903
 0590B	夋					U+590B
+0590F	夏					U+590F
 05912	夒					U+5912
 05914	夔					U+5914
 05915	夕					U+5915
@@ -503,11 +562,14 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05928	夨					U+5928
 05929	天					U+5929
 0592A	太					U+592A
+0592E	央					U+592E
 05931	失					U+5931
+0594F	奏					U+594F
 05955	奕					U+5955
 05958	奘					U+5958
 05961	奡					U+5961
 05962	奢					U+5962
+05965	奥					U+5965
 05969	奩			奁		U+5969
 0596A	奪			夺		U+596A
 0596C	奬			奖	奨	U+596C
@@ -530,8 +592,11 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 059A8	妨					U+59A8
 059AF	妯					U+59AF
 059B2	妲					U+59B2
+059BB	妻					U+59BB
+059CA	姊				姉	U+59CA
 059D1	姑					U+59D1
 059D3	姓					U+59D3
+059D4	委					U+59D4
 059DD	姝					U+59DD
 059DE	姞					U+59DE
 059E3	姣					U+59E3
@@ -550,6 +615,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05A66	婦			妇		U+5A66
 05A67	婧					U+5A67
 05A6A	婪					U+5A6A
+05A7F	婿					U+5A7F
 05A93	媓					U+5A93
 05A9F	媟					U+5A9F
 05AB5	媵					U+5AB5
@@ -583,21 +649,29 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05B80	宀					U+5B80
 05B84	宄					U+5B84
 05B88	守					U+5B88
+05B89	安					U+5B89
 05B8B	宋					U+5B8B
 05B95	宕					U+5B95
+05B97	宗					U+5B97
+05B98	官					U+5B98
 05B99	宙					U+5B99
 05B9A	定					U+5B9A
+05B9B	宛					U+5B9B
 05B9C	宜					U+5B9C
 05BA2	客					U+5BA2
 05BA4	室					U+5BA4
 05BA5	宥					U+5BA5
 05BA6	宦					U+5BA6
 05BAB	宫				宮	U+5BAB
+05BB0	宰					U+5BB0
+05BB3	害					U+5BB3
 05BB5	宵					U+5BB5
+05BB6	家					U+5BB6
 05BBF	宿					U+5BBF
 05BC7	寇					U+5BC7
 05BD2	寒					U+5BD2
 05BE1	寡					U+5BE1
+05BE2	寢			寝	寝	U+5BE2
 05BE4	寤					U+5BE4
 05BE6	實			实	実	U+5BE6
 05BE9	審			审		U+5BE9
@@ -606,28 +680,35 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05BFA	寺					U+5BFA
 05C04	射					U+5C04
 05C07	將			将	将	U+5C07
+05C08	專			专	専	U+5C08
 05C09	尉					U+5C09
 05C0A	尊					U+5C0A
+05C0B	尋			寻		U+5C0B
 05C0D	對			对	対	U+5C0D
 05C0E	導			导		U+5C0E
 05C0F	小					U+5C0F
 05C11	少					U+5C11
 05C16	尖					U+5C16
+05C1A	尚					U+5C1A
 05C1F	尟		鮮	鲜		U+5C1F
 05C24	尤					U+5C24
 05C2A	尪					U+5C2A
 05C2C	尬					U+5C2C
+05C31	就					U+5C31
 05C37	尷			尴		U+5C37
 05C39	尹					U+5C39
+05C3A	尺					U+5C3A
 05C3B	尻					U+5C3B
 05C40	局					U+5C40
 05C45	居					U+5C45
 05C48	屈					U+5C48
 05C4A	届					U+5C4A
+05C4B	屋					U+5C4B
 05C5A	屚					U+5C5A
 05C60	屠					U+5C60
 05C65	履					U+5C65
 05C67	屧					U+5C67
+05C6C	屬			属	属	U+5C6C
 05C6E	屮					U+5C6E
 05C71	山					U+5C71
 05C79	屹					U+5C79
@@ -641,6 +722,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05CA3	岣					U+5CA3
 05CA9	岩					U+5CA9
 05CAB	岫					U+5CAB
+05CB3	岳					U+5CB3
 05CB5	岵					U+5CB5
 05CB8	岸					U+5CB8
 05CC9	峉					U+5CC9
@@ -665,6 +747,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05D34	崴					U+5D34
 05D47	嵇					U+5D47
 05D4A	嵊					U+5D4A
+05D50	嵐			岚		U+5D50
 05D52	嵒		岩			U+5D52
 05D6B	嵫					U+5D6B
 05D6F	嵯					U+5D6F
@@ -680,6 +763,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05DDE	州					U+5DDE
 05DDF	巟					U+5DDF
 05DE1	巡					U+5DE1
+05DE2	巢				巣	U+5DE2
 05DE4	巤					U+5DE4
 05DE5	工					U+5DE5
 05DE6	左					U+5DE6
@@ -691,6 +775,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05DF7	巷					U+5DF7
 05DFE	巾					U+5DFE
 05E02	市					U+5E02
+05E0C	希					U+5E0C
 05E11	帑					U+5E11
 05E15	帕					U+5E15
 05E18	帘					U+5E18
@@ -699,14 +784,18 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05E1B	帛					U+5E1B
 05E1F	帟					U+5E1F
 05E22	帢					U+5E22
+05E25	帥			帅 		U+5E25
+05E2B	師			师		U+5E2B
 05E2C	帬		裙			U+5E2C
 05E2D	席					U+5E2D
 05E33	帳			帐		U+5E33
 05E4C	幌					U+5E4C
 05E72	干					U+5E72
 05E74	年					U+5E74
+05E78	幸					U+5E78
 05E79	幹			干		U+5E79
 05E7B	幻					U+5E7B
+05E7E	幾			几		U+5E7E
 05E81	庁					U+5E81
 05E84	庄					U+5E84
 05E8A	床					U+5E8A
@@ -729,6 +818,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05EEA	廪					U+5EEA
 05EF1	廱					U+5EF1
 05EF4	廴					U+5EF4
+05EF6	延					U+5EF6
+05EFA	建					U+5EFA
 05EFB	廻		迴	回		U+5EFB
 05EFE	廾					U+5EFE
 05EFF	廿					U+5EFF
@@ -740,9 +831,11 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05F0D	弍					U+5F0D
 05F0E	弎					U+5F0E
 05F13	弓					U+5F13
+05F15	引					U+5F15
 05F18	弘					U+5F18
 05F26	弦					U+5F26
 05F29	弩					U+5F29
+05F31	弱					U+5F31
 05F35	張			张		U+5F35
 05F36	弶					U+5F36
 05F3A	强				強	U+5F3A
@@ -770,11 +863,13 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 05F90	徐					U+5F90
 05F92	徒					U+5F92
 05F97	得					U+5F97
+05F9E	從			从	従	U+5F9E
 05FA0	徠			徕		U+5FA0
 05FA1	御					U+5FA1
 05FA8	徨					U+5FA8
 05FAC	徬					U+5FAC
 05FB7	德				徳	U+5FB7
+05FC3	心					U+5FC3
 05FCC	忌					U+5FCC
 05FD4	忔					U+5FD4
 05FD6	忖					U+5FD6
@@ -793,6 +888,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06015	怕					U+6015
 06019	怙					U+6019
 0601B	怛					U+601B
+0601D	思					U+601D
 06025	急					U+6025
 06027	性					U+6027
 0602A	怪					U+602A
@@ -803,6 +899,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06047	恇					U+6047
 0604D	恍					U+604D
 06050	恐					U+6050
+06052	恒					U+6052
 06054	恔					U+6054
 06055	恕					U+6055
 0605F	恟					U+605F
@@ -811,6 +908,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0606B	恫					U+606B
 0606C	恬					U+606C
 0606D	恭					U+606D
+0606F	息					U+606F
 06070	恰					U+6070
 0607F	恿					U+607F
 06083	悃					U+6083
@@ -842,6 +940,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06101	愁					U+6101
 0610F	意					U+610F
 06114	愔					U+6114
+0611B	愛			爱		U+611B
 0613A	愺					U+613A
 0613E	愾			忾		U+613E
 0613F	愿					U+613F
@@ -849,16 +948,19 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06144	慄		栗			U+6144
 06148	慈					U+6148
 0614C	慌					U+614C
+0614E	慎					U+614E
 06163	慣			惯		U+6163
 06165	慥					U+6165
 06170	慰					U+6170
 06173	慳			悭		U+6173
 06175	慵					U+6175
+06176	慶			庆		U+6176
 06177	慷					U+6177
 06182	憂			忧		U+6182
 06192	憒			愦		U+6192
 061AB	憫			悯		U+61AB
 061AC	憬					U+61AC
+061B2	憲			宪		U+61B2
 061B6	憶			忆		U+61B6
 061D4	懔					U+61D4
 061DF	懟			怼		U+61DF
@@ -870,15 +972,19 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06211	我					U+6211
 06212	戒					U+6212
 06215	戕					U+6215
+0621A	戚					U+621A
 0621B	戛					U+621B
 0621F	戟					U+621F
 06237	户				戸	U+6237
 0623B	戻					U+623B
 0623D	戽					U+623D
 0623F	房					U+623F
+06240	所					U+6240
 06246	扆					U+6246
+06247	扇					U+6247
 06248	扈					U+6248
 0624B	手					U+624B
+0624D	才					U+624D
 0624E	扎					U+624E
 06250	扐					U+6250
 06252	扒					U+6252
@@ -889,12 +995,14 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06263	扣					U+6263
 0626F	扯					U+626F
 06271	扱					U+6271
+0627F	承					U+627F
 06284	抄					U+6284
 06286	抆					U+6286
 06291	抑					U+6291
 06292	抒					U+6292
 06295	投					U+6295
 06296	抖					U+6296
+06298	折					U+6298
 062B1	抱					U+62B1
 062B4	抴					U+62B4
 062B6	抶					U+62B6
@@ -934,6 +1042,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0636B	捫			扪		U+636B
 0636E	据					U+636E
 0637B	捻					U+637B
+06383	掃			扫		U+6383
 06388	授					U+6388
 0638F	掏					U+638F
 06396	掖					U+6396
@@ -942,12 +1051,14 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 063A0	掠					U+63A0
 063A7	控					U+63A7
 063C5	揅					U+63C5
+063D2	插				挿	U+63D2
 063DA	揚			扬		U+63DA
 063E2	揢					U+63E2
 063F2	揲					U+63F2
 0640D	損			损		U+640D
 06412	搒					U+6412
 06413	搓					U+6413
+0641C	搜				捜	U+641C
 0642A	搪					U+642A
 0642D	搭					U+642D
 06434	搴					U+6434
@@ -975,7 +1086,9 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06524	攤			摊		U+6524
 0652A	攪			搅		U+652A
 0652C	攬			揽		U+652C
+0652F	支					U+652F
 06536	收				収	U+6536
+06539	改					U+6539
 0653B	攻					U+653B
 0653E	放					U+653E
 0653F	政					U+653F
@@ -988,6 +1101,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06555	敕				勅	U+6555
 06556	敖					U+6556
 06557	敗			败		U+6557
+06559	教					U+6559
+06562	敢					U+6562
 06563	散					U+6563
 0656C	敬					U+656C
 06574	整					U+6574
@@ -999,18 +1114,27 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06597	斗					U+6597
 06599	料					U+6599
 0659C	斜					U+659C
+065A4	斤					U+65A4
+065A5	斥					U+65A5
 065A8	斨					U+65A8
 065AB	斫					U+65AB
+065AC	斬			斩		U+65AC
+065B0	新					U+65B0
 065B2	斲		斫			U+65B2
 065B9	方					U+65B9
 065C1	旁					U+65C1
 065C3	旃					U+65C3
 065C5	旅					U+65C5
+065CB	旋					U+65CB
 065CC	旌					U+65CC
+065CF	族					U+65CF
 065D3	旓					U+65D3
+065E2	既					U+65E2
 065E5	日					U+65E5
 065E6	旦					U+65E6
+065E8	旨					U+65E8
 065E9	早					U+65E9
+065EC	旬					U+65EC
 065ED	旭					U+65ED
 065F0	旰					U+65F0
 065F1	旱					U+65F1
@@ -1024,9 +1148,13 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06609	昉					U+6609
 0660A	昊					U+660A
 06612	昒					U+6612
+06613	易					U+6613
+06614	昔					U+6614
 0661C	昜					U+661C
 0661F	星					U+661F
+06625	春					U+6625
 0662B	昫					U+662B
+0662F	是					U+662F
 06631	昱					U+6631
 06633	昳					U+6633
 06642	時			时		U+6642
@@ -1059,8 +1187,12 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 066F0	曰					U+66F0
 066F2	曲					U+66F2
 066F3	曳					U+66F3
+066F4	更					U+66F4
 066F8	書			书		U+66F8
+066F9	曹					U+66F9
+066FE	曾				曽	U+66FE
 066FF	替					U+66FF
+06703	會			会	会	U+6703
 06708	月					U+6708
 06709	有					U+6709
 06710	朐					U+6710
@@ -1088,6 +1220,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06757	杗					U+6757
 0675C	杜					U+675C
 0675E	杞					U+675E
+0675F	束					U+675F
 06760	杠					U+6760
 06762	杢					U+6762
 0676A	杪					U+676A
@@ -1099,9 +1232,11 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06789	枉					U+6789
 0678B	枋					U+678B
 0678D	枍					U+678D
+06790	析					U+6790
 06793	枓					U+6793
 06797	林					U+6797
 06798	枘					U+6798
+0679C	果					U+679C
 067A1	枡					U+67A1
 067AF	枯					U+67AF
 067B5	枵					U+67B5
@@ -1112,6 +1247,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 067CA	柊					U+67CA
 067CF	柏					U+67CF
 067D2	柒					U+67D2
+067D3	染					U+67D3
 067D8	柘					U+67D8
 067DA	柚					U+67DA
 067DC	柜					U+67DC
@@ -1134,6 +1270,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06846	框					U+6846
 0684E	桎					U+684E
 06850	桐					U+6850
+06851	桑					U+6851
 06854	桔					U+6854
 0685D	桝					U+685D
 06876	桶					U+6876
@@ -1185,12 +1322,14 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 069F3	槳			桨		U+69F3
 069FA	槺					U+69FA
 069FB	槻					U+69FB
+06A02	樂			乐	楽	U+6A02
 06A0B	樋					U+6A0B
 06A10	樐		櫓	橹		U+6A10
 06A11	樑		梁			U+6A11
 06A2A	横					U+6A2A
 06A2B	樫					U+6A2B
 06A32	樲					U+6A32
+06A39	樹			树		U+6A39
 06A3A	樺			桦		U+6A3A
 06A3D	樽					U+6A3D
 06A3E	樾					U+6A3E
@@ -1217,6 +1356,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06AEA	櫪			枥		U+6AEA
 06B16	欖			榄		U+6B16
 06B20	欠					U+6B20
+06B21	次					U+6B21
 06B2E	欮					U+6B2E
 06B31	欱					U+6B31
 06B3D	欽			钦		U+6B3D
@@ -1229,6 +1369,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06B6B	歫					U+6B6B
 06B72	歲			岁	歳	U+6B72
 06B77	歷			历	歴	U+6B77
+06B78	歸			归	帰	U+6B78
+06B7B	死					U+6B7B
 06B7E	歾					U+6B7E
 06B81	殁					U+6B81
 06B8A	殊					U+6B8A
@@ -1239,12 +1381,16 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06BAE	殮			殓		U+6BAE
 06BB3	殳					U+6BB3
 06BB8	殸					U+6BB8
+06BBA	殺					U+6BBA
+06BBB	殻			壳		U+6BBB
+06BC1	毁				毀	U+6BC1
 06BCC	毌					U+6BCC
 06BE6	毦					U+6BE6
 06BEC	毬		球			U+6BEC
 06C02	氂		牦			U+6C02
 06C04	氄					U+6C04
 06C08	氈			毡		U+6C08
+06C0F	氏					U+6C0F
 06C13	氓					U+6C13
 06C14	气					U+6C14
 06C23	氣			气	気	U+6C23
@@ -1279,10 +1425,12 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06C9A	沚					U+6C9A
 06CA1	没					U+6CA1
 06CAD	沭					U+6CAD
+06CB3	河					U+6CB3
 06CB9	油					U+6CB9
 06CBA	沺					U+6CBA
 06CBD	沽					U+6CBD
 06CC4	泄					U+6CC4
+06CC9	泉					U+6CC9
 06CCA	泊					U+6CCA
 06CD0	泐					U+6CD0
 06CD3	泓					U+6CD3
@@ -1302,6 +1450,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06D19	洙					U+6D19
 06D1B	洛					U+6D1B
 06D1E	洞					U+6D1E
+06D25	津					U+6D25
 06D27	洧					U+6D27
 06D28	洨					U+6D28
 06D29	洩		泄			U+6D29
@@ -1390,6 +1539,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06F3F	漿			浆		U+6F3F
 06F41	潁			颍		U+6F41
 06F59	潙			沩		U+6F59
+06F5C	潜					U+6F5C
 06F5D	潝					U+6F5D
 06F5E	潞					U+6F5E
 06F62	潢					U+6F62
@@ -1398,6 +1548,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 06F70	潰			溃		U+6F70
 06F74	潴					U+6F74
 06F78	潸					U+6F78
+06F80	澀			涩	渋	U+6F80
 06F87	澇			涝		U+6F87
 06F90	澐			沄		U+6F90
 06F92	澒					U+6F92
@@ -1428,6 +1579,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0706F	灯					U+706F
 07070	灰					U+7070
 07078	灸					U+7078
+0707E	灾				災	U+707E
+0708E	炎					U+708E
 07092	炒					U+7092
 0709F	炟					U+709F
 070AB	炫					U+70AB
@@ -1444,7 +1597,9 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0710A	焊					U+710A
 0711A	焚					U+711A
 0711C	焜					U+711C
+07126	焦					U+7126
 0712B	焫					U+712B
+07136	然					U+7136
 0714C	煌					U+714C
 0715C	煜					U+715C
 07160	煠					U+7160
@@ -1468,6 +1623,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0722F	爯					U+722F
 07232	爲			为	為	U+7232
 07235	爵					U+7235
+0723D	爽					U+723D
 0723F	爿					U+723F
 07240	牀		床			U+7240
 07242	牂					U+7242
@@ -1477,6 +1633,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 07252	牒					U+7252
 07253	牓		榜			U+7253
 07258	牘			牍		U+7258
+07259	牙					U+7259
 0725B	牛					U+725B
 07269	物					U+7269
 0726F	牯					U+726F
@@ -1516,13 +1673,16 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0732A	猪					U+732A
 0732C	猬					U+732C
 0733F	猿					U+733F
+07344	獄			狱		U+7344
 07352	獒					U+7352
 07369	獩					U+7369
 0736B	獫			猃		U+736B
+07372	獲			获		U+7372
 07375	獵			猎	猟	U+7375
 07377	獷			犷		U+7377
 07378	獸			兽	獣	U+7378
 0737A	獺			獭		U+737A
+0737B	獻			献	献	U+737B
 07384	玄					U+7384
 07385	玅		妙			U+7385
 07389	玉					U+7389
@@ -1562,17 +1722,22 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0749F	璟					U+749F
 074B2	璲					U+74B2
 074DE	瓞					U+74DE
+074E6	瓦					U+74E6
 07503	甃					U+7503
 07515	甕		瓮			U+7515
+07518	甘					U+7518
+0751A	甚					U+751A
 0751C	甜					U+751C
 0751F	生					U+751F
 07521	甡					U+7521
+07523	産			产		U+7523
 07525	甥					U+7525
 07526	甦		蘇	苏		U+7526
 07528	用					U+7528
 0752C	甬					U+752C
 07530	田					U+7530
 07531	由					U+7531
+07532	甲					U+7532
 07533	申					U+7533
 07537	男					U+7537
 07538	甸					U+7538
@@ -1583,19 +1748,25 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0754B	畋					U+754B
 0754C	界					U+754C
 0754E	畎					U+754E
+0754F	畏					U+754F
 07551	畑					U+7551
 07554	畔					U+7554
+0755D	畝			亩		U+755D
 07560	畠					U+7560
 07562	畢			毕		U+7562
 07563	畣					U+7563
 07564	畤					U+7564
 07565	略					U+7565
+0756B	畫			画	画	U+756B
 0756C	畬					U+756C
 0756F	畯					U+756F
+07570	異		异			U+7570
 07572	畲					U+7572
 0757A	畺					U+757A
 07586	疆					U+7586
+0758F	疏				疎	U+758F
 07590	疐					U+7590
+07591	疑					U+7591
 07592	疒					U+7592
 07594	疔					U+7594
 07598	疘		肛			U+7598
@@ -1608,6 +1779,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 075B1	疱					U+75B1
 075B8	疸					U+75B8
 075BC	疼					U+75BC
+075BE	疾					U+75BE
 075C0	痀					U+75C0
 075C3	痃					U+75C3
 075C7	症					U+75C7
@@ -1638,6 +1810,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0767D	白					U+767D
 0767E	百					U+767E
 07682	皂					U+7682
+07686	皆					U+7686
 07687	皇					U+7687
 0768B	皋					U+768B
 0768E	皎					U+768E
@@ -1648,12 +1821,15 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 076AD	皭					U+76AD
 076B0	皰		疱			U+76B0
 076B4	皴					U+76B4
+076BF	皿					U+76BF
 076C5	盅					U+76C5
 076C8	盈					U+76C8
+076CA	益					U+76CA
 076D2	盒					U+76D2
 076D4	盔					U+76D4
 076D7	盗					U+76D7
 076DB	盛					U+76DB
+076E1	盡			尽	尽	U+76E1
 076E3	監			监		U+76E3
 076E6	盦					U+76E6
 076E9	盩					U+76E9
@@ -1665,10 +1841,13 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 076F4	直				直	U+76F4
 076F8	相					U+76F8
 076FB	盻					U+76FB
+076FE	盾					U+76FE
 07701	省					U+7701
 07704	眄					U+7704
 07707	眇					U+7707
+0770B	看					U+770B
 0771A	眚					U+771A
+0771F	真					U+771F
 07729	眩					U+7729
 0772F	眯					U+772F
 07733	眳					U+7733
@@ -1686,6 +1865,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 077AF	瞯					U+77AF
 077BC	瞼			睑		U+77BC
 077BD	瞽					U+77BD
+077E2	矢					U+77E2
 077E9	矩					U+77E9
 077F3	石					U+77F3
 077F4	矴		碇			U+77F4
@@ -1723,6 +1903,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 07926	礦			矿		U+7926
 0792A	礪			砺		U+792A
 0792E	礮		炮			U+792E
+0793A	示					U+793A
 0793C	礼					U+793C
 0793E	社					U+793E
 07946	祆					U+7946
@@ -1731,8 +1912,10 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0794F	祏					U+794F
 07950	祐					U+7950
 0795C	祜					U+795C
+0795D	祝					U+795D
 0795E	神					U+795E
 0796B	祫					U+796B
+0796D	祭					U+796D
 07980	禀					U+7980
 07981	禁					U+7981
 0798E	禎			祯		U+798E
@@ -1743,10 +1926,13 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 079B9	禹					U+79B9
 079BC	禼					U+79BC
 079BD	禽					U+79BD
+079C0	秀					U+79C0
+079C1	私					U+79C1
 079C6	秆					U+79C6
 079C8	秈		籼			U+79C8
 079CB	秋					U+79CB
 079CD	种					U+79CD
+079D1	科					U+79D1
 079D2	秒					U+79D2
 079E4	秤					U+79E4
 079E9	秩					U+79E9
@@ -1764,14 +1950,18 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 07A19	稙					U+7A19
 07A20	稠					U+7A20
 07A31	稱			称	称	U+7A31
+07A3D	稽					U+7A3D
 07A45	穅		糠			U+7A45
 07A46	穆					U+7A46
 07A4C	穌			稣		U+7A4C
 07A4E	穎			颖		U+7A4E
+07A57	穗				穂	U+7A57
 07A5F	穟					U+7A5F
 07A61	穡			穑		U+7A61
 07A62	穢			秽		U+7A62
+07A6B	穫			获		U+7A6B
 07A71	穱					U+7A71
+07A74	穴					U+7A74
 07A76	究					U+7A76
 07A78	穸					U+7A78
 07A79	穹					U+7A79
@@ -1780,6 +1970,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 07A7F	穿					U+7A7F
 07A92	窒					U+7A92
 07A94	窔					U+7A94
+07A97	窗				窓	U+7A97
 07A98	窘					U+7A98
 07A9F	窟					U+7A9F
 07AA8	窨					U+7AA8
@@ -1791,8 +1982,10 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 07ACA	竊			窃	窃	U+7ACA
 07ACB	立					U+7ACB
 07AD8	竘					U+7AD8
+07AE0	章					U+7AE0
 07AE3	竣					U+7AE3
 07AEB	竫					U+7AEB
+07AF6	競			竞		U+7AF6
 07AF9	竹					U+7AF9
 07AFA	竺					U+7AFA
 07AFF	竿					U+7AFF
@@ -1813,6 +2006,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 07B46	筆			笔		U+7B46
 07B47	筇					U+7B47
 07B49	等					U+7B49
+07B4B	筋					U+7B4B
 07B4C	筌					U+7B4C
 07B50	筐					U+7B50
 07B51	筑					U+7B51
@@ -1893,10 +2087,13 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 07D15	紕			纰		U+7D15
 07D1A	級			级		U+7D1A
 07D1C	紜			纭		U+7D1C
+07D20	素					U+7D20
 07D21	紡			纺		U+7D21
+07D22	索					U+7D22
 07D29	紩					U+7D29
 07D2C	紬		綢	绸		U+7D2C
 07D2E	紮		扎			U+7D2E
+07D30	細			细		U+7D30
 07D32	紲			绁		U+7D32
 07D33	紳			绅		U+7D33
 07D40	絀			绌		U+7D40
@@ -1937,6 +2134,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 07DEC	緬			缅		U+7DEC
 07DFB	緻			致		U+7DFB
 07E22	縢					U+7E22
+07E23	縣			县	県	U+7E23
 07E2E	縮			缩		U+7E2E
 07E34	縴			纤		U+7E34
 07E3A	縺					U+7E3A
@@ -1945,6 +2143,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 07E66	繦					U+7E66
 07E6D	繭			茧		U+7E6D
 07E6E	繮			缰		U+7E6E
+07E7C	繼			继	継	U+7E7C
 07E86	纆			𬙊		U+7E86
 07E88	纈			缬		U+7E88
 07E8A	纊			纩		U+7E8A
@@ -1962,6 +2161,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 07F54	罔					U+7F54
 07F55	罕					U+7F55
 07F5F	罟					U+7F5F
+07F6A	罪					U+7F6A
 07F6E	置				置	U+7F6E
 07F71	罱					U+7F71
 07F72	署					U+7F72
@@ -1976,15 +2176,18 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 07FB2	羲					U+7FB2
 07FB6	羶		膻			U+7FB6
 07FB9	羹					U+7FB9
+07FBD	羽					U+7FBD
 07FBF	羿					U+7FBF
 07FCA	翊					U+7FCA
 07FCC	翌					U+7FCC
+07FD2	習			习		U+7FD2
 07FD5	翕					U+7FD5
 07FDF	翟					U+7FDF
 07FE5	翥					U+7FE5
 07FF1	翱					U+7FF1
 07FFD	翽			翙		U+7FFD
 08000	耀					U+8000
+08003	考					U+8003
 08005	者					U+8005
 08007	耇					U+8007
 0800B	耋					U+800B
@@ -1995,6 +2198,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08033	耳					U+8033
 0803B	耻				恥	U+803B
 0803F	耿					U+803F
+08056	聖			圣		U+8056
 08058	聘					U+8058
 0805E	聞			闻		U+805E
 0806F	聯			联		U+806F
@@ -2003,6 +2207,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08075	聵			聩		U+8075
 0807F	聿					U+807F
 08084	肄					U+8084
+08085	肅			肃	粛	U+8085
 08086	肆					U+8086
 08089	肉					U+8089
 0808B	肋					U+808B
@@ -2019,6 +2224,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 080AA	肪					U+80AA
 080AC	肬					U+80AC
 080AD	肭					U+80AD
+080AF	肯					U+80AF
+080B2	育					U+80B2
 080C3	胃					U+80C3
 080C4	胄					U+80C4
 080C6	胆					U+80C6
@@ -2033,6 +2240,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 080F6	胶					U+80F6
 080F8	胸					U+80F8
 08106	脆					U+8106
+0810A	脊					U+810A
 0811D	脝					U+811D
 0812C	脬					U+812C
 08139	脹			胀		U+8139
@@ -2059,6 +2267,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 081E4	臤					U+81E4
 081E7	臧					U+81E7
 081E8	臨			临		U+81E8
+081EA	自					U+81EA
+081ED	臭					U+81ED
 081F1	臱					U+81F1
 081F3	至					U+81F3
 081F4	致					U+81F4
@@ -2066,7 +2276,9 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 081FC	臼					U+81FC
 081FE	臾					U+81FE
 08205	舅					U+8205
+08208	興			兴		U+8208
 0820A	舊			旧	旧	U+820A
+0820C	舌					U+820C
 0820D	舍				舎	U+820D
 08212	舒					U+8212
 0821B	舛					U+821B
@@ -2109,6 +2321,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 082DE	苞					U+82DE
 082DF	苟					U+82DF
 082E3	苣					U+82E3
+082E5	若					U+82E5
 082E6	苦					U+82E6
 082EF	苯					U+82EF
 08301	茁					U+8301
@@ -2173,6 +2386,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 084A8	蒨					U+84A8
 084AF	蒯					U+84AF
 084C6	蓆		席			U+84C6
+084CB	蓋			盖		U+84CB
 084CF	蓏					U+84CF
 084EE	蓮			莲		U+84EE
 084FA	蓺					U+84FA
@@ -2198,6 +2412,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08591	薑			姜		U+8591
 08594	薔			蔷		U+8594
 0859F	薟			莶		U+859F
+085A6	薦			荐		U+85A6
 085AF	薯					U+85AF
 085B3	薳					U+85B3
 085B6	薶					U+85B6
@@ -2216,8 +2431,12 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0860C	蘌					U+860C
 0861E	蘞			蔹		U+861E
 08624	蘤		花			U+8624
+0864E	虎					U+864E
+08650	虐					U+8650
 08653	虓					U+8653
 08654	虔					U+8654
+08655	處			处	処	U+8655
+0865A	虚					U+865A
 0865E	虞					U+865E
 0865F	號			号	号	U+865F
 0866B	虫					U+866B
@@ -2235,6 +2454,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 086B0	蚰					U+86B0
 086BF	蚿					U+86BF
 086C4	蛄					U+86C4
+086C7	蛇					U+86C7
 086D4	蛔					U+86D4
 086D5	蛕		蛔			U+86D5
 086DB	蛛					U+86DB
@@ -2281,6 +2501,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08823	蠣			蛎		U+8823
 08831	蠱			蛊		U+8831
 08839	蠹					U+8839
+08840	血					U+8840
 08841	衁					U+8841
 08846	衆			众		U+8846
 0884C	行					U+884C
@@ -2295,6 +2516,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08861	衡					U+8861
 08863	衣					U+8863
 0886B	衫					U+886B
+08870	衰					U+8870
 08871	衱					U+8871
 08872	衲					U+8872
 08875	衵					U+8875
@@ -2338,12 +2560,18 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08964	襤			褴		U+8964
 0896B	襫					U+896B
 0896D	襭					U+896D
+08972	襲			袭		U+8972
+0897F	西					U+897F
 0898B	見			见		U+898B
 0898F	規			规		U+898F
+08996	視			视		U+8996
+089AA	親			亲		U+89AA
 089BA	覺			觉	覚	U+89BA
 089BD	覽			览	覧	U+89BD
 089BF	覿			觌		U+89BF
+089D2	角					U+89D2
 089D3	觓					U+89D3
+089E3	解					U+89E3
 089E5	觥					U+89E5
 089E9	觩					U+89E9
 089F4	觴			觞		U+89F4
@@ -2366,6 +2594,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08A2A	訪			访		U+8A2A
 08A2D	設			设		U+8A2D
 08A31	許			许		U+8A31
+08A34	訴			诉		U+8A34
 08A35	訵					U+8A35
 08A39	訹					U+8A39
 08A3C	証					U+8A3C
@@ -2419,11 +2648,13 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08B86	讆					U+8B86
 08B8E	讎		仇			U+8B8E
 08B9F	讟					U+8B9F
+08C37	谷					U+8C37
 08C3C	谼					U+8C3C
 08C3D	谽					U+8C3D
 08C47	豇					U+8C47
 08C4A	豊					U+8C4A
 08C55	豕					U+8C55
+08C61	象					U+8C61
 08C6B	豫				予	U+8C6B
 08C85	貅					U+8C85
 08C89	貉					U+8C89
@@ -2436,12 +2667,14 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08CA8	貨			货		U+8CA8
 08CAA	貪			贪		U+8CAA
 08CAB	貫			贯		U+8CAB
+08CAC	責			责		U+8CAC
 08CB0	貰			贳		U+8CB0
 08CB3	貳			贰	弐	U+8CB3
 08CB4	貴			贵		U+8CB4
 08CBA	貺			贶		U+8CBA
 08CC2	賂			赂		U+8CC2
 08CC4	賄			贿		U+8CC4
+08CCA	賊			贼		U+8CCA
 08CD2	賒			赊		U+8CD2
 08CD5	賕			赇		U+8CD5
 08CD9	賙			赒		U+8CD9
@@ -2452,6 +2685,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08CF4	賴			赖	頼	U+8CF4
 08CF8	賸		剩			U+8CF8
 08D07	贇			赟		U+8D07
+08D0A	贊			赞	賛	U+8D0A
 08D0F	贏			赢		U+8D0F
 08D14	贔			赑		U+8D14
 08D16	贖			赎		U+8D16
@@ -2463,6 +2697,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08D6C	赬			赪		U+8D6C
 08D6D	赭					U+8D6D
 08D6F	赯					U+8D6F
+08D70	走					U+8D70
 08D73	赳					U+8D73
 08D76	赶					U+8D76
 08D77	起					U+8D77
@@ -2518,6 +2753,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08EB3	躳		躬			U+8EB3
 08ECA	車			车		U+8ECA
 08ECC	軌			轨		U+8ECC
+08ECD	軍			军		U+8ECD
 08ED1	軑			轪		U+8ED1
 08ED2	軒			轩		U+8ED2
 08EF8	軸			轴		U+8EF8
@@ -2529,12 +2765,16 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08F0A	輊			轾		U+8F0A
 08F1E	輞			辋		U+8F1E
 08F26	輦			辇		U+8F26
+08F44	轄			辖		U+8F44
 08F45	轅			辕		U+8F45
 08F46	轆			辘		U+8F46
 08F56	轖					U+8F56
 08F5E	轞					U+8F5E
+08F9B	辛					U+8F9B
 08F9C	辜					U+8F9C
 08FA3	辣					U+8FA3
+08FAD	辭			辞	辞	U+8FAD
+08FB1	辱					U+8FB1
 08FB5	辵					U+8FB5
 08FBB	辻					U+8FBB
 08FBC	込					U+8FBC
@@ -2550,7 +2790,9 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 08FF5	迵					U+8FF5
 08FF7	迷					U+8FF7
 09000	退					U+9000
+09001	送					U+9001
 09005	逅					U+9005
+09006	逆					U+9006
 0900D	逍					U+900D
 09011	逑					U+9011
 09014	途					U+9014
@@ -2559,18 +2801,22 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 0901A	通					U+901A
 0901B	逛					U+901B
 0901E	逞					U+901E
+0901F	速					U+901F
 09020	造					U+9020
 09021	逡					U+9021
 09023	連			连		U+9023
 09031	週		周			U+9031
 09035	逵					U+9035
+09038	逸					U+9038
 09042	遂					U+9042
 09051	遑					U+9051
 09053	道					U+9053
 09060	遠			远		U+9060
+09063	遣					U+9063
 09068	遨					U+9068
 0906E	遮					U+906E
 09075	遵					U+9075
+09077	遷			迁		U+9077
 0907A	遺			遗		U+907A
 09081	邁			迈		U+9081
 09083	邃					U+9083
@@ -2599,16 +2845,19 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 090DD	郝					U+90DD
 090E1	郡					U+90E1
 090E2	郢					U+90E2
+090ED	郭					U+90ED
 090F2	郲					U+90F2
 090F4	郴					U+90F4
 090F5	郵			邮		U+90F5
 090FD	都					U+90FD
+09109	鄉			乡	郷	U+9109
 09116	鄖			郧		U+9116
 09118	鄘					U+9118
 0911C	鄜					U+911C
 09134	鄴			邺		U+9134
 0913A	鄺			邝		U+913A
 0914A	酊					U+914A
+0914C	酌					U+914C
 0914D	配					U+914D
 0914E	酎					U+914E
 09153	酓					U+9153
@@ -2626,19 +2875,24 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 09178	酸					U+9178
 09190	醐					U+9190
 09192	醒					U+9192
+0919C	醜			丑		U+919C
 0919D	醝					U+919D
 091A2	醢					U+91A2
+091AB	醫			医	医	U+91AB
 091AC	醬			酱		U+91AC
 091B4	醴					U+91B4
 091B7	醷					U+91B7
 091C2	釂					U+91C2
+091C7	采					U+91C7
 091C9	釉					U+91C9
 091CC	里					U+91CC
+091CD	重					U+91CD
 091CE	野					U+91CE
 091CF	量					U+91CF
 091D0	釐			厘		U+91D0
 091D1	金					U+91D1
 091D8	釘			钉		U+91D8
+091DC	釜					U+91DC
 091DD	針			针		U+91DD
 091E6	釦		扣			U+91E6
 091E7	釧			钏		U+91E7
@@ -2747,12 +3001,14 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 09632	防					U+9632
 0964B	陋					U+964B
 0964C	陌					U+964C
+0964D	降					U+964D
 0965E	陞		升			U+965E
 0965F	陟					U+965F
 09661	陡					U+9661
 09664	除					U+9664
 09670	陰			阴		U+9670
 09676	陶					U+9676
+09677	陷				陥	U+9677
 09678	陸			陆		U+9678
 0967D	陽			阳		U+967D
 0968A	隊			队		U+968A
@@ -2763,21 +3019,26 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 096A7	隧					U+96A7
 096AA	險			险	険	U+96AA
 096B8	隸			隶	隷	U+96B8
+096BB	隻			只		U+96BB
 096C0	雀					U+96C0
+096C6	集					U+96C6
 096C7	雇					U+96C7
 096CA	雊					U+96CA
 096CD	雍					U+96CD
 096D2	雒					U+96D2
 096D4	雔					U+96D4
 096D5	雕					U+96D5
+096D9	雙			双	双	U+96D9
 096E3	難			难		U+96E3
 096E8	雨					U+96E8
+096EA	雪					U+96EA
 096EB	雫					U+96EB
 096EF	雯					U+96EF
 096F1	雱					U+96F1
 096F2	雲			云		U+96F2
 096F9	雹					U+96F9
 096FB	電			电		U+96FB
+09700	需					U+9700
 09702	霂					U+9702
 09704	霄					U+9704
 09716	霖					U+9716
@@ -2832,6 +3093,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 09837	頷			颔		U+9837
 0983D	頽			颓		U+983D
 0984D	額			额		U+984D
+09854	顔			颜		U+9854
 09858	願			愿		U+9858
 09867	顧			顾		U+9867
 0986B	顫			颤		U+986B
@@ -2839,6 +3101,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 098AE	颮			飑		U+98AE
 098AF	颯			飒		U+98AF
 098BA	颺		揚	扬		U+98BA
+098DF	食					U+98DF
 098E3	飣			饤		U+98E3
 098F2	飲			饮		U+98F2
 098FD	飽			饱		U+98FD
@@ -2884,11 +3147,13 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 09A30	騰			腾		U+9A30
 09A35	騵			𫘪		U+9A35
 09A41	驁			骜		U+9A41
+09A45	驅			驱	駆	U+9A45
 09A4A	驊			骅		U+9A4A
 09A57	驗			验	験	U+9A57
 09A5A	驚			惊		U+9A5A
 09A65	驥			骥		U+9A65
 09A66	驦			骦		U+9A66
+09AA8	骨					U+9AA8
 09AAD	骭					U+9AAD
 09AB0	骰					U+9AB0
 09AB9	骹					U+9AB9
@@ -2896,6 +3161,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 09AC8	髈		膀			U+9AC8
 09AD2	髒			脏		U+9AD2
 09AD4	體			体		U+9AD4
+09AD8	高					U+9AD8
 09ADF	髟					U+9ADF
 09AE3	髣		仿			U+9AE3
 09AF9	髹					U+9AF9
@@ -2909,6 +3175,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 09B2E	鬮			阄		U+9B2E
 09B2F	鬯					U+9B2F
 09B31	鬱			郁		U+9B31
+09B3C	鬼					U+9B3C
 09B42	魂					U+9B42
 09B44	魄					U+9B44
 09B48	魈					U+9B48
@@ -2973,6 +3240,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 09D98	鶘			鹕		U+9D98
 09DB1	鶱			𬸣		U+9DB1
 09DC0	鷀			鹚		U+9DC0
+09DC4	鷄			鸡	鶏	U+9DC4
 09DD3	鷓			鹧		U+9DD3
 09DF3	鷳			鹇		U+9DF3
 09DF4	鷴					U+9DF4
@@ -3020,6 +3288,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	syenjyongdziw	krenqhruadziw	nitpundziw	thong
 09F3B	鼻					U+9F3B
 09F3E	鼾					U+9F3E
 09F41	齁					U+9F41
+09F4A	齊			齐	斉	U+9F4A
 09F52	齒			齿	歯	U+9F52
 09F54	齔			龀		U+9F54
 09F55	齕			龁		U+9F55

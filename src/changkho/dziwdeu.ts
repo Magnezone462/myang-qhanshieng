@@ -1,6 +1,10 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
-import type { DziwqrimCungCileu, DziwxengSikrokXaumraCileu } from '@/cisren/lyixeng'
+import type {
+  DziwqrimCungCileu,
+  DziwwngyanCileu,
+  DziwxengSikrokXaumraCileu,
+} from '@/cisren/lyixeng'
 import { jyongLeksriwkho } from '@/changkho/leksriw'
 
 export const jyongDziwdeukho = defineStore('dziwdeu', () => {
@@ -9,6 +13,7 @@ export const jyongDziwdeukho = defineStore('dziwdeu', () => {
   const dziwqrimco = ref(<DziwqrimCungCileu[]>[])
   const dziwxengSikrokXaumra = ref(<DziwxengSikrokXaumraCileu[]>[])
   const jiwtheidziw = ref('')
+  const dziwwngyan = ref(<DziwwngyanCileu | null | undefined>{})
 
   const twkDziwqrim = computed(() => dziwqrimco.value)
 
@@ -16,15 +21,19 @@ export const jyongDziwdeukho = defineStore('dziwdeu', () => {
     dziwdu.value = ''
     dziwduco.value = []
     dziwxengSikrokXaumra.value = []
+    dziwwngyan.value = null
     const TIENGDZIW = (await import('@/cileu/TIENGDZIW.json')).default
+    const DZIWWNGYAN = (await import('@/cileu/dziwwngyan/DZIWWNGYAN.json')).default
     const zyoktiengLietprieu = TIENGDZIW.filter((kiwlyok) => kiwlyok.zyokdziw === grien)
     for (const xrongmyuk of zyoktiengLietprieu) {
       dziwduco.value.push(xrongmyuk.tiengdziw)
     }
     if (dziwduco.value.length === 1) {
       triwQrimXeng(dziwduco.value[0])
+      dziwwngyan.value = DZIWWNGYAN.find((kiwlyok) => kiwlyok.dziwbyo === dziwduco.value[0])
     } else if (dziwduco.value.includes(grien)) {
       triwQrimXeng(grien)
+      dziwwngyan.value = DZIWWNGYAN.find((kiwlyok) => kiwlyok.dziwbyo === grien)
     } else {
       dziwdu.value = ''
     }
@@ -65,41 +74,9 @@ export const jyongDziwdeukho = defineStore('dziwdeu', () => {
       })
       if (dziwqrimQrit && dziwqrimPrieng) {
         const dziwqrim: DziwqrimCungCileu = {
-          pieutiwbyo: dziwqrimKrap.pieutiwbyo,
-          dziwbyo: dziwqrimKrap.dziwbyo,
-          dziwbyoNguaidziw: dziwqrimKrap.dziwbyoNguaidziw,
-          zyepheng: dziwqrimKrap.zyepheng,
-          zyephengNguaidziw: dziwqrimKrap.zyephengNguaidziw,
-          shiwxryn: dziwqrimKrap.shiwxryn,
-          xrynshiep: dziwqrimKrap.xrynshiep,
-          khwixwp: dziwqrimKrap.khwixwp,
-          twixryi: dziwqrimKrap.twixryi,
-          sishieng: dziwqrimKrap.sishieng,
-          xrynmyuk: dziwqrimKrap.xrynmyuk,
-          shiengmu: dziwqrimKrap.shiengmu,
-          xrynmu: dziwqrimKrap.xrynmu,
-          thongqitmra: dziwqrimKrap.thongqitmra,
-          ChXZiosryoSishieng: dziwqrimQrit.ChXZiosryoSishieng,
-          ChXZiosryoXrynmyuk: dziwqrimQrit.ChXZiosryoXrynmyuk,
-          ChXZiosryoSieuxryn: dziwqrimQrit.ChXZiosryoSieuxryn,
-          ChXDzankryenlyi: dziwqrimQrit.ChXDzankryenlyi,
-          ChXDzankryen: dziwqrimQrit.ChXDzankryen,
-          ChXPyanchet: dziwqrimQrit.ChXPyanchet,
-          ChXPyanchetPotyo: dziwqrimQrit.ChXPyanchetPotyo,
-          XXPyanchet: dziwqrimQrit.XXPyanchet,
-          XXPyanchetPotyo: dziwqrimQrit.XXPyanchetPotyo,
-          KXPyanchet: dziwqrimQrit.KXPyanchet,
-          KXPyanchetPotyo: dziwqrimQrit.KXPyanchetPotyo,
-          DzXPyanchet: dziwqrimQrit.DzXPyanchet,
-          DzXPyanchetPotyo: dziwqrimQrit.DzXPyanchetPotyo,
-          QhZQhShienglyi: dziwqrimQrit.QhZQhShienglyi,
-          QhZQhXrynlyi: dziwqrimQrit.QhZQhXrynlyi,
-          QhZQhDeuyi: dziwqrimQrit.QhZQhDeuyi,
-          diangkoXrynbu: dziwqrimPrieng.diangkoXrynbu,
-          ZNgShiwxryn: dziwqrimPrieng.ZNgShiwxryn,
-          ZNgShiwxrynPotyo: dziwqrimPrieng.ZNgShiwxrynPotyo,
-          qrimtyo: dziwqrimPrieng.qrimtyo,
-          ngrietyo: dziwqrimPrieng.ngrietyo,
+          ...dziwqrimKrap,
+          ...dziwqrimQrit,
+          ...dziwqrimPrieng,
         }
         dziwqrimco.value.push(dziwqrim)
       }
@@ -112,6 +89,7 @@ export const jyongDziwdeukho = defineStore('dziwdeu', () => {
     dziwqrimco,
     dziwxengSikrokXaumra,
     jiwtheidziw,
+    dziwwngyan,
     twkDziwqrim,
     triwDziwdu,
     triwQrimXeng,

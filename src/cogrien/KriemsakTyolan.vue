@@ -13,6 +13,12 @@ const shiochiemkho = jyongShiochiemkho()
 
 const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.dziwdu}`
 
+const dziwwngyanDophenngyan = ((): string => {
+  const pieutiwbyo = dziwdeu.dziwwngyan?.pieutiwbyo ?? ''
+  const dzentryei = pieutiwbyo.slice(0, 2)
+  return new URL(`../cisren/dziwwngyan/${dzentryei}/${pieutiwbyo}.png`, import.meta.url).href
+})()
+
 const qanZyepheng = (tuiziang: DziwqrimCungCileu) => {
   kriemsakDziwqrimkho.triwZyepheng(tuiziang.zyepheng)
   kriemsakDziwqrimkho.triwShiwxryn('')
@@ -118,12 +124,42 @@ const twkQhZQh = (dziwqrim: DziwqrimCungCileu) => {
       </VCol>
     </VRow>
     <VRow>
+      <VCol cols="12">
+        <VCard
+          v-if="dziwdeu.dziwwngyan != null"
+          maxWidth="538px"
+          variant="outlined"
+        >
+          <VImg :src="dziwwngyanDophenngyan" />
+          <VDivider />
+          <VCardTitle> 字源 </VCardTitle>
+          <VCardSubtitle> @kanji_jigen </VCardSubtitle>
+          <VCardText lang="ja-JP">
+            <p v-if="dziwdeu.dziwwngyan.punngrie != null">
+              {{ `本義：${dziwdeu.dziwwngyan.punngrie}` }}
+            </p>
+            <p v-if="dziwdeu.dziwwngyan.kudzau != null">
+              {{ `構造：${dziwdeu.dziwwngyan.kudzau}` }}
+            </p>
+            <p v-if="dziwdeu.dziwwngyan.doxeng != null">
+              {{ `図形：${dziwdeu.dziwwngyan.doxeng}` }}
+            </p>
+            <span v-if="dziwdeu.dziwwngyan.tyomyun !== ''">
+              {{ `${dziwdeu.dziwwngyan.tyomyun}` }}
+            </span>
+            <span v-if="dziwdeu.dziwwngyan.thytten !== ''">
+              {{ `⇒${dziwdeu.dziwwngyan.thytten}` }}
+            </span>
+          </VCardText>
+        </VCard>
+      </VCol>
+      <VDivider />
       <VCol
         v-for="xrongmyuk in dziwdeu.twkDziwqrim"
         :key="xrongmyuk.pieutiwbyo"
         cols="12"
       >
-        <VCard>
+        <VCard variant="outlined">
           <VCardTitle
             @click="qanZyepheng(xrongmyuk)"
             style="cursor: pointer"

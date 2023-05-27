@@ -1,0 +1,5132 @@
+[
+  {
+    "pieutiwbyo": "04E00",
+    "dziwbyo": "一",
+    "punngrie": "｛一 *ʔit ひとつ｝",
+    "kudzau": null,
+    "doxeng": "一本の横線",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4E00"
+  },
+  {
+    "pieutiwbyo": "04E03",
+    "dziwbyo": "七",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。｛切｝や｛漆｝と関連付ける説があるがいずれも根拠は無い。",
+    "thytten": "",
+    "thongqitmra": "U+4E03"
+  },
+  {
+    "pieutiwbyo": "04E08",
+    "dziwbyo": "丈",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。｛杖 [l]raŋʔ つえ｝の表語文字（杖を持った手の形）かもしれない。",
+    "thytten": "林義光1920、高鴻縉《中國字例》、詹鄞鑫《近取諸身，遠取諸物——長度單位探源》、黄德寛《古文字譜系疏證》",
+    "thongqitmra": "U+4E08"
+  },
+  {
+    "pieutiwbyo": "04E09",
+    "dziwbyo": "三",
+    "punngrie": "｛三 *[s]um 3｝",
+    "kudzau": null,
+    "doxeng": "三本の横線",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4E09"
+  },
+  {
+    "pieutiwbyo": "04E0A",
+    "dziwbyo": "上",
+    "punngrie": "｛上 *daŋʔ-s うえ｝",
+    "kudzau": null,
+    "doxeng": "横線の上部に点を打ち、上を示したもの",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4E0A"
+  },
+  {
+    "pieutiwbyo": "04E0B",
+    "dziwbyo": "下",
+    "punngrie": "｛下 *gˤraʔ した｝",
+    "kudzau": null,
+    "doxeng": "基準線の下側に点を打った形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4E0B"
+  },
+  {
+    "pieutiwbyo": "04E14",
+    "dziwbyo": "且",
+    "punngrie": "｛俎 *tsraʔ まな板｝",
+    "kudzau": null,
+    "doxeng": "上から見たまな板の形。「俎」字は脚を含めてまな板を描いた字で、「且」字は脚の描写を省略した字。",
+    "tyomyun": "「位牌」「生殖器」「物を重ねた形」の類はみな誤説。",
+    "thytten": "林義光1920、王國維1923: (3)17、唐蘭1979、陳劍2008b",
+    "thongqitmra": "U+4E14"
+  },
+  {
+    "pieutiwbyo": "04E16",
+    "dziwbyo": "世",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「枼 Lep」（｛葉 *lep 葉｝の表語文字に由来）の下部を省略してできた字。\nなお「十を三つ合わせて三十年」の類の説明は古文字字形と整合しない誤説。",
+    "thytten": "林義光1920、概要",
+    "thongqitmra": "U+4E16"
+  },
+  {
+    "pieutiwbyo": "04E18",
+    "dziwbyo": "丘",
+    "punngrie": "｛丘 *kʷʰə おか｝",
+    "kudzau": null,
+    "doxeng": "2つの峰の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4E18"
+  },
+  {
+    "pieutiwbyo": "04E38",
+    "dziwbyo": "丸",
+    "punngrie": "｛宛 *ʔorʔ かがむ、まげる｝",
+    "kudzau": null,
+    "doxeng": "丸まった人の形。《説文》の「仄」の反転形という説は誤り。",
+    "tyomyun": "表音文字として「夗」字に含まれる。",
+    "thytten": "鄔可晶2021a",
+    "thongqitmra": "U+4E38"
+  },
+  {
+    "pieutiwbyo": "04E3B",
+    "dziwbyo": "主",
+    "punngrie": "｛主 *toʔ 神主、位牌｝",
+    "kudzau": null,
+    "doxeng": "神主の形",
+    "tyomyun": "殷墟甲骨文に本義での用例があり、殷墟から神主の実物が出土している。なお「灯火」は根拠のない誤説。",
+    "thytten": "唐蘭《懐鉛隨録（續）》、劉釗1995、方稚松2009",
+    "thongqitmra": "U+4E3B"
+  },
+  {
+    "pieutiwbyo": "04E45",
+    "dziwbyo": "久",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "おそらく表音文字「又 Qʷə」の分化字。「爪」「又」等の手を描いた図形は通常三本指で描かれるが、しばしば2本指でも描かれる（⇒裘錫圭1998c、黄天樹2005b、鞠煥文2022、謝明文2022a）。\n「灸」「死体」「背の曲がった人」の類は根拠の無い誤説。",
+    "thytten": "",
+    "thongqitmra": "U+4E45"
+  },
+  {
+    "pieutiwbyo": "04E58",
+    "dziwbyo": "乘",
+    "punngrie": "｛乘 *Cə-ləŋ のる｝",
+    "kudzau": null,
+    "doxeng": "木に乗った人の形",
+    "tyomyun": "",
+    "thytten": "王國維1917、陳煒湛《古文字趣談・爬樹英雄》",
+    "thongqitmra": "U+4E58"
+  },
+  {
+    "pieutiwbyo": "04E59",
+    "dziwbyo": "乙",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "本義・構意とも不明。「水」字に似ていることから、水流の形であるかもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+4E59"
+  },
+  {
+    "pieutiwbyo": "04E5D",
+    "dziwbyo": "九",
+    "punngrie": "｛九 *ku 9｝",
+    "kudzau": "表音文字「寸* Ku」",
+    "doxeng": null,
+    "tyomyun": "「寸*」字は｛肘 *t-kruʔ ひじ｝の表語文字。「九」字は図形の手の部分が簡略化されて分化した字。「竜の形」「屈曲のさま」の類は根拠の無い誤説。",
+    "thytten": "丁山1928、明義士1935",
+    "thongqitmra": "U+4E5D"
+  },
+  {
+    "pieutiwbyo": "04E5E",
+    "dziwbyo": "乞",
+    "punngrie": "｛氣 *kʰə[p]-s 雲霧、空気｝",
+    "kudzau": null,
+    "doxeng": "気流の形と思われる",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4E5E"
+  },
+  {
+    "pieutiwbyo": "04E89",
+    "dziwbyo": "争",
+    "punngrie": "｛争 *tsˤreŋ あらそう｝",
+    "kudzau": null,
+    "doxeng": "向かい合った手が1つのものを取り合う形",
+    "tyomyun": "金文の字形は「力」（農具の形）に似ているものの、おそらく関係はない。",
+    "thytten": "朱歧祥《説“争”》、賈文《説甲骨文“争”》、劉洪濤《説“争”“静”是“耕”的本字》",
+    "thongqitmra": "U+4E89"
+  },
+  {
+    "pieutiwbyo": "04E8B",
+    "dziwbyo": "事",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「史」から分化した字。",
+    "thytten": "",
+    "thongqitmra": "U+4E8B"
+  },
+  {
+    "pieutiwbyo": "04E94",
+    "dziwbyo": "五",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。｛互｝の表語文字という説がある。",
+    "thytten": "方稚松2020",
+    "thongqitmra": "U+4E94"
+  },
+  {
+    "pieutiwbyo": "04E95",
+    "dziwbyo": "井",
+    "punngrie": "｛井 tseŋʔ 井戸｝｛阱 *dzeŋ あな｝",
+    "kudzau": "井戸またはあなの形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4E95"
+  },
+  {
+    "pieutiwbyo": "04E9E",
+    "dziwbyo": "亞",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "本義・構意は不明。城牆の形である「𩫏」字に形が似ているため、｛庌｝の表語文字かもしれない。｛阿｝の表語文字とする説もある。墓の形、建物の基礎の形、背中の形などとするのは看図説話。",
+    "thytten": "林義光1920、何金松《釋亞》、劉釗2023a",
+    "thongqitmra": "U+4E9E"
+  },
+  {
+    "pieutiwbyo": "04EA4",
+    "dziwbyo": "交",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「爻」字から分化した字と考えられる。人の形の表語文字という説もあるが、古文字中の「交」字とされている字の多くは実際には無関係の別字である。",
+    "thytten": "",
+    "thongqitmra": "U+4EA4"
+  },
+  {
+    "pieutiwbyo": "04EAB",
+    "dziwbyo": "享",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4EAB"
+  },
+  {
+    "pieutiwbyo": "04EAC",
+    "dziwbyo": "京",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4EAC"
+  },
+  {
+    "pieutiwbyo": "04EBA",
+    "dziwbyo": "人",
+    "punngrie": "｛人 *niŋ ひと｝",
+    "kudzau": "ひとを横から見た形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4EBA"
+  },
+  {
+    "pieutiwbyo": "04ECA",
+    "dziwbyo": "今",
+    "punngrie": "｛吟 *[g](r)umʔ 口をつぐむ｝",
+    "kudzau": null,
+    "doxeng": "「曰」の倒文、あるいは「口」の前に遮る横線を加えた形",
+    "tyomyun": "",
+    "thytten": "裘錫圭1988a(6)",
+    "thongqitmra": "U+4ECA"
+  },
+  {
+    "pieutiwbyo": "04ECB",
+    "dziwbyo": "介",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4ECB"
+  },
+  {
+    "pieutiwbyo": "04EE5",
+    "dziwbyo": "以",
+    "punngrie": "｛以 *ləʔ ひきいる、もちいる｝",
+    "kudzau": null,
+    "doxeng": "人が物を携える形",
+    "tyomyun": "「㠯」は人体部分を省略した簡体。「以」形は初形には直接由来せず、戦国時代に「㠯」に意味分類符「人」を添加してできたものかもしれない。",
+    "thytten": "金祥恒《釋㠯》、裘錫圭1982(2)",
+    "thongqitmra": "U+4EE5"
+  },
+  {
+    "pieutiwbyo": "04EF6",
+    "dziwbyo": "件",
+    "punngrie": "｛件 *[g]r[a][n]ʔ わかつ、区分する｝",
+    "kudzau": "意味分類符「人」＋意味分類符「牛」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4EF6"
+  },
+  {
+    "pieutiwbyo": "04F01",
+    "dziwbyo": "企",
+    "punngrie": "｛企 *kʰeʔ-s つまだつ｝",
+    "kudzau": null,
+    "doxeng": "人がつまさき立ちして遠くを望む形",
+    "tyomyun": "",
+    "thytten": "羅振玉1915: 58、1927: (2)64、林義光1920、概要P132",
+    "thongqitmra": "U+4F01"
+  },
+  {
+    "pieutiwbyo": "04F11",
+    "dziwbyo": "休",
+    "punngrie": "｛庥 *qʰ(r)u 木陰｝",
+    "kudzau": null,
+    "doxeng": "〈人＋𥝌〉人が木陰で休んでいる形",
+    "tyomyun": "「𥝌」旁は後に「木」形に変化した。",
+    "thytten": "概要P141、王子楊2016b",
+    "thongqitmra": "U+4F11"
+  },
+  {
+    "pieutiwbyo": "04F55",
+    "dziwbyo": "何",
+    "punngrie": "｛荷 *gˤajʔ 運ぶ、担う｝",
+    "kudzau": "表語文字「何*」＋飾符「口」",
+    "doxeng": "人が物を担いでいる形",
+    "tyomyun": "字の右部は後に声符「可 Kaj」に変化した。",
+    "thytten": "商承祚《殷契佚存考釋》、高嶋謙一『「河」の語源と中國古文字學』",
+    "thongqitmra": "U+4F55"
+  },
+  {
+    "pieutiwbyo": "04FAF",
+    "dziwbyo": "侯",
+    "punngrie": "｛侯 *[g]ˤ(r)o まと｝",
+    "kudzau": null,
+    "doxeng": "的に矢を射た形",
+    "tyomyun": "秦代に「厂」は“厃”形に変化した。",
+    "thytten": "",
+    "thongqitmra": "U+4FAF"
+  },
+  {
+    "pieutiwbyo": "04FC2",
+    "dziwbyo": "係",
+    "punngrie": "｛係 *kˤek-s つなぐ｝",
+    "kudzau": null,
+    "doxeng": "人をひもで繋ぎ留める形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4FC2"
+  },
+  {
+    "pieutiwbyo": "04FDD",
+    "dziwbyo": "保",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4FDD"
+  },
+  {
+    "pieutiwbyo": "04FE1",
+    "dziwbyo": "信",
+    "punngrie": "｛信 *s-niŋ-s まこと｝",
+    "kudzau": "表音文字「人」＋意味分類符「言」",
+    "doxeng": null,
+    "tyomyun": "戦国時代には表音文字「千 Niŋ」「身 Niŋ」「仁 Niŋ」に従う字も用いられた。\nなお「人の言葉は云々」「神への誓いが云々」「受刑者が云々」の類の説明はみな根拠のない誤説。",
+    "thytten": "王國維《桐鄉徐氏印譜序》、方國瑜《字説（六則）》",
+    "thongqitmra": "U+4FE1"
+  },
+  {
+    "pieutiwbyo": "05009",
+    "dziwbyo": "倉",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「合」と「戸」からなるが、本義は不明。｛倉 *tsʰˤaŋ くら｝の表語文字という説が一般的となっているが、倉庫は通常「㐭」と描かれ、「合」が建物を表現することはないため、疑わしい。",
+    "thytten": "",
+    "thongqitmra": "U+5009"
+  },
+  {
+    "pieutiwbyo": "05143",
+    "dziwbyo": "元",
+    "punngrie": "｛元 *ŋor あたま｝",
+    "kudzau": null,
+    "doxeng": "頭を強調した人の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5143"
+  },
+  {
+    "pieutiwbyo": "05144",
+    "dziwbyo": "兄",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "口を強調した人の形で、一家に令を発する｛兄 *m̥raŋ｝の表語文字という説が一般的になっている。\n西周金文には表音文字「𫭠 Qʷaŋ」を加えた異体字も見られる。",
+    "thytten": "姚孝遂《古文字的符號化問題》、沈培《説古文字裏的“祝”及相關之字》",
+    "thongqitmra": "U+5144"
+  },
+  {
+    "pieutiwbyo": "05145",
+    "dziwbyo": "充",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。",
+    "thytten": "",
+    "thongqitmra": "U+5145"
+  },
+  {
+    "pieutiwbyo": "05148",
+    "dziwbyo": "先",
+    "punngrie": "｛先 *sˤər さき｝",
+    "kudzau": null,
+    "doxeng": "〈止＋人〉",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5148"
+  },
+  {
+    "pieutiwbyo": "05149",
+    "dziwbyo": "光",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「火」と「卩」からなり、人が明かりで周囲を照らしている形と思われる。",
+    "thytten": "",
+    "thongqitmra": "U+5149"
+  },
+  {
+    "pieutiwbyo": "0514B",
+    "dziwbyo": "克",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。形が似ている「冑」字や「皮」字に結びつけた説などがあるが、いずれも根拠を欠く。",
+    "thytten": "",
+    "thongqitmra": "U+514B"
+  },
+  {
+    "pieutiwbyo": "05152",
+    "dziwbyo": "兒",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "小児の形と思われる。",
+    "thytten": "",
+    "thongqitmra": "U+5152"
+  },
+  {
+    "pieutiwbyo": "05168",
+    "dziwbyo": "全",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。戦国文字は「今＋土」のような形になっているが、それ以前の出土文字の例はない。",
+    "thytten": "",
+    "thongqitmra": "U+5168"
+  },
+  {
+    "pieutiwbyo": "0516C",
+    "dziwbyo": "公",
+    "punngrie": "｛瓮 *qˤoŋ-s かめ｝",
+    "kudzau": null,
+    "doxeng": "容器の形",
+    "tyomyun": "",
+    "thytten": "朱芳圃《殷周文字釋叢》、裘錫圭2003、謝明文2012: 366-368",
+    "thongqitmra": "U+516C"
+  },
+  {
+    "pieutiwbyo": "05171",
+    "dziwbyo": "共",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5171"
+  },
+  {
+    "pieutiwbyo": "05177",
+    "dziwbyo": "具",
+    "punngrie": "｛具 *[g](r)o-s そなえる、準備する｝",
+    "kudzau": null,
+    "doxeng": "〈鼎＋𠬞〉食器を準備する形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5177"
+  },
+  {
+    "pieutiwbyo": "0517C",
+    "dziwbyo": "兼",
+    "punngrie": "｛兼 *[k]ˤem あわせる｝",
+    "kudzau": null,
+    "doxeng": "二本の稲を合わせて持つ形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+517C"
+  },
+  {
+    "pieutiwbyo": "0518C",
+    "dziwbyo": "册",
+    "punngrie": "｛册 *[tsʰ](ˤ)rek 竹簡、書物｝",
+    "kudzau": null,
+    "doxeng": "簡冊の形",
+    "tyomyun": "殷墟甲骨文・西周金文には下部に「廾」（両手の形）や飾筆を加えた字も見られる。",
+    "thytten": "",
+    "thongqitmra": "U+518C"
+  },
+  {
+    "pieutiwbyo": "0518D",
+    "dziwbyo": "再",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「冉」と横画からなるが、古文字資料が少なく構意は不明。甲骨文に一例だけ「一」と「冉」からなる字があり、一般に「再」と同定されているが、別字と思われる。",
+    "thytten": "",
+    "thongqitmra": "U+518D"
+  },
+  {
+    "pieutiwbyo": "05197",
+    "dziwbyo": "冗",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。説文小篆によれば「宀」と「人」からなる。",
+    "thytten": "",
+    "thongqitmra": "U+5197"
+  },
+  {
+    "pieutiwbyo": "051A0",
+    "dziwbyo": "冠",
+    "punngrie": "｛冠 *kˤor かんむり｝",
+    "kudzau": "表音文字「元 NGor」＋意味分類符「冃」＋意味分類符「寸」",
+    "doxeng": null,
+    "tyomyun": "象形字とされているが、形声字と解釈すべきである。甲骨文字の「冠」とされている文字は「冃」ではなく「口」に従うため別字かもしれない。",
+    "thytten": "朱德熙等1995: 127",
+    "thongqitmra": "U+51A0"
+  },
+  {
+    "pieutiwbyo": "051F6",
+    "dziwbyo": "凶",
+    "punngrie": "｛凶 *qʰ(r)oŋ 不吉｝。",
+    "kudzau": null,
+    "doxeng": "鬼頭を強調した人の形。「鬼」の分化字「兇」の下部を略した字。",
+    "tyomyun": "「胸の文様が云々」の類の説明は看図説話の誤り。",
+    "thytten": "",
+    "thongqitmra": "U+51F6"
+  },
+  {
+    "pieutiwbyo": "051FA",
+    "dziwbyo": "出",
+    "punngrie": "｛出 *t-kʰut でる｝",
+    "kudzau": null,
+    "doxeng": "〈止＋凵〉穴から出ていく足の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+51FA"
+  },
+  {
+    "pieutiwbyo": "05203",
+    "dziwbyo": "刃",
+    "punngrie": "｛刃 *nə[n]-s は｝",
+    "kudzau": "〈刀＋丶〉刀の刃部分を線で指し示した形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5203"
+  },
+  {
+    "pieutiwbyo": "05208",
+    "dziwbyo": "刈",
+    "punngrie": "｛刈 *ŋat-s かる、かりとる｝",
+    "kudzau": "表語文字「𬔖」＋意味分類符「刀」",
+    "doxeng": null,
+    "tyomyun": "殷墟甲骨文では「𬔖」（鎌の類）で草を刈る形の表語文字が｛刈｝に用いられている。「乂」は「𬔖」の略体に由来すると思われる。",
+    "thytten": "裘錫圭1980b(1)、方稚松2019",
+    "thongqitmra": "U+5208"
+  },
+  {
+    "pieutiwbyo": "0521D",
+    "dziwbyo": "初",
+    "punngrie": "｛初 *tsʰra はじめ｝",
+    "kudzau": null,
+    "doxeng": "〈衣＋刀〉布を断つ形",
+    "tyomyun": "字の形は「卒」と対照的になっている。",
+    "thytten": "",
+    "thongqitmra": "U+521D"
+  },
+  {
+    "pieutiwbyo": "05236",
+    "dziwbyo": "制",
+    "punngrie": "｛制  *tet-s 断ち切る｝",
+    "kudzau": null,
+    "doxeng": "刀で木を切断した形",
+    "tyomyun": "「未＋刀」とする説明は古文字字形と整合しない誤説。",
+    "thytten": "裘錫圭1988a(3)",
+    "thongqitmra": "U+5236"
+  },
+  {
+    "pieutiwbyo": "0523A",
+    "dziwbyo": "刺",
+    "punngrie": "｛刺 *tsʰek とげ｝",
+    "kudzau": "表語文字「朿」＋意味分類符「刀」",
+    "doxeng": "とげのある武器の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+523A"
+  },
+  {
+    "pieutiwbyo": "05247",
+    "dziwbyo": "則",
+    "punngrie": "｛則 *tsˤək のっとる、模範｝",
+    "kudzau": null,
+    "doxeng": "〈鼎＋刀〉模範となる鼎と、鼎を制作する彫刻刀",
+    "tyomyun": "",
+    "thytten": "孫常敘1982",
+    "thongqitmra": "U+5247"
+  },
+  {
+    "pieutiwbyo": "0524D",
+    "dziwbyo": "前",
+    "punngrie": "｛剪 *[ts][e][n]ʔ 断つ、きる｝",
+    "kudzau": "表音文字「歬 TSen」＋意味分類符「刀(→刂)」",
+    "doxeng": null,
+    "tyomyun": "「歬」は、〈止＋舟〉からなる｛前｝の表語文字に由来するという説が一般的となっているが、殷墟甲骨文に見られる｛洗｝の表語文字（足を洗う形）に由来するという説もある。",
+    "thytten": "",
+    "thongqitmra": "U+524D"
+  },
+  {
+    "pieutiwbyo": "05272",
+    "dziwbyo": "割",
+    "punngrie": "｛割 *kˤat 断つ｝",
+    "kudzau": "表音文字「害 Kat」＋意味分類符「刀」",
+    "doxeng": null,
+    "tyomyun": "殷墟甲骨文や初期の西周金文には、表語文字「𫦎」（索＋刀；糸を断ち切る形）が見られる。",
+    "thytten": "郭永秉＆鄔可晶2012、鄔可晶2018a",
+    "thongqitmra": "U+5272"
+  },
+  {
+    "pieutiwbyo": "052A0",
+    "dziwbyo": "加",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「力」に飾符「口」を加えた字だが本義は不明。\n「力/耒」（農具の形）は古文字中では「協」「皆」「耤（借）」等、力を合わせることに関連する字に含まれるため、「加」字中の「力」も同様の意味合いかもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+52A0"
+  },
+  {
+    "pieutiwbyo": "052DD",
+    "dziwbyo": "勝",
+    "punngrie": "｛勝 *l̥əŋ-s かつ、まさる｝",
+    "kudzau": "表音文字「朕 Ləŋ」＋意味分類符「力」",
+    "doxeng": null,
+    "tyomyun": "楚簡では「乗」の異体字や、それに意味分類符「力」を加えた字が｛勝｝に用いられている。",
+    "thytten": "",
+    "thongqitmra": "U+52DD"
+  },
+  {
+    "pieutiwbyo": "05316",
+    "dziwbyo": "化",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "上向きの「人」と下向き（倒文）の「人」からなるが本義は不明。「変化」の｛化｝の表語文字とする説が一般的となっている。",
+    "thytten": "",
+    "thongqitmra": "U+5316"
+  },
+  {
+    "pieutiwbyo": "05320",
+    "dziwbyo": "匠",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「匚」と「斤」からなる会意字と思われる。「匚」を表音文字とする説もあるが、再現性に乏しい音韻パターンを想定する必要がある。",
+    "thytten": "",
+    "thongqitmra": "U+5320"
+  },
+  {
+    "pieutiwbyo": "05340",
+    "dziwbyo": "區",
+    "punngrie": "｛區 *qˤ(r)o かくす｝",
+    "kudzau": null,
+    "doxeng": "〈𠃊（物をしまったり隠したりする場所の形）＋口（物体）〉物をしまった形。「区」は、「區」の内部を簡単な「㐅」に換えた字体。",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5340"
+  },
+  {
+    "pieutiwbyo": "05341",
+    "dziwbyo": "十",
+    "punngrie": "｛針 *t-kəm はり｝",
+    "kudzau": null,
+    "doxeng": "はりの形",
+    "tyomyun": "",
+    "thytten": "裘錫圭2003",
+    "thongqitmra": "U+5341"
+  },
+  {
+    "pieutiwbyo": "05343",
+    "dziwbyo": "千",
+    "punngrie": "｛千 *s-n̥ˤiŋ 1000｝",
+    "kudzau": "「一」＋注音符「人 Niŋ」",
+    "doxeng": null,
+    "tyomyun": "殷墟甲骨文では「人」字が｛千｝に用いられた。「千」の字体は「一人」の合文に由来する。",
+    "thytten": "",
+    "thongqitmra": "U+5343"
+  },
+  {
+    "pieutiwbyo": "05347",
+    "dziwbyo": "升",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。量器に物が入っている形とするのが定説となっている。",
+    "thytten": "方稚松2021: 39-44",
+    "thongqitmra": "U+5347"
+  },
+  {
+    "pieutiwbyo": "05348",
+    "dziwbyo": "午",
+    "punngrie": "｛杵 *t-qʰaʔ きね｝",
+    "kudzau": "杵の形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5348"
+  },
+  {
+    "pieutiwbyo": "05354",
+    "dziwbyo": "協",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5354"
+  },
+  {
+    "pieutiwbyo": "05360",
+    "dziwbyo": "占",
+    "punngrie": "｛占 *tem みる、うかがう、うらなう｝",
+    "kudzau": "表語文字「𡆥(→卜)」＋飾符「口」",
+    "doxeng": "卜兆が顕れた肩甲骨の形。",
+    "tyomyun": "「𡆥」は他の単語にも用いられたため、区別のために飾符を加えたものと思われる。",
+    "thytten": "裘錫圭2002b",
+    "thongqitmra": "U+5360"
+  },
+  {
+    "pieutiwbyo": "05370",
+    "dziwbyo": "印",
+    "punngrie": "｛抑 *ʔik おさえる｝",
+    "kudzau": null,
+    "doxeng": "〈爪＋卩〉ひざまづいた人を上から手で抑える形",
+    "tyomyun": "",
+    "thytten": "禤健聰2014、金俊秀《上古聲母構擬三則》",
+    "thongqitmra": "U+5370"
+  },
+  {
+    "pieutiwbyo": "05371",
+    "dziwbyo": "危",
+    "punngrie": "｛跪 *[g](r)ojʔ ひざまづく｝",
+    "kudzau": "表音文字「厃 (N)Koj」＋意味分類符「卩」",
+    "doxeng": null,
+    "tyomyun": "なお「厃」は｛危｝の表語文字（人が山・崖の上にいる形）。\n戦国六国では「人 + 山」からなる字が｛危｝に、「卩 + 土」からなる字が｛跪｝に用いられている。",
+    "thytten": "大西克也2003",
+    "thongqitmra": "U+5371"
+  },
+  {
+    "pieutiwbyo": "05373",
+    "dziwbyo": "即",
+    "punngrie": "｛即 *tsik （食事に）つく｝",
+    "kudzau": "表音文字「卩 TSik」＋意味分類符「皀」",
+    "doxeng": null,
+    "tyomyun": "「卩」は｛節｝あるいは｛膝｝の表語文字。「食事につく人の形」は看図説話。",
+    "thytten": "",
+    "thongqitmra": "U+5373"
+  },
+  {
+    "pieutiwbyo": "0539A",
+    "dziwbyo": "厚",
+    "punngrie": null,
+    "kudzau": "表音文字「𣆪 Ko」＋意味分類符「厂」？",
+    "doxeng": null,
+    "tyomyun": "本義は不明。",
+    "thytten": "林澐2010、彭裕商《釋“厚”》",
+    "thongqitmra": "U+539A"
+  },
+  {
+    "pieutiwbyo": "0539F",
+    "dziwbyo": "原",
+    "punngrie": "｛源 *N-ɢʷar みなもと｝",
+    "kudzau": null,
+    "doxeng": "〈厂（崖）＋泉〉水源から水が湧く形。",
+    "tyomyun": "なお、「厂」や「泉」を表音文字とする説もある。",
+    "thytten": "",
+    "thongqitmra": "U+539F"
+  },
+  {
+    "pieutiwbyo": "053BB",
+    "dziwbyo": "去",
+    "punngrie": "｛呿 *kʰ(r)a-s 口を大きく開く｝",
+    "kudzau": "意味分類符「口」＋意味分類符「大」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "裘錫圭1988a(6)",
+    "thongqitmra": "U+53BB"
+  },
+  {
+    "pieutiwbyo": "053C3",
+    "dziwbyo": "參",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。｛簪｝の表語文字かもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+53C3"
+  },
+  {
+    "pieutiwbyo": "053CA",
+    "dziwbyo": "及",
+    "punngrie": "｛及 *[g]-rəp およぶ、およぼす｝",
+    "kudzau": null,
+    "doxeng": "〈人＋又〉前の人に手を及ぼす形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+53CA"
+  },
+  {
+    "pieutiwbyo": "053D4",
+    "dziwbyo": "叔",
+    "punngrie": "｛埱 *tʰuk 掘る｝",
+    "kudzau": null,
+    "doxeng": "〈弋（杙）＋小（土粒）＋又（手）〉杙で地面を掘る形",
+    "tyomyun": "｛菽｝の表語文字とする説は無関係の別字（「弔」字の金文）との混同による誤り。",
+    "thytten": "劉楽賢2013、謝明文2013b、郭永秉2015a、劉釗2022a",
+    "thongqitmra": "U+53D4"
+  },
+  {
+    "pieutiwbyo": "053D6",
+    "dziwbyo": "取",
+    "punngrie": "｛取 *tsʰoʔ とる、とらえる｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "〈耳＋又〉耳を持った手の形。《周禮》等によれば、かつては狩りの成果として動物の左耳を切り取っていたという。",
+    "thytten": "",
+    "thongqitmra": "U+53D6"
+  },
+  {
+    "pieutiwbyo": "053D7",
+    "dziwbyo": "受",
+    "punngrie": "｛受 *duʔ うける、うけとる｝",
+    "kudzau": null,
+    "doxeng": "物を受け取る形。受け取る物体は注音符「舟 Tu」になっている。",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+53D7"
+  },
+  {
+    "pieutiwbyo": "053E0",
+    "dziwbyo": "叠",
+    "punngrie": "｛疊 *lˤip かさなる、かさねる｝",
+    "kudzau": "表音文字「𫦄(→冝) Lip」＋意味分類符「晶」",
+    "doxeng": null,
+    "tyomyun": "「𫦄」は｛肆｝の表語文字に由来。「疊」字は、「𠠯」字の「刀」を省略したもの、「畳」字はさらにその中部を省略したもの。",
+    "thytten": "陳劍2008b",
+    "thongqitmra": "U+53E0"
+  },
+  {
+    "pieutiwbyo": "053E3",
+    "dziwbyo": "口",
+    "punngrie": "｛口 *kʰˤ(r)oʔ くち｝",
+    "kudzau": null,
+    "doxeng": "口の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+53E3"
+  },
+  {
+    "pieutiwbyo": "053E4",
+    "dziwbyo": "古",
+    "punngrie": "｛固 *[k]ˤa-s かたい｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "固いものの代表である「干」（盾の形）と飾符「口」からなる。",
+    "thytten": "唐蘭《古文字學導論》、裘錫圭1982(3)",
+    "thongqitmra": "U+53E4"
+  },
+  {
+    "pieutiwbyo": "053E5",
+    "dziwbyo": "句",
+    "punngrie": "｛句 *[k]ˤ(r)o まがる、まげる｝",
+    "kudzau": "表音文字「丩 Ko」＋飾符「口」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+53E5"
+  },
+  {
+    "pieutiwbyo": "053EC",
+    "dziwbyo": "召",
+    "punngrie": "｛召 *daw-s 呼ぶ｝",
+    "kudzau": "表音文字「刀 Taw」＋意味分類符「口」",
+    "doxeng": null,
+    "tyomyun": "あるいは「口」は飾符かもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+53EC"
+  },
+  {
+    "pieutiwbyo": "053EF",
+    "dziwbyo": "可",
+    "punngrie": "｛柯 *kˤaj 斧の柄｝",
+    "kudzau": "表語文字「𠀀」＋飾符「口」",
+    "doxeng": "斧の柄の形",
+    "tyomyun": "",
+    "thytten": "屈萬里《殷墟文字甲編考釋》、高嶋謙一『「河」の語源と中國古文字學』",
+    "thongqitmra": "U+53EF"
+  },
+  {
+    "pieutiwbyo": "053F2",
+    "dziwbyo": "史",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。なんらかの器具を持った形と思われる。諸説あるがそのいずれも根拠がない。",
+    "thytten": "",
+    "thongqitmra": "U+53F2"
+  },
+  {
+    "pieutiwbyo": "053F8",
+    "dziwbyo": "司",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "刀具・農工具ないし杖類器具の形の字に、飾符「口」を加えた字だが、何の形なのかは不明。",
+    "thytten": "",
+    "thongqitmra": "U+53F8"
+  },
+  {
+    "pieutiwbyo": "05404",
+    "dziwbyo": "各",
+    "punngrie": "｛格 *k-rˤak いたる、来る｝",
+    "kudzau": null,
+    "doxeng": "〈夂＋凵〉穴居に歩いてくる形",
+    "tyomyun": "",
+    "thytten": "楊樹達《積微居小學述林・釋各》、于省吾1979: 397",
+    "thongqitmra": "U+5404"
+  },
+  {
+    "pieutiwbyo": "05408",
+    "dziwbyo": "合",
+    "punngrie": "｛合 *kˤop あう｝",
+    "kudzau": "二つの口が向かい合った形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "構形學P49",
+    "thongqitmra": "U+5408"
+  },
+  {
+    "pieutiwbyo": "05409",
+    "dziwbyo": "吉",
+    "punngrie": "｛硈 *kʰˤrit かたい｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「圭」（句兵の形、固いものの代表）と飾符からなる字。上部はのちに“士”形に変化した。殷墟甲骨文に本義での用法がある。",
+    "thytten": "裘錫圭1988a(5)、張玉金2006、謝明文2019a",
+    "thongqitmra": "U+5409"
+  },
+  {
+    "pieutiwbyo": "0540E",
+    "dziwbyo": "后",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「句」字の反文が分化した字と思われる。",
+    "thytten": "",
+    "thongqitmra": "U+540E"
+  },
+  {
+    "pieutiwbyo": "05411",
+    "dziwbyo": "向",
+    "punngrie": "｛響 *qʰaŋʔ ひびき｝",
+    "kudzau": null,
+    "doxeng": "〈宀（建物の形）＋口（音や声を表す）〉屋内で出した音声が響く形",
+    "tyomyun": "",
+    "thytten": "概要",
+    "thongqitmra": "U+5411"
+  },
+  {
+    "pieutiwbyo": "0541B",
+    "dziwbyo": "君",
+    "punngrie": "｛君 *[k]ur きみ、統治者｝",
+    "kudzau": "表語文字「尹」＋飾符「口」",
+    "doxeng": null,
+    "tyomyun": "「尹」字に飾符を加えた分化字。",
+    "thytten": "",
+    "thongqitmra": "U+541B"
+  },
+  {
+    "pieutiwbyo": "05434",
+    "dziwbyo": "吴",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。人の顎の部分を○印で示した｛胡｝の表語文字という説がある。",
+    "thytten": "陳劍2017a",
+    "thongqitmra": "U+5434"
+  },
+  {
+    "pieutiwbyo": "05439",
+    "dziwbyo": "吹",
+    "punngrie": "｛吹 *tʰor ふく｝",
+    "kudzau": null,
+    "doxeng": "〈口＋欠〉口を開けた人の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5439"
+  },
+  {
+    "pieutiwbyo": "0544A",
+    "dziwbyo": "告",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「壴」（物事を知らせる太鼓の形）の略体と飾符「口」からなる｛告｝の表語文字と思われる。また「舌」を変形した字という説もある。",
+    "thytten": "陳美蘭《説“告”》",
+    "thongqitmra": "U+544A"
+  },
+  {
+    "pieutiwbyo": "05468",
+    "dziwbyo": "周",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。彫刻物の形という説が定説となっている。下部の「口」は飾符。",
+    "thytten": "",
+    "thongqitmra": "U+5468"
+  },
+  {
+    "pieutiwbyo": "0547C",
+    "dziwbyo": "呼",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「乎」にさらに意味分類符「口」を加えた字だが、「乎」の由来は不明。",
+    "thytten": "",
+    "thongqitmra": "U+547C"
+  },
+  {
+    "pieutiwbyo": "054E1",
+    "dziwbyo": "員",
+    "punngrie": "｛圓 *ɢʷen まるい｝",
+    "kudzau": "表語文字「〇」＋意味分類符「鼎」",
+    "doxeng": null,
+    "tyomyun": "「〇」に、まるい物の象徴である「鼎」を加えた字。「圓」字はさらに「囗」を加えた分化字で、「円」字はその中央部を縦棒に省略した字。なお、「まるい鼎」等の意味があるとするのは望形声訓。",
+    "thytten": "孫海波《卜辭文字小記》",
+    "thongqitmra": "U+54E1"
+  },
+  {
+    "pieutiwbyo": "05546",
+    "dziwbyo": "商",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。殷墟甲骨文では「䇂 + 丙」のような形になっている。上部の「䇂」は表音文字「章 Taŋ」と関係があるかもしれない。下部の「口」は飾符。",
+    "thytten": "",
+    "thongqitmra": "U+5546"
+  },
+  {
+    "pieutiwbyo": "05553",
+    "dziwbyo": "啓",
+    "punngrie": "｛啓 *kʰˤeʔ ひらく、あける｝",
+    "kudzau": "表語文字「⿰户又」＋飾符「口」",
+    "doxeng": "門を開く形",
+    "tyomyun": "",
+    "thytten": "楊樹達《積微居小學述林・釋启啓》、于省吾1979: 287、楊秀芬《古文字“启”的形義關係研究》",
+    "thongqitmra": "U+5553"
+  },
+  {
+    "pieutiwbyo": "05584",
+    "dziwbyo": "善",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「羊(?)」と「誩(→言)」からなる字だが、本義は不明。「羊」を含むため、｛饍｝の表語文字かもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+5584"
+  },
+  {
+    "pieutiwbyo": "0559C",
+    "dziwbyo": "喜",
+    "punngrie": "｛喜 *qʰ(r)əʔ たのしむ｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「壴」（太鼓の形）と飾符（あるいは意味分類符）「口」からなる表語文字と思われる。",
+    "thytten": "何琳儀1998",
+    "thongqitmra": "U+559C"
+  },
+  {
+    "pieutiwbyo": "055AA",
+    "dziwbyo": "喪",
+    "punngrie": null,
+    "kudzau": "表音文字「桑 Saŋ」＋飾符「口」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "于省吾1979: 75",
+    "thongqitmra": "U+55AA"
+  },
+  {
+    "pieutiwbyo": "05668",
+    "dziwbyo": "器",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「㗊」と「犬」からなる字だが、本義は不明。｛唏 *qʰəj-s なく｝の表語文字（動物が声をあげてないている形）かもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+5668"
+  },
+  {
+    "pieutiwbyo": "056B4",
+    "dziwbyo": "嚴",
+    "punngrie": "｛譀 *qʰˤram-s おごる｝",
+    "kudzau": "表語文字「喦」＋注表符「敢 Qam」",
+    "doxeng": "口が多い人の形",
+    "tyomyun": "",
+    "thytten": "裘錫圭1986a",
+    "thongqitmra": "U+56B4"
+  },
+  {
+    "pieutiwbyo": "056DB",
+    "dziwbyo": "四",
+    "punngrie": "｛呬 l̥ri-s 息｝",
+    "kudzau": null,
+    "doxeng": "息を出した鼻の形",
+    "tyomyun": "なお殷周代には、数詞｛四｝には「亖」字が用いられていた。",
+    "thytten": "劉洪濤《甲骨金文“四”字考釋》",
+    "thongqitmra": "U+56DB"
+  },
+  {
+    "pieutiwbyo": "056DE",
+    "dziwbyo": "回",
+    "punngrie": "｛回 *ɢʷˤə[r] まわる、かこむ｝",
+    "kudzau": null,
+    "doxeng": "四角形がまわりを取り囲んでいる形",
+    "tyomyun": "甲骨文・金文では回転のさまを描いた｛旋｝｛迴｝の表語文字「亘」が｛回｝に用いられた。",
+    "thytten": "鄔可晶2019b",
+    "thongqitmra": "U+56DE"
+  },
+  {
+    "pieutiwbyo": "056E0",
+    "dziwbyo": "因",
+    "punngrie": "｛茵 *ʔin しとね、敷物｝",
+    "kudzau": null,
+    "doxeng": "人が敷物の上で寝ている形",
+    "tyomyun": "",
+    "thytten": "裘錫圭1982(1)",
+    "thongqitmra": "U+56E0"
+  },
+  {
+    "pieutiwbyo": "056F0",
+    "dziwbyo": "困",
+    "punngrie": "｛稛 *kʰˤunʔ くくる、縛る｝",
+    "kudzau": "木材を縛った形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+56F0"
+  },
+  {
+    "pieutiwbyo": "0570D",
+    "dziwbyo": "圍",
+    "punngrie": "｛圍 *ɢʷər めぐる｝",
+    "kudzau": "表語文字「韋(→井)」＋意味分類符「囗」",
+    "doxeng": "土地の周りを歩く形",
+    "tyomyun": "「囲」は「圍」の中部を「井」に省略した字。なお「囲いの周りをめぐる」などの意味があるとするのは望形生訓。",
+    "thytten": "",
+    "thongqitmra": "U+570D"
+  },
+  {
+    "pieutiwbyo": "05716",
+    "dziwbyo": "圖",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「囗」と「啚」からなる字だが、本義は不明。｛圖 *[d]ˤa 地図｝の表語文字（倉庫の場所を示した地図の形）という説が一般的となっている。",
+    "thytten": "",
+    "thongqitmra": "U+5716"
+  },
+  {
+    "pieutiwbyo": "05728",
+    "dziwbyo": "在",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「才 TSə」に、さらに注音符「士 TSə」を添加することで分化した字。",
+    "thytten": "",
+    "thongqitmra": "U+5728"
+  },
+  {
+    "pieutiwbyo": "05782",
+    "dziwbyo": "垂",
+    "punngrie": "｛陲 *doj さかい｝",
+    "kudzau": "表音文字「(𡸁→)𠂹 Toj」＋意味分類符「土」",
+    "doxeng": null,
+    "tyomyun": "表音文字「𠂹 Toj」＋意味分類符「缶」からなる「𡸁」字の下部を「土」に換えた字と思われる。秦・漢代では、通常｛垂 *doj 垂れる｝には「𡸁」字をあてることが多い。",
+    "thytten": "",
+    "thongqitmra": "U+5782"
+  },
+  {
+    "pieutiwbyo": "057F7",
+    "dziwbyo": "執",
+    "punngrie": "｛執 *[t]ip とらえる｝",
+    "kudzau": null,
+    "doxeng": "捕らえた人の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+57F7"
+  },
+  {
+    "pieutiwbyo": "0585E",
+    "dziwbyo": "塞",
+    "punngrie": "｛塞 *[s]ˤək ふさぐ｝｛塞 *[s]ˤək-s とりで｝",
+    "kudzau": "表語文字「𡫳」＋意味分類符「土」",
+    "doxeng": "〈宀（家屋）＋㠭（柱などの建材と思われる）＋廾（手）〉",
+    "tyomyun": "",
+    "thytten": "于省吾1979: 393",
+    "thongqitmra": "U+585E"
+  },
+  {
+    "pieutiwbyo": "0587E",
+    "dziwbyo": "塾",
+    "punngrie": "｛塾 *duk へや、まなびや｝",
+    "kudzau": "表音文字「丮 Tuk」＋意味分類符「亯／京／高」＋意味分類符「土」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "裘錫圭1989c、謝明文2018",
+    "thongqitmra": "U+587E"
+  },
+  {
+    "pieutiwbyo": "058D3",
+    "dziwbyo": "壓",
+    "punngrie": "｛壓 *ʔrˤep くずれる、くずす｝",
+    "kudzau": "表音文字「厭(→厂) ʔep」＋意味分類符「土」",
+    "doxeng": null,
+    "tyomyun": "前漢頃までは「厭」字が｛壓｝に用いられており、分類符「土」が添加され「壓」字が作られた。「圧」はその中部を省略した簡体で、明清代に生まれたと思われる。",
+    "thytten": "",
+    "thongqitmra": "U+58D3"
+  },
+  {
+    "pieutiwbyo": "058EB",
+    "dziwbyo": "士",
+    "punngrie": "｛士 *[dz]rəʔ すぐれた人｝",
+    "kudzau": null,
+    "doxeng": "統率権の象徴である斧鉞の形",
+    "tyomyun": "もと｛士｝と｛王｝は同じ字を共用していたが、｛王｝は上部に飾筆を加えた「王」形になり分化した。",
+    "thytten": "林澐1965",
+    "thongqitmra": "U+58EB"
+  },
+  {
+    "pieutiwbyo": "058F9",
+    "dziwbyo": "壹",
+    "punngrie": "｛噎 *qˤik のどにつかえる｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "物をのどにつかえた形の表語字の、物体の部分が分化した字と思われる（詳細は不明）。戦国時代には「壺」字に似た形になり、注音符「吉 Kit」を加えた字も見られる。その後「壱」の形になった。",
+    "thytten": "蔣玉斌《甲骨綴合所得新字新形研究》",
+    "thongqitmra": "U+58F9"
+  },
+  {
+    "pieutiwbyo": "058FD",
+    "dziwbyo": "壽",
+    "punngrie": "｛壽 *[N-t]uʔ 長寿｝",
+    "kudzau": "表音文字「𠃬 Tu」＋意味分類符「老」＋飾符「口」「寸」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+58FD"
+  },
+  {
+    "pieutiwbyo": "0590F",
+    "dziwbyo": "夏",
+    "punngrie": "｛夏 *gˤraʔ-s 夏｝",
+    "kudzau": null,
+    "doxeng": "〈日＋頁〉太陽が頭上から照りつける形",
+    "tyomyun": "「頁」旁は西周代に飾符「𦥑」「夊」が加えられて複雑化した。後に「日」旁が省略されて「𡕻」形になり、さらに「𦥑」旁が省略されて「夏」形になった。",
+    "thytten": "",
+    "thongqitmra": "U+590F"
+  },
+  {
+    "pieutiwbyo": "05915",
+    "dziwbyo": "夕",
+    "punngrie": "｛夕 *s-[l]ak よる｝",
+    "kudzau": null,
+    "doxeng": "月の形",
+    "tyomyun": "早期の殷墟甲骨文では「月」字が｛夕｝に用いられ、「夕」字が｛月｝に用いられたが、晩期以降は逆転した。",
+    "thytten": "",
+    "thongqitmra": "U+5915"
+  },
+  {
+    "pieutiwbyo": "05916",
+    "dziwbyo": "外",
+    "punngrie": "｛外 *ŋʷˤat-s そと｝",
+    "kudzau": "表語文字「卜*」＋注音符「月 NGʷat」",
+    "doxeng": "縦線の外側に枝を書いた形",
+    "tyomyun": "「占卜」の「卜」字とは無関係。",
+    "thytten": "張玉春《説外》、林澐1998a",
+    "thongqitmra": "U+5916"
+  },
+  {
+    "pieutiwbyo": "0592E",
+    "dziwbyo": "央",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "本義・構意は不明。｛殃｝の表語文字（首に刑具のようなものを取り付けられた人の形）とする説が一般的となっている。",
+    "thytten": "丁山《甲骨文所見氏族及其制度》",
+    "thongqitmra": "U+592E"
+  },
+  {
+    "pieutiwbyo": "0594F",
+    "dziwbyo": "奏",
+    "punngrie": "｛奏 *tsˤo(ʔ)-s すすめる、献上する｝",
+    "kudzau": "〈𠦪＋𠬞〉植物を差し出す形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "郭沫若《殷契粹編考釋》、屈萬里《殷虚文字甲編考釋》",
+    "thongqitmra": "U+594F"
+  },
+  {
+    "pieutiwbyo": "05965",
+    "dziwbyo": "奥",
+    "punngrie": "｛奥 *ʔˤuk-s 奥、奥深い｝",
+    "kudzau": "表語文字「匊」＋「𠬞」",
+    "doxeng": "米を奥にしまった形",
+    "tyomyun": "",
+    "thytten": "鄔可晶2022",
+    "thongqitmra": "U+5965"
+  },
+  {
+    "pieutiwbyo": "05973",
+    "dziwbyo": "女",
+    "punngrie": "｛女 *nraʔ おんな｝",
+    "kudzau": null,
+    "doxeng": "ひざまづいた人、女性の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5973"
+  },
+  {
+    "pieutiwbyo": "0597D",
+    "dziwbyo": "好",
+    "punngrie": "｛好 *n̥ˤuʔ-s このむ、愛する｝",
+    "kudzau": "母親が子を抱いている形",
+    "doxeng": null,
+    "tyomyun": "甲骨文字に見られる「女」＋「子」からなる字は無関係の別字。",
+    "thytten": "",
+    "thongqitmra": "U+597D"
+  },
+  {
+    "pieutiwbyo": "059BB",
+    "dziwbyo": "妻",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "甲骨文中の、女の髪（あるいは頭部）に手を加えている形の字が「妻」字の初形と考えられているが、構意は不明。｛齊 *[dz]ˤəj ととのえる｝が本義かもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+59BB"
+  },
+  {
+    "pieutiwbyo": "059CA",
+    "dziwbyo": "姊",
+    "punngrie": "｛姊 *tsijʔ あね｝",
+    "kudzau": "表音文字「𠂔 TSij」＋意味分類符「女」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+59CA"
+  },
+  {
+    "pieutiwbyo": "059D4",
+    "dziwbyo": "委",
+    "punngrie": null,
+    "kudzau": "表音文字「禾 Koj」＋意味分類符「女」",
+    "doxeng": null,
+    "tyomyun": "「委」字より古くから存在する「魏/𡿁」字の左部（「每＋山」？）に由来する字の可能性もある。なお「しなやかな女が～」の類は看図説話。",
+    "thytten": "裘錫圭2010a",
+    "thongqitmra": "U+59D4"
+  },
+  {
+    "pieutiwbyo": "05A01",
+    "dziwbyo": "威",
+    "punngrie": "｛威 *ʔuj おどす｝",
+    "kudzau": null,
+    "doxeng": "〈戌＋女〉武器で人を脅す形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5A01"
+  },
+  {
+    "pieutiwbyo": "05A7F",
+    "dziwbyo": "婿",
+    "punngrie": "｛婿 *sˤ[ə]p-s むこ｝",
+    "kudzau": "表音文字「咠(→胥) (T)Səp」＋意味分類符「女」",
+    "doxeng": null,
+    "tyomyun": "「壻」字の意味分類符「士」を「女」に換えたもの。表音文字「胥 Sa」に従うとする説明は誤説。",
+    "thytten": "董珊《秦武公銅器銘文的新發現》、李豪《“壻（婿）”字古音考》",
+    "thongqitmra": "U+5A7F"
+  },
+  {
+    "pieutiwbyo": "05B50",
+    "dziwbyo": "子",
+    "punngrie": "｛子 *tsəʔ こども｝",
+    "kudzau": null,
+    "doxeng": "子供の形。",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5B50"
+  },
+  {
+    "pieutiwbyo": "05B54",
+    "dziwbyo": "孔",
+    "punngrie": "｛㝅 *[k]ˤok-s やしなう｝",
+    "kudzau": "乳を飲む子の形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "張富海2017a",
+    "thongqitmra": "U+5B54"
+  },
+  {
+    "pieutiwbyo": "05B63",
+    "dziwbyo": "季",
+    "punngrie": "｛季 *kʷit-s 末子｝",
+    "kudzau": "表音文字「禾* Kʷit」＋意味分類符「子」",
+    "doxeng": null,
+    "tyomyun": "「禾*」は｛穗｝の表語文字に由来し、「禾」とは別字。\n「稲の形の被り物が云々」の類の説明は看図説話の誤り。",
+    "thytten": "鄔可晶2019a",
+    "thongqitmra": "U+5B63"
+  },
+  {
+    "pieutiwbyo": "05B78",
+    "dziwbyo": "學",
+    "punngrie": "｛學 *gˤruk まなぶ｝",
+    "kudzau": "表音文字「爻 Kuk」＋意味分類符「宀」＋意味分類符「𦥑」＋意味分類符「子」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5B78"
+  },
+  {
+    "pieutiwbyo": "05B88",
+    "dziwbyo": "守",
+    "punngrie": "｛守 *s-tuʔ まもる｝",
+    "kudzau": "表音文字「寸* Tu」＋意味分類符「宀」",
+    "doxeng": null,
+    "tyomyun": "「寸*」は｛肘｝の表語文字で、「寸尺」の「寸」とは無関係。",
+    "thytten": "",
+    "thongqitmra": "U+5B88"
+  },
+  {
+    "pieutiwbyo": "05B89",
+    "dziwbyo": "安",
+    "punngrie": "｛安 *ʔˤan すわる、とまる｝",
+    "kudzau": "表語文字「⿻女丶(→女)」＋意味分類符「宀」",
+    "doxeng": "人が座っている形",
+    "tyomyun": "「女性が家の中で～」の類は看図説話。",
+    "thytten": "陳劍2005b",
+    "thongqitmra": "U+5B89"
+  },
+  {
+    "pieutiwbyo": "05B97",
+    "dziwbyo": "宗",
+    "punngrie": "｛宗 *tsˤuŋ みたまや、宗廟｝",
+    "kudzau": null,
+    "doxeng": "〈宀＋主〉神のいる建物の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5B97"
+  },
+  {
+    "pieutiwbyo": "05B98",
+    "dziwbyo": "官",
+    "punngrie": "｛官 *kʷˤan 役所、官署｝",
+    "kudzau": null,
+    "doxeng": "〈宀（建物）＋𠂤（師団）〉",
+    "tyomyun": "字源も語源も｛館｝（*Kon）とは関係がない。",
+    "thytten": "Baxter 1992: 382",
+    "thongqitmra": "U+5B98"
+  },
+  {
+    "pieutiwbyo": "05B9B",
+    "dziwbyo": "宛",
+    "punngrie": "｛館 *kˤorʔ-s やかた、やどる｝",
+    "kudzau": "表音文字「夗 Kon」＋意味分類符「宀」",
+    "doxeng": null,
+    "tyomyun": "西周金文に本義の用例がある。「館」字は「官」を声符とする後起形声字。なお「屋内で丸くなる」意味があるとするのは望形生訓。",
+    "thytten": "大系録（𡩝鼎）、劉釗1996b、鄔可晶2021a",
+    "thongqitmra": "U+5B9B"
+  },
+  {
+    "pieutiwbyo": "05B9C",
+    "dziwbyo": "宜",
+    "punngrie": "｛宜 *ŋ(r)aj 料理、酒のさかな｝",
+    "kudzau": null,
+    "doxeng": "〈且＋肉〉まな板の上にのせた肉の形。隷変でまな板の上部が“宀”形になり、肉とまな板の下部が“且”形になった。",
+    "tyomyun": "《詩・鄭風・女曰雞鳴》「與子宜之」等に本義での用法がある。",
+    "thytten": "大系録P2、曾憲通1997、陳劍2008b",
+    "thongqitmra": "U+5B9C"
+  },
+  {
+    "pieutiwbyo": "05BAB",
+    "dziwbyo": "宫",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "意味分類符「宀」と房屋の形からなる字と思われる。また「雍」の初文＋意味分類符「宀」からなるという説もある。「呂」字と関連づけるのは誤り。",
+    "thytten": "于省吾1962",
+    "thongqitmra": "U+5BAB"
+  },
+  {
+    "pieutiwbyo": "05BB0",
+    "dziwbyo": "宰",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「宀」と「䇂(?)」からなる字だが、構意は不明。下部を表音文字とする説もある。",
+    "thytten": "樂郊《説“宰”》",
+    "thongqitmra": "U+5BB0"
+  },
+  {
+    "pieutiwbyo": "05BB3",
+    "dziwbyo": "害",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。下部の「口」は飾符。",
+    "thytten": "劉釗2014a",
+    "thongqitmra": "U+5BB3"
+  },
+  {
+    "pieutiwbyo": "05BB5",
+    "dziwbyo": "宵",
+    "punngrie": "｛宵 *sew よる｝",
+    "kudzau": "表音文字「小 Sew」＋意味分類符「月」＋意味分類符「宀」",
+    "doxeng": null,
+    "tyomyun": "分類符「月」を「肉」と解釈するのは誤り。",
+    "thytten": "",
+    "thongqitmra": "U+5BB5"
+  },
+  {
+    "pieutiwbyo": "05BB6",
+    "dziwbyo": "家",
+    "punngrie": "｛家 *kˤra 家｝",
+    "kudzau": "表音文字「𢑓 Ka」＋意味分類符「宀」",
+    "doxeng": null,
+    "tyomyun": "「𢑓」は｛豭｝の表語文字に由来。後に「豕」形に変化した。なお「家畜・犠牲の動物が～」の類の説明は看図説話の誤り。",
+    "thytten": "唐蘭1939: 35",
+    "thongqitmra": "U+5BB6"
+  },
+  {
+    "pieutiwbyo": "05BBF",
+    "dziwbyo": "宿",
+    "punngrie": "｛宿 *[s]uk やど、やどる｝",
+    "kudzau": "表語文字「𠉦」＋意味分類符「宀」",
+    "doxeng": "〈人＋𠀬（むしろ）〉人が寝る形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5BBF"
+  },
+  {
+    "pieutiwbyo": "05BD2",
+    "dziwbyo": "寒",
+    "punngrie": "｛寒 *Cə-gˤa[n] さむい｝",
+    "kudzau": null,
+    "doxeng": "〈宀＋人＋艸〉人が屋内で寒さを凌ぐ形。下部は飾筆で「冫」とは無関係。",
+    "tyomyun": "殷墟甲骨文に見られる小点（水・氷の形）に従う字を初形とする説がある。",
+    "thytten": "",
+    "thongqitmra": "U+5BD2"
+  },
+  {
+    "pieutiwbyo": "05BE1",
+    "dziwbyo": "寡",
+    "punngrie": "｛寡 *kʷˤraʔ 孤立、孤独｝",
+    "kudzau": "表音文字「𪟊 Kʷa」＋意味分類符「宀」",
+    "doxeng": null,
+    "tyomyun": "「𪟊」は｛顧｝の表語文字（後ろをふりかえる人の形）に由来。",
+    "thytten": "黄德寬《關於古代漢字字際關係的確定》",
+    "thongqitmra": "U+5BE1"
+  },
+  {
+    "pieutiwbyo": "05BE2",
+    "dziwbyo": "寢",
+    "punngrie": "｛寢 *tsʰimʔ へや、ねや｝",
+    "kudzau": "表音文字「𠬶 TSim」＋意味分類符「宀」＋意味分類符「爿」",
+    "doxeng": null,
+    "tyomyun": "古文字では〈宀（家屋の形）＋爿（寝台の形）〉の形の表語文字や、表音文字「(𠬶→)帚 TSim」＋意味分類符「宀」からなる字なども見られる。",
+    "thytten": "裘錫圭2010a、2010b",
+    "thongqitmra": "U+5BE2"
+  },
+  {
+    "pieutiwbyo": "05BE6",
+    "dziwbyo": "實",
+    "punngrie": "｛實 *mə-li[t] たから｝",
+    "kudzau": null,
+    "doxeng": "〈宀（家屋）＋周（琱）＋貝（財貨）〉家屋の中に財貨がある形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5BE6"
+  },
+  {
+    "pieutiwbyo": "05BE9",
+    "dziwbyo": "審",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「宷」字は「宀」と「米」からなる字だが、本義は不明。「審」字は、「宷」に飾符「口」を加えた字。「宀＋釆」や「宀＋番」とする説明は誤り。",
+    "thytten": "裘錫圭1998a(2)",
+    "thongqitmra": "U+5BE9"
+  },
+  {
+    "pieutiwbyo": "05BF8",
+    "dziwbyo": "寸",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「尊 TSun」（｛尊 *tsˤun 置く｝の表語文字に由来）の上部を省略してできた字。「手で物の長さを測る形の象形字」のような説明は古文字字形と整合しない誤説。",
+    "thytten": "户内俊介《“寸”字的形成與發展》、李軼《先秦度量單位“尺”“寸”用字考》",
+    "thongqitmra": "U+5BF8"
+  },
+  {
+    "pieutiwbyo": "05BFA",
+    "dziwbyo": "寺",
+    "punngrie": "｛持 *drə もつ｝",
+    "kudzau": "表音文字「之(→土) Tə」＋意味分類符「又(→寸)」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5BFA"
+  },
+  {
+    "pieutiwbyo": "05C04",
+    "dziwbyo": "射",
+    "punngrie": "｛射 *m-lak-s いる、矢を放つ｝",
+    "kudzau": null,
+    "doxeng": "弓で矢を射る形",
+    "tyomyun": "隷書で弓矢の部分は“身”形に変化した。",
+    "thytten": "羅振玉1927",
+    "thongqitmra": "U+5C04"
+  },
+  {
+    "pieutiwbyo": "05C07",
+    "dziwbyo": "將",
+    "punngrie": "｛將 *tsaŋ すすめる、ささげる｝",
+    "kudzau": "表語文字「𢌳(→寽)」＋注音符「爿 TSaŋ」",
+    "doxeng": "祭肉を捧げる形",
+    "tyomyun": "",
+    "thytten": "王子楊2014",
+    "thongqitmra": "U+5C07"
+  },
+  {
+    "pieutiwbyo": "05C08",
+    "dziwbyo": "專",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。「紡塼（いとまき）」の｛塼｝の表語文字という説が定説となっている。「𤕌」との図形的関連から、｛摶 *dronʔ たば、たばねる｝の表語文字かもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+5C08"
+  },
+  {
+    "pieutiwbyo": "05C09",
+    "dziwbyo": "尉",
+    "punngrie": "｛熨 *ʔut 火のし｝",
+    "kudzau": "「𡰥？」＋意味分類符「火(→小)」＋意味分類符「寸」",
+    "doxeng": null,
+    "tyomyun": "戦国古璽では「厃」字が｛尉｝に用いられており、「𡰥」の部分は「厃」の変形なのかもしれない。",
+    "thytten": "大西克也2003",
+    "thongqitmra": "U+5C09"
+  },
+  {
+    "pieutiwbyo": "05C0A",
+    "dziwbyo": "尊",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5C0A"
+  },
+  {
+    "pieutiwbyo": "05C0B",
+    "dziwbyo": "尋",
+    "punngrie": "｛䑣 *l̥rəm 舟が進む｝",
+    "kudzau": "表音文字「⿱⿰丨㕛寸 Ləm」＋意味分類符「舟(→口)」",
+    "doxeng": null,
+    "tyomyun": "「⿱⿰丨㕛寸」は、｛尋 *s-ləm 長さの単位、長さを測る｝の表語文字（腕で物の長さを測る形）に意味分類符「寸」を加えた字に由来。\n「左 + 右」とする説は古文字字形と整合しない誤説。",
+    "thytten": "裘錫圭1991b、劉釗1996a、李學勤《續釋“尋”字》、于淼＆秦宗林2023",
+    "thongqitmra": "U+5C0B"
+  },
+  {
+    "pieutiwbyo": "05C0F",
+    "dziwbyo": "小",
+    "punngrie": "｛小 *sewʔ ちいさい｝",
+    "kudzau": null,
+    "doxeng": "小さい物体の形",
+    "tyomyun": "秦以前は「小」字と「少」字は区別されず、どちらの字も｛小｝｛少｝｛沙｝に用いられた。秦で「小」字を｛小｝に、「少」字を｛少｝に、区別してあてるようになった。",
+    "thytten": "陳劍2004",
+    "thongqitmra": "U+5C0F"
+  },
+  {
+    "pieutiwbyo": "05C11",
+    "dziwbyo": "少",
+    "punngrie": "｛少 *s-tewʔ すくない｝",
+    "kudzau": null,
+    "doxeng": "小さい物体の形",
+    "tyomyun": "秦以前は「小」字と「少」字は区別されず、どちらの字も｛小｝｛少｝｛沙｝に用いられた。秦で「小」字を｛小｝に、「少」字を｛少｝に、区別してあてるようになった。",
+    "thytten": "陳劍2004",
+    "thongqitmra": "U+5C11"
+  },
+  {
+    "pieutiwbyo": "05C1A",
+    "dziwbyo": "尚",
+    "punngrie": "｛堂 *dˤaŋ たてもの｝",
+    "kudzau": "表語文字「冂」＋飾符「八」＋飾符「口」",
+    "doxeng": "建物の形。",
+    "tyomyun": "「八 + 向」とする説は後代の字形に基づく誤り。",
+    "thytten": "陳劍2008a",
+    "thongqitmra": "U+5C1A"
+  },
+  {
+    "pieutiwbyo": "05C31",
+    "dziwbyo": "就",
+    "punngrie": null,
+    "kudzau": "表音文字「𫢁 TSuk」＋「尤」",
+    "doxeng": null,
+    "tyomyun": "「𫢁」は「亯」と「京」を組み合わせた形の表語文字に由来し、本義は不明だが《逸周書》注にある「高い」（あるいは｛崇｝）を表すのかもしれない。「尤」は表音文字「㕚 Tsu」の変化かあるいは飾符と思われる。",
+    "thytten": "",
+    "thongqitmra": "U+5C31"
+  },
+  {
+    "pieutiwbyo": "05C3A",
+    "dziwbyo": "尺",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "先秦代の例が少なく、字源は不明。「乇」に関連する可能性がある。「指の形」は根拠の無い誤説。",
+    "thytten": "",
+    "thongqitmra": "U+5C3A"
+  },
+  {
+    "pieutiwbyo": "05C3B",
+    "dziwbyo": "尻",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5C3B"
+  },
+  {
+    "pieutiwbyo": "05C40",
+    "dziwbyo": "局",
+    "punngrie": null,
+    "kudzau": "表音文字「句 Ko」＋「尸」",
+    "doxeng": null,
+    "tyomyun": "本義は不明。「尸」の由来は不明、表音文字「厃」や「𠕓」が変化した形かもしれない。",
+    "thytten": "劉釗1991、構形學P212",
+    "thongqitmra": "U+5C40"
+  },
+  {
+    "pieutiwbyo": "05C48",
+    "dziwbyo": "屈",
+    "punngrie": "｛屈 *kʰut （尾が）短い｝",
+    "kudzau": "表音文字「出 Kut」＋意味分類符「尾」",
+    "doxeng": null,
+    "tyomyun": "「かがむ形」「尾をまげる形」の類の説明は看図説話の誤り。",
+    "thytten": "",
+    "thongqitmra": "U+5C48"
+  },
+  {
+    "pieutiwbyo": "05C4B",
+    "dziwbyo": "屋",
+    "punngrie": "｛屋 *qˤok 家、部屋｝",
+    "kudzau": "表音文字「𡉉 Qok」＋意味分類符「室」",
+    "doxeng": null,
+    "tyomyun": "「𡉉」は｛幄｝の表語文字に由来し、戦国時代に「尸」形に変化した。",
+    "thytten": "李學勤《岐山董家村訓匜考釋》、裘錫圭2002a、何琳儀＆吴紅松《説屋》、白於藍《説甲骨卜辭中“南”字的一種特殊用法》",
+    "thongqitmra": "U+5C4B"
+  },
+  {
+    "pieutiwbyo": "05C6C",
+    "dziwbyo": "屬",
+    "punngrie": "｛屬 *tok 続く、連なる、したがう｝",
+    "kudzau": "表音文字「蜀 Tok」＋意味分類符「尾」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5C6C"
+  },
+  {
+    "pieutiwbyo": "05C71",
+    "dziwbyo": "山",
+    "punngrie": "｛山 *s-ŋrar やま｝",
+    "kudzau": null,
+    "doxeng": "山岳の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5C71"
+  },
+  {
+    "pieutiwbyo": "05CA9",
+    "dziwbyo": "岩",
+    "punngrie": "｛岩 *ŋˤram いわ｝",
+    "kudzau": null,
+    "doxeng": "〈山＋石〉",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5CA9"
+  },
+  {
+    "pieutiwbyo": "05CB3",
+    "dziwbyo": "岳",
+    "punngrie": "｛岳 *ŋˤrok たけ、高い山｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「NGok」の表音文字＋意味分類符「山」からなる。表音文字の由来は不明。上部は後に「丘」形に変化した。",
+    "thytten": "孫詒讓《契文舉例二卷》",
+    "thongqitmra": "U+5CB3"
+  },
+  {
+    "pieutiwbyo": "05D50",
+    "dziwbyo": "嵐",
+    "punngrie": "｛嵐 *rˤəm 山のもや、山気｝",
+    "kudzau": "表音文字「風 Rəm」＋意味分類符「山」",
+    "doxeng": null,
+    "tyomyun": "「葻」から分化した字で、「山」は「屮/艸」の変化した形とする説もある。また「葻」の上部は注音符「林 Rəm」の略体かもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+5D50"
+  },
+  {
+    "pieutiwbyo": "05DDD",
+    "dziwbyo": "川",
+    "punngrie": "｛川 *[t-l̥]un かわ｝",
+    "kudzau": null,
+    "doxeng": "両岸の間を水が流れる形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5DDD"
+  },
+  {
+    "pieutiwbyo": "05DDE",
+    "dziwbyo": "州",
+    "punngrie": "｛州 *tu す、しま｝",
+    "kudzau": "川の中にある島の形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5DDE"
+  },
+  {
+    "pieutiwbyo": "05DE2",
+    "dziwbyo": "巢",
+    "punngrie": "｛巢 *[dz]ˤraw す、すみか｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "巣の形。",
+    "thytten": "于省吾1979: 419",
+    "thongqitmra": "U+5DE2"
+  },
+  {
+    "pieutiwbyo": "05DE5",
+    "dziwbyo": "工",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。なんらかの工具の象形とされる。",
+    "thytten": "",
+    "thongqitmra": "U+5DE5"
+  },
+  {
+    "pieutiwbyo": "05DE6",
+    "dziwbyo": "左",
+    "punngrie": "｛左 *tsˤa[j]ʔ ひだり｝",
+    "kudzau": "表語文字「𠂇」＋「工」",
+    "doxeng": "左手の形。",
+    "tyomyun": "後に加えられた「工」の由来は不明。",
+    "thytten": "",
+    "thongqitmra": "U+5DE6"
+  },
+  {
+    "pieutiwbyo": "05DE8",
+    "dziwbyo": "巨",
+    "punngrie": "｛矩 *kʷ(r)aʔ 定規、さしがね｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "人が“工”型の定規を持った形の字「矩」の、人の部分を省略した字。\n「取っ手のついた定規の形」等とするのは誤り。",
+    "thytten": "",
+    "thongqitmra": "U+5DE8"
+  },
+  {
+    "pieutiwbyo": "05DEE",
+    "dziwbyo": "差",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「左」＋「來？」からなる字と思われる。本義は不明で、一説に｛搓｝を表す。",
+    "thytten": "",
+    "thongqitmra": "U+5DEE"
+  },
+  {
+    "pieutiwbyo": "05DF1",
+    "dziwbyo": "己",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。「係」「夷」「弟」等の字の物を縛る縄の形に似ているため、｛紀 *k(r)əʔ つな｝の表語文字と思われる。",
+    "thytten": "",
+    "thongqitmra": "U+5DF1"
+  },
+  {
+    "pieutiwbyo": "05DFE",
+    "dziwbyo": "巾",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "垂れ下がった布切れの形と思われる。",
+    "thytten": "",
+    "thongqitmra": "U+5DFE"
+  },
+  {
+    "pieutiwbyo": "05E02",
+    "dziwbyo": "市",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "甲骨文中の「市」と同定されている文字は表音文字「止」に従っている。下部は「平」に似るが不明。",
+    "thytten": "",
+    "thongqitmra": "U+5E02"
+  },
+  {
+    "pieutiwbyo": "05E0C",
+    "dziwbyo": "希",
+    "punngrie": "｛稀 *qʰəj まばら｝",
+    "kudzau": "表語文字「𬼆」（織り目の形）＋意味分類符「巾」",
+    "doxeng": null,
+    "tyomyun": "「𬼆」は｛稀｝｛絺｝｛綌｝の3語の共同表語文字。",
+    "thytten": "林澐1990、鄔可晶2013: 223、季旭昇2019、張富海2021b",
+    "thongqitmra": "U+5E0C"
+  },
+  {
+    "pieutiwbyo": "05E25",
+    "dziwbyo": "帥",
+    "punngrie": "｛帥 *s-rut-s 身に帯びる布｝",
+    "kudzau": "表語文字「⿰丨𢑑」＋意味分類符「巾」",
+    "doxeng": "手で物を持つ形",
+    "tyomyun": "なお「𠂤＋巾」とする説明は古文字字形と整合しない誤説。",
+    "thytten": "",
+    "thongqitmra": "U+5E25"
+  },
+  {
+    "pieutiwbyo": "05E2B",
+    "dziwbyo": "師",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「帀 Sij」＋注音符「𠂤 Sij」\n殷墟甲骨文では｛師 *srij 軍隊｝には「𠂤」字が、｛師 *srij 技術のある人｝には「帀」字が用いられた。「師」はその混成字。「帀」と「𠂤」のそれぞれの由来は不明。",
+    "thytten": "李守奎＆肖攀2015: 118、方稚松2018",
+    "thongqitmra": "U+5E2B"
+  },
+  {
+    "pieutiwbyo": "05E2D",
+    "dziwbyo": "席",
+    "punngrie": "｛席 *s-m-tak 敷物、むしろ｝",
+    "kudzau": "表音文字「石 Tak」＋意味分類符「巾」",
+    "doxeng": null,
+    "tyomyun": "戦国楚簡では「石」に意味分類符「竹」を加えた字が｛席｝に用いられている。",
+    "thytten": "林澐1986、構形學P179",
+    "thongqitmra": "U+5E2D"
+  },
+  {
+    "pieutiwbyo": "05E72",
+    "dziwbyo": "干",
+    "punngrie": "｛干 *kˤar 盾｝",
+    "kudzau": null,
+    "doxeng": "上部に装飾のある盾。中央部は省略されてただの横画になった。",
+    "tyomyun": "意味分類符として「博」字に含まれる。「二叉の枝・棒・狩獵具の形」の類は誤説。",
+    "thytten": "郭沫若1932: 188、大系録P169、李孝定1964、林澐2000、蘇建洲2021",
+    "thongqitmra": "U+5E72"
+  },
+  {
+    "pieutiwbyo": "05E78",
+    "dziwbyo": "幸",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「犬」と「矢」の倒文とに従う字だが、本義は不明。\n「早死にが云々」「手枷が云々」の類は根拠のない誤り。",
+    "thytten": "陳劍2005a",
+    "thongqitmra": "U+5E78"
+  },
+  {
+    "pieutiwbyo": "05E7B",
+    "dziwbyo": "幻",
+    "punngrie": "｛弦 *[ɢ]ˤi[n] つる｝",
+    "kudzau": "〈弓＋○〉弓の弦の部分を○印で示したもの",
+    "doxeng": null,
+    "tyomyun": "右部はのちに“玄”形に変化した。",
+    "thytten": "唐蘭《殷栔卜辭釋文》、李守奎＆肖攀2015: 179、王子楊2023",
+    "thongqitmra": "U+5E7B"
+  },
+  {
+    "pieutiwbyo": "05E7E",
+    "dziwbyo": "幾",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「⿱𢆶人」と「戈」からなり、図形の由来は不明だが、本義は「あやうい」だと思われる。あるいは｛刉｝の表語文字で、人を処刑する形かもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+5E7E"
+  },
+  {
+    "pieutiwbyo": "05E8A",
+    "dziwbyo": "床",
+    "punngrie": "｛床 *kə-dzraŋ とこ｝",
+    "kudzau": "表語文字「爿」＋意味分類符「木」",
+    "doxeng": "寝台の形",
+    "tyomyun": "「床」は、「莊→㽵→庄」などの字の類推により、「牀」の形が変わったもので、「广（家屋）+ 木」のような説明は誤り。",
+    "thytten": "林義光1920",
+    "thongqitmra": "U+5E8A"
+  },
+  {
+    "pieutiwbyo": "05EB6",
+    "dziwbyo": "庶",
+    "punngrie": "｛庶 *tak-s 煮る｝",
+    "kudzau": "表音文字「石 Ta」＋意味分類符「火」",
+    "doxeng": null,
+    "tyomyun": "なお殷墟甲骨文には表音文字「庶 Ta」＋意味分類符「㐺」からなる｛庶 *s-tak-s 多くの人｝を表す字が見られる。",
+    "thytten": "于省吾1979: 431、裘錫圭2006、黄天樹2013",
+    "thongqitmra": "U+5EB6"
+  },
+  {
+    "pieutiwbyo": "05EE3",
+    "dziwbyo": "廣",
+    "punngrie": "｛廣 *kʷˤaŋʔ にわ、広場｝",
+    "kudzau": "表音文字「黄 Kʷaŋ」＋意味分類符「广」",
+    "doxeng": null,
+    "tyomyun": "「広」字は、「廣」の下部を「厶」に換えた字。",
+    "thytten": "",
+    "thongqitmra": "U+5EE3"
+  },
+  {
+    "pieutiwbyo": "05EF6",
+    "dziwbyo": "延",
+    "punngrie": "｛延 *[l]an のびゆく｝",
+    "kudzau": null,
+    "doxeng": "〈彳＋止〉道のりを進む形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5EF6"
+  },
+  {
+    "pieutiwbyo": "05EFA",
+    "dziwbyo": "建",
+    "punngrie": "｛建 *[k]a[n]-s たてる｝",
+    "kudzau": null,
+    "doxeng": "人が柱を立てる形",
+    "tyomyun": "「聿」（｛筆｝の表語文字）とは無関係。",
+    "thytten": "裘錫圭1989b",
+    "thongqitmra": "U+5EFA"
+  },
+  {
+    "pieutiwbyo": "05F13",
+    "dziwbyo": "弓",
+    "punngrie": "｛弓 *kʷəŋ ゆみ｝",
+    "kudzau": null,
+    "doxeng": "弓の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5F13"
+  },
+  {
+    "pieutiwbyo": "05F15",
+    "dziwbyo": "引",
+    "punngrie": "｛引 *linʔ 引く｝",
+    "kudzau": null,
+    "doxeng": "弓が引かれる形",
+    "tyomyun": "",
+    "thytten": "于豪亮《説“引”字》",
+    "thongqitmra": "U+5F15"
+  },
+  {
+    "pieutiwbyo": "05F26",
+    "dziwbyo": "弦",
+    "punngrie": "｛弦 *[ɢ]ˤi[n] つる｝",
+    "kudzau": "〈弓＋○〉弓の弦の部分を○印で示したもの",
+    "doxeng": null,
+    "tyomyun": "右部はのちに“玄”形に変化した。",
+    "thytten": "唐蘭《殷栔卜辭釋文》、李守奎＆肖攀2015: 179、王子楊2023",
+    "thongqitmra": "U+5F26"
+  },
+  {
+    "pieutiwbyo": "05F31",
+    "dziwbyo": "弱",
+    "punngrie": "｛弱 *newk よわい｝",
+    "kudzau": "表音文字「㳮 Newk」＋意味分類符「弓」",
+    "doxeng": null,
+    "tyomyun": "「㳮」は｛尿｝の表語文字（尿を出す人の形）＋意味分類符「水」からなる字に由来。のちに内的類推により「“𢎥”×2」の形に変化した。",
+    "thytten": "謝明文2017a、鄔可晶2021b",
+    "thongqitmra": "U+5F31"
+  },
+  {
+    "pieutiwbyo": "05F3A",
+    "dziwbyo": "强",
+    "punngrie": "｛𧖑 *gaŋ コクゾウムシ｝",
+    "kudzau": "表音文字「𪪺 Kaŋ」＋意味分類符「虫」",
+    "doxeng": null,
+    "tyomyun": "「𪪺」字は、「弓」（強力なものの代表）と飾符「口」からなる、｛強 *N-kaŋ つよい｝の表語文字。",
+    "thytten": "裘錫圭1982(3)",
+    "thongqitmra": "U+5F3A"
+  },
+  {
+    "pieutiwbyo": "05F59",
+    "dziwbyo": "彙",
+    "punngrie": "｛蝟 *ɢʷə[t]-s はりねずみ｝",
+    "kudzau": "表音文字「𡇒 Qʷət」＋意味分類符「彖？」",
+    "doxeng": null,
+    "tyomyun": "古文字資料が少ないため分類符については不明。",
+    "thytten": "",
+    "thongqitmra": "U+5F59"
+  },
+  {
+    "pieutiwbyo": "05F80",
+    "dziwbyo": "往",
+    "punngrie": "｛往 *ɢʷaŋʔ 行く｝",
+    "kudzau": "（𡉚＝表音文字「王 Qʷaŋ」＋意味分類符「止」）＋意味分類符「彳」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5F80"
+  },
+  {
+    "pieutiwbyo": "05F8C",
+    "dziwbyo": "後",
+    "punngrie": "｛後 *[ɢ]ˤ(r)oʔ うしろ、あと｝",
+    "kudzau": "表語文字「⿱幺夊」＋意味分類符「彳」",
+    "doxeng": "〈幺（繋がる家系を表す）＋夊（後退を表す）〉",
+    "tyomyun": "",
+    "thytten": "李守奎＆肖攀2015: 179",
+    "thongqitmra": "U+5F8C"
+  },
+  {
+    "pieutiwbyo": "05F9E",
+    "dziwbyo": "從",
+    "punngrie": "｛從 *dzoŋ 従う｝",
+    "kudzau": "表語文字「从」＋意味分類符「辵(→辶)」",
+    "doxeng": "人が付き従う形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5F9E"
+  },
+  {
+    "pieutiwbyo": "05FC3",
+    "dziwbyo": "心",
+    "punngrie": "｛心 *səm 心臓｝",
+    "kudzau": null,
+    "doxeng": "心臓の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5FC3"
+  },
+  {
+    "pieutiwbyo": "05FD7",
+    "dziwbyo": "志",
+    "punngrie": "｛志 *tə-s こころざし｝",
+    "kudzau": "表音文字「之(→士) Tə」＋意味分類符「心」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5FD7"
+  },
+  {
+    "pieutiwbyo": "0601D",
+    "dziwbyo": "思",
+    "punngrie": "｛思 *[s]ə おもう｝",
+    "kudzau": "表音文字「囟 Se」＋意味分類符「心」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+601D"
+  },
+  {
+    "pieutiwbyo": "06052",
+    "dziwbyo": "恒",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "二本の横線の間に「月」がある形だが、構意は不明。形音ともに近い「亟」字と関係があるかもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+6052"
+  },
+  {
+    "pieutiwbyo": "0606F",
+    "dziwbyo": "息",
+    "punngrie": "｛息 *sək いき、息をつく｝",
+    "kudzau": "〈自（呼吸器官である鼻＋心〉",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+606F"
+  },
+  {
+    "pieutiwbyo": "0610F",
+    "dziwbyo": "意",
+    "punngrie": "｛意 *ʔ(r)ək-s こころ｝",
+    "kudzau": "表語文字「𠶷(→音)」＋意味分類符「心」",
+    "doxeng": null,
+    "tyomyun": "「𠶷」字は、「言」の中央に○印をつけて、言中の心意を示した字とされる（または○印は字を区別するための無意味な飾符かもしれない）。「𠶷」に分類符が添加されて「意」の字体になった。",
+    "thytten": "林義光1920",
+    "thongqitmra": "U+610F"
+  },
+  {
+    "pieutiwbyo": "0611B",
+    "dziwbyo": "愛",
+    "punngrie": "｛愛 *qˤə[p]-s めぐむ、めでる｝",
+    "kudzau": "表音文字「⿱旡夊 Kət」＋意味分類符「心」",
+    "doxeng": null,
+    "tyomyun": "「夊」は「旡」に添加された飾符で、行く・歩く・振り返る等の意味があるとするのは望形生訓。",
+    "thytten": "禤健聰2010、2016、陳劍2011",
+    "thongqitmra": "U+611B"
+  },
+  {
+    "pieutiwbyo": "0614E",
+    "dziwbyo": "慎",
+    "punngrie": "｛慎 *[d]i[n]-s つつしむ｝",
+    "kudzau": "表音文字「真 Tin」＋意味分類符「心(→忄)」",
+    "doxeng": null,
+    "tyomyun": "先秦時代は表音文字「斦 Tin」＋意味分類符「心」または「言」からなる字が｛慎｝に用いられた。",
+    "thytten": "陳劍2001b",
+    "thongqitmra": "U+614E"
+  },
+  {
+    "pieutiwbyo": "06176",
+    "dziwbyo": "慶",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「廌」と「心」からなる字だが、構意は不明。殷墟甲骨文では「麇」の初文に従う字体も見られる。\n「麇」を表音文字とする説もあるが、韻が異なる。",
+    "thytten": "唐蘭《獲白兕考》",
+    "thongqitmra": "U+6176"
+  },
+  {
+    "pieutiwbyo": "061B2",
+    "dziwbyo": "憲",
+    "punngrie": "｛憲 *qʰa[n] 楽しい｝",
+    "kudzau": "表音文字「𡩜 Qan」＋意味分類符「心」",
+    "doxeng": null,
+    "tyomyun": "「𡩜」の由来は不明。",
+    "thytten": "",
+    "thongqitmra": "U+61B2"
+  },
+  {
+    "pieutiwbyo": "06210",
+    "dziwbyo": "成",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。古文字は「戌」と「十」に従っており、表音文字「丁 Teŋ」に従うとする説明は誤り。",
+    "thytten": "",
+    "thongqitmra": "U+6210"
+  },
+  {
+    "pieutiwbyo": "06211",
+    "dziwbyo": "我",
+    "punngrie": "｛錡 *ŋajʔ のこぎり｝",
+    "kudzau": null,
+    "doxeng": "のこぎり（歯付きの刃物）の形",
+    "tyomyun": "",
+    "thytten": "林澐1989",
+    "thongqitmra": "U+6211"
+  },
+  {
+    "pieutiwbyo": "06212",
+    "dziwbyo": "戒",
+    "punngrie": "｛戒 *kˤrək-s 備える、警戒する｝",
+    "kudzau": null,
+    "doxeng": "〈戈＋𠬞〉両手で武器を持って戦争に備える形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+6212"
+  },
+  {
+    "pieutiwbyo": "0621A",
+    "dziwbyo": "戚",
+    "punngrie": "｛戚 *tsʰˤiwk 親しい｝",
+    "kudzau": "表音文字「𢦫 TSiwk」＋意味分類符「人」",
+    "doxeng": null,
+    "tyomyun": "「𢦫」は｛鏚 *tsʰˤiwk おの｝の表語文字に由来。「𢦫」が直接「戚」に変化したとする説もあるが、漢代の「戚」字には「人」旁が含まれている。のちに《説文》の誤説の影響で「尗」に従う形が生まれた。",
+    "thytten": "林澐1989、陳劍2007c、董蓮池＆徐善飛《戚姬簋的“戚”字研究兼説〈説文〉中的“戚”》",
+    "thongqitmra": "U+621A"
+  },
+  {
+    "pieutiwbyo": "06237",
+    "dziwbyo": "户",
+    "punngrie": "｛户 *[ɢ]ʷˤaʔ とびら｝",
+    "kudzau": null,
+    "doxeng": "扉の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+6237"
+  },
+  {
+    "pieutiwbyo": "06240",
+    "dziwbyo": "所",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "殷墟甲骨文中の「肩＋斤」からなる字が初形と思われるが、本義は不明。木を斬る擬音を「所所」と書く例があり、関係あるかもしれない。\n表音文字「戸」に従うとする説はおそらく誤り。",
+    "thytten": "何景成《釋“花東”卜辭的“所”》、張富海2017b",
+    "thongqitmra": "U+6240"
+  },
+  {
+    "pieutiwbyo": "06247",
+    "dziwbyo": "扇",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「戸」と「羽」からなる会意字と思われる。",
+    "thytten": "",
+    "thongqitmra": "U+6247"
+  },
+  {
+    "pieutiwbyo": "0624B",
+    "dziwbyo": "手",
+    "punngrie": "｛手 *[n̥]uʔ 手｝",
+    "kudzau": null,
+    "doxeng": "手の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+624B"
+  },
+  {
+    "pieutiwbyo": "0624D",
+    "dziwbyo": "才",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「弋」字から分化した字と思われる。",
+    "thytten": "裘錫圭1980a、何琳儀1998、陳劍2006a",
+    "thongqitmra": "U+624D"
+  },
+  {
+    "pieutiwbyo": "0627F",
+    "dziwbyo": "承",
+    "punngrie": "｛拯 *təŋʔ すくう、あげる｝",
+    "kudzau": "表語文字「丞」＋意味分類符「手」",
+    "doxeng": "人を両手で上に持ち上げる形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+627F"
+  },
+  {
+    "pieutiwbyo": "06298",
+    "dziwbyo": "折",
+    "punngrie": "｛折 *tet 断つ｝",
+    "kudzau": null,
+    "doxeng": "おので木を切断した形",
+    "tyomyun": "「おので木を切る」等の意味があるとする説明は望形生訓の誤り。",
+    "thytten": "唐蘭《古文字學導論》下編P29、姚孝遂1996、裘錫圭1988a(3)",
+    "thongqitmra": "U+6298"
+  },
+  {
+    "pieutiwbyo": "062D8",
+    "dziwbyo": "拘",
+    "punngrie": "｛拘 *k(r)o とらえる｝",
+    "kudzau": "表音文字「句 Ko」＋意味分類符「手」",
+    "doxeng": null,
+    "tyomyun": "殷墟甲骨文には、手を後ろで縛られた人の形の表語文字が見られる。",
+    "thytten": "",
+    "thongqitmra": "U+62D8"
+  },
+  {
+    "pieutiwbyo": "06383",
+    "dziwbyo": "掃",
+    "punngrie": "｛掃 sˤuʔ はらう、はく｝",
+    "kudzau": null,
+    "doxeng": "〈帚（ほうき）＋手〉",
+    "tyomyun": "甲骨金文には帚で部屋をはらう形の｛掃｝の表語文字が用いられている。「掃」字は秦漢代に生まれたより単純な会意文字。",
+    "thytten": "",
+    "thongqitmra": "U+6383"
+  },
+  {
+    "pieutiwbyo": "063D2",
+    "dziwbyo": "插",
+    "punngrie": "｛插 *mə-tsʰrop さしはさむ、さしこむ｝",
+    "kudzau": "表語文字「臿(→𢆍)」＋意味分類符「手(→扌)」",
+    "doxeng": "矢を穴にさしこむ形",
+    "tyomyun": "",
+    "thytten": "劉釗2014b",
+    "thongqitmra": "U+63D2"
+  },
+  {
+    "pieutiwbyo": "0641C",
+    "dziwbyo": "搜",
+    "punngrie": "｛搜 *sru さがす｝",
+    "kudzau": "表語文字「叟」＋意味分類符「手(→扌)」",
+    "doxeng": "屋内で灯火を持つ形",
+    "tyomyun": "",
+    "thytten": "羅振玉1915",
+    "thongqitmra": "U+641C"
+  },
+  {
+    "pieutiwbyo": "0652F",
+    "dziwbyo": "支",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "｛規｝の表語文字（定規を持った手の形）という説や、「枝指」の｛枝｝の表語文字という説、木の枝を持った手の形という説などがあるが、この字は戦国時代以前には見られず詳細は不明。",
+    "thytten": "李守奎2017",
+    "thongqitmra": "U+652F"
+  },
+  {
+    "pieutiwbyo": "06539",
+    "dziwbyo": "改",
+    "punngrie": "｛改 *kˤəʔ あらためる｝",
+    "kudzau": "表音文字「巳」＋意味分類符「攴」",
+    "doxeng": null,
+    "tyomyun": "早期の殷墟甲骨文では「巳」字が｛改｝に用いられている。",
+    "thytten": "裘錫圭1983b、李學勤《釋“改”》、沈培《甲骨文“巳”、“改”用法補議》、齊航福2016",
+    "thongqitmra": "U+6539"
+  },
+  {
+    "pieutiwbyo": "06559",
+    "dziwbyo": "教",
+    "punngrie": "｛教 *kˤraw おしえる｝",
+    "kudzau": "表音文字「爻 Kaw」＋意味分類符「攴」＋意味分類符「子」。隷変で「爻＋子」の部分は“孝”形に変化した。",
+    "doxeng": null,
+    "tyomyun": "「子供に鞭を打って云々」類の説明は看図説話の誤り。",
+    "thytten": "",
+    "thongqitmra": "U+6559"
+  },
+  {
+    "pieutiwbyo": "06562",
+    "dziwbyo": "敢",
+    "punngrie": "｛掩 *qramʔ おそいかかる、突然襲撃する｝",
+    "kudzau": null,
+    "doxeng": "〈豕＋𰅱＋又〉動物を網で捕らえる形",
+    "tyomyun": "殷墟甲骨文では本義で用いられている。",
+    "thytten": "丁驌1985、陳絜2006、宋雅萍2011、謝明文2012: 271、黄天樹2015、陳劍2020b",
+    "thongqitmra": "U+6562"
+  },
+  {
+    "pieutiwbyo": "06563",
+    "dziwbyo": "散",
+    "punngrie": "｛散 *mə-sˤa[n]ʔ-s ちらす｝",
+    "kudzau": "表語文字「㪔」＋意味分類符「肉(→月)」",
+    "doxeng": "除草する形",
+    "tyomyun": "甲骨文中の「㪔」字は後代の「㪔/散」字とは別字とする説もある。西周金文中の「月」に従う字は別字。",
+    "thytten": "裘錫圭1989a、薛培武《甲骨文中舊釋為“散”之字及相關諸字新釋》",
+    "thongqitmra": "U+6563"
+  },
+  {
+    "pieutiwbyo": "065A4",
+    "dziwbyo": "斤",
+    "punngrie": "｛斤 *kər おの｝",
+    "kudzau": null,
+    "doxeng": "斧の形",
+    "tyomyun": "",
+    "thytten": "唐蘭《古文字學導論》下編P29、于省吾1979: 339",
+    "thongqitmra": "U+65A4"
+  },
+  {
+    "pieutiwbyo": "065A5",
+    "dziwbyo": "斥",
+    "punngrie": "｛宅 *m-tˤak 住居、すまい｝",
+    "kudzau": "表音文字「乇 Tak」＋意味分類符「广」",
+    "doxeng": null,
+    "tyomyun": "「宅」の異体字「㡯」から分化した字。「广」はあるいは注音符「厂 Tak」かもしれない。\nなお「訴」「泝」の旁は無関係の別字。",
+    "thytten": "新證",
+    "thongqitmra": "U+65A5"
+  },
+  {
+    "pieutiwbyo": "065AC",
+    "dziwbyo": "斬",
+    "punngrie": "｛斬 *[ts]ramʔ 車がこわれること｝",
+    "kudzau": null,
+    "doxeng": "〈車＋斤〉",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+65AC"
+  },
+  {
+    "pieutiwbyo": "065B0",
+    "dziwbyo": "新",
+    "punngrie": "｛薪 *siŋ たきぎ、まき｝",
+    "kudzau": "表音文字「辛 Sin」＋意味分類符「木」「斤」",
+    "doxeng": null,
+    "tyomyun": "「針が刺さった木が云々」の類の説明は看図説話の誤り。",
+    "thytten": "姚萱2006: 158-162、楊軍會《花東卜辭新見字形再議》、彭邦炯《説新》",
+    "thongqitmra": "U+65B0"
+  },
+  {
+    "pieutiwbyo": "065CB",
+    "dziwbyo": "旋",
+    "punngrie": "｛旋 *s-ɢʷen めぐる｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「㫃」と「足」からなる会意字と思われるが、甲骨・金文の例がなく詳細は不明。",
+    "thytten": "",
+    "thongqitmra": "U+65CB"
+  },
+  {
+    "pieutiwbyo": "065CF",
+    "dziwbyo": "族",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "軍組織の標識である旗（「㫃」）と矢（「矢」）からなる字とされる。\nあるいは「矢」は｛鏃｝の象形字かもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+65CF"
+  },
+  {
+    "pieutiwbyo": "065E2",
+    "dziwbyo": "既",
+    "punngrie": "｛既 *kə[t]-s （食べ）尽くす、尽きる｝",
+    "kudzau": "表音文字「旡 Kət」＋意味分類符「皀」",
+    "doxeng": null,
+    "tyomyun": "「旡」は｛慨｝や｛噯｝の表語文字に由来すると思われる。「食事を食べ終わる人の形」は看図説話。",
+    "thytten": "",
+    "thongqitmra": "U+65E2"
+  },
+  {
+    "pieutiwbyo": "065E8",
+    "dziwbyo": "旨",
+    "punngrie": "｛旨 *kijʔ うまい｝",
+    "kudzau": "〈匕＋口〉。「口」は飾符かもしれない。なお「匕＋甘」とするのは誤説。",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+65E8"
+  },
+  {
+    "pieutiwbyo": "065E9",
+    "dziwbyo": "早",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。「⿱日棗」字（表音文字「棗」＋意味分類符「日」）が変化したものである可能性があるが、そのような変化には類例がない。戦国秦以前は「屮」字（｛草｝の表語文字）や「㕚」字（｛爪｝の表語文字）や「蚤」字（｛搔｝の表語文字）などが、｛早｝に用いられた。",
+    "thytten": "",
+    "thongqitmra": "U+65E9"
+  },
+  {
+    "pieutiwbyo": "065EC",
+    "dziwbyo": "旬",
+    "punngrie": "｛旬 *s-N-qʷi[n] 十日間｝",
+    "kudzau": "表音文字「(䀏→)勹*」＋意味分類符「日」",
+    "doxeng": null,
+    "tyomyun": "「勹*」は、｛眴 N-qʷˤi[n]-s 目が回る｝の表語文字に由来し、殷墟甲骨文ではこの字が｛旬｝に用いられた。",
+    "thytten": "于省吾1979: 6、蔡哲茂《甲骨文考釋兩則》、鄔可晶2019b",
+    "thongqitmra": "U+65EC"
+  },
+  {
+    "pieutiwbyo": "06606",
+    "dziwbyo": "昆",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「昆虫」の｛昆｝の表語文字と思われるが古文字の同定に論争があり詳細は不明。",
+    "thytten": "",
+    "thongqitmra": "U+6606"
+  },
+  {
+    "pieutiwbyo": "06613",
+    "dziwbyo": "易",
+    "punngrie": "｛賜 *s-lek-s たまう｝｛錫 *s-lˤek たまう｝",
+    "kudzau": null,
+    "doxeng": "盤から水を注ぐ形",
+    "tyomyun": "",
+    "thytten": "謝明文2019b",
+    "thongqitmra": "U+6613"
+  },
+  {
+    "pieutiwbyo": "06614",
+    "dziwbyo": "昔",
+    "punngrie": "｛昔 *sak むかし｝",
+    "kudzau": "表音文字「𠈌 Sak」＋意味分類符「日」",
+    "doxeng": null,
+    "tyomyun": "「𠈌」は｛錯 *tsʰˤak ギザギザ｝｛皵 *tsʰak しわ｝の表語文字に由来。",
+    "thytten": "陳劍2021",
+    "thongqitmra": "U+6614"
+  },
+  {
+    "pieutiwbyo": "06625",
+    "dziwbyo": "春",
+    "punngrie": "｛春 *tʰur はる｝",
+    "kudzau": "表音文字「芚 Tur」＋意味分類符「日」",
+    "doxeng": null,
+    "tyomyun": "殷墟甲骨文では「屯」字や「芚」字も｛春｝に用いられた。",
+    "thytten": "蔣玉斌《釋甲骨金文的“蠢”兼論相關問題》",
+    "thongqitmra": "U+6625"
+  },
+  {
+    "pieutiwbyo": "0662F",
+    "dziwbyo": "是",
+    "punngrie": "｛鞮 *tˤe くつ｝",
+    "kudzau": "表音文字「⿱⿰子大册(→旦) Te」＋意味分類符「止」",
+    "doxeng": null,
+    "tyomyun": "「⿱⿰子大册」は｛知 *tre 知る｝の表語文字（親が子に知識を与えている形）に由来する。その「子」以外の部分が略され、西周金文では“子＋止”のような形となった。\nなお「さじの形の象形字」といった説明は古文字字形と整合しない誤説。",
+    "thytten": "",
+    "thongqitmra": "U+662F"
+  },
+  {
+    "pieutiwbyo": "06676",
+    "dziwbyo": "晶",
+    "punngrie": "｛星 *sˤeŋ ほし｝",
+    "kudzau": "表語文字「晶」＋注音符「生 Seŋ」",
+    "doxeng": "光る星の形",
+    "tyomyun": "",
+    "thytten": "楊樹達《積微居小學述林・釋星》、李學勤《論殷墟卜辭的新星》、黄天樹《讀契雜記（三則）》",
+    "thongqitmra": "U+6676"
+  },
+  {
+    "pieutiwbyo": "066F2",
+    "dziwbyo": "曲",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "｛曲｝の表語文字で、曲がった物体の形、或いは籠の形。秦・漢代には表音文字「玉 (N)Kok」が加えられた字も見られる。",
+    "thytten": "",
+    "thongqitmra": "U+66F2"
+  },
+  {
+    "pieutiwbyo": "066F4",
+    "dziwbyo": "更",
+    "punngrie": "｛更 *k-rˤaŋ あらためる｝",
+    "kudzau": "表音文字「⿱丙丙 Raŋ」＋意味分類符「攴」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "裘錫圭2018",
+    "thongqitmra": "U+66F4"
+  },
+  {
+    "pieutiwbyo": "066F8",
+    "dziwbyo": "書",
+    "punngrie": "｛書 *s-ta かく｝",
+    "kudzau": "表音文字「者 Ta」＋意味分類符「聿」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+66F8"
+  },
+  {
+    "pieutiwbyo": "066F9",
+    "dziwbyo": "曹",
+    "punngrie": "｛曹 *N-tsˤu くみ、一対｝",
+    "kudzau": "表語文字「㯥」＋飾符「口(→日)」",
+    "doxeng": "「東」を2つ並べた形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+66F9"
+  },
+  {
+    "pieutiwbyo": "066FE",
+    "dziwbyo": "曾",
+    "punngrie": "｛甑 *[ts]əŋ-s こしき｝",
+    "kudzau": "表語文字「𬎿」＋飾符「口(→日)」",
+    "doxeng": "こしきの形",
+    "tyomyun": "",
+    "thytten": "朱芳圃《殷周文字釋叢》P102",
+    "thongqitmra": "U+66FE"
+  },
+  {
+    "pieutiwbyo": "06703",
+    "dziwbyo": "會",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「𡆧」と表音文字「合 Kop」からなる字と思われるが、「𡆧」旁は他には見られず本義不明（一説に｛𨭗｝の表語文字）。下部は後に「云」形に変化した。",
+    "thytten": "季旭昇《甲骨文字根研究》",
+    "thongqitmra": "U+6703"
+  },
+  {
+    "pieutiwbyo": "06708",
+    "dziwbyo": "月",
+    "punngrie": "｛月 *ŋʷat つき｝",
+    "kudzau": null,
+    "doxeng": "三日月の形",
+    "tyomyun": "早期の殷墟甲骨文では「夕」字が｛月｝に用いられ、「月」字が｛夕｝に用いられたが、晩期以降は逆転した。",
+    "thytten": "",
+    "thongqitmra": "U+6708"
+  },
+  {
+    "pieutiwbyo": "06731",
+    "dziwbyo": "朱",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "｛株 *tro 木の根｝の表語文字という説と、「束」字から分化した字たいう説がある。",
+    "thytten": "季旭昇《釋朱》",
+    "thongqitmra": "U+6731"
+  },
+  {
+    "pieutiwbyo": "0675F",
+    "dziwbyo": "束",
+    "punngrie": "｛束 *s-[t]ok たばねる、縛る｝",
+    "kudzau": null,
+    "doxeng": "束ねたものの形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+675F"
+  },
+  {
+    "pieutiwbyo": "06790",
+    "dziwbyo": "析",
+    "punngrie": "｛析 *sˤek 裂く、分ける｝",
+    "kudzau": null,
+    "doxeng": "〈木＋斤〉斧で木を割る形",
+    "tyomyun": "「斧で木を割る」等の意味があるとする説明は望形生訓の誤り。",
+    "thytten": "",
+    "thongqitmra": "U+6790"
+  },
+  {
+    "pieutiwbyo": "0679C",
+    "dziwbyo": "果",
+    "punngrie": "｛果 *kˤorʔ 木の実、果物｝",
+    "kudzau": null,
+    "doxeng": "実がなっている木の形",
+    "tyomyun": "「菓」字は、さらに意味分類符「艸」を加えた繁体。",
+    "thytten": "",
+    "thongqitmra": "U+679C"
+  },
+  {
+    "pieutiwbyo": "067D3",
+    "dziwbyo": "染",
+    "punngrie": "｛染 *n[a]mʔ そめる、ひたす｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「杂」＋意味分類符「水(→氵)」からなると思われるが、「杂」の由来は不明。「朶 Toj」に由来するとする説もあるが、音韻的に問題がある。",
+    "thytten": "陶安・陳劍《〈奏讞書〉校讀札記》、鄔可晶2016",
+    "thongqitmra": "U+67D3"
+  },
+  {
+    "pieutiwbyo": "06851",
+    "dziwbyo": "桑",
+    "punngrie": "｛桑 *[s]ˤaŋ クワ｝",
+    "kudzau": "クワの形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "羅振玉1915",
+    "thongqitmra": "U+6851"
+  },
+  {
+    "pieutiwbyo": "068C4",
+    "dziwbyo": "棄",
+    "punngrie": "｛棄 *kʰi[t]-s 捨てる｝",
+    "kudzau": null,
+    "doxeng": "〈𠫓＋𠀠＋𠬞〉嬰児を捨てる形",
+    "tyomyun": "「赤子を捨てる」等の意味があるとするのは望形生訓の誤り。",
+    "thytten": "林義光1920、羅振玉1927: (2)47",
+    "thongqitmra": "U+68C4"
+  },
+  {
+    "pieutiwbyo": "068EE",
+    "dziwbyo": "森",
+    "punngrie": "｛森 *s-rəm しげる、ならぶ｝",
+    "kudzau": null,
+    "doxeng": "木々が茂る形",
+    "tyomyun": "殷墟甲骨文に同じ字体の字が存在するが直接の関係はないかもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+68EE"
+  },
+  {
+    "pieutiwbyo": "0696D",
+    "dziwbyo": "業",
+    "punngrie": "｛業 *[ŋ](r)ap 木の板｝",
+    "kudzau": null,
+    "doxeng": "鐘などの楽器を吊るす器具の形",
+    "tyomyun": "西周金文には表音文字「去* Kap」（｛蓋｝の表語文字で、「去来」の「去」とは別字）を加えた字も見られる。",
+    "thytten": "曾憲通1992、2015: 17",
+    "thongqitmra": "U+696D"
+  },
+  {
+    "pieutiwbyo": "06A02",
+    "dziwbyo": "樂",
+    "punngrie": "｛樂 *ŋ-rˤawk 音楽、楽器｝",
+    "kudzau": "表語文字「⿱𢆶木」＋注音符「白 !Rak」",
+    "doxeng": "木に糸を張った弦楽器の形",
+    "tyomyun": "「どんぐり」「鈴」の類の説明は看図説話の誤り。「音楽」の意味が転じて「楽しい」になったという説明は誤り。",
+    "thytten": "構形學P80",
+    "thongqitmra": "U+6A02"
+  },
+  {
+    "pieutiwbyo": "06A39",
+    "dziwbyo": "樹",
+    "punngrie": "｛樹 *m-toʔ うえる｝",
+    "kudzau": "表語文字「权 To」＋注音符「豆」＋意味分類符「木」",
+    "doxeng": "〈木＋又〉木を植える形",
+    "tyomyun": "｛鼓｝の表語文字「壴」（太鼓の形）とは無関係。",
+    "thytten": "裘錫圭2002c",
+    "thongqitmra": "U+6A39"
+  },
+  {
+    "pieutiwbyo": "06B21",
+    "dziwbyo": "次",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "息を出す人の形。本義は不明で、一説に｛咨 *[ts]ij 嘆息｝の表語文字。なお「二」と関連付けるのは誤り。",
+    "thytten": "黄德寛《古文字譜系疏證》",
+    "thongqitmra": "U+6B21"
+  },
+  {
+    "pieutiwbyo": "06B62",
+    "dziwbyo": "止",
+    "punngrie": "｛趾 *təʔ あし｝",
+    "kudzau": null,
+    "doxeng": "あしの形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+6B62"
+  },
+  {
+    "pieutiwbyo": "06B63",
+    "dziwbyo": "正",
+    "punngrie": "｛征 *teŋ うつ、討伐する｝",
+    "kudzau": "表音文字「丁 Teŋ」＋意味分類符「止」",
+    "doxeng": null,
+    "tyomyun": "「一＋止」とする説明は古文字字形と整合しない誤説。",
+    "thytten": "構形學P93",
+    "thongqitmra": "U+6B63"
+  },
+  {
+    "pieutiwbyo": "06B72",
+    "dziwbyo": "歲",
+    "punngrie": "｛越 *[ɢ]ʷat こえる｝",
+    "kudzau": "表音文字「戉 Qʷat」＋意味分類符「步」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+6B72"
+  },
+  {
+    "pieutiwbyo": "06B78",
+    "dziwbyo": "歸",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。左側の「⿱𠂤止」は行書で「リ」形に変化した。\n裘錫圭（1996）は「帚/彗」を表音文字と解釈しているが音が合わず、「帚」の機能は不明。「𠂤」は旅団を表す意味分類符（「祭祀の肉」は根拠のない誤説）で、《説文》が「𠂤聲」とするのは誤り。「止」は西周代に追加された。",
+    "thytten": "",
+    "thongqitmra": "U+6B78"
+  },
+  {
+    "pieutiwbyo": "06B7B",
+    "dziwbyo": "死",
+    "punngrie": "｛夷 *lij すき、除草用の農具｝",
+    "kudzau": "表音文字「尸(→匕) Lij」＋意味分類符「歹」",
+    "doxeng": null,
+    "tyomyun": "「歹」は農具の形。",
+    "thytten": "",
+    "thongqitmra": "U+6B7B"
+  },
+  {
+    "pieutiwbyo": "06B8A",
+    "dziwbyo": "殊",
+    "punngrie": "｛殊 *do 死ぬ｝",
+    "kudzau": "表音文字「朱 To」＋意味分類符「(死→)歹」",
+    "doxeng": null,
+    "tyomyun": "甲骨文には｛蛛｝の表語文字に由来する表音文字に従う字が用いられている。",
+    "thytten": "",
+    "thongqitmra": "U+6B8A"
+  },
+  {
+    "pieutiwbyo": "06BBA",
+    "dziwbyo": "殺",
+    "punngrie": "｛殺 *sˤrat ころす｝",
+    "kudzau": null,
+    "doxeng": "〈虫＋攴〉小動物を叩き殺す形",
+    "tyomyun": "殷墟甲骨文には「卩＋攴」からなる字体や「豕＋攴」からなる字体も見られる。",
+    "thytten": "陳劍2012、劉雲《釋“殺”及相關諸字》",
+    "thongqitmra": "U+6BBA"
+  },
+  {
+    "pieutiwbyo": "06BBB",
+    "dziwbyo": "殻",
+    "punngrie": "｛殻 *kʰˤrok うつ、たたく｝",
+    "kudzau": "表音文字「𡉉 Kok」＋意味分類符「殳」",
+    "doxeng": null,
+    "tyomyun": "甲骨文中の「⿰南殳」字は別字。",
+    "thytten": "裘錫圭2002a、李春桃《古文形體三考》",
+    "thongqitmra": "U+6BBB"
+  },
+  {
+    "pieutiwbyo": "06BC1",
+    "dziwbyo": "毁",
+    "punngrie": "｛毀 *qʷʰrajʔ 壊す、傷つける｝",
+    "kudzau": null,
+    "doxeng": "〈臼?＋土＋殳〉物を壊す形と思われる。「人を殴る形」は誤説。",
+    "tyomyun": "",
+    "thytten": "張富海2021a",
+    "thongqitmra": "U+6BC1"
+  },
+  {
+    "pieutiwbyo": "06C0F",
+    "dziwbyo": "氏",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。匙の形という説や、槌の形という説などがあるが、いずれも根拠がない。",
+    "thytten": "",
+    "thongqitmra": "U+6C0F"
+  },
+  {
+    "pieutiwbyo": "06C23",
+    "dziwbyo": "氣",
+    "punngrie": "｛餼 *qʰrət-s （食物等を）おくる｝",
+    "kudzau": "表音文字「乞 Kət」＋意味分類符「米(→乂)」",
+    "doxeng": null,
+    "tyomyun": "秦簡に本義で用いられた例がある。「米」旁は後に「乂」形に省略された。\n「米の湯気」「元気の源が云々」の類の説明は看図説話の誤り。\nなお「乞」字は｛氣｝の表語文字（気流の形）。",
+    "thytten": "",
+    "thongqitmra": "U+6C23"
+  },
+  {
+    "pieutiwbyo": "06C34",
+    "dziwbyo": "水",
+    "punngrie": "｛水 *s-turʔ みず｝",
+    "kudzau": "水流の形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+6C34"
+  },
+  {
+    "pieutiwbyo": "06C38",
+    "dziwbyo": "永",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": "水流の続く形、あるいは「彳＋人」。",
+    "tyomyun": "殷墟甲骨文における「永」関連の字は字形・用法とも複雑で、よくわかっていない。",
+    "thytten": "裘錫圭1993a、陳劍2017a",
+    "thongqitmra": "U+6C38"
+  },
+  {
+    "pieutiwbyo": "06C42",
+    "dziwbyo": "求",
+    "punngrie": "｛蛷 *[g](r)u 多足の虫｝",
+    "kudzau": null,
+    "doxeng": "多足の虫の形",
+    "tyomyun": "「動物の皮」「植物」の類は誤説。",
+    "thytten": "裘錫圭1986b",
+    "thongqitmra": "U+6C42"
+  },
+  {
+    "pieutiwbyo": "06CB3",
+    "dziwbyo": "河",
+    "punngrie": "｛河 *gˤaj 川、黄河｝",
+    "kudzau": "表音文字「可 Kaj」＋意味分類符「水」",
+    "doxeng": null,
+    "tyomyun": "早期の殷墟甲骨文では表音文字「𠀀 Kaj」（｛柯｝の表語文字に由来）に従う字が、晩期殷墟甲骨文と西周金文では表音文字「何* Kaj」（｛荷｝の表語文字に由来）に従う字が、｛河｝に用いられている。",
+    "thytten": "高嶋謙一『「河」の語源と中國古文字學』",
+    "thongqitmra": "U+6CB3"
+  },
+  {
+    "pieutiwbyo": "06CC9",
+    "dziwbyo": "泉",
+    "punngrie": "｛泉 *dzon いずみ｝",
+    "kudzau": null,
+    "doxeng": "水源の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+6CC9"
+  },
+  {
+    "pieutiwbyo": "06CE3",
+    "dziwbyo": "泣",
+    "punngrie": "｛泣 *k-r̥əp なく｝",
+    "kudzau": "表音文字「立 Rəp」＋意味分類符「水」",
+    "doxeng": null,
+    "tyomyun": "「なお「眔」字は｛泣｝の表語文字（目から涙を流す形）。「泣」字はその後起形声字。",
+    "thytten": "陳斯鵬2004",
+    "thongqitmra": "U+6CE3"
+  },
+  {
+    "pieutiwbyo": "06D25",
+    "dziwbyo": "津",
+    "punngrie": "｛津 *[ts]i[n] 船着き場｝",
+    "kudzau": "表音文字「𦘔(→聿) TSin」＋意味分類符「水(→氵)」",
+    "doxeng": null,
+    "tyomyun": "「𦘔」はおそらく「盡」に由来。西周金文では表音文字「(進→)隹 TSin」＋意味分類符「舟」「水」からなる字が用いられている。",
+    "thytten": "",
+    "thongqitmra": "U+6D25"
+  },
+  {
+    "pieutiwbyo": "06D89",
+    "dziwbyo": "涉",
+    "punngrie": "｛涉 *dep わたる｝",
+    "kudzau": null,
+    "doxeng": "川を渡る足の形",
+    "tyomyun": "「水」と「歩」に分解して「歩いて水を渡る」のように説明するのは看図説話の誤説。",
+    "thytten": "郭永秉2014",
+    "thongqitmra": "U+6D89"
+  },
+  {
+    "pieutiwbyo": "06F5C",
+    "dziwbyo": "潜",
+    "punngrie": "｛潛 *[dz][o]m もぐる｝",
+    "kudzau": "表音文字「朁 TSom」＋意味分類符「水(→氵)」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+6F5C"
+  },
+  {
+    "pieutiwbyo": "06F80",
+    "dziwbyo": "澀",
+    "punngrie": "｛澀 *[s-r]əp しぶる、とどこおる｝",
+    "kudzau": "表語文字「歰(→歮)」＋意味分類符「水(→氵)」",
+    "doxeng": "向かい合った足の形。",
+    "tyomyun": "「渋」は、「澀」の形が変化した「澁」の下部を省略した字体。",
+    "thytten": "",
+    "thongqitmra": "U+6F80"
+  },
+  {
+    "pieutiwbyo": "0706B",
+    "dziwbyo": "火",
+    "punngrie": "｛火 *m̥ˤəjʔ 火｝",
+    "kudzau": null,
+    "doxeng": "火炎の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+706B"
+  },
+  {
+    "pieutiwbyo": "07070",
+    "dziwbyo": "灰",
+    "punngrie": "｛灰 *m̥ˤə 灰｝",
+    "kudzau": "表音文字「又 Qʷə」＋意味分類符「火」",
+    "doxeng": null,
+    "tyomyun": "「手で持てる火」の類の説明は看図説話の誤り。",
+    "thytten": "",
+    "thongqitmra": "U+7070"
+  },
+  {
+    "pieutiwbyo": "0707E",
+    "dziwbyo": "灾",
+    "punngrie": "｛災 わざわい｝",
+    "kudzau": "表音文字「(甾→)巛 TSə」＋意味分類符「火」",
+    "doxeng": null,
+    "tyomyun": "甲骨文に見られる｛災｝の表語文字（河川が氾濫する形）は、現在の「災」字の上部とは無関係。\n「災」の字体が生まれる前は、「𢦏」「𥘔」等の字も｛災｝に用いられた。",
+    "thytten": "",
+    "thongqitmra": "U+707E"
+  },
+  {
+    "pieutiwbyo": "0708E",
+    "dziwbyo": "炎",
+    "punngrie": "｛炎 *[l]am 燃える｝",
+    "kudzau": null,
+    "doxeng": "〈火＋火〉火が燃える形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+708E"
+  },
+  {
+    "pieutiwbyo": "07126",
+    "dziwbyo": "焦",
+    "punngrie": "｛鷦 *tsew 小鳥、特にミソサザイ｝",
+    "kudzau": "表音文字「小(→灬) (T)Sew」＋意味分類符「隹」",
+    "doxeng": null,
+    "tyomyun": "｛焦 *tsew こがす、焼く｝は仮借。",
+    "thytten": "周忠兵《釋甲骨文中的“焦”》",
+    "thongqitmra": "U+7126"
+  },
+  {
+    "pieutiwbyo": "07136",
+    "dziwbyo": "然",
+    "punngrie": "｛燃 *na[n] もえる、もやす｝",
+    "kudzau": "表音文字「肰 Nan」＋意味分類符「火(→灬)」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+7136"
+  },
+  {
+    "pieutiwbyo": "07232",
+    "dziwbyo": "爲",
+    "punngrie": "｛爲 *ɢʷ(r)aj なす｝",
+    "kudzau": null,
+    "doxeng": "〈爪＋象〉象に手を加えて使役する形",
+    "tyomyun": "「動物を使役する」等の意味があるとするのは望形生訓。",
+    "thytten": "羅振玉1927、徐中舒《殷人服象及象之南遷》",
+    "thongqitmra": "U+7232"
+  },
+  {
+    "pieutiwbyo": "07235",
+    "dziwbyo": "爵",
+    "punngrie": "｛爵 *[ts]ewk 爵｝",
+    "kudzau": null,
+    "doxeng": "爵（酒を汲む器物の一種）を手で持つ形",
+    "tyomyun": "宋代以来「爵」と呼ばれてきた三脚の器は実際には爵ではない。",
+    "thytten": "李春桃《從斗形爵的稱謂談到三足爵的命名》",
+    "thongqitmra": "U+7235"
+  },
+  {
+    "pieutiwbyo": "0723D",
+    "dziwbyo": "爽",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。",
+    "thytten": "",
+    "thongqitmra": "U+723D"
+  },
+  {
+    "pieutiwbyo": "07259",
+    "dziwbyo": "牙",
+    "punngrie": "｛牙 *ŋrˤa 歯｝",
+    "kudzau": null,
+    "doxeng": "上下の歯の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+7259"
+  },
+  {
+    "pieutiwbyo": "0725B",
+    "dziwbyo": "牛",
+    "punngrie": "｛牛 *[ŋ]ʷə ウシ｝",
+    "kudzau": null,
+    "doxeng": "ウシの正面顔",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+725B"
+  },
+  {
+    "pieutiwbyo": "072AC",
+    "dziwbyo": "犬",
+    "punngrie": "｛犬 *kʷʰˤirʔ イヌ｝",
+    "kudzau": null,
+    "doxeng": "イヌの形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+72AC"
+  },
+  {
+    "pieutiwbyo": "072C2",
+    "dziwbyo": "狂",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+72C2"
+  },
+  {
+    "pieutiwbyo": "07344",
+    "dziwbyo": "獄",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「犾」＋意味分類符「言」からなる字と思われる。",
+    "thytten": "",
+    "thongqitmra": "U+7344"
+  },
+  {
+    "pieutiwbyo": "07372",
+    "dziwbyo": "獲",
+    "punngrie": "｛獲 *ɢʷrak える、とらえる｝",
+    "kudzau": "表語文字「隻(→蒦)」＋意味分類符「犬」",
+    "doxeng": "鳥を捕まえる形",
+    "tyomyun": "",
+    "thytten": "楊樹達《積微居小學述林・文字初義不屬初形屬後起字考》",
+    "thongqitmra": "U+7372"
+  },
+  {
+    "pieutiwbyo": "07378",
+    "dziwbyo": "獸",
+    "punngrie": "｛狩 *s-tuʔ-s かる｝",
+    "kudzau": "表語文字「𰡧」＋飾符「口」",
+    "doxeng": "〈單（狩猟具）＋犬（狩猟に用いる動物）〉",
+    "tyomyun": "表音文字「嘼」に従うとするのは誤り。｛獸｝に用いるのは仮借。",
+    "thytten": "羅振玉1915、唐蘭《論周昭王時代的青銅器銘刻・員鼎》",
+    "thongqitmra": "U+7378"
+  },
+  {
+    "pieutiwbyo": "0737B",
+    "dziwbyo": "獻",
+    "punngrie": null,
+    "kudzau": "表音文字「鬳(→南) NGar」＋意味分類符「犬」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+737B"
+  },
+  {
+    "pieutiwbyo": "07384",
+    "dziwbyo": "玄",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「幺」（糸の形）から分化した字。",
+    "thytten": "李守奎＆肖攀2015: 179",
+    "thongqitmra": "U+7384"
+  },
+  {
+    "pieutiwbyo": "07389",
+    "dziwbyo": "玉",
+    "punngrie": "｛玉 *[ŋ](r)ok たま、宝石｝",
+    "kudzau": null,
+    "doxeng": "つないだ宝玉の形",
+    "tyomyun": "後漢代に「王」字との区別のために飾画が加えられ“玉”形になった。",
+    "thytten": "",
+    "thongqitmra": "U+7389"
+  },
+  {
+    "pieutiwbyo": "0738B",
+    "dziwbyo": "王",
+    "punngrie": "｛王 *ɢʷaŋ きみ｝",
+    "kudzau": null,
+    "doxeng": "鉞（統率権の象徴）の形",
+    "tyomyun": "《詩經・大雅・公劉》「干戈戚揚」（毛傳「揚，鉞也」）の｛揚｝の象形字という説もあるが、声母が異なる。",
+    "thytten": "林澐1965",
+    "thongqitmra": "U+738B"
+  },
+  {
+    "pieutiwbyo": "074E6",
+    "dziwbyo": "瓦",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。｛瓦 ŋʷˤrajʔ 屋瓦｝の表語文字という説が一般的となっている。",
+    "thytten": "",
+    "thongqitmra": "U+74E6"
+  },
+  {
+    "pieutiwbyo": "07518",
+    "dziwbyo": "甘",
+    "punngrie": "｛甘 *Nə-gˤəm 口に含む｝",
+    "kudzau": null,
+    "doxeng": "口に物を含む形",
+    "tyomyun": "",
+    "thytten": "概要P146、裘錫圭1988a(6)",
+    "thongqitmra": "U+7518"
+  },
+  {
+    "pieutiwbyo": "0751A",
+    "dziwbyo": "甚",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。なお「甘 + 匹」とする説明は古文字字形と整合しない誤説。",
+    "thytten": "",
+    "thongqitmra": "U+751A"
+  },
+  {
+    "pieutiwbyo": "0751F",
+    "dziwbyo": "生",
+    "punngrie": "｛生 *sreŋ はえる｝",
+    "kudzau": null,
+    "doxeng": "地面から芽生えた草の形",
+    "tyomyun": "「屮＋土」とする説明は古文字字形と整合しない誤説。",
+    "thytten": "",
+    "thongqitmra": "U+751F"
+  },
+  {
+    "pieutiwbyo": "07523",
+    "dziwbyo": "産",
+    "punngrie": "｛産 *s-ŋrarʔ うむ｝",
+    "kudzau": "表音文字「产 NGar」＋意味分類符「生」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+7523"
+  },
+  {
+    "pieutiwbyo": "07532",
+    "dziwbyo": "甲",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。最も古い形は十字形をしている。",
+    "thytten": "",
+    "thongqitmra": "U+7532"
+  },
+  {
+    "pieutiwbyo": "07533",
+    "dziwbyo": "申",
+    "punngrie": "｛電 *lˤi[n]-s 稲妻｝",
+    "kudzau": null,
+    "doxeng": "稲妻の形",
+    "tyomyun": "",
+    "thytten": "葉玉森《殷虚書契前編集釋》、明義士1935",
+    "thongqitmra": "U+7533"
+  },
+  {
+    "pieutiwbyo": "0754F",
+    "dziwbyo": "畏",
+    "punngrie": "｛畏 *ʔuj-s おそれる｝",
+    "kudzau": null,
+    "doxeng": "鬼が杖のようなものを持っている形で、恐ろしいものの象徴を描いた形と思われる。",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+754F"
+  },
+  {
+    "pieutiwbyo": "0755D",
+    "dziwbyo": "畝",
+    "punngrie": "｛畝 *mˤəʔ うね｝",
+    "kudzau": "表音字「每 Mə」＋意味分類符「田」",
+    "doxeng": null,
+    "tyomyun": "「每」旁は秦漢代に「⿰十久」形に変化したのち、「⿰亠久」形になった。「田＋又」からなる表語文字という説もある。",
+    "thytten": "魏宜輝《“畞”字構形新探》、何余華《地積單位｛畝｝的用字歷史考察》、胡雲鳳《説畝》",
+    "thongqitmra": "U+755D"
+  },
+  {
+    "pieutiwbyo": "0756B",
+    "dziwbyo": "畫",
+    "punngrie": "｛畫 *gʷˤrek 描く｝",
+    "kudzau": "表語文字「乂」＋意味分類符「聿」＋意味分類符「周」",
+    "doxeng": "古代のコンパスの形",
+    "tyomyun": "「画」字は「畫」の上部を省略した字。",
+    "thytten": "金祥恒《説卜辭中之子畫》、孫常敘1982",
+    "thongqitmra": "U+756B"
+  },
+  {
+    "pieutiwbyo": "07570",
+    "dziwbyo": "異",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "異形の者（鬼）が手を挙げている形と思われる。｛戴｝の表語文字とする説もあるが声母が異なる。",
+    "thytten": "周忠兵《説古文字中的“戴”字及相關問題》",
+    "thongqitmra": "U+7570"
+  },
+  {
+    "pieutiwbyo": "0758F",
+    "dziwbyo": "疏",
+    "punngrie": "｛疏 *sra 通る、通す｝",
+    "kudzau": "表音文字「疋 Sa」＋意味分類符「(流→)㐬(→束)」",
+    "doxeng": null,
+    "tyomyun": "「㐬」は「流」の略体で、漢代に“束”形に変化した。",
+    "thytten": "王貴元《漢墓帛書字形辨析三則》",
+    "thongqitmra": "U+758F"
+  },
+  {
+    "pieutiwbyo": "07591",
+    "dziwbyo": "疑",
+    "punngrie": "｛㘈 *[ŋ](r)ək 若く賢い｝",
+    "kudzau": "表音文字「𠤗 NGə」＋意味分類符「子」",
+    "doxeng": null,
+    "tyomyun": "「𠤗」は｛疑 *[ŋ](r)ə 疑う｝の表語文字（杖をついて後ろを振り返り道に惑う人の形）。「止」は杖の形の変形で分類符ではない。",
+    "thytten": "陳志向2017、顧王樂2020、石繼承2021",
+    "thongqitmra": "U+7591"
+  },
+  {
+    "pieutiwbyo": "075BE",
+    "dziwbyo": "疾",
+    "punngrie": "｛疾 *[dz]i[t] はやい｝",
+    "kudzau": "表音文字「疒 Tsit」＋意味分類符「矢」",
+    "doxeng": null,
+    "tyomyun": "「疒」は｛疾 *[dz]i[t] 病気｝の表語文字（ベッドに横たわる人の形）に由来。",
+    "thytten": "",
+    "thongqitmra": "U+75BE"
+  },
+  {
+    "pieutiwbyo": "07686",
+    "dziwbyo": "皆",
+    "punngrie": "｛諧 *gˤrəj かなう｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「虍」と「歹」（農具の形で協力を表す）からなる会意字に、飾符「口」を加え、上部を省略した（或いは「从」に換えた）字。「口（甘）」旁は後に「白」形に変化した。",
+    "thytten": "陳劍2006b、沈建華《釋卜辭“協”及有關字》",
+    "thongqitmra": "U+7686"
+  },
+  {
+    "pieutiwbyo": "07687",
+    "dziwbyo": "皇",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。王を象徴する玉器の象形という説や、｛煌｝の表語文字（松明類の象形）という説などがある。",
+    "thytten": "",
+    "thongqitmra": "U+7687"
+  },
+  {
+    "pieutiwbyo": "076BF",
+    "dziwbyo": "皿",
+    "punngrie": "｛皿 *mraŋʔ さら｝",
+    "kudzau": null,
+    "doxeng": "皿の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+76BF"
+  },
+  {
+    "pieutiwbyo": "076CA",
+    "dziwbyo": "益",
+    "punngrie": "｛益 *qik 増える｝",
+    "kudzau": null,
+    "doxeng": "〈水＋皿〉水を容器に加えた形",
+    "tyomyun": "｛溢｝を本義とする説もあるが、｛益｝と｛溢｝は声母が異なり、また「溢」字の右部と「益」字は別字と思われる。",
+    "thytten": "謝明文2019b、張鑫裕《漢碑字詞零釋及相關問題研究》",
+    "thongqitmra": "U+76CA"
+  },
+  {
+    "pieutiwbyo": "076E1",
+    "dziwbyo": "盡",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": "器をブラシで洗っている形？",
+    "tyomyun": "本義は不明。容器が空になったあとのようすを描いた｛盡 *tsi[n]ʔ つきる｝の表語文字というのが定説となっている。｛洗 *[s]ˤərʔ 洗う｝を表すとする説もあるが、韻が異なる。",
+    "thytten": "",
+    "thongqitmra": "U+76E1"
+  },
+  {
+    "pieutiwbyo": "076E3",
+    "dziwbyo": "監",
+    "punngrie": "｛鑑 *k-rˤam みる、かんがみる｝",
+    "kudzau": null,
+    "doxeng": "水鏡を見る形。唐蘭や黄天樹（2009）が表音文字「見 Ken」に従うとするのは誤り。",
+    "tyomyun": "「鑑」字は意味分類符を追加した分化字。",
+    "thytten": "林義光1920、唐蘭1934: 76/2015: (6)160、概要P131",
+    "thongqitmra": "U+76E3"
+  },
+  {
+    "pieutiwbyo": "076F8",
+    "dziwbyo": "相",
+    "punngrie": "｛相 *saŋ みる、観察する｝",
+    "kudzau": null,
+    "doxeng": "〈木＋目〉木を見る形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+76F8"
+  },
+  {
+    "pieutiwbyo": "076FE",
+    "dziwbyo": "盾",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。上部は表音文字「允 Lun」とする説がある。また殷墟甲骨文や西周金文に存在するいくつかの「盾」に似た形の字を「盾」の初形とする説がある。\nなお西周金文では表音文字「豚 Lun」＋意味分類符「干」（盾の形）からなる字が｛盾｝に用いられている。",
+    "thytten": "趙平安《説“盾”》、何景成《試釋甲骨文的“盾”字》",
+    "thongqitmra": "U+76FE"
+  },
+  {
+    "pieutiwbyo": "07701",
+    "dziwbyo": "省",
+    "punngrie": "｛省 *seŋʔ みる、視察する｝",
+    "kudzau": "表音文字「生 Seŋ」＋意味分類符「目」",
+    "doxeng": null,
+    "tyomyun": "隷変で「生」旁は“少”形に変化した。",
+    "thytten": "劉心源《奇觚室吉金文述》、商承祚《説文中之古文考》、裘錫圭1988b",
+    "thongqitmra": "U+7701"
+  },
+  {
+    "pieutiwbyo": "0770B",
+    "dziwbyo": "看",
+    "punngrie": "｛看 *kʰˤa[r] 見る｝",
+    "kudzau": "表音文字「㫃 Kar」＋意味分類符「目」",
+    "doxeng": null,
+    "tyomyun": "「手」形は「㫃」が変化したもの。",
+    "thytten": "何琳儀1998: 966",
+    "thongqitmra": "U+770B"
+  },
+  {
+    "pieutiwbyo": "0771F",
+    "dziwbyo": "真",
+    "punngrie": "｛珍 *tri[ŋ] たから、貴重｝",
+    "kudzau": "表音文字「𠂈(→匕) Tiŋ」＋意味分類符「貝」＋注音符「丁(→一) Teŋ」＋飾符「八」",
+    "doxeng": null,
+    "tyomyun": "「𠂈」は｛顛 *tˤi[ŋ] たおれる｝の表語文字（「人」の倒文）に由来。\nなお「行き倒れた死体が云々」や「さじで鼎に詰める」の類の説明は誤り。",
+    "thytten": "謝明文2014",
+    "thongqitmra": "U+771F"
+  },
+  {
+    "pieutiwbyo": "077E2",
+    "dziwbyo": "矢",
+    "punngrie": "｛矢 *l̥ijʔ や｝",
+    "kudzau": null,
+    "doxeng": "矢の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+77E2"
+  },
+  {
+    "pieutiwbyo": "077F3",
+    "dziwbyo": "石",
+    "punngrie": "｛石 *dak いし｝",
+    "kudzau": "表語文字「厂」＋飾符「口」",
+    "doxeng": "石あるいは磬の形",
+    "tyomyun": "飾符「口」を「石の形」とするのは誤り。",
+    "thytten": "",
+    "thongqitmra": "U+77F3"
+  },
+  {
+    "pieutiwbyo": "0793A",
+    "dziwbyo": "示",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "｛主｝の表語文字「主」（神主・位牌の形）から分化した字という説が定説となっている。あるいは、甲骨文中の「主」字は後の「示」字とは無関係で、「示」字は「主」を意味分類符とする字から分化した字かもしれない。\nなお「祭壇」「机、台」の類は根拠のない誤り。",
+    "thytten": "方稚松2009",
+    "thongqitmra": "U+793A"
+  },
+  {
+    "pieutiwbyo": "0795D",
+    "dziwbyo": "祝",
+    "punngrie": "｛祝 *tuk いのる｝",
+    "kudzau": "表語文字「兄*」＋意味分類符「主(→礻)」",
+    "doxeng": "口を強調した座った人の形。兄弟の「兄」（口を強調した立った人の形）とは無関係。殷墟甲骨文では「丮 Tuk」＋意味分類符「口」からなる字も｛祝｝に用いられた。",
+    "tyomyun": "",
+    "thytten": "沈培《説古文字裏的“祝”及相關之字》、謝明文2018",
+    "thongqitmra": "U+795D"
+  },
+  {
+    "pieutiwbyo": "0796D",
+    "dziwbyo": "祭",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「肉」「又」と意味分類符「主/示」を組み合わせた形で、｛祭｝の表語文字とされる。「又」旁は戦国～漢代には「攴」形に書かれた。\nしかし、甲骨文の「祭」字とされている字は、実際には別字かもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+796D"
+  },
+  {
+    "pieutiwbyo": "079C0",
+    "dziwbyo": "秀",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。周代には「𥝩」字（｛抽｝の表語文字；稲の穗を摘み取る形）が｛秀｝に用いられた。「秀」も「禾」に従うため同様に｛抽｝の表語文字である可能性がある。下部の「乃?」がこの文字の解釈を困難なものにしている。",
+    "thytten": "裘錫圭1989a、白於藍《釋褎》、張世超《“𥝩”、“秀”形音義新探》、周忠兵《金文所見“菽麥”考》、鄔可晶2019a",
+    "thongqitmra": "U+79C0"
+  },
+  {
+    "pieutiwbyo": "079C1",
+    "dziwbyo": "私",
+    "punngrie": null,
+    "kudzau": "表音文字「厶 Lij」＋意味分類符「禾」",
+    "doxeng": null,
+    "tyomyun": "本義は不明。表音文字「厶」は「四」の変形の可能性がある。",
+    "thytten": "",
+    "thongqitmra": "U+79C1"
+  },
+  {
+    "pieutiwbyo": "079CB",
+    "dziwbyo": "秋",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「𥤚」は、「𬟏(→∅)」＋意味分類符「火」＋意味分類符「禾」。「𬟏」は秋を代表する虫の形、一説に｛螽｝の表語文字。「秋」は「𥤚」の「𬟏」部分を省略した字。「火」は分類符なので「虫を火で殺す」の類は誤説。",
+    "thytten": "",
+    "thongqitmra": "U+79CB"
+  },
+  {
+    "pieutiwbyo": "079D1",
+    "dziwbyo": "科",
+    "punngrie": "｛科 *kʰˤoj しな、区分、わりあてる｝",
+    "kudzau": "表音文字「禾 Koj」＋意味分類符「斗」",
+    "doxeng": null,
+    "tyomyun": "「穀物をはかる」等の意味があるとするのは望形生訓の誤り。",
+    "thytten": "",
+    "thongqitmra": "U+79D1"
+  },
+  {
+    "pieutiwbyo": "07A31",
+    "dziwbyo": "稱",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「爯」に意味分類符「禾」を加えた字だが、「爯」の由来は不明。殷墟甲骨文では、旗を持ち上げる形の字も用いられている。",
+    "thytten": "陳劍2007b",
+    "thongqitmra": "U+7A31"
+  },
+  {
+    "pieutiwbyo": "07A3D",
+    "dziwbyo": "稽",
+    "punngrie": "｛稽 *kˤij 考える｝",
+    "kudzau": "表語文字「𥝐→𮂱」＋注音符「旨 Kij」",
+    "doxeng": "木に手を加える形",
+    "tyomyun": "",
+    "thytten": "劉釗2004a、趙平安《釋花東甲骨中的“㾕”和“稽”》",
+    "thongqitmra": "U+7A3D"
+  },
+  {
+    "pieutiwbyo": "07A57",
+    "dziwbyo": "穗",
+    "punngrie": "｛穗 *s-ɢʷit-s ほ｝",
+    "kudzau": "表音文字「惠 Qʷit」＋意味分類符「禾」",
+    "doxeng": null,
+    "tyomyun": "殷墟甲骨文中に見られる｛穗｝の表語文字（実を付けた稲の形）は、表音文字として「季」字に含まれる。",
+    "thytten": "郭小武《古文字考釋五題》、鄔可晶2019a",
+    "thongqitmra": "U+7A57"
+  },
+  {
+    "pieutiwbyo": "07A6B",
+    "dziwbyo": "穫",
+    "punngrie": "｛穫 *ɢʷˤak 刈る、収穫する｝",
+    "kudzau": "表音文字「(隻→)蒦 Qʷak」＋意味分類符「禾」",
+    "doxeng": null,
+    "tyomyun": "甲骨金文では、稲を刈る形の表語文字「⿰禾𬔖」が用いられている。",
+    "thytten": "董珊・陳劍《郾王職壺銘文研究》、劉釗2008(2)、2014a",
+    "thongqitmra": "U+7A6B"
+  },
+  {
+    "pieutiwbyo": "07A74",
+    "dziwbyo": "穴",
+    "punngrie": "｛穴 あな｝",
+    "kudzau": null,
+    "doxeng": "穴居の形と考えられる",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+7A74"
+  },
+  {
+    "pieutiwbyo": "07A97",
+    "dziwbyo": "窗",
+    "punngrie": "｛窗 *[tsʰ]rˤoŋ まど｝",
+    "kudzau": "表音文字「悤(→忩) TSoŋ」＋意味分類符「穴」",
+    "doxeng": null,
+    "tyomyun": "なお「囱」字は略字（窻→窗→囱）であり、「囱」を窓の象形とするような説明は誤り。",
+    "thytten": "",
+    "thongqitmra": "U+7A97"
+  },
+  {
+    "pieutiwbyo": "07ACB",
+    "dziwbyo": "立",
+    "punngrie": "｛立 *kə-rəp たつ｝",
+    "kudzau": null,
+    "doxeng": "人が地面に立っている形",
+    "tyomyun": "殷周代は「立」字が｛立｝にも｛位｝にも用いられたが、後に意味分類符「人」を加えた形が分化して「位」となった。",
+    "thytten": "",
+    "thongqitmra": "U+7ACB"
+  },
+  {
+    "pieutiwbyo": "07AE0",
+    "dziwbyo": "章",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "｛璋 *taŋ 瑞玉｝の表語文字と考えられる。なお「入れ墨の針の形」のような説明は看図説話の誤説。",
+    "thytten": "",
+    "thongqitmra": "U+7AE0"
+  },
+  {
+    "pieutiwbyo": "07AF6",
+    "dziwbyo": "競",
+    "punngrie": "｛競 *m-kraŋʔ-s 言い争う、きそう｝",
+    "kudzau": null,
+    "doxeng": "〈（言＋人）×２〉二人の人が言い争う形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+7AF6"
+  },
+  {
+    "pieutiwbyo": "07B11",
+    "dziwbyo": "笑",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「艸」と「犬」を組み合わせた字だが、本義は不明。後に「艸」旁は“竹”形に、「犬」旁は“夭”形に変化した。\nなお「艸」を表音文字とする説は誤り（声韻とも異なる）。また「夭」を表音文字とする説明や「巫女が云々」の類の説明は古文字字形と整合しない誤説。",
+    "thytten": "",
+    "thongqitmra": "U+7B11"
+  },
+  {
+    "pieutiwbyo": "07B4B",
+    "dziwbyo": "筋",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「⿰肉刀(→肋)」？＋意味分類符「竹」からなると考えられるが「⿰肉刀」の由来は不明。戦国時代に存在した「簡」の異体字に関連する可能性もあるが、韻が異なる。",
+    "thytten": "張麗娜＆李春桃《古文形体釋讀（五篇）》",
+    "thongqitmra": "U+7B4B"
+  },
+  {
+    "pieutiwbyo": "07CFB",
+    "dziwbyo": "系",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「奚」字あるいは「係」字の略体が秦代頃に分化した字。",
+    "thytten": "",
+    "thongqitmra": "U+7CFB"
+  },
+  {
+    "pieutiwbyo": "07D20",
+    "dziwbyo": "素",
+    "punngrie": "｛索 *[s]ˤak 縄、縄をよる｝",
+    "kudzau": null,
+    "doxeng": "端を縛った縄の形。「索」字と同一字だったが、秦漢代に分化した。",
+    "tyomyun": "なお「𠂹＋糸」のような説明は古文字字形と整合しない誤説。",
+    "thytten": "郭永秉＆鄔可晶2012",
+    "thongqitmra": "U+7D20"
+  },
+  {
+    "pieutiwbyo": "07D22",
+    "dziwbyo": "索",
+    "punngrie": "｛索 *[s]ˤak 縄、縄をよる｝",
+    "kudzau": null,
+    "doxeng": "端を縛った縄の形。",
+    "tyomyun": "",
+    "thytten": "郭永秉＆鄔可晶2012",
+    "thongqitmra": "U+7D22"
+  },
+  {
+    "pieutiwbyo": "07D30",
+    "dziwbyo": "細",
+    "punngrie": "｛細 *[s]ˤe-s ほそい｝",
+    "kudzau": "表音文字「囟 Se」＋意味分類符「糸」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+7D30"
+  },
+  {
+    "pieutiwbyo": "07D33",
+    "dziwbyo": "紳",
+    "punngrie": "｛紳 *l̥i[n] たばねる、しばる｝",
+    "kudzau": "表音文字「申 Lin」＋意味分類符「糸」",
+    "doxeng": null,
+    "tyomyun": "古文字に見られる「𤕌」字は、〈𤔔（手で糸を操る形）＋束/東（物を縛った形、後に一部が「田 Lin」に音化）〉の形の｛紳｝の表語文字。なお「𤕌」の略体に従う字に「陳」がある。",
+    "thytten": "裘錫圭＆李家浩1992",
+    "thongqitmra": "U+7D33"
+  },
+  {
+    "pieutiwbyo": "07D72",
+    "dziwbyo": "絲",
+    "punngrie": "｛絲 *[s]ə いと｝",
+    "kudzau": null,
+    "doxeng": "縛った糸の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+7D72"
+  },
+  {
+    "pieutiwbyo": "07D76",
+    "dziwbyo": "絶",
+    "punngrie": "｛絶 *dzot 断ち切る｝",
+    "kudzau": "表語文字「糿」＋注音符「卩 !TSit」",
+    "doxeng": "糸を刀で切る形",
+    "tyomyun": "「糸を刀で切る」等の意味があるとする説明は望形生訓の誤り。",
+    "thytten": "何琳儀《戰國文字通論・餘論》、裘錫圭1998b",
+    "thongqitmra": "U+7D76"
+  },
+  {
+    "pieutiwbyo": "07E23",
+    "dziwbyo": "縣",
+    "punngrie": "｛懸 *Cə-[g]ʷˤe[n] かける、つるす｝",
+    "kudzau": "首をつるした形",
+    "doxeng": null,
+    "tyomyun": "「県」字は、「縣」の「系」を省略した字。",
+    "thytten": "張惟捷《論殷卜辭中的“縣”字》",
+    "thongqitmra": "U+7E23"
+  },
+  {
+    "pieutiwbyo": "07E6D",
+    "dziwbyo": "繭",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「絲」に従い、｛繭 *kˤ[e][n]ʔ まゆ｝の表語文字と思われる。片方の「糸」旁は秦代に意味分類符「虫」に代わった。",
+    "thytten": "",
+    "thongqitmra": "U+7E6D"
+  },
+  {
+    "pieutiwbyo": "07E7C",
+    "dziwbyo": "繼",
+    "punngrie": "｛繼 *[k]ˤek-s つぐ、つづく｝",
+    "kudzau": "表語文字「㡭」＋意味分類符「糸」",
+    "doxeng": "糸がつながった形。「断」とは無関係。",
+    "tyomyun": "",
+    "thytten": "何琳儀1998",
+    "thongqitmra": "U+7E7C"
+  },
+  {
+    "pieutiwbyo": "07F6A",
+    "dziwbyo": "罪",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「网」と「非」を組み合わせた会意字。\n戦国時代までは「辠」字が｛罪｝に用いられていたが、「皇」字に似ていることから秦国で新たに作られた。「辠」は「自」と「䇂」を組み合わせた字と思われるが古文字資料が乏しく不明。",
+    "thytten": "",
+    "thongqitmra": "U+7F6A"
+  },
+  {
+    "pieutiwbyo": "07F9E",
+    "dziwbyo": "羞",
+    "punngrie": "｛羞 *s-nu すすめる、ささげる｝",
+    "kudzau": null,
+    "doxeng": "〈羊＋又〉動物を献上する形",
+    "tyomyun": "下部の「又」は後に「丑 Nu」に音化した。",
+    "thytten": "羅振玉1927",
+    "thongqitmra": "U+7F9E"
+  },
+  {
+    "pieutiwbyo": "07FBD",
+    "dziwbyo": "羽",
+    "punngrie": "｛羽 *ɢʷraʔ はね｝",
+    "kudzau": "鳥の羽の形と思われる",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+7FBD"
+  },
+  {
+    "pieutiwbyo": "07FD2",
+    "dziwbyo": "習",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。表音文字「彗」に従う可能性が高いが（「羽」とは無関係）、音韻的な問題を含んでいる。下部は「日」だがやはり解釈が困難である。",
+    "thytten": "",
+    "thongqitmra": "U+7FD2"
+  },
+  {
+    "pieutiwbyo": "08003",
+    "dziwbyo": "考",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「老」から分化した字。",
+    "thytten": "",
+    "thongqitmra": "U+8003"
+  },
+  {
+    "pieutiwbyo": "08005",
+    "dziwbyo": "者",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。\n木枝の形という説や｛諸｝の表語文字といった説などがあるがいずれも根拠は無い。下部は飾符「口」。",
+    "thytten": "",
+    "thongqitmra": "U+8005"
+  },
+  {
+    "pieutiwbyo": "08033",
+    "dziwbyo": "耳",
+    "punngrie": "｛耳 *nəʔ みみ｝",
+    "kudzau": "みみの形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+8033"
+  },
+  {
+    "pieutiwbyo": "08056",
+    "dziwbyo": "聖",
+    "punngrie": "｛聽 *l̥ˤeŋ きく｝",
+    "kudzau": null,
+    "doxeng": "〈耳（＋人）＋口〉音を耳で聞く形",
+    "tyomyun": "下部の「人」は“𡈼”形を経由して“王”形に変化した。\nなお表音文字「呈 Leŋ」や「𡈼 Leŋ」に従うとする説明は古文字字形と整合しない誤説。",
+    "thytten": "裘錫圭1986a",
+    "thongqitmra": "U+8056"
+  },
+  {
+    "pieutiwbyo": "08072",
+    "dziwbyo": "聲",
+    "punngrie": "｛聲 *l̥eŋ こえ、おと｝",
+    "kudzau": null,
+    "doxeng": "〈石/磬（楽器の形）＋耳〉音をきく形",
+    "tyomyun": "「声」字は「聲」の右上部分以外を省略したもの。",
+    "thytten": "",
+    "thongqitmra": "U+8072"
+  },
+  {
+    "pieutiwbyo": "08085",
+    "dziwbyo": "肅",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「聿」に従う字だが、詳細は不明。",
+    "thytten": "",
+    "thongqitmra": "U+8085"
+  },
+  {
+    "pieutiwbyo": "08096",
+    "dziwbyo": "肖",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+8096"
+  },
+  {
+    "pieutiwbyo": "080A1",
+    "dziwbyo": "股",
+    "punngrie": "｛股 *kʷˤaʔ また｝",
+    "kudzau": "表語文字「夃(→殳)」＋意味分類符「肉(→月)」",
+    "doxeng": "人の股の部分を○印で示したもの",
+    "tyomyun": "",
+    "thytten": "趙平安《關於夃的形義來源》、何景成《試釋甲骨文的“股”》、袁瑩《説“夃”字的兩個來源》、蘇建洲2012",
+    "thongqitmra": "U+80A1"
+  },
+  {
+    "pieutiwbyo": "080A9",
+    "dziwbyo": "肩",
+    "punngrie": "｛肩 *kˤe[n] かた｝",
+    "kudzau": "表語文字「囗*(→戸)」＋意味分類符「肉(→月)」",
+    "doxeng": "肩胛骨の形。のちに肩胛骨の形の部分は“戸”形に変化した。",
+    "tyomyun": "",
+    "thytten": "裘錫圭2000、徐寶貴2008",
+    "thongqitmra": "U+80A9"
+  },
+  {
+    "pieutiwbyo": "080AF",
+    "dziwbyo": "肯",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「骨」字の一部分を省略した形と思われる。本義は「骨と肉」。",
+    "thytten": "",
+    "thongqitmra": "U+80AF"
+  },
+  {
+    "pieutiwbyo": "080B2",
+    "dziwbyo": "育",
+    "punngrie": "｛冑 *lru-s かぶと｝",
+    "kudzau": "表音文字「由 Lu」＋意味分類符「冃」",
+    "doxeng": null,
+    "tyomyun": "「冑」字の分化字。殷墟甲骨文や西周金文では、母親が子を産む形の｛育｝の象形字「毓」が用いられている。",
+    "thytten": "王國維1917、劉釗2022b",
+    "thongqitmra": "U+80B2"
+  },
+  {
+    "pieutiwbyo": "080C3",
+    "dziwbyo": "胃",
+    "punngrie": "｛胃 *ɢʷə[t]-s 胃｝",
+    "kudzau": "表語文字「𡇒(→田)」＋意味分類符「肉(→月)」",
+    "doxeng": "胃の形",
+    "tyomyun": "上部は後に「田」形に変化した。",
+    "thytten": "概要P122",
+    "thongqitmra": "U+80C3"
+  },
+  {
+    "pieutiwbyo": "0810A",
+    "dziwbyo": "脊",
+    "punngrie": "｛脊 *tsek 背骨｝",
+    "kudzau": "表音文字「朿 TSek」＋意味分類符「肉」",
+    "doxeng": null,
+    "tyomyun": "上部を「背骨の形」とする説もあるが根拠は弱い。",
+    "thytten": "構形學P213、翟春龍《釋𠦬新舊二説辨正》、鄔可晶2018c",
+    "thongqitmra": "U+810A"
+  },
+  {
+    "pieutiwbyo": "081E3",
+    "dziwbyo": "臣",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": "大きな目の形",
+    "tyomyun": "｛䁂 *gˤrinʔ 大きな目｝の表語文字と思われる。｛瞋 *tʰi[n] 目を見張る｝を表すとする説もあるが、声母が異なる。\n仮借義である「家来」に字形を関連づけた説は誤り。また「奴隷が云々」は根拠のない誤説。",
+    "thytten": "汪寧生《釋臣》",
+    "thongqitmra": "U+81E3"
+  },
+  {
+    "pieutiwbyo": "081EA",
+    "dziwbyo": "自",
+    "punngrie": "｛鼻 *m-bij-s はな｝",
+    "kudzau": "鼻の形",
+    "doxeng": null,
+    "tyomyun": "殷墟甲骨文に本義での用例がある。",
+    "thytten": "",
+    "thongqitmra": "U+81EA"
+  },
+  {
+    "pieutiwbyo": "081ED",
+    "dziwbyo": "臭",
+    "punngrie": "｛臭 *[qʰ]u-s かぐ｝",
+    "kudzau": null,
+    "doxeng": "〈自（鼻すなわち嗅覚器官）＋犬（嗅覚に優れた動物）〉",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+81ED"
+  },
+  {
+    "pieutiwbyo": "081F3",
+    "dziwbyo": "至",
+    "punngrie": "｛至 *ti[t]-s いたる｝",
+    "kudzau": null,
+    "doxeng": "矢が目標に到達した形",
+    "tyomyun": "「矢が到達する」等の意味があるとするのは望形生訓の誤り。",
+    "thytten": "",
+    "thongqitmra": "U+81F3"
+  },
+  {
+    "pieutiwbyo": "081FC",
+    "dziwbyo": "臼",
+    "punngrie": "｛臼 *gʷəʔ うす｝",
+    "kudzau": null,
+    "doxeng": "うすの形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+81FC"
+  },
+  {
+    "pieutiwbyo": "08208",
+    "dziwbyo": "興",
+    "punngrie": "｛興 *[r̥]əŋ おこす、はじめる｝",
+    "kudzau": null,
+    "doxeng": "〈同＋舁〉物を持ち上げる形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+8208"
+  },
+  {
+    "pieutiwbyo": "0820A",
+    "dziwbyo": "舊",
+    "punngrie": "｛舊 *gʷəʔ-s ミミズク｝",
+    "kudzau": null,
+    "doxeng": "〈隹／雈（鳥の形）＋凵（罠）〉おとりの鳥の形。「凵」は後に表音文字「臼 Kʷə」に変化した。「旧」は「舊」の上部を省略した字。",
+    "tyomyun": "かつてフクロウ科の鳥はおとりに用いられた。",
+    "thytten": "孫雍長2006",
+    "thongqitmra": "U+820A"
+  },
+  {
+    "pieutiwbyo": "0820C",
+    "dziwbyo": "舌",
+    "punngrie": "｛舌 *m-lat した｝",
+    "kudzau": null,
+    "doxeng": "舌の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+820C"
+  },
+  {
+    "pieutiwbyo": "0820D",
+    "dziwbyo": "舍",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「余」に飾符「口」を加えた字。「余」が｛舍｝の表語文字という説がある。",
+    "thytten": "",
+    "thongqitmra": "U+820D"
+  },
+  {
+    "pieutiwbyo": "0821F",
+    "dziwbyo": "舟",
+    "punngrie": "｛舟 *tu ふね｝",
+    "kudzau": "ふねの形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+821F"
+  },
+  {
+    "pieutiwbyo": "08272",
+    "dziwbyo": "色",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「卬 NGaŋ」から分化した字と思われる。楚簡では表音文字「𠤗 NGə」に従う字が｛色｝に用いられている。\nなお「男女の交わり」の類の説明は根拠のない誤説。",
+    "thytten": "禤健聰2014、金俊秀《上古聲母構擬三則》、張富海2017b、鞠煥文2022",
+    "thongqitmra": "U+8272"
+  },
+  {
+    "pieutiwbyo": "082E5",
+    "dziwbyo": "若",
+    "punngrie": "｛若 *nak 草を摘む｝",
+    "kudzau": "表語文字「𦫿」＋飾符「口」",
+    "doxeng": "草を手で摘む形",
+    "tyomyun": "かつて「若」字は、「叒」（髪を触っている人の形だが本義は不明）に飾符「口」を追加した字「𠭚」に由来するとされてきたが、おそらくそれとは別の由来を持つ。",
+    "thytten": "鄔可晶2018b",
+    "thongqitmra": "U+82E5"
+  },
+  {
+    "pieutiwbyo": "08349",
+    "dziwbyo": "草",
+    "punngrie": "｛草 *tsʰˤuʔ くさ｝",
+    "kudzau": "表音文字「早 TSu」＋意味分類符「艸(→艹)」",
+    "doxeng": null,
+    "tyomyun": "「屮/艸」字は｛草｝の表語文字。「草」は後起形声字。",
+    "thytten": "陳劍2006a",
+    "thongqitmra": "U+8349"
+  },
+  {
+    "pieutiwbyo": "083EF",
+    "dziwbyo": "華",
+    "punngrie": "｛華 *qʷʰˤra 花｝",
+    "kudzau": "「𠂹」？＋「于 Qʷa」＋意味分類符「艸」",
+    "doxeng": null,
+    "tyomyun": "「𠂹」は花を強調した植物の形と考えられているが詳細は不明。「花」は下部を表音文字「化」に換えた簡体。",
+    "thytten": "李桂森・劉洪濤《釋“華”及相關諸字》",
+    "thongqitmra": "U+83EF"
+  },
+  {
+    "pieutiwbyo": "0846C",
+    "dziwbyo": "葬",
+    "punngrie": "｛葬 *[ts]ˤaŋ-s ほうむる｝",
+    "kudzau": null,
+    "doxeng": "〈竹＋死＋廾〉死体を土中に埋める形",
+    "tyomyun": "殷墟甲骨文では、人を棺中に入れた形に注音符「爿 TSaŋ」を加えた字が｛葬｝に用いられている。",
+    "thytten": "裘錫圭1981、蔡哲茂《説甲骨文葬字及其相關問題》、鞠煥文2016",
+    "thongqitmra": "U+846C"
+  },
+  {
+    "pieutiwbyo": "084CB",
+    "dziwbyo": "蓋",
+    "punngrie": "｛蓋 kˤap-s ふた｝",
+    "kudzau": "表語文字「去*」＋意味分類符「皿」＋意味分類符「艸」",
+    "doxeng": "蓋と器物の形",
+    "tyomyun": "「去来」の「去」字とは無関係。",
+    "thytten": "裘錫圭1979、1988a(6)、1991a",
+    "thongqitmra": "U+84CB"
+  },
+  {
+    "pieutiwbyo": "085A6",
+    "dziwbyo": "薦",
+    "punngrie": "｛薦 *Cə-tsˤə[r]-s 牧草｝",
+    "kudzau": "表音文字「廌 TSər」＋意味分類符「艸」",
+    "doxeng": null,
+    "tyomyun": "殷墟甲骨文には、注音符「廌」を献上する形の｛薦 *Cə-tsˤə[r]-s すすめる｝の表語文字がみられる。\nなお「神獣が云々」の類の説明は看図説話の誤り。",
+    "thytten": "于省吾1943: 14、鄧佩玲《古文字“廌”及其相關諸字》",
+    "thongqitmra": "U+85A6"
+  },
+  {
+    "pieutiwbyo": "085DD",
+    "dziwbyo": "藝",
+    "punngrie": "｛藝 *ŋet-s 植える、栽培する｝",
+    "kudzau": "表語文字「埶(→∅)」＋意味分類符「艸(→艹)」＋「云」",
+    "doxeng": "植物を土に植える形。",
+    "tyomyun": "「云」の由来は不明。「芸」字は「藝」の中間部を省いた略体。",
+    "thytten": "裘錫圭1985",
+    "thongqitmra": "U+85DD"
+  },
+  {
+    "pieutiwbyo": "0864E",
+    "dziwbyo": "虎",
+    "punngrie": "｛虎 [kə-r̥]ˤaʔ トラ｝",
+    "kudzau": null,
+    "doxeng": "トラの形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+864E"
+  },
+  {
+    "pieutiwbyo": "08650",
+    "dziwbyo": "虐",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "甲骨文中の虎が人を襲う図形の文字に由来すると考えられている。\nしかし、戦国時代には「虎」に飾符「口」を加えた字が｛虐｝に用いられており、虎が人を襲う形の字は「虐」字とは別字かもしれない。",
+    "thytten": "裘錫圭1980b(5)",
+    "thongqitmra": "U+8650"
+  },
+  {
+    "pieutiwbyo": "08655",
+    "dziwbyo": "處",
+    "punngrie": "｛處 *[t-r̥]aʔ 居る、とどまる｝",
+    "kudzau": "表語文字「凥」＋注表符「虍 Ra」",
+    "doxeng": "〈尸＋几〉人が台に腰掛けた形",
+    "tyomyun": "「処」字は「處」の上部を省略した字（「夊」の部分は人形に添えられた飾符に由来する）。",
+    "thytten": "",
+    "thongqitmra": "U+8655"
+  },
+  {
+    "pieutiwbyo": "0865A",
+    "dziwbyo": "虚",
+    "punngrie": "｛墟 *[k-r̥]a 大きな丘、やま｝",
+    "kudzau": "表音文字「(虎→)虍 Ra」＋意味分類符「丘」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+865A"
+  },
+  {
+    "pieutiwbyo": "0865F",
+    "dziwbyo": "號",
+    "punngrie": "｛號 *gˤaw さけぶ｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「丂」と意味分類符「口」からなる字と思われるが、資料が少なく詳細は不明。",
+    "thytten": "張世超《金文考釋二題》《金文“號”字再考》、林澐1990",
+    "thongqitmra": "U+865F"
+  },
+  {
+    "pieutiwbyo": "086C7",
+    "dziwbyo": "蛇",
+    "punngrie": "｛蛇 *Cə-laj へび｝",
+    "kudzau": "表語文字「它」＋意味分類符「虫」",
+    "doxeng": "ヘビの形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+86C7"
+  },
+  {
+    "pieutiwbyo": "0871C",
+    "dziwbyo": "蜜",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+871C"
+  },
+  {
+    "pieutiwbyo": "08840",
+    "dziwbyo": "血",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「皿」と短い画からなるが本義は不明。祭牲の血を器物に盛った形の表意字という説が一般的となっている。",
+    "thytten": "裘錫圭1993b",
+    "thongqitmra": "U+8840"
+  },
+  {
+    "pieutiwbyo": "08846",
+    "dziwbyo": "衆",
+    "punngrie": "｛衆 *tuŋ-s 多くの人｝",
+    "kudzau": null,
+    "doxeng": "〈日＋㐺〉太陽の下にいる人々の形。「日」は後に“血”形に変化した。",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+8846"
+  },
+  {
+    "pieutiwbyo": "0884C",
+    "dziwbyo": "行",
+    "punngrie": "｛行 *[g]ˤaŋ みち｝",
+    "kudzau": null,
+    "doxeng": "十字路の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+884C"
+  },
+  {
+    "pieutiwbyo": "0885B",
+    "dziwbyo": "衛",
+    "punngrie": "｛衛 *ɢʷ(r)a[t]-s まもる｝",
+    "kudzau": "表語文字「⿴行舛」＋意味分類符「方」",
+    "doxeng": "四方を護衛する形",
+    "tyomyun": "中間部は後に「韋」形に変化した。",
+    "thytten": "李發《甲骨軍事刻辭整理與研究》",
+    "thongqitmra": "U+885B"
+  },
+  {
+    "pieutiwbyo": "08861",
+    "dziwbyo": "衡",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「行 Kaŋ」と「角?」「夨?」に従う字だが、本義は不明。",
+    "thytten": "",
+    "thongqitmra": "U+8861"
+  },
+  {
+    "pieutiwbyo": "08863",
+    "dziwbyo": "衣",
+    "punngrie": "｛衣 *ʔ(r)əj ころも、きぬ｝",
+    "kudzau": "上衣の形",
+    "doxeng": null,
+    "tyomyun": "殷周代は「衣」字が｛衣｝にも｛卒｝にも用いられたが、後に飾筆を加えた形が分化して「卒」字となった。",
+    "thytten": "李學勤《多友鼎的“卒”字及其他》、裘錫圭1990a",
+    "thongqitmra": "U+8863"
+  },
+  {
+    "pieutiwbyo": "08870",
+    "dziwbyo": "衰",
+    "punngrie": "｛蓑 *sˤoj みの、雨具｝",
+    "kudzau": "表語文字「𠌺」＋意味分類符「衣」",
+    "doxeng": "雨具の形",
+    "tyomyun": "",
+    "thytten": "裘錫圭1986c",
+    "thongqitmra": "U+8870"
+  },
+  {
+    "pieutiwbyo": "08972",
+    "dziwbyo": "襲",
+    "punngrie": "｛襲 *s-l[ə]p （衣服を）かさねる｝",
+    "kudzau": "表音文字「龖(→龍) Ləp」＋意味分類符「衣」。",
+    "doxeng": null,
+    "tyomyun": "殷墟甲骨文や戦国文字には重ね着の形の表語文字も見られる。",
+    "thytten": "",
+    "thongqitmra": "U+8972"
+  },
+  {
+    "pieutiwbyo": "0897F",
+    "dziwbyo": "西",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。《説文》に基づいた、｛棲｝の表語文字（鳥の巣の形）という説が一般的となっている。",
+    "thytten": "",
+    "thongqitmra": "U+897F"
+  },
+  {
+    "pieutiwbyo": "0898B",
+    "dziwbyo": "見",
+    "punngrie": "｛見 *kˤen-s みる｝",
+    "kudzau": null,
+    "doxeng": "目を強調した人の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+898B"
+  },
+  {
+    "pieutiwbyo": "0898F",
+    "dziwbyo": "規",
+    "punngrie": "｛規 *kʷe コンパス｝",
+    "kudzau": "表音文字「(𧠹→)見 Kʷe」？＋意味分類符「(矩→)矢」",
+    "doxeng": null,
+    "tyomyun": "表音文字「圭 Kʷe」に従う「𧠹」字（本義は｛窺｝）の左部を「矢」（「矩」の略体）に換えた字と思われる。\n甲骨文の「乂」字は｛規｝の表語文字（古代のコンパスの形）。",
+    "thytten": "陳劍2017b",
+    "thongqitmra": "U+898F"
+  },
+  {
+    "pieutiwbyo": "08996",
+    "dziwbyo": "視",
+    "punngrie": "｛視 *[d]ijʔ みる｝",
+    "kudzau": "表語文字「⿱目人」＋注音符「示」",
+    "doxeng": "目を強調した立っている人の形。「見」（目を強調した座っている人の形）とは別字。",
+    "tyomyun": "",
+    "thytten": "裘錫圭1999",
+    "thongqitmra": "U+8996"
+  },
+  {
+    "pieutiwbyo": "089AA",
+    "dziwbyo": "親",
+    "punngrie": "｛親 *[tsʰ]i[n] したしい、ちかい｝",
+    "kudzau": "表音文字「(新→)亲 (T)Sin」＋意味分類符「見*」",
+    "doxeng": null,
+    "tyomyun": "表音文字「辛」＋意味分類符「見*」（｛視｝の表語文字；見聞の「見」字とは別）からなる「⿰辛見」字の左側を「新」の略体に変更した字。楚簡では「辛 TSin + 目」「新 TSin + 心」からなる字も用いられた。\n「位牌を拝む」「身を切る」「立って子を見る」の類は誤説。",
+    "thytten": "",
+    "thongqitmra": "U+89AA"
+  },
+  {
+    "pieutiwbyo": "089D2",
+    "dziwbyo": "角",
+    "punngrie": "｛角 *kˤrok つの｝",
+    "kudzau": null,
+    "doxeng": "牛の角の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+89D2"
+  },
+  {
+    "pieutiwbyo": "089E3",
+    "dziwbyo": "解",
+    "punngrie": "｛解 *kˤreʔ とく、わける｝",
+    "kudzau": null,
+    "doxeng": "〈角＋刀＋牛〉刀を使って牛の頭部から角を分解する形",
+    "tyomyun": "西周金文では、刀でなく両手を使った形の字が用いられている。「刀」は刀ではなくこの手の形に由来する可能性もある。\nなお「刀で牛の角を分ける」の意味があるとするのは望形生訓の誤り。",
+    "thytten": "商承祚《殷虚文字類編》",
+    "thongqitmra": "U+89E3"
+  },
+  {
+    "pieutiwbyo": "08A00",
+    "dziwbyo": "言",
+    "punngrie": "｛言 *ŋa[n] 言う｝",
+    "kudzau": "表語文字「舌」＋飾符「一」",
+    "doxeng": null,
+    "tyomyun": "「舌」は｛言｝｛舌｝の共同表語文字。「䇂」や「辛」とは無関係。",
+    "thytten": "",
+    "thongqitmra": "U+8A00"
+  },
+  {
+    "pieutiwbyo": "08A08",
+    "dziwbyo": "計",
+    "punngrie": "｛計 *kˤ[i][j]-s はかる、協議する｝",
+    "kudzau": "表音文字「十 Kəp」＋意味分類符「言」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+8A08"
+  },
+  {
+    "pieutiwbyo": "08A2D",
+    "dziwbyo": "設",
+    "punngrie": "｛設 *ŋ̊et もうける、たてる｝",
+    "kudzau": "表音文字「⿰𡉣攴(→殳) NGet」＋意味分類符「言」",
+    "doxeng": null,
+    "tyomyun": "「⿰𡉣攴」は「埶」（｛藝 *ŋet-s 植える｝の表語文字）の異体字。隷変で“言＋殳”形に変化した。",
+    "thytten": "蔣偉男《談上博簡中從“埶”的兩個字》",
+    "thongqitmra": "U+8A2D"
+  },
+  {
+    "pieutiwbyo": "08A34",
+    "dziwbyo": "訴",
+    "punngrie": "｛訴 *s-ŋˤak-s うったえる｝",
+    "kudzau": "表音文字「(㡿→)斥 NGak」＋意味分類符「言」",
+    "doxeng": null,
+    "tyomyun": "「㡿」は「排斥」の「斥」字とは無関係の別字。",
+    "thytten": "",
+    "thongqitmra": "U+8A34"
+  },
+  {
+    "pieutiwbyo": "08C37",
+    "dziwbyo": "谷",
+    "punngrie": "｛谷＝たに｝",
+    "kudzau": null,
+    "doxeng": "山間のたにの形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+8C37"
+  },
+  {
+    "pieutiwbyo": "08C61",
+    "dziwbyo": "象",
+    "punngrie": "｛象 *s-[l]aŋʔ ゾウ｝",
+    "kudzau": null,
+    "doxeng": "ゾウの側面形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+8C61"
+  },
+  {
+    "pieutiwbyo": "08C9D",
+    "dziwbyo": "貝",
+    "punngrie": "｛貝 *pˤat-s 貝｝",
+    "kudzau": null,
+    "doxeng": "タカラガイの形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+8C9D"
+  },
+  {
+    "pieutiwbyo": "08CAB",
+    "dziwbyo": "貫",
+    "punngrie": "｛貫 *kˤon つらぬく｝",
+    "kudzau": null,
+    "doxeng": "貝を貫き通した形",
+    "tyomyun": "「毌」に従う字という説明は誤りで、古文字中に「毌」字は存在しない。",
+    "thytten": "林澐2000、蘇建洲2021",
+    "thongqitmra": "U+8CAB"
+  },
+  {
+    "pieutiwbyo": "08CAC",
+    "dziwbyo": "責",
+    "punngrie": "｛責 *tsˤrek とりたてる、要求する｝",
+    "kudzau": "表音文字「朿 TSek」＋意符「貝」",
+    "doxeng": null,
+    "tyomyun": "「とげとげしい」「針でせめる」類の説明は看図説話の誤り。",
+    "thytten": "",
+    "thongqitmra": "U+8CAC"
+  },
+  {
+    "pieutiwbyo": "08CB4",
+    "dziwbyo": "貴",
+    "punngrie": "｛貴 *kuj-s とうとい、価値ある｝",
+    "kudzau": "表音文字「㬰 Kuj」＋意味分類符「貝」",
+    "doxeng": null,
+    "tyomyun": "「遺」の旁とは別字源。「㬰」は｛簣 *kʰˤruj-s 竹籠｝の表語文字に由来する。",
+    "thytten": "李守奎2002(3)、徐寶貴2008a(2)、王鵬遠＆陳哲2021",
+    "thongqitmra": "U+8CB4"
+  },
+  {
+    "pieutiwbyo": "08CCA",
+    "dziwbyo": "賊",
+    "punngrie": "｛賊 *kə-dzˤək こわす、傷つける｝",
+    "kudzau": "表語文字「戝」＋意味分類符「刀」",
+    "doxeng": "戈で貝を傷つける形",
+    "tyomyun": "のちに「貝＋刀」部分は「則 TSək」に音化した。",
+    "thytten": "謝明文2020",
+    "thongqitmra": "U+8CCA"
+  },
+  {
+    "pieutiwbyo": "08D0A",
+    "dziwbyo": "贊",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「兟」（あるいは「兓」）＋意味分類符「貝」からなる字と考えられるが、本義は不明。",
+    "thytten": "",
+    "thongqitmra": "U+8D0A"
+  },
+  {
+    "pieutiwbyo": "08D64",
+    "dziwbyo": "赤",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「大」と「火」からなる会意文字と思われる。表音文字「大 Lat」に従うとする説もあるが韻尾が異なる。",
+    "thytten": "",
+    "thongqitmra": "U+8D64"
+  },
+  {
+    "pieutiwbyo": "08D66",
+    "dziwbyo": "赦",
+    "punngrie": "｛赦 *[l̥]ak-s ゆるす｝",
+    "kudzau": "表音文字「亦(→赤) Lak」＋意味分類符「攴」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+8D66"
+  },
+  {
+    "pieutiwbyo": "08D70",
+    "dziwbyo": "走",
+    "punngrie": "｛走 *tsˤoʔ 走る｝",
+    "kudzau": "表語文字「夭*(→土)」＋意味分類符「止」",
+    "doxeng": "走っている人の形",
+    "tyomyun": "表音文字「夭 ʔaw」に従うという説は諧声原則に反しており、古文字字形とも整合しない誤説。",
+    "thytten": "姚孝遂1996",
+    "thongqitmra": "U+8D70"
+  },
+  {
+    "pieutiwbyo": "08DB3",
+    "dziwbyo": "足",
+    "punngrie": "｛足 *tsok あし｝",
+    "kudzau": null,
+    "doxeng": "足の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+8DB3"
+  },
+  {
+    "pieutiwbyo": "08EAB",
+    "dziwbyo": "身",
+    "punngrie": "｛身 *n̥iŋ み、からだ｝",
+    "kudzau": null,
+    "doxeng": "〈人＋○〉ヒトの身体の部分を○で示したもの",
+    "tyomyun": "妊娠した人の形とする説明は看図説話の誤り。",
+    "thytten": "通解、新證",
+    "thongqitmra": "U+8EAB"
+  },
+  {
+    "pieutiwbyo": "08ECA",
+    "dziwbyo": "車",
+    "punngrie": "｛車 *[t-k]ʰra くるま｝",
+    "kudzau": null,
+    "doxeng": "車両の形",
+    "tyomyun": "西周代に車輪部以外の部分が省略された。",
+    "thytten": "",
+    "thongqitmra": "U+8ECA"
+  },
+  {
+    "pieutiwbyo": "08ECD",
+    "dziwbyo": "軍",
+    "punngrie": "｛軍 *[k]ʷər 兵士、軍隊｝",
+    "kudzau": "「車」？＋意味分類符「(䀏→)勹*」",
+    "doxeng": null,
+    "tyomyun": "「勹*」は回ることや囲むこと等を表す分類符（「旬」と関連があるが「包」とは無関係）、これを表音文字と解釈する説があるが韻が異なる。「車」は表音文字「熏 Kʷən」の変形の可能性がある。",
+    "thytten": "鄔可晶2019b",
+    "thongqitmra": "U+8ECD"
+  },
+  {
+    "pieutiwbyo": "08F44",
+    "dziwbyo": "轄",
+    "punngrie": "｛轄 *gˤrat 車のくさび｝",
+    "kudzau": "表音文字「害 Kat」＋意味分類符「車」",
+    "doxeng": null,
+    "tyomyun": "秦代には、｛害｝の表語文字「舝」がしばしば｛轄｝に用いられている。",
+    "thytten": "裘錫圭1983a",
+    "thongqitmra": "U+8F44"
+  },
+  {
+    "pieutiwbyo": "08F9B",
+    "dziwbyo": "辛",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。下部が「屮」（草の形）に似ているため、｛薪 *siŋ まき｝の表語文字とする説がある。\nなお「刑罰・入れ墨の道具」「針」の類の説明は根拠のない誤説。",
+    "thytten": "",
+    "thongqitmra": "U+8F9B"
+  },
+  {
+    "pieutiwbyo": "08FAD",
+    "dziwbyo": "辭",
+    "punngrie": "｛治 lrə おさめる｝",
+    "kudzau": "表語文字「𤔔(→舌)」＋注音符「𬔖(→辛) Lə」",
+    "doxeng": "両手で糸を操る形",
+    "tyomyun": "「𬔖」は｛柌 *s-lə 鎌（の柄）｝の表語文字に由来し、「辛」字とは無関係。魏晋代に「𤔔」の部分が“舌”形に簡略化された。",
+    "thytten": "",
+    "thongqitmra": "U+8FAD"
+  },
+  {
+    "pieutiwbyo": "08FB1",
+    "dziwbyo": "辱",
+    "punngrie": "｛耨 *nˤok-s 除草する｝",
+    "kudzau": null,
+    "doxeng": "〈辰（農具）＋又（手）〉農具を手に持つ形",
+    "tyomyun": "殷墟甲骨文には「艸」や「林」を加えた字も見られる。",
+    "thytten": "裘錫圭1989a",
+    "thongqitmra": "U+8FB1"
+  },
+  {
+    "pieutiwbyo": "09001",
+    "dziwbyo": "送",
+    "punngrie": "｛送 *[s]ˤoŋ-s おくる｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「灷」＋意味分類符「辵(→辶)」からなると思われるが、「送 Soŋ」と「灷 Sun」の韻は一致しない（方言音か）。",
+    "thytten": "鄔可晶＆施瑞峰2022",
+    "thongqitmra": "U+9001"
+  },
+  {
+    "pieutiwbyo": "09006",
+    "dziwbyo": "逆",
+    "punngrie": "｛逆 *ŋrak むかえる｝",
+    "kudzau": "表音文字「屰 NGak」＋意味分類符「辵(→辶)」",
+    "doxeng": null,
+    "tyomyun": "なお「屰」は｛逆 *ŋrak さかさ｝の表語文字（人が天地逆になった形）。",
+    "thytten": "概要P123",
+    "thongqitmra": "U+9006"
+  },
+  {
+    "pieutiwbyo": "0901F",
+    "dziwbyo": "速",
+    "punngrie": "｛速 *[s]ˤok すみやか、はやい｝",
+    "kudzau": "表音文字「束* Sok」＋意味分類符「辵(→辶)」",
+    "doxeng": null,
+    "tyomyun": "「束*」は「欶」「竦」等の字と共通で、束縛の「束」字（*Tok）とは別字と思われる（声母が異なる）。",
+    "thytten": "",
+    "thongqitmra": "U+901F"
+  },
+  {
+    "pieutiwbyo": "09020",
+    "dziwbyo": "造",
+    "punngrie": "｛造 *(mə-)tsʰˤuʔ-s 至る、行く｝",
+    "kudzau": "表音文字「告* TSu」＋意味分類符「辵(→辶)」",
+    "doxeng": null,
+    "tyomyun": "「告*」は「屮」（｛草｝の表語文字）に飾符「口」を加えた字で、告白の「告」字とは無関係の別字。",
+    "thytten": "大西克也2006、陳劍2006a",
+    "thongqitmra": "U+9020"
+  },
+  {
+    "pieutiwbyo": "09038",
+    "dziwbyo": "逸",
+    "punngrie": "｛逸 *[l]i[k] 逃げ去る｝",
+    "kudzau": "表音文字「(𬌍→)兔(→免) Lik」＋意味分類符「辵(→辶)」",
+    "doxeng": null,
+    "tyomyun": "「𬌍」は｛肆｝の表語文字に「兔」を加えた繁体。",
+    "thytten": "陳劍2008b、蘇建洲2017",
+    "thongqitmra": "U+9038"
+  },
+  {
+    "pieutiwbyo": "09063",
+    "dziwbyo": "遣",
+    "punngrie": "｛遣 *[k]ʰe[n]ʔ つかわす｝",
+    "kudzau": "表語文字「𠳋」＋意味分類符「辵(→辶)」",
+    "doxeng": "〈𦥑（両手の形）＋𠂤（旅団）〉使者を送る形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9063"
+  },
+  {
+    "pieutiwbyo": "09077",
+    "dziwbyo": "遷",
+    "punngrie": "｛遷 *[tsʰ]ar うつる、移動する｝",
+    "kudzau": "表音文字「䙴 TSar」＋意味分類符「辵(→辶)」",
+    "doxeng": null,
+    "tyomyun": "「𢍱」字は、表音文字「(西→)囟 Sər (~ TSar)」＋意味分類符「舁」からなり、本義は「移す、のぼる」。「䙴」字は、表音文字「𢍱 TSar」＋意味分類符「邑」からなり、本義は「（都を）うつす」。",
+    "thytten": "李守奎2013",
+    "thongqitmra": "U+9077"
+  },
+  {
+    "pieutiwbyo": "0907A",
+    "dziwbyo": "遺",
+    "punngrie": "｛遺 *lujs 送る｝",
+    "kudzau": "表音文字「貴* Luj」＋意味分類符「辵(→辶)」",
+    "doxeng": null,
+    "tyomyun": "「貴*」字は両手から物が落ちる形の表語文字に由来し、「貴重」の「貴」字とは別字。",
+    "thytten": "徐寶貴2008a(2)",
+    "thongqitmra": "U+907A"
+  },
+  {
+    "pieutiwbyo": "090CA",
+    "dziwbyo": "郊",
+    "punngrie": "｛郊 *[k]ˤraw 城外、都の外｝",
+    "kudzau": "表音文字「交 Kaw」＋意味分類符「邑」",
+    "doxeng": null,
+    "tyomyun": "殷墟甲骨文や西周金文では「蒿」字が、戦国時代には「鄗」字が、｛郊｝に用いられた。「郊」は後起形声字。",
+    "thytten": "",
+    "thongqitmra": "U+90CA"
+  },
+  {
+    "pieutiwbyo": "090ED",
+    "dziwbyo": "郭",
+    "punngrie": "｛郭 *kʷˤak くるわ、外城｝",
+    "kudzau": "表語文字「𩫏」＋意味分類符「邑」",
+    "doxeng": "城牆の形",
+    "tyomyun": "",
+    "thytten": "朱德熙1983(4)",
+    "thongqitmra": "U+90ED"
+  },
+  {
+    "pieutiwbyo": "09109",
+    "dziwbyo": "鄉",
+    "punngrie": "｛郷 *qʰaŋ さと｝",
+    "kudzau": "表音文字「卿 Qaŋ」＋意味分類符「(邑→)𨛜」",
+    "doxeng": null,
+    "tyomyun": "「卿」は｛饗｝の表語文字（人が集まって食事をする形）に由来。",
+    "thytten": "",
+    "thongqitmra": "U+9109"
+  },
+  {
+    "pieutiwbyo": "0914C",
+    "dziwbyo": "酌",
+    "punngrie": "｛酌 *tewk くむ、（酒を）つぐ｝",
+    "kudzau": "表音文字「勺 Tewk」＋意味分類符「酉」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+914C"
+  },
+  {
+    "pieutiwbyo": "0919C",
+    "dziwbyo": "醜",
+    "punngrie": "｛醜 *[k-l̥]uʔ とどまる｝",
+    "kudzau": "表音文字「酉 Lu」＋意味分類符「鬼」",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+919C"
+  },
+  {
+    "pieutiwbyo": "091AB",
+    "dziwbyo": "醫",
+    "punngrie": "｛醷 *ʔ(r)ək あまざけ｝",
+    "kudzau": "表音文字「殹(→医) ʔə」＋意味分類符「酉(→∅)」",
+    "doxeng": null,
+    "tyomyun": "「醫」の左上部以外を省略した簡体で、明代に産まれた字体。なお「医者、医療」は仮借で、「酒を薬として治す」の類は看図説話。",
+    "thytten": "",
+    "thongqitmra": "U+91AB"
+  },
+  {
+    "pieutiwbyo": "091C7",
+    "dziwbyo": "采",
+    "punngrie": "｛採 *[s-r̥]ˤəʔ とる｝",
+    "kudzau": null,
+    "doxeng": "〈爪＋木/枼〉葉を摘み取る形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+91C7"
+  },
+  {
+    "pieutiwbyo": "091CD",
+    "dziwbyo": "重",
+    "punngrie": "｛重 *N-troŋ おもい｝",
+    "kudzau": null,
+    "doxeng": "人が荷物を背負っている形",
+    "tyomyun": "荷物は「東 Toŋ」に音化した。あるいは「東」が「重」の略体に由来するという説もある。",
+    "thytten": "張富海2017a",
+    "thongqitmra": "U+91CD"
+  },
+  {
+    "pieutiwbyo": "091D1",
+    "dziwbyo": "金",
+    "punngrie": "｛金 *k(r)um かね、金属｝",
+    "kudzau": "表音文字「今 Kum」＋意味分類符「火」＋意味分類符「吕」",
+    "doxeng": null,
+    "tyomyun": "「今 + 火」とされている部分ははっきりとわかっていない。「吕」は｛鋁｝の表語文字（金塊の形）に由来。",
+    "thytten": "黄天樹《花園莊東地甲骨中所見的若干新資料》",
+    "thongqitmra": "U+91D1"
+  },
+  {
+    "pieutiwbyo": "091DC",
+    "dziwbyo": "釜",
+    "punngrie": "｛釜 *b(r)aʔ かま｝",
+    "kudzau": "表音文字「父 Pa」＋意味分類符「金」",
+    "doxeng": null,
+    "tyomyun": "戦国時代の斉では「父 Pa + 缶」の形声字が、秦では「甫 Pa + 鬲」の形声字が、｛釜｝に用いられていた。",
+    "thytten": "",
+    "thongqitmra": "U+91DC"
+  },
+  {
+    "pieutiwbyo": "0958B",
+    "dziwbyo": "開",
+    "punngrie": "｛啓 *kʰˤeʔ ひらく｝",
+    "kudzau": "表音文字「开 Ke」＋意味分類符「門」",
+    "doxeng": null,
+    "tyomyun": "「开」は｛笄｝の表語文字に由来。発音は秦・漢代頃に韻が｛闓｝の影響で変化した。",
+    "thytten": "陳劍2015a、張富海2018",
+    "thongqitmra": "U+958B"
+  },
+  {
+    "pieutiwbyo": "09591",
+    "dziwbyo": "閑",
+    "punngrie": "｛闌 *[r]ˤan かんぬき｝",
+    "kudzau": null,
+    "doxeng": "〈門＋木〉門に渡される木",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9591"
+  },
+  {
+    "pieutiwbyo": "09593",
+    "dziwbyo": "間",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "｛間｝の表語文字（門の隙間から月が見える形）という説が一般的となっている。商金文等から、｛闌 *[r]ˤan かんぬき｝が本義の形声字「月 Ran + 門」の可能性があるが、「月」が「Ran」の音価を持つ理由は不明。\nなお「月」旁は後に「日」形に変化した。",
+    "thytten": "",
+    "thongqitmra": "U+9593"
+  },
+  {
+    "pieutiwbyo": "0964D",
+    "dziwbyo": "降",
+    "punngrie": "｛降 *k-rˤuŋ-s おりる、くだる｝",
+    "kudzau": null,
+    "doxeng": "〈𨸏（階段）＋夂（下降する足）〉階段を降りる形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+964D"
+  },
+  {
+    "pieutiwbyo": "09670",
+    "dziwbyo": "陰",
+    "punngrie": "｛陰 *q(r)um くもる、かげる｝",
+    "kudzau": "表音文字「今 Kum」＋意味分類符「云」＋意味分類符「𨸏」",
+    "doxeng": null,
+    "tyomyun": "殷周代には、「隹」を意符とする字や表音文字「酓」に従う字などが｛陰｝に用いられている。",
+    "thytten": "于省吾1979: 111",
+    "thongqitmra": "U+9670"
+  },
+  {
+    "pieutiwbyo": "09677",
+    "dziwbyo": "陷",
+    "punngrie": "｛陷 *g-rˤəms 落とし穴、おとしいれる｝",
+    "kudzau": "表語文字「臽」＋意味分類符「阜」",
+    "doxeng": "人が穴に落ちた形",
+    "tyomyun": "殷墟甲骨文では文脈によって「麋」「牛」等に従う異なる表語文字が用いられた。",
+    "thytten": "于省吾1979: 270、裘錫圭1980b(6)、姚孝遂1981、概要P124、葛亮2013",
+    "thongqitmra": "U+9677"
+  },
+  {
+    "pieutiwbyo": "096BB",
+    "dziwbyo": "隻",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「隹」と「又」からなる字だが、構意は不明。「雙」から類推して作られた字かもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+96BB"
+  },
+  {
+    "pieutiwbyo": "096C6",
+    "dziwbyo": "集",
+    "punngrie": "｛集 *dz[u]p とどまる｝",
+    "kudzau": null,
+    "doxeng": "〈隹＋木〉鳥が樹の上にとまっている形",
+    "tyomyun": "",
+    "thytten": "劉釗2018a、郭永秉2018",
+    "thongqitmra": "U+96C6"
+  },
+  {
+    "pieutiwbyo": "096D9",
+    "dziwbyo": "雙",
+    "punngrie": "｛雙 *[s]roŋ 一対｝",
+    "kudzau": null,
+    "doxeng": "二匹の鳥",
+    "tyomyun": "下部の「又」は飾符と思われる。「双」は、「雙」の異体字「䨇」の上部を省略した簡体。",
+    "thytten": "",
+    "thongqitmra": "U+96D9"
+  },
+  {
+    "pieutiwbyo": "096E8",
+    "dziwbyo": "雨",
+    "punngrie": "｛雨 *ɢʷraʔ 雨｝",
+    "kudzau": "空から雨が降る形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+96E8"
+  },
+  {
+    "pieutiwbyo": "096EA",
+    "dziwbyo": "雪",
+    "punngrie": "｛雪 *sot ゆき｝",
+    "kudzau": "表音文字「彗(→彐) Sot」＋意味分類符「雨」",
+    "doxeng": null,
+    "tyomyun": "「彗」は｛刷 *srot はく｝の表語文字に由来すると思われる。殷墟甲骨文中には｛雪｝に「彗」字が用いられた例もある。\nなお「雪が羽根・箒のように～」の類の説明は看図説話の誤り。",
+    "thytten": "唐蘭1934/2015: (6)38",
+    "thongqitmra": "U+96EA"
+  },
+  {
+    "pieutiwbyo": "096F2",
+    "dziwbyo": "雲",
+    "punngrie": "｛雲 *ɢʷə[r] 雲｝",
+    "kudzau": "（云＝表音文字「亘囘 Qʷan」＋「上」）＋意味分類符「雨」",
+    "doxeng": null,
+    "tyomyun": "「云」字を象形字とする説はおそらく誤り。",
+    "thytten": "于省吾1979: 6、蔡哲茂《甲骨文考釋兩則》、鄔可晶2019b",
+    "thongqitmra": "U+96F2"
+  },
+  {
+    "pieutiwbyo": "09700",
+    "dziwbyo": "需",
+    "punngrie": "｛濡 *no ぬれる、つかる｝",
+    "kudzau": "〈雨＋天〉雨に濡れる人の形",
+    "doxeng": null,
+    "tyomyun": "「天(→而)」の部分を｛孺｝の表語文字に由来させる説もある。",
+    "thytten": "",
+    "thongqitmra": "U+9700"
+  },
+  {
+    "pieutiwbyo": "09752",
+    "dziwbyo": "青",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "表音文字「生 (T)Seŋ」＋注音符「井 TSeŋ」からなる分化字。",
+    "thytten": "",
+    "thongqitmra": "U+9752"
+  },
+  {
+    "pieutiwbyo": "09759",
+    "dziwbyo": "静",
+    "punngrie": null,
+    "kudzau": "表音文字「争 TSeŋ」＋注音符「井 TSeŋ」＋注音符「生 (T)Seŋ」",
+    "doxeng": null,
+    "tyomyun": "「争」字にさらに表音文字が加えられて分化した字。金文の字形から直接「青」が付加されているのではなく、「井」と「生」それぞれが付加されていると考えられる。",
+    "thytten": "",
+    "thongqitmra": "U+9759"
+  },
+  {
+    "pieutiwbyo": "09769",
+    "dziwbyo": "革",
+    "punngrie": "｛革 *kˤrək 皮革｝",
+    "kudzau": null,
+    "doxeng": "動物の皮革を切り開いた形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9769"
+  },
+  {
+    "pieutiwbyo": "097F3",
+    "dziwbyo": "音",
+    "punngrie": "｛音 *qrəm 音｝",
+    "kudzau": null,
+    "doxeng": "〈言＋丶〉「言」の下部の「口」部分に点を加え、音声を指し示す",
+    "tyomyun": "あるいは点は「言」と区別するために加えた無意味な点かもしれない。",
+    "thytten": "",
+    "thongqitmra": "U+97F3"
+  },
+  {
+    "pieutiwbyo": "09803",
+    "dziwbyo": "頃",
+    "punngrie": "｛耿 *[kʷ]ˤreŋʔ 耳が垂れる｝",
+    "kudzau": null,
+    "doxeng": "耳の大きな顔の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9803"
+  },
+  {
+    "pieutiwbyo": "09808",
+    "dziwbyo": "須",
+    "punngrie": "｛鬚 *[s-n]o くちひげ｝",
+    "kudzau": "ひげを生やした人の形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9808"
+  },
+  {
+    "pieutiwbyo": "09854",
+    "dziwbyo": "顔",
+    "punngrie": "｛顔 *ŋˤran かお｝",
+    "kudzau": "表音文字「产 NGan」＋意味分類符「頁」。「产」は飾筆が加えられて「彦」になった。",
+    "doxeng": null,
+    "tyomyun": "西周金文では意味分類符「面」に従う「⿸产面」字が使われた。秦漢代には表音文字「産」に従う字も用いられた。\nなお「入れ墨が云々」の類の説明は誤り。",
+    "thytten": "",
+    "thongqitmra": "U+9854"
+  },
+  {
+    "pieutiwbyo": "09858",
+    "dziwbyo": "願",
+    "punngrie": "｛元 *ŋor あたま｝",
+    "kudzau": "表音文字「(𥆞→)𡚇 NGon」＋意味分類符「頁」。漢代に「𡚇」は「原」形に変化した。",
+    "doxeng": null,
+    "tyomyun": "なお、戦国時代の楚では「願欲」の｛願｝には「𫹵」字が用いられた。",
+    "thytten": "謝明文2016b、蘇芃2017",
+    "thongqitmra": "U+9858"
+  },
+  {
+    "pieutiwbyo": "098DF",
+    "dziwbyo": "食",
+    "punngrie": "｛食 *mə-lək たべる｝",
+    "kudzau": null,
+    "doxeng": "〈口＋皀〉器に盛られた物を食べる形",
+    "tyomyun": "上部（「口」の倒文）を「蓋の形」とする説明は誤り。",
+    "thytten": "林義光1920",
+    "thongqitmra": "U+98DF"
+  },
+  {
+    "pieutiwbyo": "098F2",
+    "dziwbyo": "飲",
+    "punngrie": "｛飲 *qumʔ 飲む｝",
+    "kudzau": null,
+    "doxeng": "酒器中の酒を舌を出して飲む形",
+    "tyomyun": "表語文字だが、人体部分が注音符「今 Kum」＋意味分類符「欠」に再解釈されて「㱃」の字体となり、さらに「酓」が漢代に意味分類符「食」に換えられた。",
+    "thytten": "葉玉森《説契》、金祥恒《釋酓》、袁倫强《甲骨文“㱃”字補説》",
+    "thongqitmra": "U+98F2"
+  },
+  {
+    "pieutiwbyo": "09996",
+    "dziwbyo": "首",
+    "punngrie": "｛首 *l̥uʔ あたま｝",
+    "kudzau": null,
+    "doxeng": "人の頭部の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9996"
+  },
+  {
+    "pieutiwbyo": "09999",
+    "dziwbyo": "香",
+    "punngrie": "｛香 *qʰaŋ かおり、かおる｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「黍」（のち“禾”に変化）と飾符「口」（後に「甘」、楷書では“曰”形に変化）からなる字。",
+    "thytten": "郭沫若1933",
+    "thongqitmra": "U+9999"
+  },
+  {
+    "pieutiwbyo": "09A45",
+    "dziwbyo": "驅",
+    "punngrie": "｛駆 *[k]ʰ(r)o かる｝",
+    "kudzau": "表音文字「區(→区) Ko」＋意味分類符「馬」",
+    "doxeng": null,
+    "tyomyun": "「敺」字は、表語文字「𫾹」（虎を駆逐する形）に、注音符「區 Ko」を加えたのちに「虎」を省略したもの。「駆」字は、「敺」の分類符を「馬」に換えた字。",
+    "thytten": "單育辰《甲骨文中的動物之一・説“虎”》、孫亞冰《讀書劄記一則》",
+    "thongqitmra": "U+9A45"
+  },
+  {
+    "pieutiwbyo": "09AA8",
+    "dziwbyo": "骨",
+    "punngrie": "｛骨 *kˤut ほね｝",
+    "kudzau": "表語文字「冎」＋意味分類符「肉(→月)」",
+    "doxeng": "連なった骨の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9AA8"
+  },
+  {
+    "pieutiwbyo": "09AD8",
+    "dziwbyo": "高",
+    "punngrie": "｛高 *Cə.[k]ˤaw たかい｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "高いものの代表である「京」（高楼の形）と飾符「口」からなる字。",
+    "thytten": "",
+    "thongqitmra": "U+9AD8"
+  },
+  {
+    "pieutiwbyo": "09B31",
+    "dziwbyo": "鬱",
+    "punngrie": "｛鬱 *ʔut 生い茂る｝",
+    "kudzau": "表語文字「⿲林⿱勹大」＋「爵？」",
+    "doxeng": "草木が茂る中に人が隠れる形",
+    "tyomyun": "戦国時代に下部（詳細は不明）が加えられて「鬱」の字体となった。",
+    "thytten": "吴振武《説“苞”“鬱”》、王子楊2016a",
+    "thongqitmra": "U+9B31"
+  },
+  {
+    "pieutiwbyo": "09B3C",
+    "dziwbyo": "鬼",
+    "punngrie": "｛鬼 *k-ʔujʔ 霊、怪異｝",
+    "kudzau": null,
+    "doxeng": "鬼頭を強調した人の形。「面を被った人」は誤説。",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9B3C"
+  },
+  {
+    "pieutiwbyo": "09B5A",
+    "dziwbyo": "魚",
+    "punngrie": "｛魚 *ŋa うお、さかな｝",
+    "kudzau": null,
+    "doxeng": "魚の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9B5A"
+  },
+  {
+    "pieutiwbyo": "09BAE",
+    "dziwbyo": "鮮",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "「魚」と「羊」からなる会意字と思われる。",
+    "thytten": "",
+    "thongqitmra": "U+9BAE"
+  },
+  {
+    "pieutiwbyo": "09DC4",
+    "dziwbyo": "鷄",
+    "punngrie": "｛雞 *kˤe ニワトリ｝",
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "｛雞｝の表語文字（ニワトリの形）に、注音符「奚 Ke」を加えた字。ニワトリの形の部分は後に“鳥”形に変化した。",
+    "thytten": "羅振玉1927",
+    "thongqitmra": "U+9DC4"
+  },
+  {
+    "pieutiwbyo": "09E7F",
+    "dziwbyo": "鹿",
+    "punngrie": "｛鹿 *mə-rˤok シカ｝",
+    "kudzau": "シカの形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9E7F"
+  },
+  {
+    "pieutiwbyo": "09ED1",
+    "dziwbyo": "黑",
+    "punngrie": "｛墨 mˤək すみ｝",
+    "kudzau": null,
+    "doxeng": "手を縛られた人（墨刑に処される人）の形？",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9ED1"
+  },
+  {
+    "pieutiwbyo": "09F13",
+    "dziwbyo": "鼓",
+    "punngrie": "｛鼓 *[k]ˤaʔ つづみ｝",
+    "kudzau": "表語文字「壴」＋意味分類符「攴」",
+    "doxeng": "太鼓の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9F13"
+  },
+  {
+    "pieutiwbyo": "09F4A",
+    "dziwbyo": "齊",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "不明。一説に｛薺｝の表語文字。また一説に｛𪗉｝の表語文字。",
+    "thytten": "",
+    "thongqitmra": "U+9F4A"
+  },
+  {
+    "pieutiwbyo": "09F52",
+    "dziwbyo": "齒",
+    "punngrie": "｛齒 *[t-k]ʰəʔ は｝",
+    "kudzau": "表語文字「𠚕」＋注音符「止 Tə」",
+    "doxeng": "歯の形",
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9F52"
+  },
+  {
+    "pieutiwbyo": "09F9C",
+    "dziwbyo": "龜",
+    "punngrie": "｛龜 *[k]ʷə カメ｝",
+    "kudzau": "カメの形",
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+9F9C"
+  }
+]

@@ -35,6 +35,13 @@
     "thongqitmraTiengdziw": "U+3537"
   },
   {
+    "pieutiwbyo": "03558053C3",
+    "zyokdziw": "㕘",
+    "tiengdziw": "參",
+    "thongqitmraZyokdziw": "U+3558",
+    "thongqitmraTiengdziw": "U+53C3"
+  },
+  {
     "pieutiwbyo": "0355F0355F",
     "zyokdziw": "㕟",
     "tiengdziw": "㕟",
@@ -161,6 +168,13 @@
     "thongqitmraTiengdziw": "U+6434"
   },
   {
+    "pieutiwbyo": "03ABD06240",
+    "zyokdziw": "㪽",
+    "tiengdziw": "所",
+    "thongqitmraZyokdziw": "U+3ABD",
+    "thongqitmraTiengdziw": "U+6240"
+  },
+  {
     "pieutiwbyo": "03ADA06612",
     "zyokdziw": "㫚",
     "tiengdziw": "昒",
@@ -280,6 +294,13 @@
     "thongqitmraTiengdziw": "U+40D5"
   },
   {
+    "pieutiwbyo": "041AB07A97",
+    "zyokdziw": "䆫",
+    "tiengdziw": "窗",
+    "thongqitmraZyokdziw": "U+41AB",
+    "thongqitmraTiengdziw": "U+7A97"
+  },
+  {
     "pieutiwbyo": "041DF041DF",
     "zyokdziw": "䇟",
     "tiengdziw": "䇟",
@@ -371,6 +392,13 @@
     "thongqitmraTiengdziw": "U+868A"
   },
   {
+    "pieutiwbyo": "0462E055AA",
+    "zyokdziw": "䘮",
+    "tiengdziw": "喪",
+    "thongqitmraZyokdziw": "U+462E",
+    "thongqitmraTiengdziw": "U+55AA"
+  },
+  {
     "pieutiwbyo": "0467703775",
     "zyokdziw": "䙷",
     "tiengdziw": "㝵",
@@ -425,6 +453,13 @@
     "tiengdziw": "䥤",
     "thongqitmraZyokdziw": "U+4964",
     "thongqitmraTiengdziw": "U+4964"
+  },
+  {
+    "pieutiwbyo": "049DF09677",
+    "zyokdziw": "䧟",
+    "tiengdziw": "陷",
+    "thongqitmraZyokdziw": "U+49DF",
+    "thongqitmraTiengdziw": "U+9677"
   },
   {
     "pieutiwbyo": "04A68097D4",
@@ -588,6 +623,27 @@
     "thongqitmraTiengdziw": "U+4E0F"
   },
   {
+    "pieutiwbyo": "04E110919C",
+    "zyokdziw": "丑",
+    "tiengdziw": "醜",
+    "thongqitmraZyokdziw": "U+4E11",
+    "thongqitmraTiengdziw": "U+919C"
+  },
+  {
+    "pieutiwbyo": "04E1305C08",
+    "zyokdziw": "专",
+    "tiengdziw": "專",
+    "thongqitmraZyokdziw": "U+4E13",
+    "thongqitmraTiengdziw": "U+5C08"
+  },
+  {
+    "pieutiwbyo": "04E1404E14",
+    "zyokdziw": "且",
+    "tiengdziw": "且",
+    "thongqitmraZyokdziw": "U+4E14",
+    "thongqitmraTiengdziw": "U+4E14"
+  },
+  {
     "pieutiwbyo": "04E1604E16",
     "zyokdziw": "世",
     "tiengdziw": "世",
@@ -616,11 +672,25 @@
     "thongqitmraTiengdziw": "U+7D72"
   },
   {
+    "pieutiwbyo": "04E25056B4",
+    "zyokdziw": "严",
+    "tiengdziw": "嚴",
+    "thongqitmraZyokdziw": "U+4E25",
+    "thongqitmraTiengdziw": "U+56B4"
+  },
+  {
     "pieutiwbyo": "04E2604E26",
     "zyokdziw": "並",
     "tiengdziw": "並",
     "thongqitmraZyokdziw": "U+4E26",
     "thongqitmraTiengdziw": "U+4E26"
+  },
+  {
+    "pieutiwbyo": "04E27055AA",
+    "zyokdziw": "丧",
+    "tiengdziw": "喪",
+    "thongqitmraZyokdziw": "U+4E27",
+    "thongqitmraTiengdziw": "U+55AA"
   },
   {
     "pieutiwbyo": "04E2804E28",
@@ -693,6 +763,13 @@
     "thongqitmraTiengdziw": "U+81E8"
   },
   {
+    "pieutiwbyo": "04E3804E38",
+    "zyokdziw": "丸",
+    "tiengdziw": "丸",
+    "thongqitmraZyokdziw": "U+4E38",
+    "thongqitmraTiengdziw": "U+4E38"
+  },
+  {
     "pieutiwbyo": "04E3904E39",
     "zyokdziw": "丹",
     "tiengdziw": "丹",
@@ -705,6 +782,13 @@
     "tiengdziw": "爲",
     "thongqitmraZyokdziw": "U+4E3A",
     "thongqitmraTiengdziw": "U+7232"
+  },
+  {
+    "pieutiwbyo": "04E3B04E3B",
+    "zyokdziw": "主",
+    "tiengdziw": "主",
+    "thongqitmraZyokdziw": "U+4E3B",
+    "thongqitmraTiengdziw": "U+4E3B"
   },
   {
     "pieutiwbyo": "04E3C04E3C",
@@ -735,6 +819,20 @@
     "thongqitmraTiengdziw": "U+4E4B"
   },
   {
+    "pieutiwbyo": "04E5006A02",
+    "zyokdziw": "乐",
+    "tiengdziw": "樂",
+    "thongqitmraZyokdziw": "U+4E50",
+    "thongqitmraTiengdziw": "U+6A02"
+  },
+  {
+    "pieutiwbyo": "04E550864E",
+    "zyokdziw": "乕",
+    "tiengdziw": "虎",
+    "thongqitmraZyokdziw": "U+4E55",
+    "thongqitmraTiengdziw": "U+864E"
+  },
+  {
     "pieutiwbyo": "04E5604E56",
     "zyokdziw": "乖",
     "tiengdziw": "乖",
@@ -756,6 +854,13 @@
     "thongqitmraTiengdziw": "U+4E58"
   },
   {
+    "pieutiwbyo": "04E5904E59",
+    "zyokdziw": "乙",
+    "tiengdziw": "乙",
+    "thongqitmraZyokdziw": "U+4E59",
+    "thongqitmraTiengdziw": "U+4E59"
+  },
+  {
     "pieutiwbyo": "04E5D04E5D",
     "zyokdziw": "九",
     "tiengdziw": "九",
@@ -768,6 +873,20 @@
     "tiengdziw": "乞",
     "thongqitmraZyokdziw": "U+4E5E",
     "thongqitmraTiengdziw": "U+4E5E"
+  },
+  {
+    "pieutiwbyo": "04E6007FD2",
+    "zyokdziw": "习",
+    "tiengdziw": "習",
+    "thongqitmraZyokdziw": "U+4E60",
+    "thongqitmraTiengdziw": "U+7FD2"
+  },
+  {
+    "pieutiwbyo": "04E6109109",
+    "zyokdziw": "乡",
+    "tiengdziw": "鄉",
+    "thongqitmraZyokdziw": "U+4E61",
+    "thongqitmraTiengdziw": "U+9109"
   },
   {
     "pieutiwbyo": "04E66066F8",
@@ -819,6 +938,13 @@
     "thongqitmraTiengdziw": "U+4E89"
   },
   {
+    "pieutiwbyo": "04E8B04E8B",
+    "zyokdziw": "事",
+    "tiengdziw": "事",
+    "thongqitmraZyokdziw": "U+4E8B",
+    "thongqitmraTiengdziw": "U+4E8B"
+  },
+  {
     "pieutiwbyo": "04E8C04E8C",
     "zyokdziw": "二",
     "tiengdziw": "二",
@@ -854,6 +980,27 @@
     "thongqitmraTiengdziw": "U+4E95"
   },
   {
+    "pieutiwbyo": "04E9A04E9E",
+    "zyokdziw": "亚",
+    "tiengdziw": "亞",
+    "thongqitmraZyokdziw": "U+4E9A",
+    "thongqitmraTiengdziw": "U+4E9E"
+  },
+  {
+    "pieutiwbyo": "04E9C04E9E",
+    "zyokdziw": "亜",
+    "tiengdziw": "亞",
+    "thongqitmraZyokdziw": "U+4E9C",
+    "thongqitmraTiengdziw": "U+4E9E"
+  },
+  {
+    "pieutiwbyo": "04E9E04E9E",
+    "zyokdziw": "亞",
+    "tiengdziw": "亞",
+    "thongqitmraZyokdziw": "U+4E9E",
+    "thongqitmraTiengdziw": "U+4E9E"
+  },
+  {
     "pieutiwbyo": "04EA104EA1",
     "zyokdziw": "亡",
     "tiengdziw": "亡",
@@ -875,11 +1022,25 @@
     "thongqitmraTiengdziw": "U+4EA6"
   },
   {
+    "pieutiwbyo": "04EA707523",
+    "zyokdziw": "产",
+    "tiengdziw": "産",
+    "thongqitmraZyokdziw": "U+4EA7",
+    "thongqitmraTiengdziw": "U+7523"
+  },
+  {
     "pieutiwbyo": "04EA804EA8",
     "zyokdziw": "亨",
     "tiengdziw": "亨",
     "thongqitmraZyokdziw": "U+4EA8",
     "thongqitmraTiengdziw": "U+4EA8"
+  },
+  {
+    "pieutiwbyo": "04EA90755D",
+    "zyokdziw": "亩",
+    "tiengdziw": "畝",
+    "thongqitmraZyokdziw": "U+4EA9",
+    "thongqitmraTiengdziw": "U+755D"
   },
   {
     "pieutiwbyo": "04EAB04EAB",
@@ -922,6 +1083,13 @@
     "tiengdziw": "京",
     "thongqitmraZyokdziw": "U+4EB0",
     "thongqitmraTiengdziw": "U+4EAC"
+  },
+  {
+    "pieutiwbyo": "04EB2089AA",
+    "zyokdziw": "亲",
+    "tiengdziw": "親",
+    "thongqitmraZyokdziw": "U+4EB2",
+    "thongqitmraTiengdziw": "U+89AA"
   },
   {
     "pieutiwbyo": "04EB50893B",
@@ -1008,6 +1176,13 @@
     "thongqitmraTiengdziw": "U+4ECB"
   },
   {
+    "pieutiwbyo": "04ECE05F9E",
+    "zyokdziw": "从",
+    "tiengdziw": "從",
+    "thongqitmraZyokdziw": "U+4ECE",
+    "thongqitmraTiengdziw": "U+5F9E"
+  },
+  {
     "pieutiwbyo": "04ED404ED4",
     "zyokdziw": "仔",
     "tiengdziw": "仔",
@@ -1048,6 +1223,13 @@
     "tiengdziw": "仡",
     "thongqitmraZyokdziw": "U+4EE1",
     "thongqitmraTiengdziw": "U+4EE1"
+  },
+  {
+    "pieutiwbyo": "04EE504EE5",
+    "zyokdziw": "以",
+    "tiengdziw": "以",
+    "thongqitmraZyokdziw": "U+4EE5",
+    "thongqitmraTiengdziw": "U+4EE5"
   },
   {
     "pieutiwbyo": "04EEA05100",
@@ -1167,6 +1349,13 @@
     "tiengdziw": "伙",
     "thongqitmraZyokdziw": "U+4F19",
     "thongqitmraTiengdziw": "U+4F19"
+  },
+  {
+    "pieutiwbyo": "04F1A06703",
+    "zyokdziw": "会",
+    "tiengdziw": "會",
+    "thongqitmraZyokdziw": "U+4F1A",
+    "thongqitmraTiengdziw": "U+6703"
   },
   {
     "pieutiwbyo": "04F1E05098",
@@ -1300,6 +1489,13 @@
     "tiengdziw": "體",
     "thongqitmraZyokdziw": "U+4F53",
     "thongqitmraTiengdziw": "U+9AD4"
+  },
+  {
+    "pieutiwbyo": "04F5504F55",
+    "zyokdziw": "何",
+    "tiengdziw": "何",
+    "thongqitmraZyokdziw": "U+4F55",
+    "thongqitmraTiengdziw": "U+4F55"
   },
   {
     "pieutiwbyo": "04F5804F58",
@@ -1505,6 +1701,13 @@
     "thongqitmraTiengdziw": "U+5075"
   },
   {
+    "pieutiwbyo": "04FAF04FAF",
+    "zyokdziw": "侯",
+    "tiengdziw": "侯",
+    "thongqitmraZyokdziw": "U+4FAF",
+    "thongqitmraTiengdziw": "U+4FAF"
+  },
+  {
     "pieutiwbyo": "04FB604FA3",
     "zyokdziw": "侶",
     "tiengdziw": "侣",
@@ -1650,6 +1853,13 @@
     "tiengdziw": "倀",
     "thongqitmraZyokdziw": "U+5000",
     "thongqitmraTiengdziw": "U+5000"
+  },
+  {
+    "pieutiwbyo": "0500905009",
+    "zyokdziw": "倉",
+    "tiengdziw": "倉",
+    "thongqitmraZyokdziw": "U+5009",
+    "thongqitmraTiengdziw": "U+5009"
   },
   {
     "pieutiwbyo": "0500B0500B",
@@ -1974,11 +2184,25 @@
     "thongqitmraTiengdziw": "U+513F"
   },
   {
+    "pieutiwbyo": "0513F05152",
+    "zyokdziw": "儿",
+    "tiengdziw": "兒",
+    "thongqitmraZyokdziw": "U+513F",
+    "thongqitmraTiengdziw": "U+5152"
+  },
+  {
     "pieutiwbyo": "0514105141",
     "zyokdziw": "允",
     "tiengdziw": "允",
     "thongqitmraZyokdziw": "U+5141",
     "thongqitmraTiengdziw": "U+5141"
+  },
+  {
+    "pieutiwbyo": "0514305143",
+    "zyokdziw": "元",
+    "tiengdziw": "元",
+    "thongqitmraZyokdziw": "U+5143",
+    "thongqitmraTiengdziw": "U+5143"
   },
   {
     "pieutiwbyo": "0514405144",
@@ -2016,11 +2240,32 @@
     "thongqitmraTiengdziw": "U+5149"
   },
   {
+    "pieutiwbyo": "0514B0514B",
+    "zyokdziw": "克",
+    "tiengdziw": "克",
+    "thongqitmraZyokdziw": "U+514B",
+    "thongqitmraTiengdziw": "U+514B"
+  },
+  {
     "pieutiwbyo": "0514E05154",
     "zyokdziw": "兎",
     "tiengdziw": "兔",
     "thongqitmraZyokdziw": "U+514E",
     "thongqitmraTiengdziw": "U+5154"
+  },
+  {
+    "pieutiwbyo": "0515005152",
+    "zyokdziw": "児",
+    "tiengdziw": "兒",
+    "thongqitmraZyokdziw": "U+5150",
+    "thongqitmraTiengdziw": "U+5152"
+  },
+  {
+    "pieutiwbyo": "0515205152",
+    "zyokdziw": "兒",
+    "tiengdziw": "兒",
+    "thongqitmraZyokdziw": "U+5152",
+    "thongqitmraTiengdziw": "U+5152"
   },
   {
     "pieutiwbyo": "0515405154",
@@ -2065,6 +2310,13 @@
     "thongqitmraTiengdziw": "U+516B"
   },
   {
+    "pieutiwbyo": "0516C0516C",
+    "zyokdziw": "公",
+    "tiengdziw": "公",
+    "thongqitmraZyokdziw": "U+516C",
+    "thongqitmraTiengdziw": "U+516C"
+  },
+  {
     "pieutiwbyo": "0516D0516D",
     "zyokdziw": "六",
     "tiengdziw": "六",
@@ -2093,6 +2345,13 @@
     "thongqitmraTiengdziw": "U+95DC"
   },
   {
+    "pieutiwbyo": "0517408208",
+    "zyokdziw": "兴",
+    "tiengdziw": "興",
+    "thongqitmraZyokdziw": "U+5174",
+    "thongqitmraTiengdziw": "U+8208"
+  },
+  {
     "pieutiwbyo": "0517705177",
     "zyokdziw": "具",
     "tiengdziw": "具",
@@ -2112,6 +2371,13 @@
     "tiengdziw": "兹",
     "thongqitmraZyokdziw": "U+5179",
     "thongqitmraTiengdziw": "U+5179"
+  },
+  {
+    "pieutiwbyo": "0517C0517C",
+    "zyokdziw": "兼",
+    "tiengdziw": "兼",
+    "thongqitmraZyokdziw": "U+517C",
+    "thongqitmraTiengdziw": "U+517C"
   },
   {
     "pieutiwbyo": "0517D07378",
@@ -2156,6 +2422,20 @@
     "thongqitmraTiengdziw": "U+5CA1"
   },
   {
+    "pieutiwbyo": "0518A0518C",
+    "zyokdziw": "冊",
+    "tiengdziw": "册",
+    "thongqitmraZyokdziw": "U+518A",
+    "thongqitmraTiengdziw": "U+518C"
+  },
+  {
+    "pieutiwbyo": "0518C0518C",
+    "zyokdziw": "册",
+    "tiengdziw": "册",
+    "thongqitmraZyokdziw": "U+518C",
+    "thongqitmraTiengdziw": "U+518C"
+  },
+  {
     "pieutiwbyo": "0518D0518D",
     "zyokdziw": "再",
     "tiengdziw": "再",
@@ -2168,6 +2448,27 @@
     "tiengdziw": "胄",
     "thongqitmraZyokdziw": "U+5191",
     "thongqitmraTiengdziw": "U+80C4"
+  },
+  {
+    "pieutiwbyo": "0519705197",
+    "zyokdziw": "冗",
+    "tiengdziw": "冗",
+    "thongqitmraZyokdziw": "U+5197",
+    "thongqitmraTiengdziw": "U+5197"
+  },
+  {
+    "pieutiwbyo": "0519B08ECD",
+    "zyokdziw": "军",
+    "tiengdziw": "軍",
+    "thongqitmraZyokdziw": "U+519B",
+    "thongqitmraTiengdziw": "U+8ECD"
+  },
+  {
+    "pieutiwbyo": "051A0051A0",
+    "zyokdziw": "冠",
+    "tiengdziw": "冠",
+    "thongqitmraZyokdziw": "U+51A0",
+    "thongqitmraTiengdziw": "U+51A0"
   },
   {
     "pieutiwbyo": "051AC051AC",
@@ -2282,6 +2583,20 @@
     "thongqitmraTiengdziw": "U+51DB"
   },
   {
+    "pieutiwbyo": "051E005E7E",
+    "zyokdziw": "几",
+    "tiengdziw": "幾",
+    "thongqitmraZyokdziw": "U+51E0",
+    "thongqitmraTiengdziw": "U+5E7E"
+  },
+  {
+    "pieutiwbyo": "051E608655",
+    "zyokdziw": "処",
+    "tiengdziw": "處",
+    "thongqitmraZyokdziw": "U+51E6",
+    "thongqitmraTiengdziw": "U+8655"
+  },
+  {
     "pieutiwbyo": "051E7051E7",
     "zyokdziw": "凧",
     "tiengdziw": "凧",
@@ -2345,6 +2660,13 @@
     "thongqitmraTiengdziw": "U+51FA"
   },
   {
+    "pieutiwbyo": "0520305203",
+    "zyokdziw": "刃",
+    "tiengdziw": "刃",
+    "thongqitmraZyokdziw": "U+5203",
+    "thongqitmraTiengdziw": "U+5203"
+  },
+  {
     "pieutiwbyo": "0520505205",
     "zyokdziw": "刅",
     "tiengdziw": "刅",
@@ -2357,6 +2679,13 @@
     "tiengdziw": "切",
     "thongqitmraZyokdziw": "U+5207",
     "thongqitmraTiengdziw": "U+5207"
+  },
+  {
+    "pieutiwbyo": "0520805208",
+    "zyokdziw": "刈",
+    "tiengdziw": "刈",
+    "thongqitmraZyokdziw": "U+5208",
+    "thongqitmraTiengdziw": "U+5208"
   },
   {
     "pieutiwbyo": "0520A0520A",
@@ -2399,6 +2728,13 @@
     "tiengdziw": "列",
     "thongqitmraZyokdziw": "U+5217",
     "thongqitmraTiengdziw": "U+5217"
+  },
+  {
+    "pieutiwbyo": "0521905247",
+    "zyokdziw": "则",
+    "tiengdziw": "則",
+    "thongqitmraZyokdziw": "U+5219",
+    "thongqitmraTiengdziw": "U+5247"
   },
   {
     "pieutiwbyo": "0521A0525B",
@@ -2464,11 +2800,32 @@
     "thongqitmraTiengdziw": "U+5235"
   },
   {
+    "pieutiwbyo": "0523605236",
+    "zyokdziw": "制",
+    "tiengdziw": "制",
+    "thongqitmraZyokdziw": "U+5236",
+    "thongqitmraTiengdziw": "U+5236"
+  },
+  {
+    "pieutiwbyo": "0523A0523A",
+    "zyokdziw": "刺",
+    "tiengdziw": "刺",
+    "thongqitmraZyokdziw": "U+523A",
+    "thongqitmraTiengdziw": "U+523A"
+  },
+  {
     "pieutiwbyo": "0523F0528C",
     "zyokdziw": "刿",
     "tiengdziw": "劌",
     "thongqitmraZyokdziw": "U+523F",
     "thongqitmraTiengdziw": "U+528C"
+  },
+  {
+    "pieutiwbyo": "0524705247",
+    "zyokdziw": "則",
+    "tiengdziw": "則",
+    "thongqitmraZyokdziw": "U+5247",
+    "thongqitmraTiengdziw": "U+5247"
   },
   {
     "pieutiwbyo": "0524A0524A",
@@ -2483,6 +2840,13 @@
     "tiengdziw": "剌",
     "thongqitmraZyokdziw": "U+524C",
     "thongqitmraTiengdziw": "U+524C"
+  },
+  {
+    "pieutiwbyo": "0524D0524D",
+    "zyokdziw": "前",
+    "tiengdziw": "前",
+    "thongqitmraZyokdziw": "U+524D",
+    "thongqitmraTiengdziw": "U+524D"
   },
   {
     "pieutiwbyo": "0524F05259",
@@ -2539,6 +2903,13 @@
     "tiengdziw": "剩",
     "thongqitmraZyokdziw": "U+5270",
     "thongqitmraTiengdziw": "U+5269"
+  },
+  {
+    "pieutiwbyo": "0527205272",
+    "zyokdziw": "割",
+    "tiengdziw": "割",
+    "thongqitmraZyokdziw": "U+5272",
+    "thongqitmraTiengdziw": "U+5272"
   },
   {
     "pieutiwbyo": "0527305273",
@@ -2609,6 +2980,13 @@
     "tiengdziw": "功",
     "thongqitmraZyokdziw": "U+529F",
     "thongqitmraTiengdziw": "U+529F"
+  },
+  {
+    "pieutiwbyo": "052A0052A0",
+    "zyokdziw": "加",
+    "tiengdziw": "加",
+    "thongqitmraZyokdziw": "U+52A0",
+    "thongqitmraTiengdziw": "U+52A0"
   },
   {
     "pieutiwbyo": "052A2052F1",
@@ -2870,6 +3248,13 @@
     "thongqitmraTiengdziw": "U+531B"
   },
   {
+    "pieutiwbyo": "0532005320",
+    "zyokdziw": "匠",
+    "tiengdziw": "匠",
+    "thongqitmraZyokdziw": "U+5320",
+    "thongqitmraTiengdziw": "U+5320"
+  },
+  {
     "pieutiwbyo": "0532105321",
     "zyokdziw": "匡",
     "tiengdziw": "匡",
@@ -2924,6 +3309,27 @@
     "tiengdziw": "匹",
     "thongqitmraZyokdziw": "U+5339",
     "thongqitmraTiengdziw": "U+5339"
+  },
+  {
+    "pieutiwbyo": "0533A05340",
+    "zyokdziw": "区",
+    "tiengdziw": "區",
+    "thongqitmraZyokdziw": "U+533A",
+    "thongqitmraTiengdziw": "U+5340"
+  },
+  {
+    "pieutiwbyo": "0533B091AB",
+    "zyokdziw": "医",
+    "tiengdziw": "醫",
+    "thongqitmraZyokdziw": "U+533B",
+    "thongqitmraTiengdziw": "U+91AB"
+  },
+  {
+    "pieutiwbyo": "0534005340",
+    "zyokdziw": "區",
+    "tiengdziw": "區",
+    "thongqitmraZyokdziw": "U+5340",
+    "thongqitmraTiengdziw": "U+5340"
   },
   {
     "pieutiwbyo": "0534105341",
@@ -3003,6 +3409,13 @@
     "thongqitmraTiengdziw": "U+5357"
   },
   {
+    "pieutiwbyo": "0536005360",
+    "zyokdziw": "占",
+    "tiengdziw": "占",
+    "thongqitmraZyokdziw": "U+5360",
+    "thongqitmraTiengdziw": "U+5360"
+  },
+  {
     "pieutiwbyo": "0536406EF7",
     "zyokdziw": "卤",
     "tiengdziw": "滷",
@@ -3031,6 +3444,20 @@
     "thongqitmraTiengdziw": "U+5370"
   },
   {
+    "pieutiwbyo": "0537105371",
+    "zyokdziw": "危",
+    "tiengdziw": "危",
+    "thongqitmraZyokdziw": "U+5371",
+    "thongqitmraTiengdziw": "U+5371"
+  },
+  {
+    "pieutiwbyo": "0537305373",
+    "zyokdziw": "即",
+    "tiengdziw": "即",
+    "thongqitmraZyokdziw": "U+5373",
+    "thongqitmraTiengdziw": "U+5373"
+  },
+  {
     "pieutiwbyo": "0537505375",
     "zyokdziw": "卵",
     "tiengdziw": "卵",
@@ -3043,6 +3470,13 @@
     "tiengdziw": "卸",
     "thongqitmraZyokdziw": "U+5378",
     "thongqitmraTiengdziw": "U+5378"
+  },
+  {
+    "pieutiwbyo": "0537D05373",
+    "zyokdziw": "卽",
+    "tiengdziw": "即",
+    "thongqitmraZyokdziw": "U+537D",
+    "thongqitmraTiengdziw": "U+5373"
   },
   {
     "pieutiwbyo": "05386053A4",
@@ -3071,6 +3505,13 @@
     "tiengdziw": "厲",
     "thongqitmraZyokdziw": "U+5389",
     "thongqitmraTiengdziw": "U+53B2"
+  },
+  {
+    "pieutiwbyo": "0538B058D3",
+    "zyokdziw": "压",
+    "tiengdziw": "壓",
+    "thongqitmraZyokdziw": "U+538B",
+    "thongqitmraTiengdziw": "U+58D3"
   },
   {
     "pieutiwbyo": "0538D05399",
@@ -3150,11 +3591,53 @@
     "thongqitmraTiengdziw": "U+53B2"
   },
   {
+    "pieutiwbyo": "053B3056B4",
+    "zyokdziw": "厳",
+    "tiengdziw": "嚴",
+    "thongqitmraZyokdziw": "U+53B3",
+    "thongqitmraTiengdziw": "U+56B4"
+  },
+  {
     "pieutiwbyo": "053B9053B9",
     "zyokdziw": "厹",
     "tiengdziw": "厹",
     "thongqitmraZyokdziw": "U+53B9",
     "thongqitmraTiengdziw": "U+53B9"
+  },
+  {
+    "pieutiwbyo": "053BB053BB",
+    "zyokdziw": "去",
+    "tiengdziw": "去",
+    "thongqitmraZyokdziw": "U+53BB",
+    "thongqitmraTiengdziw": "U+53BB"
+  },
+  {
+    "pieutiwbyo": "053BF07E23",
+    "zyokdziw": "县",
+    "tiengdziw": "縣",
+    "thongqitmraZyokdziw": "U+53BF",
+    "thongqitmraTiengdziw": "U+7E23"
+  },
+  {
+    "pieutiwbyo": "053C2053C3",
+    "zyokdziw": "参",
+    "tiengdziw": "參",
+    "thongqitmraZyokdziw": "U+53C2",
+    "thongqitmraTiengdziw": "U+53C3"
+  },
+  {
+    "pieutiwbyo": "053C3053C3",
+    "zyokdziw": "參",
+    "tiengdziw": "參",
+    "thongqitmraZyokdziw": "U+53C3",
+    "thongqitmraTiengdziw": "U+53C3"
+  },
+  {
+    "pieutiwbyo": "053C5053C3",
+    "zyokdziw": "叅",
+    "tiengdziw": "參",
+    "thongqitmraZyokdziw": "U+53C5",
+    "thongqitmraTiengdziw": "U+53C3"
   },
   {
     "pieutiwbyo": "053C8053C8",
@@ -3178,11 +3661,32 @@
     "thongqitmraTiengdziw": "U+53CB"
   },
   {
+    "pieutiwbyo": "053CC096D9",
+    "zyokdziw": "双",
+    "tiengdziw": "雙",
+    "thongqitmraZyokdziw": "U+53CC",
+    "thongqitmraTiengdziw": "U+96D9"
+  },
+  {
     "pieutiwbyo": "053CE06536",
     "zyokdziw": "収",
     "tiengdziw": "收",
     "thongqitmraZyokdziw": "U+53CE",
     "thongqitmraTiengdziw": "U+6536"
+  },
+  {
+    "pieutiwbyo": "053D4053D4",
+    "zyokdziw": "叔",
+    "tiengdziw": "叔",
+    "thongqitmraZyokdziw": "U+53D4",
+    "thongqitmraTiengdziw": "U+53D4"
+  },
+  {
+    "pieutiwbyo": "053D6053D6",
+    "zyokdziw": "取",
+    "tiengdziw": "取",
+    "thongqitmraZyokdziw": "U+53D6",
+    "thongqitmraTiengdziw": "U+53D6"
   },
   {
     "pieutiwbyo": "053D7053D7",
@@ -3241,6 +3745,13 @@
     "thongqitmraTiengdziw": "U+6542"
   },
   {
+    "pieutiwbyo": "053EA096BB",
+    "zyokdziw": "只",
+    "tiengdziw": "隻",
+    "thongqitmraZyokdziw": "U+53EA",
+    "thongqitmraTiengdziw": "U+96BB"
+  },
+  {
     "pieutiwbyo": "053EB053EB",
     "zyokdziw": "叫",
     "tiengdziw": "叫",
@@ -3248,11 +3759,25 @@
     "thongqitmraTiengdziw": "U+53EB"
   },
   {
+    "pieutiwbyo": "053EC053EC",
+    "zyokdziw": "召",
+    "tiengdziw": "召",
+    "thongqitmraZyokdziw": "U+53EC",
+    "thongqitmraTiengdziw": "U+53EC"
+  },
+  {
     "pieutiwbyo": "053EE053EE",
     "zyokdziw": "叮",
     "tiengdziw": "叮",
     "thongqitmraZyokdziw": "U+53EE",
     "thongqitmraTiengdziw": "U+53EE"
+  },
+  {
+    "pieutiwbyo": "053EF053EF",
+    "zyokdziw": "可",
+    "tiengdziw": "可",
+    "thongqitmraZyokdziw": "U+53EF",
+    "thongqitmraTiengdziw": "U+53EF"
   },
   {
     "pieutiwbyo": "053F006AAF",
@@ -3274,6 +3799,13 @@
     "tiengdziw": "叱",
     "thongqitmraZyokdziw": "U+53F1",
     "thongqitmraTiengdziw": "U+53F1"
+  },
+  {
+    "pieutiwbyo": "053F2053F2",
+    "zyokdziw": "史",
+    "tiengdziw": "史",
+    "thongqitmraZyokdziw": "U+53F2",
+    "thongqitmraTiengdziw": "U+53F2"
   },
   {
     "pieutiwbyo": "053F3053F3",
@@ -3323,6 +3855,13 @@
     "tiengdziw": "號",
     "thongqitmraZyokdziw": "U+53F7",
     "thongqitmraTiengdziw": "U+865F"
+  },
+  {
+    "pieutiwbyo": "053F8053F8",
+    "zyokdziw": "司",
+    "tiengdziw": "司",
+    "thongqitmraZyokdziw": "U+53F8",
+    "thongqitmraTiengdziw": "U+53F8"
   },
   {
     "pieutiwbyo": "053F905606",
@@ -3500,6 +4039,13 @@
     "thongqitmraTiengdziw": "U+542E"
   },
   {
+    "pieutiwbyo": "0542F05553",
+    "zyokdziw": "启",
+    "tiengdziw": "啓",
+    "thongqitmraZyokdziw": "U+542F",
+    "thongqitmraTiengdziw": "U+5553"
+  },
+  {
     "pieutiwbyo": "0543305434",
     "zyokdziw": "吳",
     "tiengdziw": "吴",
@@ -3533,6 +4079,13 @@
     "tiengdziw": "吸",
     "thongqitmraZyokdziw": "U+5438",
     "thongqitmraTiengdziw": "U+5438"
+  },
+  {
+    "pieutiwbyo": "0543905439",
+    "zyokdziw": "吹",
+    "tiengdziw": "吹",
+    "thongqitmraZyokdziw": "U+5439",
+    "thongqitmraTiengdziw": "U+5439"
   },
   {
     "pieutiwbyo": "0543B0543B",
@@ -3582,6 +4135,13 @@
     "tiengdziw": "吴",
     "thongqitmraZyokdziw": "U+5449",
     "thongqitmraTiengdziw": "U+5434"
+  },
+  {
+    "pieutiwbyo": "0544A0544A",
+    "zyokdziw": "告",
+    "tiengdziw": "告",
+    "thongqitmraZyokdziw": "U+544A",
+    "thongqitmraTiengdziw": "U+544A"
   },
   {
     "pieutiwbyo": "0545005450",
@@ -3659,6 +4219,13 @@
     "tiengdziw": "呻",
     "thongqitmraZyokdziw": "U+547B",
     "thongqitmraTiengdziw": "U+547B"
+  },
+  {
+    "pieutiwbyo": "0547C0547C",
+    "zyokdziw": "呼",
+    "tiengdziw": "呼",
+    "thongqitmraZyokdziw": "U+547C",
+    "thongqitmraTiengdziw": "U+547C"
   },
   {
     "pieutiwbyo": "0548405484",
@@ -3927,11 +4494,25 @@
     "thongqitmraTiengdziw": "U+554F"
   },
   {
+    "pieutiwbyo": "0555305553",
+    "zyokdziw": "啓",
+    "tiengdziw": "啓",
+    "thongqitmraZyokdziw": "U+5553",
+    "thongqitmraTiengdziw": "U+5553"
+  },
+  {
     "pieutiwbyo": "0555505555",
     "zyokdziw": "啕",
     "tiengdziw": "啕",
     "thongqitmraZyokdziw": "U+5555",
     "thongqitmraTiengdziw": "U+5555"
+  },
+  {
+    "pieutiwbyo": "0555F05553",
+    "zyokdziw": "啟",
+    "tiengdziw": "啓",
+    "thongqitmraZyokdziw": "U+555F",
+    "thongqitmraTiengdziw": "U+5553"
   },
   {
     "pieutiwbyo": "055630929C",
@@ -3969,6 +4550,13 @@
     "thongqitmraTiengdziw": "U+5583"
   },
   {
+    "pieutiwbyo": "0558405584",
+    "zyokdziw": "善",
+    "tiengdziw": "善",
+    "thongqitmraZyokdziw": "U+5584",
+    "thongqitmraTiengdziw": "U+5584"
+  },
+  {
     "pieutiwbyo": "0558B0558B",
     "zyokdziw": "喋",
     "tiengdziw": "喋",
@@ -3990,6 +4578,13 @@
     "thongqitmraTiengdziw": "U+7616"
   },
   {
+    "pieutiwbyo": "0559C0559C",
+    "zyokdziw": "喜",
+    "tiengdziw": "喜",
+    "thongqitmraZyokdziw": "U+559C",
+    "thongqitmraTiengdziw": "U+559C"
+  },
+  {
     "pieutiwbyo": "0559F0559F",
     "zyokdziw": "喟",
     "tiengdziw": "喟",
@@ -4009,6 +4604,13 @@
     "tiengdziw": "喦",
     "thongqitmraZyokdziw": "U+55A6",
     "thongqitmraTiengdziw": "U+55A6"
+  },
+  {
+    "pieutiwbyo": "055AA055AA",
+    "zyokdziw": "喪",
+    "tiengdziw": "喪",
+    "thongqitmraZyokdziw": "U+55AA",
+    "thongqitmraTiengdziw": "U+55AA"
   },
   {
     "pieutiwbyo": "055BE056B3",
@@ -4249,6 +4851,13 @@
     "thongqitmraTiengdziw": "U+56B3"
   },
   {
+    "pieutiwbyo": "056B4056B4",
+    "zyokdziw": "嚴",
+    "tiengdziw": "嚴",
+    "thongqitmraZyokdziw": "U+56B4",
+    "thongqitmraTiengdziw": "U+56B4"
+  },
+  {
     "pieutiwbyo": "056BB056C2",
     "zyokdziw": "嚻",
     "tiengdziw": "囂",
@@ -4326,6 +4935,13 @@
     "thongqitmraTiengdziw": "U+8FF4"
   },
   {
+    "pieutiwbyo": "056E0056E0",
+    "zyokdziw": "因",
+    "tiengdziw": "因",
+    "thongqitmraZyokdziw": "U+56E0",
+    "thongqitmraTiengdziw": "U+56E0"
+  },
+  {
     "pieutiwbyo": "056EC056DE",
     "zyokdziw": "囬",
     "tiengdziw": "回",
@@ -4354,11 +4970,25 @@
     "thongqitmraTiengdziw": "U+56F0"
   },
   {
+    "pieutiwbyo": "056F20570D",
+    "zyokdziw": "囲",
+    "tiengdziw": "圍",
+    "thongqitmraZyokdziw": "U+56F2",
+    "thongqitmraTiengdziw": "U+570D"
+  },
+  {
     "pieutiwbyo": "056F305716",
     "zyokdziw": "図",
     "tiengdziw": "圖",
     "thongqitmraZyokdziw": "U+56F3",
     "thongqitmraTiengdziw": "U+5716"
+  },
+  {
+    "pieutiwbyo": "056F40570D",
+    "zyokdziw": "围",
+    "tiengdziw": "圍",
+    "thongqitmraZyokdziw": "U+56F4",
+    "thongqitmraTiengdziw": "U+570D"
   },
   {
     "pieutiwbyo": "056FA056FA",
@@ -4410,6 +5040,13 @@
     "thongqitmraTiengdziw": "U+570A"
   },
   {
+    "pieutiwbyo": "0570D0570D",
+    "zyokdziw": "圍",
+    "tiengdziw": "圍",
+    "thongqitmraZyokdziw": "U+570D",
+    "thongqitmraTiengdziw": "U+570D"
+  },
+  {
     "pieutiwbyo": "0570E05713",
     "zyokdziw": "圎",
     "tiengdziw": "圓",
@@ -4452,11 +5089,32 @@
     "thongqitmraTiengdziw": "U+5723"
   },
   {
+    "pieutiwbyo": "0572308056",
+    "zyokdziw": "圣",
+    "tiengdziw": "聖",
+    "thongqitmraZyokdziw": "U+5723",
+    "thongqitmraTiengdziw": "U+8056"
+  },
+  {
     "pieutiwbyo": "0572505725",
     "zyokdziw": "圥",
     "tiengdziw": "圥",
     "thongqitmraZyokdziw": "U+5725",
     "thongqitmraTiengdziw": "U+5725"
+  },
+  {
+    "pieutiwbyo": "05727058D3",
+    "zyokdziw": "圧",
+    "tiengdziw": "壓",
+    "thongqitmraZyokdziw": "U+5727",
+    "thongqitmraTiengdziw": "U+58D3"
+  },
+  {
+    "pieutiwbyo": "0572805728",
+    "zyokdziw": "在",
+    "tiengdziw": "在",
+    "thongqitmraZyokdziw": "U+5728",
+    "thongqitmraTiengdziw": "U+5728"
   },
   {
     "pieutiwbyo": "0572E0572E",
@@ -4592,6 +5250,13 @@
     "thongqitmraTiengdziw": "U+5774"
   },
   {
+    "pieutiwbyo": "0578205782",
+    "zyokdziw": "垂",
+    "tiengdziw": "垂",
+    "thongqitmraZyokdziw": "U+5782",
+    "thongqitmraTiengdziw": "U+5782"
+  },
+  {
     "pieutiwbyo": "0578B0578B",
     "zyokdziw": "型",
     "tiengdziw": "型",
@@ -4625,6 +5290,13 @@
     "tiengdziw": "垾",
     "thongqitmraZyokdziw": "U+57BE",
     "thongqitmraTiengdziw": "U+57BE"
+  },
+  {
+    "pieutiwbyo": "057C005782",
+    "zyokdziw": "埀",
+    "tiengdziw": "垂",
+    "thongqitmraZyokdziw": "U+57C0",
+    "thongqitmraTiengdziw": "U+5782"
   },
   {
     "pieutiwbyo": "057C7057C7",
@@ -4688,6 +5360,13 @@
     "tiengdziw": "埶",
     "thongqitmraZyokdziw": "U+57F6",
     "thongqitmraTiengdziw": "U+57F6"
+  },
+  {
+    "pieutiwbyo": "057F7057F7",
+    "zyokdziw": "執",
+    "tiengdziw": "執",
+    "thongqitmraZyokdziw": "U+57F7",
+    "thongqitmraTiengdziw": "U+57F7"
   },
   {
     "pieutiwbyo": "0580005800",
@@ -4795,6 +5474,13 @@
     "thongqitmraTiengdziw": "U+5858"
   },
   {
+    "pieutiwbyo": "0585E0585E",
+    "zyokdziw": "塞",
+    "tiengdziw": "塞",
+    "thongqitmraZyokdziw": "U+585E",
+    "thongqitmraTiengdziw": "U+585E"
+  },
+  {
     "pieutiwbyo": "0586405864",
     "zyokdziw": "塤",
     "tiengdziw": "塤",
@@ -4821,6 +5507,13 @@
     "tiengdziw": "塵",
     "thongqitmraZyokdziw": "U+5875",
     "thongqitmraTiengdziw": "U+5875"
+  },
+  {
+    "pieutiwbyo": "0587E0587E",
+    "zyokdziw": "塾",
+    "tiengdziw": "塾",
+    "thongqitmraZyokdziw": "U+587E",
+    "thongqitmraTiengdziw": "U+587E"
   },
   {
     "pieutiwbyo": "0588505885",
@@ -4928,6 +5621,13 @@
     "thongqitmraTiengdziw": "U+58D1"
   },
   {
+    "pieutiwbyo": "058D3058D3",
+    "zyokdziw": "壓",
+    "tiengdziw": "壓",
+    "thongqitmraZyokdziw": "U+58D3",
+    "thongqitmraTiengdziw": "U+58D3"
+  },
+  {
     "pieutiwbyo": "058D9058D9",
     "zyokdziw": "壙",
     "tiengdziw": "壙",
@@ -4956,6 +5656,13 @@
     "thongqitmraTiengdziw": "U+58E2"
   },
   {
+    "pieutiwbyo": "058EB058EB",
+    "zyokdziw": "士",
+    "tiengdziw": "士",
+    "thongqitmraZyokdziw": "U+58EB",
+    "thongqitmraTiengdziw": "U+58EB"
+  },
+  {
     "pieutiwbyo": "058EE058EF",
     "zyokdziw": "壮",
     "tiengdziw": "壯",
@@ -4975,6 +5682,20 @@
     "tiengdziw": "聲",
     "thongqitmraZyokdziw": "U+58F0",
     "thongqitmraTiengdziw": "U+8072"
+  },
+  {
+    "pieutiwbyo": "058F1058F9",
+    "zyokdziw": "壱",
+    "tiengdziw": "壹",
+    "thongqitmraZyokdziw": "U+58F1",
+    "thongqitmraTiengdziw": "U+58F9"
+  },
+  {
+    "pieutiwbyo": "058F306BBB",
+    "zyokdziw": "壳",
+    "tiengdziw": "殻",
+    "thongqitmraZyokdziw": "U+58F3",
+    "thongqitmraTiengdziw": "U+6BBB"
   },
   {
     "pieutiwbyo": "058F6058FA",
@@ -4998,6 +5719,13 @@
     "thongqitmraTiengdziw": "U+58FC"
   },
   {
+    "pieutiwbyo": "058F9058F9",
+    "zyokdziw": "壹",
+    "tiengdziw": "壹",
+    "thongqitmraZyokdziw": "U+58F9",
+    "thongqitmraTiengdziw": "U+58F9"
+  },
+  {
     "pieutiwbyo": "058FA058FA",
     "zyokdziw": "壺",
     "tiengdziw": "壺",
@@ -5010,6 +5738,13 @@
     "tiengdziw": "壼",
     "thongqitmraZyokdziw": "U+58FC",
     "thongqitmraTiengdziw": "U+58FC"
+  },
+  {
+    "pieutiwbyo": "058FD058FD",
+    "zyokdziw": "壽",
+    "tiengdziw": "壽",
+    "thongqitmraZyokdziw": "U+58FD",
+    "thongqitmraTiengdziw": "U+58FD"
   },
   {
     "pieutiwbyo": "058FF058AB",
@@ -5026,11 +5761,25 @@
     "thongqitmraTiengdziw": "U+5903"
   },
   {
+    "pieutiwbyo": "0590408655",
+    "zyokdziw": "处",
+    "tiengdziw": "處",
+    "thongqitmraZyokdziw": "U+5904",
+    "thongqitmraTiengdziw": "U+8655"
+  },
+  {
     "pieutiwbyo": "0590B0590B",
     "zyokdziw": "夋",
     "tiengdziw": "夋",
     "thongqitmraZyokdziw": "U+590B",
     "thongqitmraTiengdziw": "U+590B"
+  },
+  {
+    "pieutiwbyo": "0590F0590F",
+    "zyokdziw": "夏",
+    "tiengdziw": "夏",
+    "thongqitmraZyokdziw": "U+590F",
+    "thongqitmraTiengdziw": "U+590F"
   },
   {
     "pieutiwbyo": "0591205912",
@@ -5110,6 +5859,13 @@
     "thongqitmraTiengdziw": "U+592A"
   },
   {
+    "pieutiwbyo": "0592E0592E",
+    "zyokdziw": "央",
+    "tiengdziw": "央",
+    "thongqitmraZyokdziw": "U+592E",
+    "thongqitmraTiengdziw": "U+592E"
+  },
+  {
     "pieutiwbyo": "0593105931",
     "zyokdziw": "失",
     "tiengdziw": "失",
@@ -5152,6 +5908,13 @@
     "thongqitmraTiengdziw": "U+596E"
   },
   {
+    "pieutiwbyo": "0594F0594F",
+    "zyokdziw": "奏",
+    "tiengdziw": "奏",
+    "thongqitmraZyokdziw": "U+594F",
+    "thongqitmraTiengdziw": "U+594F"
+  },
+  {
     "pieutiwbyo": "0595505955",
     "zyokdziw": "奕",
     "tiengdziw": "奕",
@@ -5185,6 +5948,20 @@
     "tiengdziw": "奢",
     "thongqitmraZyokdziw": "U+5962",
     "thongqitmraTiengdziw": "U+5962"
+  },
+  {
+    "pieutiwbyo": "0596505965",
+    "zyokdziw": "奥",
+    "tiengdziw": "奥",
+    "thongqitmraZyokdziw": "U+5965",
+    "thongqitmraTiengdziw": "U+5965"
+  },
+  {
+    "pieutiwbyo": "0596705965",
+    "zyokdziw": "奧",
+    "tiengdziw": "奥",
+    "thongqitmraZyokdziw": "U+5967",
+    "thongqitmraTiengdziw": "U+5965"
   },
   {
     "pieutiwbyo": "059680596C",
@@ -5404,6 +6181,27 @@
     "thongqitmraTiengdziw": "U+59B2"
   },
   {
+    "pieutiwbyo": "059BB059BB",
+    "zyokdziw": "妻",
+    "tiengdziw": "妻",
+    "thongqitmraZyokdziw": "U+59BB",
+    "thongqitmraTiengdziw": "U+59BB"
+  },
+  {
+    "pieutiwbyo": "059C9059CA",
+    "zyokdziw": "姉",
+    "tiengdziw": "姊",
+    "thongqitmraZyokdziw": "U+59C9",
+    "thongqitmraTiengdziw": "U+59CA"
+  },
+  {
+    "pieutiwbyo": "059CA059CA",
+    "zyokdziw": "姊",
+    "tiengdziw": "姊",
+    "thongqitmraZyokdziw": "U+59CA",
+    "thongqitmraTiengdziw": "U+59CA"
+  },
+  {
     "pieutiwbyo": "059D1059D1",
     "zyokdziw": "姑",
     "tiengdziw": "姑",
@@ -5416,6 +6214,13 @@
     "tiengdziw": "姓",
     "thongqitmraZyokdziw": "U+59D3",
     "thongqitmraTiengdziw": "U+59D3"
+  },
+  {
+    "pieutiwbyo": "059D4059D4",
+    "zyokdziw": "委",
+    "tiengdziw": "委",
+    "thongqitmraZyokdziw": "U+59D4",
+    "thongqitmraTiengdziw": "U+59D4"
   },
   {
     "pieutiwbyo": "059DC08591",
@@ -5598,6 +6403,13 @@
     "tiengdziw": "嬸",
     "thongqitmraZyokdziw": "U+5A76",
     "thongqitmraTiengdziw": "U+5B38"
+  },
+  {
+    "pieutiwbyo": "05A7F05A7F",
+    "zyokdziw": "婿",
+    "tiengdziw": "婿",
+    "thongqitmraZyokdziw": "U+5A7F",
+    "thongqitmraTiengdziw": "U+5A7F"
   },
   {
     "pieutiwbyo": "05A9305A93",
@@ -5859,6 +6671,13 @@
     "thongqitmraTiengdziw": "U+5B80"
   },
   {
+    "pieutiwbyo": "05B8205197",
+    "zyokdziw": "宂",
+    "tiengdziw": "冗",
+    "thongqitmraZyokdziw": "U+5B82",
+    "thongqitmraTiengdziw": "U+5197"
+  },
+  {
     "pieutiwbyo": "05B8405B84",
     "zyokdziw": "宄",
     "tiengdziw": "宄",
@@ -5871,6 +6690,13 @@
     "tiengdziw": "守",
     "thongqitmraZyokdziw": "U+5B88",
     "thongqitmraTiengdziw": "U+5B88"
+  },
+  {
+    "pieutiwbyo": "05B8905B89",
+    "zyokdziw": "安",
+    "tiengdziw": "安",
+    "thongqitmraZyokdziw": "U+5B89",
+    "thongqitmraTiengdziw": "U+5B89"
   },
   {
     "pieutiwbyo": "05B8B05B8B",
@@ -5894,6 +6720,20 @@
     "thongqitmraTiengdziw": "U+5B95"
   },
   {
+    "pieutiwbyo": "05B9705B97",
+    "zyokdziw": "宗",
+    "tiengdziw": "宗",
+    "thongqitmraZyokdziw": "U+5B97",
+    "thongqitmraTiengdziw": "U+5B97"
+  },
+  {
+    "pieutiwbyo": "05B9805B98",
+    "zyokdziw": "官",
+    "tiengdziw": "官",
+    "thongqitmraZyokdziw": "U+5B98",
+    "thongqitmraTiengdziw": "U+5B98"
+  },
+  {
     "pieutiwbyo": "05B9905B99",
     "zyokdziw": "宙",
     "tiengdziw": "宙",
@@ -5906,6 +6746,13 @@
     "tiengdziw": "定",
     "thongqitmraZyokdziw": "U+5B9A",
     "thongqitmraTiengdziw": "U+5B9A"
+  },
+  {
+    "pieutiwbyo": "05B9B05B9B",
+    "zyokdziw": "宛",
+    "tiengdziw": "宛",
+    "thongqitmraZyokdziw": "U+5B9B",
+    "thongqitmraTiengdziw": "U+5B9B"
   },
   {
     "pieutiwbyo": "05B9C05B9C",
@@ -5971,6 +6818,13 @@
     "thongqitmraTiengdziw": "U+5BA6"
   },
   {
+    "pieutiwbyo": "05BAA061B2",
+    "zyokdziw": "宪",
+    "tiengdziw": "憲",
+    "thongqitmraZyokdziw": "U+5BAA",
+    "thongqitmraTiengdziw": "U+61B2"
+  },
+  {
     "pieutiwbyo": "05BAB05BAB",
     "zyokdziw": "宫",
     "tiengdziw": "宫",
@@ -5985,11 +6839,32 @@
     "thongqitmraTiengdziw": "U+5BAB"
   },
   {
+    "pieutiwbyo": "05BB005BB0",
+    "zyokdziw": "宰",
+    "tiengdziw": "宰",
+    "thongqitmraZyokdziw": "U+5BB0",
+    "thongqitmraTiengdziw": "U+5BB0"
+  },
+  {
+    "pieutiwbyo": "05BB305BB3",
+    "zyokdziw": "害",
+    "tiengdziw": "害",
+    "thongqitmraZyokdziw": "U+5BB3",
+    "thongqitmraTiengdziw": "U+5BB3"
+  },
+  {
     "pieutiwbyo": "05BB505BB5",
     "zyokdziw": "宵",
     "tiengdziw": "宵",
     "thongqitmraZyokdziw": "U+5BB5",
     "thongqitmraTiengdziw": "U+5BB5"
+  },
+  {
+    "pieutiwbyo": "05BB605BB6",
+    "zyokdziw": "家",
+    "tiengdziw": "家",
+    "thongqitmraZyokdziw": "U+5BB6",
+    "thongqitmraTiengdziw": "U+5BB6"
   },
   {
     "pieutiwbyo": "05BBF05BBF",
@@ -6006,6 +6881,13 @@
     "thongqitmraTiengdziw": "U+5BC7"
   },
   {
+    "pieutiwbyo": "05BD105BE2",
+    "zyokdziw": "寑",
+    "tiengdziw": "寢",
+    "thongqitmraZyokdziw": "U+5BD1",
+    "thongqitmraTiengdziw": "U+5BE2"
+  },
+  {
     "pieutiwbyo": "05BD205BD2",
     "zyokdziw": "寒",
     "tiengdziw": "寒",
@@ -6013,11 +6895,25 @@
     "thongqitmraTiengdziw": "U+5BD2"
   },
   {
+    "pieutiwbyo": "05BDD05BE2",
+    "zyokdziw": "寝",
+    "tiengdziw": "寢",
+    "thongqitmraZyokdziw": "U+5BDD",
+    "thongqitmraTiengdziw": "U+5BE2"
+  },
+  {
     "pieutiwbyo": "05BE105BE1",
     "zyokdziw": "寡",
     "tiengdziw": "寡",
     "thongqitmraZyokdziw": "U+5BE1",
     "thongqitmraTiengdziw": "U+5BE1"
+  },
+  {
+    "pieutiwbyo": "05BE205BE2",
+    "zyokdziw": "寢",
+    "tiengdziw": "寢",
+    "thongqitmraZyokdziw": "U+5BE2",
+    "thongqitmraTiengdziw": "U+5BE2"
   },
   {
     "pieutiwbyo": "05BE405BE4",
@@ -6076,6 +6972,13 @@
     "thongqitmraTiengdziw": "U+5BFA"
   },
   {
+    "pieutiwbyo": "05BFB05C0B",
+    "zyokdziw": "寻",
+    "tiengdziw": "尋",
+    "thongqitmraZyokdziw": "U+5BFB",
+    "thongqitmraTiengdziw": "U+5C0B"
+  },
+  {
     "pieutiwbyo": "05BFC05C0E",
     "zyokdziw": "导",
     "tiengdziw": "導",
@@ -6088,6 +6991,20 @@
     "tiengdziw": "對",
     "thongqitmraZyokdziw": "U+5BFE",
     "thongqitmraTiengdziw": "U+5C0D"
+  },
+  {
+    "pieutiwbyo": "05BFF058FD",
+    "zyokdziw": "寿",
+    "tiengdziw": "壽",
+    "thongqitmraZyokdziw": "U+5BFF",
+    "thongqitmraTiengdziw": "U+58FD"
+  },
+  {
+    "pieutiwbyo": "05C0205C08",
+    "zyokdziw": "専",
+    "tiengdziw": "專",
+    "thongqitmraZyokdziw": "U+5C02",
+    "thongqitmraTiengdziw": "U+5C08"
   },
   {
     "pieutiwbyo": "05C0405C04",
@@ -6111,6 +7028,13 @@
     "thongqitmraTiengdziw": "U+5C07"
   },
   {
+    "pieutiwbyo": "05C0805C08",
+    "zyokdziw": "專",
+    "tiengdziw": "專",
+    "thongqitmraZyokdziw": "U+5C08",
+    "thongqitmraTiengdziw": "U+5C08"
+  },
+  {
     "pieutiwbyo": "05C0905C09",
     "zyokdziw": "尉",
     "tiengdziw": "尉",
@@ -6123,6 +7047,13 @@
     "tiengdziw": "尊",
     "thongqitmraZyokdziw": "U+5C0A",
     "thongqitmraTiengdziw": "U+5C0A"
+  },
+  {
+    "pieutiwbyo": "05C0B05C0B",
+    "zyokdziw": "尋",
+    "tiengdziw": "尋",
+    "thongqitmraZyokdziw": "U+5C0B",
+    "thongqitmraTiengdziw": "U+5C0B"
   },
   {
     "pieutiwbyo": "05C0D05C0D",
@@ -6167,6 +7098,20 @@
     "thongqitmraTiengdziw": "U+5875"
   },
   {
+    "pieutiwbyo": "05C1905C1A",
+    "zyokdziw": "尙",
+    "tiengdziw": "尚",
+    "thongqitmraZyokdziw": "U+5C19",
+    "thongqitmraTiengdziw": "U+5C1A"
+  },
+  {
+    "pieutiwbyo": "05C1A05C1A",
+    "zyokdziw": "尚",
+    "tiengdziw": "尚",
+    "thongqitmraZyokdziw": "U+5C1A",
+    "thongqitmraTiengdziw": "U+5C1A"
+  },
+  {
     "pieutiwbyo": "05C1F05C1F",
     "zyokdziw": "尟",
     "tiengdziw": "尟",
@@ -6195,6 +7140,13 @@
     "thongqitmraTiengdziw": "U+5C2C"
   },
   {
+    "pieutiwbyo": "05C3105C31",
+    "zyokdziw": "就",
+    "tiengdziw": "就",
+    "thongqitmraZyokdziw": "U+5C31",
+    "thongqitmraTiengdziw": "U+5C31"
+  },
+  {
     "pieutiwbyo": "05C3405C37",
     "zyokdziw": "尴",
     "tiengdziw": "尷",
@@ -6216,11 +7168,25 @@
     "thongqitmraTiengdziw": "U+5C39"
   },
   {
+    "pieutiwbyo": "05C3A05C3A",
+    "zyokdziw": "尺",
+    "tiengdziw": "尺",
+    "thongqitmraZyokdziw": "U+5C3A",
+    "thongqitmraTiengdziw": "U+5C3A"
+  },
+  {
     "pieutiwbyo": "05C3B05C3B",
     "zyokdziw": "尻",
     "tiengdziw": "尻",
     "thongqitmraZyokdziw": "U+5C3B",
     "thongqitmraTiengdziw": "U+5C3B"
+  },
+  {
+    "pieutiwbyo": "05C3D076E1",
+    "zyokdziw": "尽",
+    "tiengdziw": "盡",
+    "thongqitmraZyokdziw": "U+5C3D",
+    "thongqitmraTiengdziw": "U+76E1"
   },
   {
     "pieutiwbyo": "05C4004FB7",
@@ -6272,11 +7238,25 @@
     "thongqitmraTiengdziw": "U+5C4A"
   },
   {
+    "pieutiwbyo": "05C4B05C4B",
+    "zyokdziw": "屋",
+    "tiengdziw": "屋",
+    "thongqitmraZyokdziw": "U+5C4B",
+    "thongqitmraTiengdziw": "U+5C4B"
+  },
+  {
     "pieutiwbyo": "05C5A05C5A",
     "zyokdziw": "屚",
     "tiengdziw": "屚",
     "thongqitmraZyokdziw": "U+5C5A",
     "thongqitmraTiengdziw": "U+5C5A"
+  },
+  {
+    "pieutiwbyo": "05C5E05C6C",
+    "zyokdziw": "属",
+    "tiengdziw": "屬",
+    "thongqitmraZyokdziw": "U+5C5E",
+    "thongqitmraTiengdziw": "U+5C6C"
   },
   {
     "pieutiwbyo": "05C5F05C67",
@@ -6305,6 +7285,13 @@
     "tiengdziw": "屧",
     "thongqitmraZyokdziw": "U+5C67",
     "thongqitmraTiengdziw": "U+5C67"
+  },
+  {
+    "pieutiwbyo": "05C6C05C6C",
+    "zyokdziw": "屬",
+    "tiengdziw": "屬",
+    "thongqitmraZyokdziw": "U+5C6C",
+    "thongqitmraTiengdziw": "U+5C6C"
   },
   {
     "pieutiwbyo": "05C6E05C6E",
@@ -6391,6 +7378,13 @@
     "thongqitmraTiengdziw": "U+5CF4"
   },
   {
+    "pieutiwbyo": "05C9A05D50",
+    "zyokdziw": "岚",
+    "tiengdziw": "嵐",
+    "thongqitmraZyokdziw": "U+5C9A",
+    "thongqitmraTiengdziw": "U+5D50"
+  },
+  {
     "pieutiwbyo": "05CA105CA1",
     "zyokdziw": "岡",
     "tiengdziw": "岡",
@@ -6424,6 +7418,13 @@
     "tiengdziw": "岫",
     "thongqitmraZyokdziw": "U+5CAB",
     "thongqitmraTiengdziw": "U+5CAB"
+  },
+  {
+    "pieutiwbyo": "05CB305CB3",
+    "zyokdziw": "岳",
+    "tiengdziw": "岳",
+    "thongqitmraZyokdziw": "U+5CB3",
+    "thongqitmraTiengdziw": "U+5CB3"
   },
   {
     "pieutiwbyo": "05CB505CB5",
@@ -6650,6 +7651,13 @@
     "thongqitmraTiengdziw": "U+5D4A"
   },
   {
+    "pieutiwbyo": "05D5005D50",
+    "zyokdziw": "嵐",
+    "tiengdziw": "嵐",
+    "thongqitmraZyokdziw": "U+5D50",
+    "thongqitmraTiengdziw": "U+5D50"
+  },
+  {
     "pieutiwbyo": "05D5205D52",
     "zyokdziw": "嵒",
     "tiengdziw": "嵒",
@@ -6790,6 +7798,20 @@
     "thongqitmraTiengdziw": "U+5DE1"
   },
   {
+    "pieutiwbyo": "05DE205DE2",
+    "zyokdziw": "巢",
+    "tiengdziw": "巢",
+    "thongqitmraZyokdziw": "U+5DE2",
+    "thongqitmraTiengdziw": "U+5DE2"
+  },
+  {
+    "pieutiwbyo": "05DE305DE2",
+    "zyokdziw": "巣",
+    "tiengdziw": "巢",
+    "thongqitmraZyokdziw": "U+5DE3",
+    "thongqitmraTiengdziw": "U+5DE2"
+  },
+  {
     "pieutiwbyo": "05DE405DE4",
     "zyokdziw": "巤",
     "tiengdziw": "巤",
@@ -6872,6 +7894,27 @@
     "tiengdziw": "市",
     "thongqitmraZyokdziw": "U+5E02",
     "thongqitmraTiengdziw": "U+5E02"
+  },
+  {
+    "pieutiwbyo": "05E0505E25",
+    "zyokdziw": "帅 ",
+    "tiengdziw": "帥",
+    "thongqitmraZyokdziw": "U+5E05",
+    "thongqitmraTiengdziw": "U+5E25"
+  },
+  {
+    "pieutiwbyo": "05E0805E2B",
+    "zyokdziw": "师",
+    "tiengdziw": "師",
+    "thongqitmraZyokdziw": "U+5E08",
+    "thongqitmraTiengdziw": "U+5E2B"
+  },
+  {
+    "pieutiwbyo": "05E0C05E0C",
+    "zyokdziw": "希",
+    "tiengdziw": "希",
+    "thongqitmraZyokdziw": "U+5E0C",
+    "thongqitmraTiengdziw": "U+5E0C"
   },
   {
     "pieutiwbyo": "05E1005E33",
@@ -6958,6 +8001,20 @@
     "thongqitmraTiengdziw": "U+5E22"
   },
   {
+    "pieutiwbyo": "05E2505E25",
+    "zyokdziw": "帥",
+    "tiengdziw": "帥",
+    "thongqitmraZyokdziw": "U+5E25",
+    "thongqitmraTiengdziw": "U+5E25"
+  },
+  {
+    "pieutiwbyo": "05E2B05E2B",
+    "zyokdziw": "師",
+    "tiengdziw": "師",
+    "thongqitmraZyokdziw": "U+5E2B",
+    "thongqitmraTiengdziw": "U+5E2B"
+  },
+  {
     "pieutiwbyo": "05E2C05E2C",
     "zyokdziw": "帬",
     "tiengdziw": "帬",
@@ -6977,6 +8034,13 @@
     "tiengdziw": "蓆",
     "thongqitmraZyokdziw": "U+5E2D",
     "thongqitmraTiengdziw": "U+84C6"
+  },
+  {
+    "pieutiwbyo": "05E3006B78",
+    "zyokdziw": "帰",
+    "tiengdziw": "歸",
+    "thongqitmraZyokdziw": "U+5E30",
+    "thongqitmraTiengdziw": "U+6B78"
   },
   {
     "pieutiwbyo": "05E3305E33",
@@ -7028,6 +8092,13 @@
     "thongqitmraTiengdziw": "U+4E26"
   },
   {
+    "pieutiwbyo": "05E7805E78",
+    "zyokdziw": "幸",
+    "tiengdziw": "幸",
+    "thongqitmraZyokdziw": "U+5E78",
+    "thongqitmraTiengdziw": "U+5E78"
+  },
+  {
     "pieutiwbyo": "05E7905E79",
     "zyokdziw": "幹",
     "tiengdziw": "幹",
@@ -7040,6 +8111,13 @@
     "tiengdziw": "幻",
     "thongqitmraZyokdziw": "U+5E7B",
     "thongqitmraTiengdziw": "U+5E7B"
+  },
+  {
+    "pieutiwbyo": "05E7E05E7E",
+    "zyokdziw": "幾",
+    "tiengdziw": "幾",
+    "thongqitmraZyokdziw": "U+5E7E",
+    "thongqitmraTiengdziw": "U+5E7E"
   },
   {
     "pieutiwbyo": "05E7F05EE3",
@@ -7075,6 +8153,13 @@
     "tiengdziw": "莊",
     "thongqitmraZyokdziw": "U+5E84",
     "thongqitmraTiengdziw": "U+838A"
+  },
+  {
+    "pieutiwbyo": "05E8606176",
+    "zyokdziw": "庆",
+    "tiengdziw": "慶",
+    "thongqitmraZyokdziw": "U+5E86",
+    "thongqitmraTiengdziw": "U+6176"
   },
   {
     "pieutiwbyo": "05E8A05E8A",
@@ -7252,6 +8337,20 @@
     "thongqitmraTiengdziw": "U+5DE1"
   },
   {
+    "pieutiwbyo": "05EF605EF6",
+    "zyokdziw": "延",
+    "tiengdziw": "延",
+    "thongqitmraZyokdziw": "U+5EF6",
+    "thongqitmraTiengdziw": "U+5EF6"
+  },
+  {
+    "pieutiwbyo": "05EFA05EFA",
+    "zyokdziw": "建",
+    "tiengdziw": "建",
+    "thongqitmraZyokdziw": "U+5EFA",
+    "thongqitmraTiengdziw": "U+5EFA"
+  },
+  {
     "pieutiwbyo": "05EFB05EFB",
     "zyokdziw": "廻",
     "tiengdziw": "廻",
@@ -7292,6 +8391,13 @@
     "tiengdziw": "開",
     "thongqitmraZyokdziw": "U+5F00",
     "thongqitmraTiengdziw": "U+958B"
+  },
+  {
+    "pieutiwbyo": "05F0207570",
+    "zyokdziw": "异",
+    "tiengdziw": "異",
+    "thongqitmraZyokdziw": "U+5F02",
+    "thongqitmraTiengdziw": "U+7570"
   },
   {
     "pieutiwbyo": "05F0305F03",
@@ -7364,6 +8470,13 @@
     "thongqitmraTiengdziw": "U+5F13"
   },
   {
+    "pieutiwbyo": "05F1505F15",
+    "zyokdziw": "引",
+    "tiengdziw": "引",
+    "thongqitmraZyokdziw": "U+5F15",
+    "thongqitmraTiengdziw": "U+5F15"
+  },
+  {
     "pieutiwbyo": "05F1805F18",
     "zyokdziw": "弘",
     "tiengdziw": "弘",
@@ -7397,6 +8510,13 @@
     "tiengdziw": "弩",
     "thongqitmraZyokdziw": "U+5F29",
     "thongqitmraTiengdziw": "U+5F29"
+  },
+  {
+    "pieutiwbyo": "05F3105F31",
+    "zyokdziw": "弱",
+    "tiengdziw": "弱",
+    "thongqitmraZyokdziw": "U+5F31",
+    "thongqitmraTiengdziw": "U+5F31"
   },
   {
     "pieutiwbyo": "05F3505F35",
@@ -7467,6 +8587,13 @@
     "tiengdziw": "彐",
     "thongqitmraZyokdziw": "U+5F51",
     "thongqitmraTiengdziw": "U+5F50"
+  },
+  {
+    "pieutiwbyo": "05F5206B78",
+    "zyokdziw": "归",
+    "tiengdziw": "歸",
+    "thongqitmraZyokdziw": "U+5F52",
+    "thongqitmraTiengdziw": "U+6B78"
   },
   {
     "pieutiwbyo": "05F5805F58",
@@ -7616,6 +8743,13 @@
     "thongqitmraTiengdziw": "U+5F92"
   },
   {
+    "pieutiwbyo": "05F9305F9E",
+    "zyokdziw": "従",
+    "tiengdziw": "從",
+    "thongqitmraZyokdziw": "U+5F93",
+    "thongqitmraTiengdziw": "U+5F9E"
+  },
+  {
     "pieutiwbyo": "05F9505FA0",
     "zyokdziw": "徕",
     "tiengdziw": "徠",
@@ -7628,6 +8762,13 @@
     "tiengdziw": "得",
     "thongqitmraZyokdziw": "U+5F97",
     "thongqitmraTiengdziw": "U+5F97"
+  },
+  {
+    "pieutiwbyo": "05F9E05F9E",
+    "zyokdziw": "從",
+    "tiengdziw": "從",
+    "thongqitmraZyokdziw": "U+5F9E",
+    "thongqitmraTiengdziw": "U+5F9E"
   },
   {
     "pieutiwbyo": "05FA005FA0",
@@ -7684,6 +8825,13 @@
     "tiengdziw": "惪",
     "thongqitmraZyokdziw": "U+5FB7",
     "thongqitmraTiengdziw": "U+60EA"
+  },
+  {
+    "pieutiwbyo": "05FC305FC3",
+    "zyokdziw": "心",
+    "tiengdziw": "心",
+    "thongqitmraZyokdziw": "U+5FC3",
+    "thongqitmraTiengdziw": "U+5FC3"
   },
   {
     "pieutiwbyo": "05FC6061B6",
@@ -7868,6 +9016,13 @@
     "thongqitmraTiengdziw": "U+601B"
   },
   {
+    "pieutiwbyo": "0601D0601D",
+    "zyokdziw": "思",
+    "tiengdziw": "思",
+    "thongqitmraZyokdziw": "U+601D",
+    "thongqitmraTiengdziw": "U+601D"
+  },
+  {
     "pieutiwbyo": "0602506025",
     "zyokdziw": "急",
     "tiengdziw": "急",
@@ -7924,6 +9079,13 @@
     "thongqitmraTiengdziw": "U+6043"
   },
   {
+    "pieutiwbyo": "0604606052",
+    "zyokdziw": "恆",
+    "tiengdziw": "恒",
+    "thongqitmraZyokdziw": "U+6046",
+    "thongqitmraTiengdziw": "U+6052"
+  },
+  {
     "pieutiwbyo": "0604706047",
     "zyokdziw": "恇",
     "tiengdziw": "恇",
@@ -7950,6 +9112,13 @@
     "tiengdziw": "恐",
     "thongqitmraZyokdziw": "U+6050",
     "thongqitmraTiengdziw": "U+6050"
+  },
+  {
+    "pieutiwbyo": "0605206052",
+    "zyokdziw": "恒",
+    "tiengdziw": "恒",
+    "thongqitmraZyokdziw": "U+6052",
+    "thongqitmraTiengdziw": "U+6052"
   },
   {
     "pieutiwbyo": "0605406054",
@@ -8020,6 +9189,13 @@
     "tiengdziw": "恭",
     "thongqitmraZyokdziw": "U+606D",
     "thongqitmraTiengdziw": "U+606D"
+  },
+  {
+    "pieutiwbyo": "0606F0606F",
+    "zyokdziw": "息",
+    "tiengdziw": "息",
+    "thongqitmraZyokdziw": "U+606F",
+    "thongqitmraTiengdziw": "U+606F"
   },
   {
     "pieutiwbyo": "0607006070",
@@ -8295,6 +9471,13 @@
     "thongqitmraTiengdziw": "U+6114"
   },
   {
+    "pieutiwbyo": "0611B0611B",
+    "zyokdziw": "愛",
+    "tiengdziw": "愛",
+    "thongqitmraZyokdziw": "U+611B",
+    "thongqitmraTiengdziw": "U+611B"
+  },
+  {
     "pieutiwbyo": "0612606192",
     "zyokdziw": "愦",
     "tiengdziw": "憒",
@@ -8307,6 +9490,13 @@
     "tiengdziw": "愺",
     "thongqitmraZyokdziw": "U+613A",
     "thongqitmraTiengdziw": "U+613A"
+  },
+  {
+    "pieutiwbyo": "0613C0614E",
+    "zyokdziw": "愼",
+    "tiengdziw": "慎",
+    "thongqitmraZyokdziw": "U+613C",
+    "thongqitmraTiengdziw": "U+614E"
   },
   {
     "pieutiwbyo": "0613E0613E",
@@ -8358,6 +9548,13 @@
     "thongqitmraTiengdziw": "U+614C"
   },
   {
+    "pieutiwbyo": "0614E0614E",
+    "zyokdziw": "慎",
+    "tiengdziw": "慎",
+    "thongqitmraZyokdziw": "U+614E",
+    "thongqitmraTiengdziw": "U+614E"
+  },
+  {
     "pieutiwbyo": "0616306163",
     "zyokdziw": "慣",
     "tiengdziw": "慣",
@@ -8393,6 +9590,13 @@
     "thongqitmraTiengdziw": "U+6175"
   },
   {
+    "pieutiwbyo": "0617606176",
+    "zyokdziw": "慶",
+    "tiengdziw": "慶",
+    "thongqitmraZyokdziw": "U+6176",
+    "thongqitmraTiengdziw": "U+6176"
+  },
+  {
     "pieutiwbyo": "0617706177",
     "zyokdziw": "慷",
     "tiengdziw": "慷",
@@ -8426,6 +9630,13 @@
     "tiengdziw": "憬",
     "thongqitmraZyokdziw": "U+61AC",
     "thongqitmraTiengdziw": "U+61AC"
+  },
+  {
+    "pieutiwbyo": "061B2061B2",
+    "zyokdziw": "憲",
+    "tiengdziw": "憲",
+    "thongqitmraZyokdziw": "U+61B2",
+    "thongqitmraTiengdziw": "U+61B2"
   },
   {
     "pieutiwbyo": "061B6061B6",
@@ -8533,6 +9744,13 @@
     "thongqitmraTiengdziw": "U+6215"
   },
   {
+    "pieutiwbyo": "0621A0621A",
+    "zyokdziw": "戚",
+    "tiengdziw": "戚",
+    "thongqitmraZyokdziw": "U+621A",
+    "thongqitmraTiengdziw": "U+621A"
+  },
+  {
     "pieutiwbyo": "0621B0621B",
     "zyokdziw": "戛",
     "tiengdziw": "戛",
@@ -8596,11 +9814,25 @@
     "thongqitmraTiengdziw": "U+623F"
   },
   {
+    "pieutiwbyo": "0624006240",
+    "zyokdziw": "所",
+    "tiengdziw": "所",
+    "thongqitmraZyokdziw": "U+6240",
+    "thongqitmraTiengdziw": "U+6240"
+  },
+  {
     "pieutiwbyo": "0624606246",
     "zyokdziw": "扆",
     "tiengdziw": "扆",
     "thongqitmraZyokdziw": "U+6246",
     "thongqitmraTiengdziw": "U+6246"
+  },
+  {
+    "pieutiwbyo": "0624706247",
+    "zyokdziw": "扇",
+    "tiengdziw": "扇",
+    "thongqitmraZyokdziw": "U+6247",
+    "thongqitmraTiengdziw": "U+6247"
   },
   {
     "pieutiwbyo": "0624806248",
@@ -8615,6 +9847,13 @@
     "tiengdziw": "手",
     "thongqitmraZyokdziw": "U+624B",
     "thongqitmraTiengdziw": "U+624B"
+  },
+  {
+    "pieutiwbyo": "0624D0624D",
+    "zyokdziw": "才",
+    "tiengdziw": "才",
+    "thongqitmraZyokdziw": "U+624D",
+    "thongqitmraTiengdziw": "U+624D"
   },
   {
     "pieutiwbyo": "0624E0624E",
@@ -8687,6 +9926,13 @@
     "thongqitmraTiengdziw": "U+91E6"
   },
   {
+    "pieutiwbyo": "06267057F7",
+    "zyokdziw": "执",
+    "tiengdziw": "執",
+    "thongqitmraZyokdziw": "U+6267",
+    "thongqitmraTiengdziw": "U+57F7"
+  },
+  {
     "pieutiwbyo": "06269064F4",
     "zyokdziw": "扩",
     "tiengdziw": "擴",
@@ -8699,6 +9945,13 @@
     "tiengdziw": "捫",
     "thongqitmraZyokdziw": "U+626A",
     "thongqitmraTiengdziw": "U+636B"
+  },
+  {
+    "pieutiwbyo": "0626B06383",
+    "zyokdziw": "扫",
+    "tiengdziw": "掃",
+    "thongqitmraZyokdziw": "U+626B",
+    "thongqitmraTiengdziw": "U+6383"
   },
   {
     "pieutiwbyo": "0626C063DA",
@@ -8743,6 +9996,13 @@
     "thongqitmraTiengdziw": "U+6271"
   },
   {
+    "pieutiwbyo": "0627F0627F",
+    "zyokdziw": "承",
+    "tiengdziw": "承",
+    "thongqitmraZyokdziw": "U+627F",
+    "thongqitmraTiengdziw": "U+627F"
+  },
+  {
     "pieutiwbyo": "0628406284",
     "zyokdziw": "抄",
     "tiengdziw": "抄",
@@ -8783,6 +10043,13 @@
     "tiengdziw": "抖",
     "thongqitmraZyokdziw": "U+6296",
     "thongqitmraTiengdziw": "U+6296"
+  },
+  {
+    "pieutiwbyo": "0629806298",
+    "zyokdziw": "折",
+    "tiengdziw": "折",
+    "thongqitmraZyokdziw": "U+6298",
+    "thongqitmraTiengdziw": "U+6298"
   },
   {
     "pieutiwbyo": "062A505831",
@@ -9009,6 +10276,13 @@
     "thongqitmraTiengdziw": "U+6339"
   },
   {
+    "pieutiwbyo": "0633F063D2",
+    "zyokdziw": "挿",
+    "tiengdziw": "插",
+    "thongqitmraZyokdziw": "U+633F",
+    "thongqitmraTiengdziw": "U+63D2"
+  },
+  {
     "pieutiwbyo": "0634206342",
     "zyokdziw": "捂",
     "tiengdziw": "捂",
@@ -9079,6 +10353,13 @@
     "thongqitmraTiengdziw": "U+6357"
   },
   {
+    "pieutiwbyo": "0635C0641C",
+    "zyokdziw": "捜",
+    "tiengdziw": "搜",
+    "thongqitmraZyokdziw": "U+635C",
+    "thongqitmraTiengdziw": "U+641C"
+  },
+  {
     "pieutiwbyo": "0635E06488",
     "zyokdziw": "捞",
     "tiengdziw": "撈",
@@ -9133,6 +10414,13 @@
     "tiengdziw": "捻",
     "thongqitmraZyokdziw": "U+637B",
     "thongqitmraTiengdziw": "U+637B"
+  },
+  {
+    "pieutiwbyo": "0638306383",
+    "zyokdziw": "掃",
+    "tiengdziw": "掃",
+    "thongqitmraZyokdziw": "U+6383",
+    "thongqitmraTiengdziw": "U+6383"
   },
   {
     "pieutiwbyo": "0638806388",
@@ -9205,6 +10493,13 @@
     "thongqitmraTiengdziw": "U+634F"
   },
   {
+    "pieutiwbyo": "063D2063D2",
+    "zyokdziw": "插",
+    "tiengdziw": "插",
+    "thongqitmraZyokdziw": "U+63D2",
+    "thongqitmraTiengdziw": "U+63D2"
+  },
+  {
     "pieutiwbyo": "063DA063DA",
     "zyokdziw": "揚",
     "tiengdziw": "揚",
@@ -9231,6 +10526,13 @@
     "tiengdziw": "揲",
     "thongqitmraZyokdziw": "U+63F2",
     "thongqitmraTiengdziw": "U+63F2"
+  },
+  {
+    "pieutiwbyo": "063F7063D2",
+    "zyokdziw": "揷",
+    "tiengdziw": "插",
+    "thongqitmraZyokdziw": "U+63F7",
+    "thongqitmraTiengdziw": "U+63D2"
   },
   {
     "pieutiwbyo": "063FD0652C",
@@ -9266,6 +10568,13 @@
     "tiengdziw": "搓",
     "thongqitmraZyokdziw": "U+6413",
     "thongqitmraTiengdziw": "U+6413"
+  },
+  {
+    "pieutiwbyo": "0641C0641C",
+    "zyokdziw": "搜",
+    "tiengdziw": "搜",
+    "thongqitmraZyokdziw": "U+641C",
+    "thongqitmraTiengdziw": "U+641C"
   },
   {
     "pieutiwbyo": "0642A0642A",
@@ -9499,11 +10808,25 @@
     "thongqitmraTiengdziw": "U+652C"
   },
   {
+    "pieutiwbyo": "0652F0652F",
+    "zyokdziw": "支",
+    "tiengdziw": "支",
+    "thongqitmraZyokdziw": "U+652F",
+    "thongqitmraTiengdziw": "U+652F"
+  },
+  {
     "pieutiwbyo": "0653606536",
     "zyokdziw": "收",
     "tiengdziw": "收",
     "thongqitmraZyokdziw": "U+6536",
     "thongqitmraTiengdziw": "U+6536"
+  },
+  {
+    "pieutiwbyo": "0653906539",
+    "zyokdziw": "改",
+    "tiengdziw": "改",
+    "thongqitmraZyokdziw": "U+6539",
+    "thongqitmraTiengdziw": "U+6539"
   },
   {
     "pieutiwbyo": "0653B0653B",
@@ -9569,6 +10892,13 @@
     "thongqitmraTiengdziw": "U+53D9"
   },
   {
+    "pieutiwbyo": "0654E06559",
+    "zyokdziw": "敎",
+    "tiengdziw": "教",
+    "thongqitmraZyokdziw": "U+654E",
+    "thongqitmraTiengdziw": "U+6559"
+  },
+  {
     "pieutiwbyo": "0655106344",
     "zyokdziw": "救",
     "tiengdziw": "捄",
@@ -9625,6 +10955,13 @@
     "thongqitmraTiengdziw": "U+53D9"
   },
   {
+    "pieutiwbyo": "0655906559",
+    "zyokdziw": "教",
+    "tiengdziw": "教",
+    "thongqitmraZyokdziw": "U+6559",
+    "thongqitmraTiengdziw": "U+6559"
+  },
+  {
     "pieutiwbyo": "0655B06582",
     "zyokdziw": "敛",
     "tiengdziw": "斂",
@@ -9637,6 +10974,13 @@
     "tiengdziw": "歛",
     "thongqitmraZyokdziw": "U+655B",
     "thongqitmraTiengdziw": "U+6B5B"
+  },
+  {
+    "pieutiwbyo": "0656206562",
+    "zyokdziw": "敢",
+    "tiengdziw": "敢",
+    "thongqitmraZyokdziw": "U+6562",
+    "thongqitmraTiengdziw": "U+6562"
   },
   {
     "pieutiwbyo": "0656306563",
@@ -9709,6 +11053,13 @@
     "thongqitmraTiengdziw": "U+6587"
   },
   {
+    "pieutiwbyo": "0658909F4A",
+    "zyokdziw": "斉",
+    "tiengdziw": "齊",
+    "thongqitmraZyokdziw": "U+6589",
+    "thongqitmraTiengdziw": "U+9F4A"
+  },
+  {
     "pieutiwbyo": "0658C0658C",
     "zyokdziw": "斌",
     "tiengdziw": "斌",
@@ -9758,11 +11109,32 @@
     "thongqitmraTiengdziw": "U+659C"
   },
   {
+    "pieutiwbyo": "065A4065A4",
+    "zyokdziw": "斤",
+    "tiengdziw": "斤",
+    "thongqitmraZyokdziw": "U+65A4",
+    "thongqitmraTiengdziw": "U+65A4"
+  },
+  {
+    "pieutiwbyo": "065A5065A5",
+    "zyokdziw": "斥",
+    "tiengdziw": "斥",
+    "thongqitmraZyokdziw": "U+65A5",
+    "thongqitmraTiengdziw": "U+65A5"
+  },
+  {
     "pieutiwbyo": "065A8065A8",
     "zyokdziw": "斨",
     "tiengdziw": "斨",
     "thongqitmraZyokdziw": "U+65A8",
     "thongqitmraTiengdziw": "U+65A8"
+  },
+  {
+    "pieutiwbyo": "065A9065AC",
+    "zyokdziw": "斩",
+    "tiengdziw": "斬",
+    "thongqitmraZyokdziw": "U+65A9",
+    "thongqitmraTiengdziw": "U+65AC"
   },
   {
     "pieutiwbyo": "065AB065AB",
@@ -9777,6 +11149,20 @@
     "tiengdziw": "斲",
     "thongqitmraZyokdziw": "U+65AB",
     "thongqitmraTiengdziw": "U+65B2"
+  },
+  {
+    "pieutiwbyo": "065AC065AC",
+    "zyokdziw": "斬",
+    "tiengdziw": "斬",
+    "thongqitmraZyokdziw": "U+65AC",
+    "thongqitmraTiengdziw": "U+65AC"
+  },
+  {
+    "pieutiwbyo": "065B0065B0",
+    "zyokdziw": "新",
+    "tiengdziw": "新",
+    "thongqitmraZyokdziw": "U+65B0",
+    "thongqitmraTiengdziw": "U+65B0"
   },
   {
     "pieutiwbyo": "065B2065B2",
@@ -9814,6 +11200,13 @@
     "thongqitmraTiengdziw": "U+65C5"
   },
   {
+    "pieutiwbyo": "065CB065CB",
+    "zyokdziw": "旋",
+    "tiengdziw": "旋",
+    "thongqitmraZyokdziw": "U+65CB",
+    "thongqitmraTiengdziw": "U+65CB"
+  },
+  {
     "pieutiwbyo": "065CC065CC",
     "zyokdziw": "旌",
     "tiengdziw": "旌",
@@ -9821,11 +11214,32 @@
     "thongqitmraTiengdziw": "U+65CC"
   },
   {
+    "pieutiwbyo": "065CF065CF",
+    "zyokdziw": "族",
+    "tiengdziw": "族",
+    "thongqitmraZyokdziw": "U+65CF",
+    "thongqitmraTiengdziw": "U+65CF"
+  },
+  {
     "pieutiwbyo": "065D3065D3",
     "zyokdziw": "旓",
     "tiengdziw": "旓",
     "thongqitmraZyokdziw": "U+65D3",
     "thongqitmraTiengdziw": "U+65D3"
+  },
+  {
+    "pieutiwbyo": "065E2065E2",
+    "zyokdziw": "既",
+    "tiengdziw": "既",
+    "thongqitmraZyokdziw": "U+65E2",
+    "thongqitmraTiengdziw": "U+65E2"
+  },
+  {
+    "pieutiwbyo": "065E3065E2",
+    "zyokdziw": "旣",
+    "tiengdziw": "既",
+    "thongqitmraZyokdziw": "U+65E3",
+    "thongqitmraTiengdziw": "U+65E2"
   },
   {
     "pieutiwbyo": "065E5065E5",
@@ -9849,11 +11263,25 @@
     "thongqitmraTiengdziw": "U+820A"
   },
   {
+    "pieutiwbyo": "065E8065E8",
+    "zyokdziw": "旨",
+    "tiengdziw": "旨",
+    "thongqitmraZyokdziw": "U+65E8",
+    "thongqitmraTiengdziw": "U+65E8"
+  },
+  {
     "pieutiwbyo": "065E9065E9",
     "zyokdziw": "早",
     "tiengdziw": "早",
     "thongqitmraZyokdziw": "U+65E9",
     "thongqitmraTiengdziw": "U+65E9"
+  },
+  {
+    "pieutiwbyo": "065EC065EC",
+    "zyokdziw": "旬",
+    "tiengdziw": "旬",
+    "thongqitmraZyokdziw": "U+65EC",
+    "thongqitmraTiengdziw": "U+65EC"
   },
   {
     "pieutiwbyo": "065ED065ED",
@@ -9975,6 +11403,20 @@
     "thongqitmraTiengdziw": "U+6612"
   },
   {
+    "pieutiwbyo": "0661306613",
+    "zyokdziw": "易",
+    "tiengdziw": "易",
+    "thongqitmraZyokdziw": "U+6613",
+    "thongqitmraTiengdziw": "U+6613"
+  },
+  {
+    "pieutiwbyo": "0661406614",
+    "zyokdziw": "昔",
+    "tiengdziw": "昔",
+    "thongqitmraZyokdziw": "U+6614",
+    "thongqitmraTiengdziw": "U+6614"
+  },
+  {
     "pieutiwbyo": "06619066C7",
     "zyokdziw": "昙",
     "tiengdziw": "曇",
@@ -9996,11 +11438,25 @@
     "thongqitmraTiengdziw": "U+661F"
   },
   {
+    "pieutiwbyo": "0662506625",
+    "zyokdziw": "春",
+    "tiengdziw": "春",
+    "thongqitmraZyokdziw": "U+6625",
+    "thongqitmraTiengdziw": "U+6625"
+  },
+  {
     "pieutiwbyo": "0662B0662B",
     "zyokdziw": "昫",
     "tiengdziw": "昫",
     "thongqitmraZyokdziw": "U+662B",
     "thongqitmraTiengdziw": "U+662B"
+  },
+  {
+    "pieutiwbyo": "0662F0662F",
+    "zyokdziw": "是",
+    "tiengdziw": "是",
+    "thongqitmraZyokdziw": "U+662F",
+    "thongqitmraTiengdziw": "U+662F"
   },
   {
     "pieutiwbyo": "0663106631",
@@ -10248,6 +11704,13 @@
     "thongqitmraTiengdziw": "U+66A4"
   },
   {
+    "pieutiwbyo": "066D1053C3",
+    "zyokdziw": "曑",
+    "tiengdziw": "參",
+    "thongqitmraZyokdziw": "U+66D1",
+    "thongqitmraTiengdziw": "U+53C3"
+  },
+  {
     "pieutiwbyo": "066D9066D9",
     "zyokdziw": "曙",
     "tiengdziw": "曙",
@@ -10304,6 +11767,13 @@
     "thongqitmraTiengdziw": "U+66F3"
   },
   {
+    "pieutiwbyo": "066F4066F4",
+    "zyokdziw": "更",
+    "tiengdziw": "更",
+    "thongqitmraZyokdziw": "U+66F4",
+    "thongqitmraTiengdziw": "U+66F4"
+  },
+  {
     "pieutiwbyo": "066F606612",
     "zyokdziw": "曶",
     "tiengdziw": "昒",
@@ -10318,11 +11788,46 @@
     "thongqitmraTiengdziw": "U+66F8"
   },
   {
+    "pieutiwbyo": "066F9066F9",
+    "zyokdziw": "曹",
+    "tiengdziw": "曹",
+    "thongqitmraZyokdziw": "U+66F9",
+    "thongqitmraTiengdziw": "U+66F9"
+  },
+  {
+    "pieutiwbyo": "066FA066F9",
+    "zyokdziw": "曺",
+    "tiengdziw": "曹",
+    "thongqitmraZyokdziw": "U+66FA",
+    "thongqitmraTiengdziw": "U+66F9"
+  },
+  {
+    "pieutiwbyo": "066FD066FE",
+    "zyokdziw": "曽",
+    "tiengdziw": "曾",
+    "thongqitmraZyokdziw": "U+66FD",
+    "thongqitmraTiengdziw": "U+66FE"
+  },
+  {
+    "pieutiwbyo": "066FE066FE",
+    "zyokdziw": "曾",
+    "tiengdziw": "曾",
+    "thongqitmraZyokdziw": "U+66FE",
+    "thongqitmraTiengdziw": "U+66FE"
+  },
+  {
     "pieutiwbyo": "066FF066FF",
     "zyokdziw": "替",
     "tiengdziw": "替",
     "thongqitmraZyokdziw": "U+66FF",
     "thongqitmraTiengdziw": "U+66FF"
+  },
+  {
+    "pieutiwbyo": "0670306703",
+    "zyokdziw": "會",
+    "tiengdziw": "會",
+    "thongqitmraZyokdziw": "U+6703",
+    "thongqitmraTiengdziw": "U+6703"
   },
   {
     "pieutiwbyo": "0670806708",
@@ -10570,6 +12075,13 @@
     "thongqitmraTiengdziw": "U+675E"
   },
   {
+    "pieutiwbyo": "0675F0675F",
+    "zyokdziw": "束",
+    "tiengdziw": "束",
+    "thongqitmraZyokdziw": "U+675F",
+    "thongqitmraTiengdziw": "U+675F"
+  },
+  {
     "pieutiwbyo": "0676006760",
     "zyokdziw": "杠",
     "tiengdziw": "杠",
@@ -10668,6 +12180,13 @@
     "thongqitmraTiengdziw": "U+678D"
   },
   {
+    "pieutiwbyo": "0679006790",
+    "zyokdziw": "析",
+    "tiengdziw": "析",
+    "thongqitmraZyokdziw": "U+6790",
+    "thongqitmraTiengdziw": "U+6790"
+  },
+  {
     "pieutiwbyo": "0679306793",
     "zyokdziw": "枓",
     "tiengdziw": "枓",
@@ -10687,6 +12206,13 @@
     "tiengdziw": "枘",
     "thongqitmraZyokdziw": "U+6798",
     "thongqitmraTiengdziw": "U+6798"
+  },
+  {
+    "pieutiwbyo": "0679C0679C",
+    "zyokdziw": "果",
+    "tiengdziw": "果",
+    "thongqitmraZyokdziw": "U+679C",
+    "thongqitmraTiengdziw": "U+679C"
   },
   {
     "pieutiwbyo": "067A1067A1",
@@ -10787,6 +12313,13 @@
     "thongqitmraTiengdziw": "U+67D2"
   },
   {
+    "pieutiwbyo": "067D3067D3",
+    "zyokdziw": "染",
+    "tiengdziw": "染",
+    "thongqitmraZyokdziw": "U+67D3",
+    "thongqitmraTiengdziw": "U+67D3"
+  },
+  {
     "pieutiwbyo": "067D8067D8",
     "zyokdziw": "柘",
     "tiengdziw": "柘",
@@ -10834,6 +12367,13 @@
     "tiengdziw": "栃",
     "thongqitmraZyokdziw": "U+6803",
     "thongqitmraTiengdziw": "U+6803"
+  },
+  {
+    "pieutiwbyo": "0681106A39",
+    "zyokdziw": "树",
+    "tiengdziw": "樹",
+    "thongqitmraZyokdziw": "U+6811",
+    "thongqitmraTiengdziw": "U+6A39"
   },
   {
     "pieutiwbyo": "0681306813",
@@ -10960,6 +12500,20 @@
     "tiengdziw": "桐",
     "thongqitmraZyokdziw": "U+6850",
     "thongqitmraTiengdziw": "U+6850"
+  },
+  {
+    "pieutiwbyo": "0685106851",
+    "zyokdziw": "桑",
+    "tiengdziw": "桑",
+    "thongqitmraZyokdziw": "U+6851",
+    "thongqitmraTiengdziw": "U+6851"
+  },
+  {
+    "pieutiwbyo": "0685206851",
+    "zyokdziw": "桒",
+    "tiengdziw": "桑",
+    "thongqitmraZyokdziw": "U+6852",
+    "thongqitmraTiengdziw": "U+6851"
   },
   {
     "pieutiwbyo": "0685406854",
@@ -11291,6 +12845,13 @@
     "thongqitmraTiengdziw": "U+6979"
   },
   {
+    "pieutiwbyo": "0697D06A02",
+    "zyokdziw": "楽",
+    "tiengdziw": "樂",
+    "thongqitmraZyokdziw": "U+697D",
+    "thongqitmraTiengdziw": "U+6A02"
+  },
+  {
     "pieutiwbyo": "0698406B16",
     "zyokdziw": "榄",
     "tiengdziw": "欖",
@@ -11431,6 +12992,13 @@
     "thongqitmraTiengdziw": "U+69FB"
   },
   {
+    "pieutiwbyo": "06A0206A02",
+    "zyokdziw": "樂",
+    "tiengdziw": "樂",
+    "thongqitmraZyokdziw": "U+6A02",
+    "thongqitmraTiengdziw": "U+6A02"
+  },
+  {
     "pieutiwbyo": "06A0B06A0B",
     "zyokdziw": "樋",
     "tiengdziw": "樋",
@@ -11478,6 +13046,13 @@
     "tiengdziw": "樲",
     "thongqitmraZyokdziw": "U+6A32",
     "thongqitmraTiengdziw": "U+6A32"
+  },
+  {
+    "pieutiwbyo": "06A3906A39",
+    "zyokdziw": "樹",
+    "tiengdziw": "樹",
+    "thongqitmraZyokdziw": "U+6A39",
+    "thongqitmraTiengdziw": "U+6A39"
   },
   {
     "pieutiwbyo": "06A3A06A3A",
@@ -11739,6 +13314,13 @@
     "thongqitmraTiengdziw": "U+6B20"
   },
   {
+    "pieutiwbyo": "06B2106B21",
+    "zyokdziw": "次",
+    "tiengdziw": "次",
+    "thongqitmraZyokdziw": "U+6B21",
+    "thongqitmraTiengdziw": "U+6B21"
+  },
+  {
     "pieutiwbyo": "06B2E06B2E",
     "zyokdziw": "欮",
     "tiengdziw": "欮",
@@ -11823,6 +13405,13 @@
     "thongqitmraTiengdziw": "U+6B6B"
   },
   {
+    "pieutiwbyo": "06B6C0524D",
+    "zyokdziw": "歬",
+    "tiengdziw": "前",
+    "thongqitmraZyokdziw": "U+6B6C",
+    "thongqitmraTiengdziw": "U+524D"
+  },
+  {
     "pieutiwbyo": "06B6F09F52",
     "zyokdziw": "歯",
     "tiengdziw": "齒",
@@ -11856,6 +13445,20 @@
     "tiengdziw": "歷",
     "thongqitmraZyokdziw": "U+6B77",
     "thongqitmraTiengdziw": "U+6B77"
+  },
+  {
+    "pieutiwbyo": "06B7806B78",
+    "zyokdziw": "歸",
+    "tiengdziw": "歸",
+    "thongqitmraZyokdziw": "U+6B78",
+    "thongqitmraTiengdziw": "U+6B78"
+  },
+  {
+    "pieutiwbyo": "06B7B06B7B",
+    "zyokdziw": "死",
+    "tiengdziw": "死",
+    "thongqitmraZyokdziw": "U+6B7B",
+    "thongqitmraTiengdziw": "U+6B7B"
   },
   {
     "pieutiwbyo": "06B7E06B7E",
@@ -11956,6 +13559,41 @@
     "thongqitmraTiengdziw": "U+6BB8"
   },
   {
+    "pieutiwbyo": "06BBA06BBA",
+    "zyokdziw": "殺",
+    "tiengdziw": "殺",
+    "thongqitmraZyokdziw": "U+6BBA",
+    "thongqitmraTiengdziw": "U+6BBA"
+  },
+  {
+    "pieutiwbyo": "06BBB06BBB",
+    "zyokdziw": "殻",
+    "tiengdziw": "殻",
+    "thongqitmraZyokdziw": "U+6BBB",
+    "thongqitmraTiengdziw": "U+6BBB"
+  },
+  {
+    "pieutiwbyo": "06BC006BC1",
+    "zyokdziw": "毀",
+    "tiengdziw": "毁",
+    "thongqitmraZyokdziw": "U+6BC0",
+    "thongqitmraTiengdziw": "U+6BC1"
+  },
+  {
+    "pieutiwbyo": "06BC106BC1",
+    "zyokdziw": "毁",
+    "tiengdziw": "毁",
+    "thongqitmraZyokdziw": "U+6BC1",
+    "thongqitmraTiengdziw": "U+6BC1"
+  },
+  {
+    "pieutiwbyo": "06BC9091AB",
+    "zyokdziw": "毉",
+    "tiengdziw": "醫",
+    "thongqitmraZyokdziw": "U+6BC9",
+    "thongqitmraTiengdziw": "U+91AB"
+  },
+  {
     "pieutiwbyo": "06BCC06BCC",
     "zyokdziw": "毌",
     "tiengdziw": "毌",
@@ -12024,6 +13662,13 @@
     "tiengdziw": "𬇇",
     "thongqitmraZyokdziw": "U+6C0E",
     "thongqitmraTiengdziw": "U+2C1C7"
+  },
+  {
+    "pieutiwbyo": "06C0F06C0F",
+    "zyokdziw": "氏",
+    "tiengdziw": "氏",
+    "thongqitmraZyokdziw": "U+6C0F",
+    "thongqitmraTiengdziw": "U+6C0F"
   },
   {
     "pieutiwbyo": "06C1306C13",
@@ -12376,6 +14021,13 @@
     "thongqitmraTiengdziw": "U+6CAD"
   },
   {
+    "pieutiwbyo": "06CB306CB3",
+    "zyokdziw": "河",
+    "tiengdziw": "河",
+    "thongqitmraZyokdziw": "U+6CB3",
+    "thongqitmraTiengdziw": "U+6CB3"
+  },
+  {
     "pieutiwbyo": "06CB906CB9",
     "zyokdziw": "油",
     "tiengdziw": "油",
@@ -12416,6 +14068,13 @@
     "tiengdziw": "洩",
     "thongqitmraZyokdziw": "U+6CC4",
     "thongqitmraTiengdziw": "U+6D29"
+  },
+  {
+    "pieutiwbyo": "06CC906CC9",
+    "zyokdziw": "泉",
+    "tiengdziw": "泉",
+    "thongqitmraZyokdziw": "U+6CC9",
+    "thongqitmraTiengdziw": "U+6CC9"
   },
   {
     "pieutiwbyo": "06CCA06CCA",
@@ -12549,6 +14208,13 @@
     "tiengdziw": "洞",
     "thongqitmraZyokdziw": "U+6D1E",
     "thongqitmraTiengdziw": "U+6D1E"
+  },
+  {
+    "pieutiwbyo": "06D2506D25",
+    "zyokdziw": "津",
+    "tiengdziw": "津",
+    "thongqitmraZyokdziw": "U+6D25",
+    "thongqitmraTiengdziw": "U+6D25"
   },
   {
     "pieutiwbyo": "06D2706D27",
@@ -12852,6 +14518,13 @@
     "thongqitmraTiengdziw": "U+6F32"
   },
   {
+    "pieutiwbyo": "06DA906F80",
+    "zyokdziw": "涩",
+    "tiengdziw": "澀",
+    "thongqitmraZyokdziw": "U+6DA9",
+    "thongqitmraTiengdziw": "U+6F80"
+  },
+  {
     "pieutiwbyo": "06DA906FC7",
     "zyokdziw": "涩",
     "tiengdziw": "濇",
@@ -12997,6 +14670,13 @@
     "tiengdziw": "涉",
     "thongqitmraZyokdziw": "U+6E09",
     "thongqitmraTiengdziw": "U+6D89"
+  },
+  {
+    "pieutiwbyo": "06E0B06F80",
+    "zyokdziw": "渋",
+    "tiengdziw": "澀",
+    "thongqitmraZyokdziw": "U+6E0B",
+    "thongqitmraTiengdziw": "U+6F80"
   },
   {
     "pieutiwbyo": "06E0E07006",
@@ -13412,6 +15092,20 @@
     "thongqitmraTiengdziw": "U+6F59"
   },
   {
+    "pieutiwbyo": "06F5B06F5C",
+    "zyokdziw": "潛",
+    "tiengdziw": "潜",
+    "thongqitmraZyokdziw": "U+6F5B",
+    "thongqitmraTiengdziw": "U+6F5C"
+  },
+  {
+    "pieutiwbyo": "06F5C06F5C",
+    "zyokdziw": "潜",
+    "tiengdziw": "潜",
+    "thongqitmraZyokdziw": "U+6F5C",
+    "thongqitmraTiengdziw": "U+6F5C"
+  },
+  {
     "pieutiwbyo": "06F5D06F5D",
     "zyokdziw": "潝",
     "tiengdziw": "潝",
@@ -13468,11 +15162,25 @@
     "thongqitmraTiengdziw": "U+6F78"
   },
   {
+    "pieutiwbyo": "06F8006F80",
+    "zyokdziw": "澀",
+    "tiengdziw": "澀",
+    "thongqitmraZyokdziw": "U+6F80",
+    "thongqitmraTiengdziw": "U+6F80"
+  },
+  {
     "pieutiwbyo": "06F8006FC7",
     "zyokdziw": "澀",
     "tiengdziw": "濇",
     "thongqitmraZyokdziw": "U+6F80",
     "thongqitmraTiengdziw": "U+6FC7"
+  },
+  {
+    "pieutiwbyo": "06F8106F80",
+    "zyokdziw": "澁",
+    "tiengdziw": "澀",
+    "thongqitmraZyokdziw": "U+6F81",
+    "thongqitmraTiengdziw": "U+6F80"
   },
   {
     "pieutiwbyo": "06F8706F87",
@@ -13592,6 +15300,13 @@
     "tiengdziw": "濯",
     "thongqitmraZyokdziw": "U+6FEF",
     "thongqitmraTiengdziw": "U+6FEF"
+  },
+  {
+    "pieutiwbyo": "06FF306F5C",
+    "zyokdziw": "濳",
+    "tiengdziw": "潜",
+    "thongqitmraZyokdziw": "U+6FF3",
+    "thongqitmraTiengdziw": "U+6F5C"
   },
   {
     "pieutiwbyo": "0700607006",
@@ -13727,11 +15442,32 @@
     "thongqitmraTiengdziw": "U+7078"
   },
   {
+    "pieutiwbyo": "0707D0707E",
+    "zyokdziw": "災",
+    "tiengdziw": "灾",
+    "thongqitmraZyokdziw": "U+707D",
+    "thongqitmraTiengdziw": "U+707E"
+  },
+  {
+    "pieutiwbyo": "0707E0707E",
+    "zyokdziw": "灾",
+    "tiengdziw": "灾",
+    "thongqitmraZyokdziw": "U+707E",
+    "thongqitmraTiengdziw": "U+707E"
+  },
+  {
     "pieutiwbyo": "070800716C",
     "zyokdziw": "炀",
     "tiengdziw": "煬",
     "thongqitmraZyokdziw": "U+7080",
     "thongqitmraTiengdziw": "U+716C"
+  },
+  {
+    "pieutiwbyo": "0708E0708E",
+    "zyokdziw": "炎",
+    "tiengdziw": "炎",
+    "thongqitmraZyokdziw": "U+708E",
+    "thongqitmraTiengdziw": "U+708E"
   },
   {
     "pieutiwbyo": "0709207092",
@@ -13895,11 +15631,25 @@
     "thongqitmraTiengdziw": "U+711C"
   },
   {
+    "pieutiwbyo": "0712607126",
+    "zyokdziw": "焦",
+    "tiengdziw": "焦",
+    "thongqitmraZyokdziw": "U+7126",
+    "thongqitmraTiengdziw": "U+7126"
+  },
+  {
     "pieutiwbyo": "0712B0712B",
     "zyokdziw": "焫",
     "tiengdziw": "焫",
     "thongqitmraZyokdziw": "U+712B",
     "thongqitmraTiengdziw": "U+712B"
+  },
+  {
+    "pieutiwbyo": "0713607136",
+    "zyokdziw": "然",
+    "tiengdziw": "然",
+    "thongqitmraZyokdziw": "U+7136",
+    "thongqitmraTiengdziw": "U+7136"
   },
   {
     "pieutiwbyo": "0714C0714C",
@@ -14070,6 +15820,13 @@
     "thongqitmraTiengdziw": "U+722F"
   },
   {
+    "pieutiwbyo": "072310611B",
+    "zyokdziw": "爱",
+    "tiengdziw": "愛",
+    "thongqitmraZyokdziw": "U+7231",
+    "thongqitmraTiengdziw": "U+611B"
+  },
+  {
     "pieutiwbyo": "0723207232",
     "zyokdziw": "爲",
     "tiengdziw": "爲",
@@ -14082,6 +15839,13 @@
     "tiengdziw": "爵",
     "thongqitmraZyokdziw": "U+7235",
     "thongqitmraTiengdziw": "U+7235"
+  },
+  {
+    "pieutiwbyo": "0723D0723D",
+    "zyokdziw": "爽",
+    "tiengdziw": "爽",
+    "thongqitmraZyokdziw": "U+723D",
+    "thongqitmraTiengdziw": "U+723D"
   },
   {
     "pieutiwbyo": "0723F0723F",
@@ -14152,6 +15916,13 @@
     "tiengdziw": "牘",
     "thongqitmraZyokdziw": "U+7258",
     "thongqitmraTiengdziw": "U+7258"
+  },
+  {
+    "pieutiwbyo": "0725907259",
+    "zyokdziw": "牙",
+    "tiengdziw": "牙",
+    "thongqitmraZyokdziw": "U+7259",
+    "thongqitmraTiengdziw": "U+7259"
   },
   {
     "pieutiwbyo": "0725B0725B",
@@ -14413,6 +16184,13 @@
     "thongqitmraTiengdziw": "U+72F0"
   },
   {
+    "pieutiwbyo": "072F107344",
+    "zyokdziw": "狱",
+    "tiengdziw": "獄",
+    "thongqitmraZyokdziw": "U+72F1",
+    "thongqitmraTiengdziw": "U+7344"
+  },
+  {
     "pieutiwbyo": "072F3072F3",
     "zyokdziw": "狳",
     "tiengdziw": "狳",
@@ -14532,11 +16310,25 @@
     "thongqitmraTiengdziw": "U+875F"
   },
   {
+    "pieutiwbyo": "0732E0737B",
+    "zyokdziw": "献",
+    "tiengdziw": "獻",
+    "thongqitmraZyokdziw": "U+732E",
+    "thongqitmraTiengdziw": "U+737B"
+  },
+  {
     "pieutiwbyo": "0733F0733F",
     "zyokdziw": "猿",
     "tiengdziw": "猿",
     "thongqitmraZyokdziw": "U+733F",
     "thongqitmraTiengdziw": "U+733F"
+  },
+  {
+    "pieutiwbyo": "0734407344",
+    "zyokdziw": "獄",
+    "tiengdziw": "獄",
+    "thongqitmraZyokdziw": "U+7344",
+    "thongqitmraTiengdziw": "U+7344"
   },
   {
     "pieutiwbyo": "0734E0596C",
@@ -14581,6 +16373,13 @@
     "thongqitmraTiengdziw": "U+737A"
   },
   {
+    "pieutiwbyo": "0737207372",
+    "zyokdziw": "獲",
+    "tiengdziw": "獲",
+    "thongqitmraZyokdziw": "U+7372",
+    "thongqitmraTiengdziw": "U+7372"
+  },
+  {
     "pieutiwbyo": "0737507375",
     "zyokdziw": "獵",
     "tiengdziw": "獵",
@@ -14607,6 +16406,13 @@
     "tiengdziw": "獺",
     "thongqitmraZyokdziw": "U+737A",
     "thongqitmraTiengdziw": "U+737A"
+  },
+  {
+    "pieutiwbyo": "0737B0737B",
+    "zyokdziw": "獻",
+    "tiengdziw": "獻",
+    "thongqitmraZyokdziw": "U+737B",
+    "thongqitmraTiengdziw": "U+737B"
   },
   {
     "pieutiwbyo": "0738407384",
@@ -14931,6 +16737,13 @@
     "thongqitmraTiengdziw": "U+74DE"
   },
   {
+    "pieutiwbyo": "074E6074E6",
+    "zyokdziw": "瓦",
+    "tiengdziw": "瓦",
+    "thongqitmraZyokdziw": "U+74E6",
+    "thongqitmraTiengdziw": "U+74E6"
+  },
+  {
     "pieutiwbyo": "074EE07515",
     "zyokdziw": "瓮",
     "tiengdziw": "甕",
@@ -14959,6 +16772,20 @@
     "thongqitmraTiengdziw": "U+7515"
   },
   {
+    "pieutiwbyo": "0751807518",
+    "zyokdziw": "甘",
+    "tiengdziw": "甘",
+    "thongqitmraZyokdziw": "U+7518",
+    "thongqitmraTiengdziw": "U+7518"
+  },
+  {
+    "pieutiwbyo": "0751A0751A",
+    "zyokdziw": "甚",
+    "tiengdziw": "甚",
+    "thongqitmraZyokdziw": "U+751A",
+    "thongqitmraTiengdziw": "U+751A"
+  },
+  {
     "pieutiwbyo": "0751C0751C",
     "zyokdziw": "甜",
     "tiengdziw": "甜",
@@ -14978,6 +16805,20 @@
     "tiengdziw": "甡",
     "thongqitmraZyokdziw": "U+7521",
     "thongqitmraTiengdziw": "U+7521"
+  },
+  {
+    "pieutiwbyo": "0752207523",
+    "zyokdziw": "產",
+    "tiengdziw": "産",
+    "thongqitmraZyokdziw": "U+7522",
+    "thongqitmraTiengdziw": "U+7523"
+  },
+  {
+    "pieutiwbyo": "0752307523",
+    "zyokdziw": "産",
+    "tiengdziw": "産",
+    "thongqitmraZyokdziw": "U+7523",
+    "thongqitmraTiengdziw": "U+7523"
   },
   {
     "pieutiwbyo": "0752507525",
@@ -15022,6 +16863,13 @@
     "thongqitmraTiengdziw": "U+7531"
   },
   {
+    "pieutiwbyo": "0753207532",
+    "zyokdziw": "甲",
+    "tiengdziw": "甲",
+    "thongqitmraZyokdziw": "U+7532",
+    "thongqitmraTiengdziw": "U+7532"
+  },
+  {
     "pieutiwbyo": "0753307533",
     "zyokdziw": "申",
     "tiengdziw": "申",
@@ -15062,6 +16910,13 @@
     "tiengdziw": "町",
     "thongqitmraZyokdziw": "U+753A",
     "thongqitmraTiengdziw": "U+753A"
+  },
+  {
+    "pieutiwbyo": "0753B0756B",
+    "zyokdziw": "画",
+    "tiengdziw": "畫",
+    "thongqitmraZyokdziw": "U+753B",
+    "thongqitmraTiengdziw": "U+756B"
   },
   {
     "pieutiwbyo": "0753F0753F",
@@ -15106,6 +16961,13 @@
     "thongqitmraTiengdziw": "U+754E"
   },
   {
+    "pieutiwbyo": "0754F0754F",
+    "zyokdziw": "畏",
+    "tiengdziw": "畏",
+    "thongqitmraZyokdziw": "U+754F",
+    "thongqitmraTiengdziw": "U+754F"
+  },
+  {
     "pieutiwbyo": "0755107551",
     "zyokdziw": "畑",
     "tiengdziw": "畑",
@@ -15118,6 +16980,13 @@
     "tiengdziw": "畔",
     "thongqitmraZyokdziw": "U+7554",
     "thongqitmraTiengdziw": "U+7554"
+  },
+  {
+    "pieutiwbyo": "0755D0755D",
+    "zyokdziw": "畝",
+    "tiengdziw": "畝",
+    "thongqitmraZyokdziw": "U+755D",
+    "thongqitmraTiengdziw": "U+755D"
   },
   {
     "pieutiwbyo": "0756007560",
@@ -15162,6 +17031,13 @@
     "thongqitmraTiengdziw": "U+7565"
   },
   {
+    "pieutiwbyo": "0756B0756B",
+    "zyokdziw": "畫",
+    "tiengdziw": "畫",
+    "thongqitmraZyokdziw": "U+756B",
+    "thongqitmraTiengdziw": "U+756B"
+  },
+  {
     "pieutiwbyo": "0756C0756C",
     "zyokdziw": "畬",
     "tiengdziw": "畬",
@@ -15188,6 +17064,13 @@
     "tiengdziw": "畯",
     "thongqitmraZyokdziw": "U+756F",
     "thongqitmraTiengdziw": "U+756F"
+  },
+  {
+    "pieutiwbyo": "0757007570",
+    "zyokdziw": "異",
+    "tiengdziw": "異",
+    "thongqitmraZyokdziw": "U+7570",
+    "thongqitmraTiengdziw": "U+7570"
   },
   {
     "pieutiwbyo": "0757207572",
@@ -15232,11 +17115,32 @@
     "thongqitmraTiengdziw": "U+53E0"
   },
   {
+    "pieutiwbyo": "0758E0758F",
+    "zyokdziw": "疎",
+    "tiengdziw": "疏",
+    "thongqitmraZyokdziw": "U+758E",
+    "thongqitmraTiengdziw": "U+758F"
+  },
+  {
+    "pieutiwbyo": "0758F0758F",
+    "zyokdziw": "疏",
+    "tiengdziw": "疏",
+    "thongqitmraZyokdziw": "U+758F",
+    "thongqitmraTiengdziw": "U+758F"
+  },
+  {
     "pieutiwbyo": "0759007590",
     "zyokdziw": "疐",
     "tiengdziw": "疐",
     "thongqitmraZyokdziw": "U+7590",
     "thongqitmraTiengdziw": "U+7590"
+  },
+  {
+    "pieutiwbyo": "0759107591",
+    "zyokdziw": "疑",
+    "tiengdziw": "疑",
+    "thongqitmraZyokdziw": "U+7591",
+    "thongqitmraTiengdziw": "U+7591"
   },
   {
     "pieutiwbyo": "0759207592",
@@ -15349,6 +17253,13 @@
     "tiengdziw": "疼",
     "thongqitmraZyokdziw": "U+75BC",
     "thongqitmraTiengdziw": "U+75BC"
+  },
+  {
+    "pieutiwbyo": "075BE075BE",
+    "zyokdziw": "疾",
+    "tiengdziw": "疾",
+    "thongqitmraZyokdziw": "U+75BE",
+    "thongqitmraTiengdziw": "U+75BE"
   },
   {
     "pieutiwbyo": "075C0075C0",
@@ -15617,6 +17528,13 @@
     "thongqitmraTiengdziw": "U+7682"
   },
   {
+    "pieutiwbyo": "0768607686",
+    "zyokdziw": "皆",
+    "tiengdziw": "皆",
+    "thongqitmraZyokdziw": "U+7686",
+    "thongqitmraTiengdziw": "U+7686"
+  },
+  {
     "pieutiwbyo": "0768707687",
     "zyokdziw": "皇",
     "tiengdziw": "皇",
@@ -15715,6 +17633,13 @@
     "thongqitmraTiengdziw": "U+9F13"
   },
   {
+    "pieutiwbyo": "076BF076BF",
+    "zyokdziw": "皿",
+    "tiengdziw": "皿",
+    "thongqitmraZyokdziw": "U+76BF",
+    "thongqitmraTiengdziw": "U+76BF"
+  },
+  {
     "pieutiwbyo": "076C5076C5",
     "zyokdziw": "盅",
     "tiengdziw": "盅",
@@ -15727,6 +17652,13 @@
     "tiengdziw": "盈",
     "thongqitmraZyokdziw": "U+76C8",
     "thongqitmraTiengdziw": "U+76C8"
+  },
+  {
+    "pieutiwbyo": "076CA076CA",
+    "zyokdziw": "益",
+    "tiengdziw": "益",
+    "thongqitmraZyokdziw": "U+76CA",
+    "thongqitmraTiengdziw": "U+76CA"
   },
   {
     "pieutiwbyo": "076D009E7D",
@@ -15757,6 +17689,13 @@
     "thongqitmraTiengdziw": "U+76D4"
   },
   {
+    "pieutiwbyo": "076D6084CB",
+    "zyokdziw": "盖",
+    "tiengdziw": "蓋",
+    "thongqitmraZyokdziw": "U+76D6",
+    "thongqitmraTiengdziw": "U+84CB"
+  },
+  {
     "pieutiwbyo": "076D7076D7",
     "zyokdziw": "盗",
     "tiengdziw": "盗",
@@ -15776,6 +17715,13 @@
     "tiengdziw": "盗",
     "thongqitmraZyokdziw": "U+76DC",
     "thongqitmraTiengdziw": "U+76D7"
+  },
+  {
+    "pieutiwbyo": "076E1076E1",
+    "zyokdziw": "盡",
+    "tiengdziw": "盡",
+    "thongqitmraZyokdziw": "U+76E1",
+    "thongqitmraTiengdziw": "U+76E1"
   },
   {
     "pieutiwbyo": "076E3076E3",
@@ -15855,6 +17801,13 @@
     "thongqitmraTiengdziw": "U+76FB"
   },
   {
+    "pieutiwbyo": "076FE076FE",
+    "zyokdziw": "盾",
+    "tiengdziw": "盾",
+    "thongqitmraZyokdziw": "U+76FE",
+    "thongqitmraTiengdziw": "U+76FE"
+  },
+  {
     "pieutiwbyo": "0770107701",
     "zyokdziw": "省",
     "tiengdziw": "省",
@@ -15876,11 +17829,39 @@
     "thongqitmraTiengdziw": "U+7707"
   },
   {
+    "pieutiwbyo": "0770B0770B",
+    "zyokdziw": "看",
+    "tiengdziw": "看",
+    "thongqitmraZyokdziw": "U+770B",
+    "thongqitmraTiengdziw": "U+770B"
+  },
+  {
+    "pieutiwbyo": "0770C07E23",
+    "zyokdziw": "県",
+    "tiengdziw": "縣",
+    "thongqitmraZyokdziw": "U+770C",
+    "thongqitmraTiengdziw": "U+7E23"
+  },
+  {
     "pieutiwbyo": "0771A0771A",
     "zyokdziw": "眚",
     "tiengdziw": "眚",
     "thongqitmraZyokdziw": "U+771A",
     "thongqitmraTiengdziw": "U+771A"
+  },
+  {
+    "pieutiwbyo": "0771E0771F",
+    "zyokdziw": "眞",
+    "tiengdziw": "真",
+    "thongqitmraZyokdziw": "U+771E",
+    "thongqitmraTiengdziw": "U+771F"
+  },
+  {
+    "pieutiwbyo": "0771F0771F",
+    "zyokdziw": "真",
+    "tiengdziw": "真",
+    "thongqitmraZyokdziw": "U+771F",
+    "thongqitmraTiengdziw": "U+771F"
   },
   {
     "pieutiwbyo": "0772907729",
@@ -16035,6 +18016,20 @@
     "tiengdziw": "瞽",
     "thongqitmraZyokdziw": "U+77BD",
     "thongqitmraTiengdziw": "U+77BD"
+  },
+  {
+    "pieutiwbyo": "077E2077E2",
+    "zyokdziw": "矢",
+    "tiengdziw": "矢",
+    "thongqitmraZyokdziw": "U+77E2",
+    "thongqitmraTiengdziw": "U+77E2"
+  },
+  {
+    "pieutiwbyo": "077E604FAF",
+    "zyokdziw": "矦",
+    "tiengdziw": "侯",
+    "thongqitmraZyokdziw": "U+77E6",
+    "thongqitmraTiengdziw": "U+4FAF"
   },
   {
     "pieutiwbyo": "077E906998",
@@ -16401,6 +18396,13 @@
     "thongqitmraTiengdziw": "U+792E"
   },
   {
+    "pieutiwbyo": "0793A0793A",
+    "zyokdziw": "示",
+    "tiengdziw": "示",
+    "thongqitmraZyokdziw": "U+793A",
+    "thongqitmraTiengdziw": "U+793A"
+  },
+  {
     "pieutiwbyo": "0793C0793C",
     "zyokdziw": "礼",
     "tiengdziw": "礼",
@@ -16464,6 +18466,13 @@
     "thongqitmraTiengdziw": "U+795C"
   },
   {
+    "pieutiwbyo": "0795D0795D",
+    "zyokdziw": "祝",
+    "tiengdziw": "祝",
+    "thongqitmraZyokdziw": "U+795D",
+    "thongqitmraTiengdziw": "U+795D"
+  },
+  {
     "pieutiwbyo": "0795E0795E",
     "zyokdziw": "神",
     "tiengdziw": "神",
@@ -16476,6 +18485,13 @@
     "tiengdziw": "祫",
     "thongqitmraZyokdziw": "U+796B",
     "thongqitmraTiengdziw": "U+796B"
+  },
+  {
+    "pieutiwbyo": "0796D0796D",
+    "zyokdziw": "祭",
+    "tiengdziw": "祭",
+    "thongqitmraZyokdziw": "U+796D",
+    "thongqitmraTiengdziw": "U+796D"
   },
   {
     "pieutiwbyo": "0796F0798E",
@@ -16555,6 +18571,20 @@
     "thongqitmraTiengdziw": "U+79BD"
   },
   {
+    "pieutiwbyo": "079C0079C0",
+    "zyokdziw": "秀",
+    "tiengdziw": "秀",
+    "thongqitmraZyokdziw": "U+79C0",
+    "thongqitmraTiengdziw": "U+79C0"
+  },
+  {
+    "pieutiwbyo": "079C1079C1",
+    "zyokdziw": "私",
+    "tiengdziw": "私",
+    "thongqitmraZyokdziw": "U+79C1",
+    "thongqitmraTiengdziw": "U+79C1"
+  },
+  {
     "pieutiwbyo": "079C6079C6",
     "zyokdziw": "秆",
     "tiengdziw": "秆",
@@ -16609,6 +18639,13 @@
     "tiengdziw": "种",
     "thongqitmraZyokdziw": "U+79CD",
     "thongqitmraTiengdziw": "U+79CD"
+  },
+  {
+    "pieutiwbyo": "079D1079D1",
+    "zyokdziw": "科",
+    "tiengdziw": "科",
+    "thongqitmraZyokdziw": "U+79D1",
+    "thongqitmraTiengdziw": "U+79D1"
   },
   {
     "pieutiwbyo": "079D2079D2",
@@ -16758,6 +18795,20 @@
     "thongqitmraTiengdziw": "U+7A31"
   },
   {
+    "pieutiwbyo": "07A3D07A3D",
+    "zyokdziw": "稽",
+    "tiengdziw": "稽",
+    "thongqitmraZyokdziw": "U+7A3D",
+    "thongqitmraTiengdziw": "U+7A3D"
+  },
+  {
+    "pieutiwbyo": "07A4207A57",
+    "zyokdziw": "穂",
+    "tiengdziw": "穗",
+    "thongqitmraZyokdziw": "U+7A42",
+    "thongqitmraTiengdziw": "U+7A57"
+  },
+  {
     "pieutiwbyo": "07A4507A45",
     "zyokdziw": "穅",
     "tiengdziw": "穅",
@@ -16793,6 +18844,13 @@
     "thongqitmraTiengdziw": "U+7A61"
   },
   {
+    "pieutiwbyo": "07A5707A57",
+    "zyokdziw": "穗",
+    "tiengdziw": "穗",
+    "thongqitmraZyokdziw": "U+7A57",
+    "thongqitmraTiengdziw": "U+7A57"
+  },
+  {
     "pieutiwbyo": "07A5F07A5F",
     "zyokdziw": "穟",
     "tiengdziw": "穟",
@@ -16821,11 +18879,25 @@
     "thongqitmraTiengdziw": "U+983D"
   },
   {
+    "pieutiwbyo": "07A6B07A6B",
+    "zyokdziw": "穫",
+    "tiengdziw": "穫",
+    "thongqitmraZyokdziw": "U+7A6B",
+    "thongqitmraTiengdziw": "U+7A6B"
+  },
+  {
     "pieutiwbyo": "07A7107A71",
     "zyokdziw": "穱",
     "tiengdziw": "穱",
     "thongqitmraZyokdziw": "U+7A71",
     "thongqitmraTiengdziw": "U+7A71"
+  },
+  {
+    "pieutiwbyo": "07A7407A74",
+    "zyokdziw": "穴",
+    "tiengdziw": "穴",
+    "thongqitmraZyokdziw": "U+7A74",
+    "thongqitmraTiengdziw": "U+7A74"
   },
   {
     "pieutiwbyo": "07A7607A76",
@@ -16898,11 +18970,25 @@
     "thongqitmraTiengdziw": "U+7A92"
   },
   {
+    "pieutiwbyo": "07A9307A97",
+    "zyokdziw": "窓",
+    "tiengdziw": "窗",
+    "thongqitmraZyokdziw": "U+7A93",
+    "thongqitmraTiengdziw": "U+7A97"
+  },
+  {
     "pieutiwbyo": "07A9407A94",
     "zyokdziw": "窔",
     "tiengdziw": "窔",
     "thongqitmraZyokdziw": "U+7A94",
     "thongqitmraTiengdziw": "U+7A94"
+  },
+  {
+    "pieutiwbyo": "07A9707A97",
+    "zyokdziw": "窗",
+    "tiengdziw": "窗",
+    "thongqitmraZyokdziw": "U+7A97",
+    "thongqitmraTiengdziw": "U+7A97"
   },
   {
     "pieutiwbyo": "07A9807A98",
@@ -16975,6 +19061,13 @@
     "thongqitmraTiengdziw": "U+95DA"
   },
   {
+    "pieutiwbyo": "07ABB07A97",
+    "zyokdziw": "窻",
+    "tiengdziw": "窗",
+    "thongqitmraZyokdziw": "U+7ABB",
+    "thongqitmraTiengdziw": "U+7A97"
+  },
+  {
     "pieutiwbyo": "07ABD07ABE",
     "zyokdziw": "窽",
     "tiengdziw": "窾",
@@ -17024,6 +19117,20 @@
     "thongqitmraTiengdziw": "U+4E26"
   },
   {
+    "pieutiwbyo": "07ADE07AF6",
+    "zyokdziw": "竞",
+    "tiengdziw": "競",
+    "thongqitmraZyokdziw": "U+7ADE",
+    "thongqitmraTiengdziw": "U+7AF6"
+  },
+  {
+    "pieutiwbyo": "07AE007AE0",
+    "zyokdziw": "章",
+    "tiengdziw": "章",
+    "thongqitmraZyokdziw": "U+7AE0",
+    "thongqitmraTiengdziw": "U+7AE0"
+  },
+  {
     "pieutiwbyo": "07AE307AE3",
     "zyokdziw": "竣",
     "tiengdziw": "竣",
@@ -17036,6 +19143,13 @@
     "tiengdziw": "竫",
     "thongqitmraZyokdziw": "U+7AEB",
     "thongqitmraTiengdziw": "U+7AEB"
+  },
+  {
+    "pieutiwbyo": "07AF607AF6",
+    "zyokdziw": "競",
+    "tiengdziw": "競",
+    "thongqitmraZyokdziw": "U+7AF6",
+    "thongqitmraTiengdziw": "U+7AF6"
   },
   {
     "pieutiwbyo": "07AF907AF9",
@@ -17211,6 +19325,13 @@
     "tiengdziw": "等",
     "thongqitmraZyokdziw": "U+7B49",
     "thongqitmraTiengdziw": "U+7B49"
+  },
+  {
+    "pieutiwbyo": "07B4B07B4B",
+    "zyokdziw": "筋",
+    "tiengdziw": "筋",
+    "thongqitmraZyokdziw": "U+7B4B",
+    "thongqitmraTiengdziw": "U+7B4B"
   },
   {
     "pieutiwbyo": "07B4C07B4C",
@@ -17661,6 +19782,13 @@
     "thongqitmraTiengdziw": "U+7C95"
   },
   {
+    "pieutiwbyo": "07C9B08085",
+    "zyokdziw": "粛",
+    "tiengdziw": "肅",
+    "thongqitmraZyokdziw": "U+7C9B",
+    "thongqitmraTiengdziw": "U+8085"
+  },
+  {
     "pieutiwbyo": "07C9C07CF6",
     "zyokdziw": "粜",
     "tiengdziw": "糶",
@@ -17962,11 +20090,25 @@
     "thongqitmraTiengdziw": "U+7D1C"
   },
   {
+    "pieutiwbyo": "07D2007D20",
+    "zyokdziw": "素",
+    "tiengdziw": "素",
+    "thongqitmraZyokdziw": "U+7D20",
+    "thongqitmraTiengdziw": "U+7D20"
+  },
+  {
     "pieutiwbyo": "07D2107D21",
     "zyokdziw": "紡",
     "tiengdziw": "紡",
     "thongqitmraZyokdziw": "U+7D21",
     "thongqitmraTiengdziw": "U+7D21"
+  },
+  {
+    "pieutiwbyo": "07D2207D22",
+    "zyokdziw": "索",
+    "tiengdziw": "索",
+    "thongqitmraZyokdziw": "U+7D22",
+    "thongqitmraTiengdziw": "U+7D22"
   },
   {
     "pieutiwbyo": "07D2707DCA",
@@ -17995,6 +20137,13 @@
     "tiengdziw": "紮",
     "thongqitmraZyokdziw": "U+7D2E",
     "thongqitmraTiengdziw": "U+7D2E"
+  },
+  {
+    "pieutiwbyo": "07D3007D30",
+    "zyokdziw": "細",
+    "tiengdziw": "細",
+    "thongqitmraZyokdziw": "U+7D30",
+    "thongqitmraTiengdziw": "U+7D30"
   },
   {
     "pieutiwbyo": "07D3207D32",
@@ -18172,6 +20321,13 @@
     "thongqitmraTiengdziw": "U+7D83"
   },
   {
+    "pieutiwbyo": "07D9907E7C",
+    "zyokdziw": "継",
+    "tiengdziw": "繼",
+    "thongqitmraZyokdziw": "U+7D99",
+    "thongqitmraTiengdziw": "U+7E7C"
+  },
+  {
     "pieutiwbyo": "07D9A07E8C",
     "zyokdziw": "続",
     "tiengdziw": "續",
@@ -18326,6 +20482,13 @@
     "thongqitmraTiengdziw": "U+7E22"
   },
   {
+    "pieutiwbyo": "07E2307E23",
+    "zyokdziw": "縣",
+    "tiengdziw": "縣",
+    "thongqitmraZyokdziw": "U+7E23",
+    "thongqitmraTiengdziw": "U+7E23"
+  },
+  {
     "pieutiwbyo": "07E2E07E2E",
     "zyokdziw": "縮",
     "tiengdziw": "縮",
@@ -18394,6 +20557,13 @@
     "tiengdziw": "韁",
     "thongqitmraZyokdziw": "U+7E6E",
     "thongqitmraTiengdziw": "U+97C1"
+  },
+  {
+    "pieutiwbyo": "07E7C07E7C",
+    "zyokdziw": "繼",
+    "tiengdziw": "繼",
+    "thongqitmraZyokdziw": "U+7E7C",
+    "thongqitmraTiengdziw": "U+7E7C"
   },
   {
     "pieutiwbyo": "07E8607E86",
@@ -18564,6 +20734,13 @@
     "thongqitmraTiengdziw": "U+7D33"
   },
   {
+    "pieutiwbyo": "07EC607D30",
+    "zyokdziw": "细",
+    "tiengdziw": "細",
+    "thongqitmraZyokdziw": "U+7EC6",
+    "thongqitmraTiengdziw": "U+7D30"
+  },
+  {
     "pieutiwbyo": "07EC807D42",
     "zyokdziw": "终",
     "tiengdziw": "終",
@@ -18646,6 +20823,13 @@
     "tiengdziw": "綃",
     "thongqitmraZyokdziw": "U+7EE1",
     "thongqitmraTiengdziw": "U+7D83"
+  },
+  {
+    "pieutiwbyo": "07EE707E7C",
+    "zyokdziw": "继",
+    "tiengdziw": "繼",
+    "thongqitmraZyokdziw": "U+7EE7",
+    "thongqitmraTiengdziw": "U+7E7C"
   },
   {
     "pieutiwbyo": "07EEA07DD2",
@@ -18865,6 +21049,13 @@
     "thongqitmraTiengdziw": "U+7F5F"
   },
   {
+    "pieutiwbyo": "07F6A07F6A",
+    "zyokdziw": "罪",
+    "tiengdziw": "罪",
+    "thongqitmraZyokdziw": "U+7F6A",
+    "thongqitmraTiengdziw": "U+7F6A"
+  },
+  {
     "pieutiwbyo": "07F6E07F6E",
     "zyokdziw": "置",
     "tiengdziw": "置",
@@ -18977,6 +21168,13 @@
     "thongqitmraTiengdziw": "U+7FB9"
   },
   {
+    "pieutiwbyo": "07FBD07FBD",
+    "zyokdziw": "羽",
+    "tiengdziw": "羽",
+    "thongqitmraZyokdziw": "U+7FBD",
+    "thongqitmraTiengdziw": "U+7FBD"
+  },
+  {
     "pieutiwbyo": "07FBF07FBF",
     "zyokdziw": "羿",
     "tiengdziw": "羿",
@@ -18996,6 +21194,13 @@
     "tiengdziw": "翌",
     "thongqitmraZyokdziw": "U+7FCC",
     "thongqitmraTiengdziw": "U+7FCC"
+  },
+  {
+    "pieutiwbyo": "07FD207FD2",
+    "zyokdziw": "習",
+    "tiengdziw": "習",
+    "thongqitmraZyokdziw": "U+7FD2",
+    "thongqitmraTiengdziw": "U+7FD2"
   },
   {
     "pieutiwbyo": "07FD507FD5",
@@ -19066,6 +21271,13 @@
     "tiengdziw": "耀",
     "thongqitmraZyokdziw": "U+8000",
     "thongqitmraTiengdziw": "U+8000"
+  },
+  {
+    "pieutiwbyo": "0800308003",
+    "zyokdziw": "考",
+    "tiengdziw": "考",
+    "thongqitmraZyokdziw": "U+8003",
+    "thongqitmraTiengdziw": "U+8003"
   },
   {
     "pieutiwbyo": "0800508005",
@@ -19159,6 +21371,13 @@
     "thongqitmraTiengdziw": "U+806F"
   },
   {
+    "pieutiwbyo": "0805608056",
+    "zyokdziw": "聖",
+    "tiengdziw": "聖",
+    "thongqitmraZyokdziw": "U+8056",
+    "thongqitmraTiengdziw": "U+8056"
+  },
+  {
     "pieutiwbyo": "0805808058",
     "zyokdziw": "聘",
     "tiengdziw": "聘",
@@ -19222,11 +21441,25 @@
     "thongqitmraTiengdziw": "U+807F"
   },
   {
+    "pieutiwbyo": "0808308085",
+    "zyokdziw": "肃",
+    "tiengdziw": "肅",
+    "thongqitmraZyokdziw": "U+8083",
+    "thongqitmraTiengdziw": "U+8085"
+  },
+  {
     "pieutiwbyo": "0808408084",
     "zyokdziw": "肄",
     "tiengdziw": "肄",
     "thongqitmraZyokdziw": "U+8084",
     "thongqitmraTiengdziw": "U+8084"
+  },
+  {
+    "pieutiwbyo": "0808508085",
+    "zyokdziw": "肅",
+    "tiengdziw": "肅",
+    "thongqitmraZyokdziw": "U+8085",
+    "thongqitmraTiengdziw": "U+8085"
   },
   {
     "pieutiwbyo": "0808608086",
@@ -19353,6 +21586,20 @@
     "tiengdziw": "肭",
     "thongqitmraZyokdziw": "U+80AD",
     "thongqitmraTiengdziw": "U+80AD"
+  },
+  {
+    "pieutiwbyo": "080AF080AF",
+    "zyokdziw": "肯",
+    "tiengdziw": "肯",
+    "thongqitmraZyokdziw": "U+80AF",
+    "thongqitmraTiengdziw": "U+80AF"
+  },
+  {
+    "pieutiwbyo": "080B2080B2",
+    "zyokdziw": "育",
+    "tiengdziw": "育",
+    "thongqitmraZyokdziw": "U+80B2",
+    "thongqitmraTiengdziw": "U+80B2"
   },
   {
     "pieutiwbyo": "080BE0814E",
@@ -19507,6 +21754,13 @@
     "tiengdziw": "脆",
     "thongqitmraZyokdziw": "U+8106",
     "thongqitmraTiengdziw": "U+8106"
+  },
+  {
+    "pieutiwbyo": "0810A0810A",
+    "zyokdziw": "脊",
+    "tiengdziw": "脊",
+    "thongqitmraZyokdziw": "U+810A",
+    "thongqitmraTiengdziw": "U+810A"
   },
   {
     "pieutiwbyo": "0810F081DF",
@@ -19768,6 +22022,20 @@
     "thongqitmraTiengdziw": "U+81E8"
   },
   {
+    "pieutiwbyo": "081EA081EA",
+    "zyokdziw": "自",
+    "tiengdziw": "自",
+    "thongqitmraZyokdziw": "U+81EA",
+    "thongqitmraTiengdziw": "U+81EA"
+  },
+  {
+    "pieutiwbyo": "081ED081ED",
+    "zyokdziw": "臭",
+    "tiengdziw": "臭",
+    "thongqitmraZyokdziw": "U+81ED",
+    "thongqitmraTiengdziw": "U+81ED"
+  },
+  {
     "pieutiwbyo": "081EF0768B",
     "zyokdziw": "臯",
     "tiengdziw": "皋",
@@ -19831,11 +22099,25 @@
     "thongqitmraTiengdziw": "U+8205"
   },
   {
+    "pieutiwbyo": "0820808208",
+    "zyokdziw": "興",
+    "tiengdziw": "興",
+    "thongqitmraZyokdziw": "U+8208",
+    "thongqitmraTiengdziw": "U+8208"
+  },
+  {
     "pieutiwbyo": "0820A0820A",
     "zyokdziw": "舊",
     "tiengdziw": "舊",
     "thongqitmraZyokdziw": "U+820A",
     "thongqitmraTiengdziw": "U+820A"
+  },
+  {
+    "pieutiwbyo": "0820C0820C",
+    "zyokdziw": "舌",
+    "tiengdziw": "舌",
+    "thongqitmraZyokdziw": "U+820C",
+    "thongqitmraTiengdziw": "U+820C"
   },
   {
     "pieutiwbyo": "0820D06368",
@@ -20237,6 +22519,13 @@
     "thongqitmraTiengdziw": "U+82E3"
   },
   {
+    "pieutiwbyo": "082E5082E5",
+    "zyokdziw": "若",
+    "tiengdziw": "若",
+    "thongqitmraZyokdziw": "U+82E5",
+    "thongqitmraTiengdziw": "U+82E5"
+  },
+  {
     "pieutiwbyo": "082E6082E6",
     "zyokdziw": "苦",
     "tiengdziw": "苦",
@@ -20426,6 +22715,13 @@
     "thongqitmraTiengdziw": "U+8350"
   },
   {
+    "pieutiwbyo": "08350085A6",
+    "zyokdziw": "荐",
+    "tiengdziw": "薦",
+    "thongqitmraZyokdziw": "U+8350",
+    "thongqitmraTiengdziw": "U+85A6"
+  },
+  {
     "pieutiwbyo": "0835208352",
     "zyokdziw": "荒",
     "tiengdziw": "荒",
@@ -20606,6 +22902,20 @@
     "tiengdziw": "薟",
     "thongqitmraZyokdziw": "U+83B6",
     "thongqitmraTiengdziw": "U+859F"
+  },
+  {
+    "pieutiwbyo": "083B707372",
+    "zyokdziw": "获",
+    "tiengdziw": "獲",
+    "thongqitmraZyokdziw": "U+83B7",
+    "thongqitmraTiengdziw": "U+7372"
+  },
+  {
+    "pieutiwbyo": "083B707A6B",
+    "zyokdziw": "获",
+    "tiengdziw": "穫",
+    "thongqitmraZyokdziw": "U+83B7",
+    "thongqitmraTiengdziw": "U+7A6B"
   },
   {
     "pieutiwbyo": "083C1083C1",
@@ -20823,6 +23133,13 @@
     "tiengdziw": "蓆",
     "thongqitmraZyokdziw": "U+84C6",
     "thongqitmraTiengdziw": "U+84C6"
+  },
+  {
+    "pieutiwbyo": "084CB084CB",
+    "zyokdziw": "蓋",
+    "tiengdziw": "蓋",
+    "thongqitmraZyokdziw": "U+84CB",
+    "thongqitmraTiengdziw": "U+84CB"
   },
   {
     "pieutiwbyo": "084CF084CF",
@@ -21084,6 +23401,13 @@
     "thongqitmraTiengdziw": "U+859F"
   },
   {
+    "pieutiwbyo": "085A6085A6",
+    "zyokdziw": "薦",
+    "tiengdziw": "薦",
+    "thongqitmraZyokdziw": "U+85A6",
+    "thongqitmraTiengdziw": "U+85A6"
+  },
+  {
     "pieutiwbyo": "085AF085AF",
     "zyokdziw": "薯",
     "tiengdziw": "薯",
@@ -21231,6 +23555,20 @@
     "thongqitmraTiengdziw": "U+8624"
   },
   {
+    "pieutiwbyo": "0864E0864E",
+    "zyokdziw": "虎",
+    "tiengdziw": "虎",
+    "thongqitmraZyokdziw": "U+864E",
+    "thongqitmraTiengdziw": "U+864E"
+  },
+  {
+    "pieutiwbyo": "0865008650",
+    "zyokdziw": "虐",
+    "tiengdziw": "虐",
+    "thongqitmraZyokdziw": "U+8650",
+    "thongqitmraTiengdziw": "U+8650"
+  },
+  {
     "pieutiwbyo": "0865308653",
     "zyokdziw": "虓",
     "tiengdziw": "虓",
@@ -21243,6 +23581,34 @@
     "tiengdziw": "虔",
     "thongqitmraZyokdziw": "U+8654",
     "thongqitmraTiengdziw": "U+8654"
+  },
+  {
+    "pieutiwbyo": "0865508655",
+    "zyokdziw": "處",
+    "tiengdziw": "處",
+    "thongqitmraZyokdziw": "U+8655",
+    "thongqitmraTiengdziw": "U+8655"
+  },
+  {
+    "pieutiwbyo": "086570865A",
+    "zyokdziw": "虗",
+    "tiengdziw": "虚",
+    "thongqitmraZyokdziw": "U+8657",
+    "thongqitmraTiengdziw": "U+865A"
+  },
+  {
+    "pieutiwbyo": "0865A0865A",
+    "zyokdziw": "虚",
+    "tiengdziw": "虚",
+    "thongqitmraZyokdziw": "U+865A",
+    "thongqitmraTiengdziw": "U+865A"
+  },
+  {
+    "pieutiwbyo": "0865B0865A",
+    "zyokdziw": "虛",
+    "tiengdziw": "虚",
+    "thongqitmraZyokdziw": "U+865B",
+    "thongqitmraTiengdziw": "U+865A"
   },
   {
     "pieutiwbyo": "0865E0865E",
@@ -21397,6 +23763,13 @@
     "tiengdziw": "蛄",
     "thongqitmraZyokdziw": "U+86C4",
     "thongqitmraTiengdziw": "U+86C4"
+  },
+  {
+    "pieutiwbyo": "086C7086C7",
+    "zyokdziw": "蛇",
+    "tiengdziw": "蛇",
+    "thongqitmraZyokdziw": "U+86C7",
+    "thongqitmraTiengdziw": "U+86C7"
   },
   {
     "pieutiwbyo": "086CA08831",
@@ -21812,6 +24185,13 @@
     "thongqitmraTiengdziw": "U+8839"
   },
   {
+    "pieutiwbyo": "0884008840",
+    "zyokdziw": "血",
+    "tiengdziw": "血",
+    "thongqitmraZyokdziw": "U+8840",
+    "thongqitmraTiengdziw": "U+8840"
+  },
+  {
     "pieutiwbyo": "0884108841",
     "zyokdziw": "衁",
     "tiengdziw": "衁",
@@ -21938,6 +24318,13 @@
     "thongqitmraTiengdziw": "U+886B"
   },
   {
+    "pieutiwbyo": "0887008870",
+    "zyokdziw": "衰",
+    "tiengdziw": "衰",
+    "thongqitmraZyokdziw": "U+8870",
+    "thongqitmraTiengdziw": "U+8870"
+  },
+  {
     "pieutiwbyo": "0887108871",
     "zyokdziw": "衱",
     "tiengdziw": "衱",
@@ -22034,6 +24421,13 @@
     "tiengdziw": "袢",
     "thongqitmraZyokdziw": "U+88A2",
     "thongqitmraTiengdziw": "U+88A2"
+  },
+  {
+    "pieutiwbyo": "088AD08972",
+    "zyokdziw": "袭",
+    "tiengdziw": "襲",
+    "thongqitmraZyokdziw": "U+88AD",
+    "thongqitmraTiengdziw": "U+8972"
   },
   {
     "pieutiwbyo": "088B7088B7",
@@ -22316,6 +24710,20 @@
     "thongqitmraTiengdziw": "U+896D"
   },
   {
+    "pieutiwbyo": "0897208972",
+    "zyokdziw": "襲",
+    "tiengdziw": "襲",
+    "thongqitmraZyokdziw": "U+8972",
+    "thongqitmraTiengdziw": "U+8972"
+  },
+  {
+    "pieutiwbyo": "0897F0897F",
+    "zyokdziw": "西",
+    "tiengdziw": "西",
+    "thongqitmraZyokdziw": "U+897F",
+    "thongqitmraTiengdziw": "U+897F"
+  },
+  {
     "pieutiwbyo": "0898B0898B",
     "zyokdziw": "見",
     "tiengdziw": "見",
@@ -22328,6 +24736,13 @@
     "tiengdziw": "規",
     "thongqitmraZyokdziw": "U+898F",
     "thongqitmraTiengdziw": "U+898F"
+  },
+  {
+    "pieutiwbyo": "0899608996",
+    "zyokdziw": "視",
+    "tiengdziw": "視",
+    "thongqitmraZyokdziw": "U+8996",
+    "thongqitmraTiengdziw": "U+8996"
   },
   {
     "pieutiwbyo": "0899A089BA",
@@ -22349,6 +24764,13 @@
     "tiengdziw": "睹",
     "thongqitmraZyokdziw": "U+89A9",
     "thongqitmraTiengdziw": "U+7779"
+  },
+  {
+    "pieutiwbyo": "089AA089AA",
+    "zyokdziw": "親",
+    "tiengdziw": "親",
+    "thongqitmraZyokdziw": "U+89AA",
+    "thongqitmraTiengdziw": "U+89AA"
   },
   {
     "pieutiwbyo": "089BA089BA",
@@ -22386,6 +24808,13 @@
     "thongqitmraTiengdziw": "U+898F"
   },
   {
+    "pieutiwbyo": "089C608996",
+    "zyokdziw": "视",
+    "tiengdziw": "視",
+    "thongqitmraZyokdziw": "U+89C6",
+    "thongqitmraTiengdziw": "U+8996"
+  },
+  {
     "pieutiwbyo": "089C8089BD",
     "zyokdziw": "览",
     "tiengdziw": "覽",
@@ -22407,6 +24836,13 @@
     "thongqitmraTiengdziw": "U+89BF"
   },
   {
+    "pieutiwbyo": "089D2089D2",
+    "zyokdziw": "角",
+    "tiengdziw": "角",
+    "thongqitmraZyokdziw": "U+89D2",
+    "thongqitmraTiengdziw": "U+89D2"
+  },
+  {
     "pieutiwbyo": "089D3089D3",
     "zyokdziw": "觓",
     "tiengdziw": "觓",
@@ -22421,11 +24857,25 @@
     "thongqitmraTiengdziw": "U+89F4"
   },
   {
+    "pieutiwbyo": "089E3089E3",
+    "zyokdziw": "解",
+    "tiengdziw": "解",
+    "thongqitmraZyokdziw": "U+89E3",
+    "thongqitmraTiengdziw": "U+89E3"
+  },
+  {
     "pieutiwbyo": "089E5089E5",
     "zyokdziw": "觥",
     "tiengdziw": "觥",
     "thongqitmraZyokdziw": "U+89E5",
     "thongqitmraTiengdziw": "U+89E5"
+  },
+  {
+    "pieutiwbyo": "089E7089E3",
+    "zyokdziw": "觧",
+    "tiengdziw": "解",
+    "thongqitmraZyokdziw": "U+89E7",
+    "thongqitmraTiengdziw": "U+89E3"
   },
   {
     "pieutiwbyo": "089E9089E9",
@@ -22587,6 +25037,13 @@
     "tiengdziw": "許",
     "thongqitmraZyokdziw": "U+8A31",
     "thongqitmraTiengdziw": "U+8A31"
+  },
+  {
+    "pieutiwbyo": "08A3408A34",
+    "zyokdziw": "訴",
+    "tiengdziw": "訴",
+    "thongqitmraZyokdziw": "U+8A34",
+    "thongqitmraTiengdziw": "U+8A34"
   },
   {
     "pieutiwbyo": "08A3508A35",
@@ -23135,6 +25592,13 @@
     "thongqitmraTiengdziw": "U+8A41"
   },
   {
+    "pieutiwbyo": "08BC908A34",
+    "zyokdziw": "诉",
+    "tiengdziw": "訴",
+    "thongqitmraZyokdziw": "U+8BC9",
+    "thongqitmraTiengdziw": "U+8A34"
+  },
+  {
     "pieutiwbyo": "08BCE08A58",
     "zyokdziw": "诎",
     "tiengdziw": "詘",
@@ -23366,6 +25830,13 @@
     "thongqitmraTiengdziw": "U+8B5C"
   },
   {
+    "pieutiwbyo": "08C3708C37",
+    "zyokdziw": "谷",
+    "tiengdziw": "谷",
+    "thongqitmraZyokdziw": "U+8C37",
+    "thongqitmraTiengdziw": "U+8C37"
+  },
+  {
     "pieutiwbyo": "08C3C08C3C",
     "zyokdziw": "谼",
     "tiengdziw": "谼",
@@ -23399,6 +25870,13 @@
     "tiengdziw": "豕",
     "thongqitmraZyokdziw": "U+8C55",
     "thongqitmraTiengdziw": "U+8C55"
+  },
+  {
+    "pieutiwbyo": "08C6108C61",
+    "zyokdziw": "象",
+    "tiengdziw": "象",
+    "thongqitmraZyokdziw": "U+8C61",
+    "thongqitmraTiengdziw": "U+8C61"
   },
   {
     "pieutiwbyo": "08C6B08C6B",
@@ -23506,6 +25984,13 @@
     "thongqitmraTiengdziw": "U+8CAB"
   },
   {
+    "pieutiwbyo": "08CAC08CAC",
+    "zyokdziw": "責",
+    "tiengdziw": "責",
+    "thongqitmraZyokdziw": "U+8CAC",
+    "thongqitmraTiengdziw": "U+8CAC"
+  },
+  {
     "pieutiwbyo": "08CAE08CB3",
     "zyokdziw": "貮",
     "tiengdziw": "貳",
@@ -23555,6 +26040,13 @@
     "thongqitmraTiengdziw": "U+8CC4"
   },
   {
+    "pieutiwbyo": "08CCA08CCA",
+    "zyokdziw": "賊",
+    "tiengdziw": "賊",
+    "thongqitmraZyokdziw": "U+8CCA",
+    "thongqitmraTiengdziw": "U+8CCA"
+  },
+  {
     "pieutiwbyo": "08CD208CD2",
     "zyokdziw": "賒",
     "tiengdziw": "賒",
@@ -23588,6 +26080,13 @@
     "tiengdziw": "賚",
     "thongqitmraZyokdziw": "U+8CDA",
     "thongqitmraTiengdziw": "U+8CDA"
+  },
+  {
+    "pieutiwbyo": "08CDB08D0A",
+    "zyokdziw": "賛",
+    "tiengdziw": "贊",
+    "thongqitmraZyokdziw": "U+8CDB",
+    "thongqitmraTiengdziw": "U+8D0A"
   },
   {
     "pieutiwbyo": "08CE108CE1",
@@ -23630,6 +26129,13 @@
     "tiengdziw": "贇",
     "thongqitmraZyokdziw": "U+8D07",
     "thongqitmraTiengdziw": "U+8D07"
+  },
+  {
+    "pieutiwbyo": "08D0A08D0A",
+    "zyokdziw": "贊",
+    "tiengdziw": "贊",
+    "thongqitmraZyokdziw": "U+8D0A",
+    "thongqitmraTiengdziw": "U+8D0A"
   },
   {
     "pieutiwbyo": "08D0F08D0F",
@@ -23695,6 +26201,13 @@
     "thongqitmraTiengdziw": "U+8CA2"
   },
   {
+    "pieutiwbyo": "08D2308CAC",
+    "zyokdziw": "责",
+    "tiengdziw": "責",
+    "thongqitmraZyokdziw": "U+8D23",
+    "thongqitmraTiengdziw": "U+8CAC"
+  },
+  {
     "pieutiwbyo": "08D2408CE2",
     "zyokdziw": "贤",
     "tiengdziw": "賢",
@@ -23756,6 +26269,13 @@
     "tiengdziw": "貺",
     "thongqitmraZyokdziw": "U+8D36",
     "thongqitmraTiengdziw": "U+8CBA"
+  },
+  {
+    "pieutiwbyo": "08D3C08CCA",
+    "zyokdziw": "贼",
+    "tiengdziw": "賊",
+    "thongqitmraZyokdziw": "U+8D3C",
+    "thongqitmraTiengdziw": "U+8CCA"
   },
   {
     "pieutiwbyo": "08D3F08CC4",
@@ -23842,6 +26362,13 @@
     "thongqitmraTiengdziw": "U+8CF4"
   },
   {
+    "pieutiwbyo": "08D5E08D0A",
+    "zyokdziw": "赞",
+    "tiengdziw": "贊",
+    "thongqitmraZyokdziw": "U+8D5E",
+    "thongqitmraTiengdziw": "U+8D0A"
+  },
+  {
     "pieutiwbyo": "08D5F08D07",
     "zyokdziw": "赟",
     "tiengdziw": "贇",
@@ -23910,6 +26437,13 @@
     "tiengdziw": "赯",
     "thongqitmraZyokdziw": "U+8D6F",
     "thongqitmraTiengdziw": "U+8D6F"
+  },
+  {
+    "pieutiwbyo": "08D7008D70",
+    "zyokdziw": "走",
+    "tiengdziw": "走",
+    "thongqitmraZyokdziw": "U+8D70",
+    "thongqitmraTiengdziw": "U+8D70"
   },
   {
     "pieutiwbyo": "08D7308D73",
@@ -24388,6 +26922,13 @@
     "thongqitmraTiengdziw": "U+8ECC"
   },
   {
+    "pieutiwbyo": "08ECD08ECD",
+    "zyokdziw": "軍",
+    "tiengdziw": "軍",
+    "thongqitmraZyokdziw": "U+8ECD",
+    "thongqitmraTiengdziw": "U+8ECD"
+  },
+  {
     "pieutiwbyo": "08ED108ED1",
     "zyokdziw": "軑",
     "tiengdziw": "軑",
@@ -24463,6 +27004,13 @@
     "tiengdziw": "輦",
     "thongqitmraZyokdziw": "U+8F26",
     "thongqitmraTiengdziw": "U+8F26"
+  },
+  {
+    "pieutiwbyo": "08F4408F44",
+    "zyokdziw": "轄",
+    "tiengdziw": "轄",
+    "thongqitmraZyokdziw": "U+8F44",
+    "thongqitmraTiengdziw": "U+8F44"
   },
   {
     "pieutiwbyo": "08F4508F45",
@@ -24591,6 +27139,13 @@
     "thongqitmraTiengdziw": "U+8F45"
   },
   {
+    "pieutiwbyo": "08F9608F44",
+    "zyokdziw": "辖",
+    "tiengdziw": "轄",
+    "thongqitmraZyokdziw": "U+8F96",
+    "thongqitmraTiengdziw": "U+8F44"
+  },
+  {
     "pieutiwbyo": "08F9808F46",
     "zyokdziw": "辘",
     "tiengdziw": "轆",
@@ -24598,11 +27153,25 @@
     "thongqitmraTiengdziw": "U+8F46"
   },
   {
+    "pieutiwbyo": "08F9B08F9B",
+    "zyokdziw": "辛",
+    "tiengdziw": "辛",
+    "thongqitmraZyokdziw": "U+8F9B",
+    "thongqitmraTiengdziw": "U+8F9B"
+  },
+  {
     "pieutiwbyo": "08F9C08F9C",
     "zyokdziw": "辜",
     "tiengdziw": "辜",
     "thongqitmraZyokdziw": "U+8F9C",
     "thongqitmraTiengdziw": "U+8F9C"
+  },
+  {
+    "pieutiwbyo": "08F9E08FAD",
+    "zyokdziw": "辞",
+    "tiengdziw": "辭",
+    "thongqitmraZyokdziw": "U+8F9E",
+    "thongqitmraTiengdziw": "U+8FAD"
   },
   {
     "pieutiwbyo": "08FA208FA3",
@@ -24617,6 +27186,27 @@
     "tiengdziw": "辣",
     "thongqitmraZyokdziw": "U+8FA3",
     "thongqitmraTiengdziw": "U+8FA3"
+  },
+  {
+    "pieutiwbyo": "08FA408FAD",
+    "zyokdziw": "辤",
+    "tiengdziw": "辭",
+    "thongqitmraZyokdziw": "U+8FA4",
+    "thongqitmraTiengdziw": "U+8FAD"
+  },
+  {
+    "pieutiwbyo": "08FAD08FAD",
+    "zyokdziw": "辭",
+    "tiengdziw": "辭",
+    "thongqitmraZyokdziw": "U+8FAD",
+    "thongqitmraTiengdziw": "U+8FAD"
+  },
+  {
+    "pieutiwbyo": "08FB108FB1",
+    "zyokdziw": "辱",
+    "tiengdziw": "辱",
+    "thongqitmraZyokdziw": "U+8FB1",
+    "thongqitmraTiengdziw": "U+8FB1"
   },
   {
     "pieutiwbyo": "08FB508FB5",
@@ -24666,6 +27256,13 @@
     "tiengdziw": "迁",
     "thongqitmraZyokdziw": "U+8FC1",
     "thongqitmraTiengdziw": "U+8FC1"
+  },
+  {
+    "pieutiwbyo": "08FC109077",
+    "zyokdziw": "迁",
+    "tiengdziw": "遷",
+    "thongqitmraZyokdziw": "U+8FC1",
+    "thongqitmraTiengdziw": "U+9077"
   },
   {
     "pieutiwbyo": "08FC408FC4",
@@ -24780,11 +27377,25 @@
     "thongqitmraTiengdziw": "U+9000"
   },
   {
+    "pieutiwbyo": "0900109001",
+    "zyokdziw": "送",
+    "tiengdziw": "送",
+    "thongqitmraZyokdziw": "U+9001",
+    "thongqitmraTiengdziw": "U+9001"
+  },
+  {
     "pieutiwbyo": "0900509005",
     "zyokdziw": "逅",
     "tiengdziw": "逅",
     "thongqitmraZyokdziw": "U+9005",
     "thongqitmraTiengdziw": "U+9005"
+  },
+  {
+    "pieutiwbyo": "0900609006",
+    "zyokdziw": "逆",
+    "tiengdziw": "逆",
+    "thongqitmraZyokdziw": "U+9006",
+    "thongqitmraTiengdziw": "U+9006"
   },
   {
     "pieutiwbyo": "0900D0900D",
@@ -24843,6 +27454,13 @@
     "thongqitmraTiengdziw": "U+901E"
   },
   {
+    "pieutiwbyo": "0901F0901F",
+    "zyokdziw": "速",
+    "tiengdziw": "速",
+    "thongqitmraZyokdziw": "U+901F",
+    "thongqitmraTiengdziw": "U+901F"
+  },
+  {
     "pieutiwbyo": "0902009020",
     "zyokdziw": "造",
     "tiengdziw": "造",
@@ -24883,6 +27501,13 @@
     "tiengdziw": "逵",
     "thongqitmraZyokdziw": "U+9035",
     "thongqitmraTiengdziw": "U+9035"
+  },
+  {
+    "pieutiwbyo": "0903809038",
+    "zyokdziw": "逸",
+    "tiengdziw": "逸",
+    "thongqitmraZyokdziw": "U+9038",
+    "thongqitmraTiengdziw": "U+9038"
   },
   {
     "pieutiwbyo": "0904209042",
@@ -24927,6 +27552,13 @@
     "thongqitmraTiengdziw": "U+9060"
   },
   {
+    "pieutiwbyo": "0906309063",
+    "zyokdziw": "遣",
+    "tiengdziw": "遣",
+    "thongqitmraZyokdziw": "U+9063",
+    "thongqitmraTiengdziw": "U+9063"
+  },
+  {
     "pieutiwbyo": "0906809068",
     "zyokdziw": "遨",
     "tiengdziw": "遨",
@@ -24946,6 +27578,13 @@
     "tiengdziw": "遵",
     "thongqitmraZyokdziw": "U+9075",
     "thongqitmraTiengdziw": "U+9075"
+  },
+  {
+    "pieutiwbyo": "0907709077",
+    "zyokdziw": "遷",
+    "tiengdziw": "遷",
+    "thongqitmraZyokdziw": "U+9077",
+    "thongqitmraTiengdziw": "U+9077"
   },
   {
     "pieutiwbyo": "0907A0907A",
@@ -25186,6 +27825,13 @@
     "thongqitmraTiengdziw": "U+9116"
   },
   {
+    "pieutiwbyo": "090ED090ED",
+    "zyokdziw": "郭",
+    "tiengdziw": "郭",
+    "thongqitmraZyokdziw": "U+90ED",
+    "thongqitmraTiengdziw": "U+90ED"
+  },
+  {
     "pieutiwbyo": "090F2090F2",
     "zyokdziw": "郲",
     "tiengdziw": "郲",
@@ -25207,11 +27853,32 @@
     "thongqitmraTiengdziw": "U+90F5"
   },
   {
+    "pieutiwbyo": "090F709109",
+    "zyokdziw": "郷",
+    "tiengdziw": "鄉",
+    "thongqitmraZyokdziw": "U+90F7",
+    "thongqitmraTiengdziw": "U+9109"
+  },
+  {
     "pieutiwbyo": "090FD090FD",
     "zyokdziw": "都",
     "tiengdziw": "都",
     "thongqitmraZyokdziw": "U+90FD",
     "thongqitmraTiengdziw": "U+90FD"
+  },
+  {
+    "pieutiwbyo": "0910909109",
+    "zyokdziw": "鄉",
+    "tiengdziw": "鄉",
+    "thongqitmraZyokdziw": "U+9109",
+    "thongqitmraTiengdziw": "U+9109"
+  },
+  {
+    "pieutiwbyo": "0911509109",
+    "zyokdziw": "鄕",
+    "tiengdziw": "鄉",
+    "thongqitmraZyokdziw": "U+9115",
+    "thongqitmraTiengdziw": "U+9109"
   },
   {
     "pieutiwbyo": "0911609116",
@@ -25254,6 +27921,13 @@
     "tiengdziw": "酊",
     "thongqitmraZyokdziw": "U+914A",
     "thongqitmraTiengdziw": "U+914A"
+  },
+  {
+    "pieutiwbyo": "0914C0914C",
+    "zyokdziw": "酌",
+    "tiengdziw": "酌",
+    "thongqitmraZyokdziw": "U+914C",
+    "thongqitmraTiengdziw": "U+914C"
   },
   {
     "pieutiwbyo": "0914D0914D",
@@ -25389,6 +28063,13 @@
     "thongqitmraTiengdziw": "U+9192"
   },
   {
+    "pieutiwbyo": "0919C0919C",
+    "zyokdziw": "醜",
+    "tiengdziw": "醜",
+    "thongqitmraZyokdziw": "U+919C",
+    "thongqitmraTiengdziw": "U+919C"
+  },
+  {
     "pieutiwbyo": "0919D0919D",
     "zyokdziw": "醝",
     "tiengdziw": "醝",
@@ -25408,6 +28089,13 @@
     "tiengdziw": "醬",
     "thongqitmraZyokdziw": "U+91A4",
     "thongqitmraTiengdziw": "U+91AC"
+  },
+  {
+    "pieutiwbyo": "091AB091AB",
+    "zyokdziw": "醫",
+    "tiengdziw": "醫",
+    "thongqitmraZyokdziw": "U+91AB",
+    "thongqitmraTiengdziw": "U+91AB"
   },
   {
     "pieutiwbyo": "091AC091AC",
@@ -25438,6 +28126,13 @@
     "thongqitmraTiengdziw": "U+91C2"
   },
   {
+    "pieutiwbyo": "091C7091C7",
+    "zyokdziw": "采",
+    "tiengdziw": "采",
+    "thongqitmraZyokdziw": "U+91C7",
+    "thongqitmraTiengdziw": "U+91C7"
+  },
+  {
     "pieutiwbyo": "091C9091C9",
     "zyokdziw": "釉",
     "tiengdziw": "釉",
@@ -25457,6 +28152,13 @@
     "tiengdziw": "里",
     "thongqitmraZyokdziw": "U+91CC",
     "thongqitmraTiengdziw": "U+91CC"
+  },
+  {
+    "pieutiwbyo": "091CD091CD",
+    "zyokdziw": "重",
+    "tiengdziw": "重",
+    "thongqitmraZyokdziw": "U+91CD",
+    "thongqitmraTiengdziw": "U+91CD"
   },
   {
     "pieutiwbyo": "091CE057DC",
@@ -25501,11 +28203,25 @@
     "thongqitmraTiengdziw": "U+91D8"
   },
   {
+    "pieutiwbyo": "091DC091DC",
+    "zyokdziw": "釜",
+    "tiengdziw": "釜",
+    "thongqitmraZyokdziw": "U+91DC",
+    "thongqitmraTiengdziw": "U+91DC"
+  },
+  {
     "pieutiwbyo": "091DD091DD",
     "zyokdziw": "針",
     "tiengdziw": "針",
     "thongqitmraZyokdziw": "U+91DD",
     "thongqitmraTiengdziw": "U+91DD"
+  },
+  {
+    "pieutiwbyo": "091E1091DC",
+    "zyokdziw": "釡",
+    "tiengdziw": "釜",
+    "thongqitmraZyokdziw": "U+91E1",
+    "thongqitmraTiengdziw": "U+91DC"
   },
   {
     "pieutiwbyo": "091E6091E6",
@@ -26908,6 +29624,13 @@
     "thongqitmraTiengdziw": "U+964C"
   },
   {
+    "pieutiwbyo": "0964D0964D",
+    "zyokdziw": "降",
+    "tiengdziw": "降",
+    "thongqitmraZyokdziw": "U+964D",
+    "thongqitmraTiengdziw": "U+964D"
+  },
+  {
     "pieutiwbyo": "0965705CED",
     "zyokdziw": "陗",
     "tiengdziw": "峭",
@@ -26943,6 +29666,13 @@
     "thongqitmraTiengdziw": "U+9664"
   },
   {
+    "pieutiwbyo": "0966509677",
+    "zyokdziw": "陥",
+    "tiengdziw": "陷",
+    "thongqitmraZyokdziw": "U+9665",
+    "thongqitmraTiengdziw": "U+9677"
+  },
+  {
     "pieutiwbyo": "0966809695",
     "zyokdziw": "陨",
     "tiengdziw": "隕",
@@ -26969,6 +29699,13 @@
     "tiengdziw": "陶",
     "thongqitmraZyokdziw": "U+9676",
     "thongqitmraTiengdziw": "U+9676"
+  },
+  {
+    "pieutiwbyo": "0967709677",
+    "zyokdziw": "陷",
+    "tiengdziw": "陷",
+    "thongqitmraZyokdziw": "U+9677",
+    "thongqitmraTiengdziw": "U+9677"
   },
   {
     "pieutiwbyo": "0967809678",
@@ -27076,6 +29813,13 @@
     "thongqitmraTiengdziw": "U+96B8"
   },
   {
+    "pieutiwbyo": "096BB096BB",
+    "zyokdziw": "隻",
+    "tiengdziw": "隻",
+    "thongqitmraZyokdziw": "U+96BB",
+    "thongqitmraTiengdziw": "U+96BB"
+  },
+  {
     "pieutiwbyo": "096BE096E3",
     "zyokdziw": "难",
     "tiengdziw": "難",
@@ -27088,6 +29832,13 @@
     "tiengdziw": "雀",
     "thongqitmraZyokdziw": "U+96C0",
     "thongqitmraTiengdziw": "U+96C0"
+  },
+  {
+    "pieutiwbyo": "096C6096C6",
+    "zyokdziw": "集",
+    "tiengdziw": "集",
+    "thongqitmraZyokdziw": "U+96C6",
+    "thongqitmraTiengdziw": "U+96C6"
   },
   {
     "pieutiwbyo": "096C7096C7",
@@ -27146,11 +29897,25 @@
     "thongqitmraTiengdziw": "U+96D5"
   },
   {
+    "pieutiwbyo": "096D9096D9",
+    "zyokdziw": "雙",
+    "tiengdziw": "雙",
+    "thongqitmraZyokdziw": "U+96D9",
+    "thongqitmraTiengdziw": "U+96D9"
+  },
+  {
     "pieutiwbyo": "096DD096CD",
     "zyokdziw": "雝",
     "tiengdziw": "雍",
     "thongqitmraZyokdziw": "U+96DD",
     "thongqitmraTiengdziw": "U+96CD"
+  },
+  {
+    "pieutiwbyo": "096DE09DC4",
+    "zyokdziw": "雞",
+    "tiengdziw": "鷄",
+    "thongqitmraZyokdziw": "U+96DE",
+    "thongqitmraTiengdziw": "U+9DC4"
   },
   {
     "pieutiwbyo": "096E008B8E",
@@ -27172,6 +29937,13 @@
     "tiengdziw": "雨",
     "thongqitmraZyokdziw": "U+96E8",
     "thongqitmraTiengdziw": "U+96E8"
+  },
+  {
+    "pieutiwbyo": "096EA096EA",
+    "zyokdziw": "雪",
+    "tiengdziw": "雪",
+    "thongqitmraZyokdziw": "U+96EA",
+    "thongqitmraTiengdziw": "U+96EA"
   },
   {
     "pieutiwbyo": "096EB096EB",
@@ -27221,6 +29993,13 @@
     "tiengdziw": "電",
     "thongqitmraZyokdziw": "U+96FB",
     "thongqitmraTiengdziw": "U+96FB"
+  },
+  {
+    "pieutiwbyo": "0970009700",
+    "zyokdziw": "需",
+    "tiengdziw": "需",
+    "thongqitmraZyokdziw": "U+9700",
+    "thongqitmraTiengdziw": "U+9700"
   },
   {
     "pieutiwbyo": "0970209702",
@@ -27678,6 +30457,20 @@
     "thongqitmraTiengdziw": "U+984D"
   },
   {
+    "pieutiwbyo": "0984F09854",
+    "zyokdziw": "顏",
+    "tiengdziw": "顔",
+    "thongqitmraZyokdziw": "U+984F",
+    "thongqitmraTiengdziw": "U+9854"
+  },
+  {
+    "pieutiwbyo": "0985409854",
+    "zyokdziw": "顔",
+    "tiengdziw": "顔",
+    "thongqitmraZyokdziw": "U+9854",
+    "thongqitmraTiengdziw": "U+9854"
+  },
+  {
     "pieutiwbyo": "098550986F",
     "zyokdziw": "顕",
     "tiengdziw": "顯",
@@ -27839,6 +30632,13 @@
     "thongqitmraTiengdziw": "U+7A4E"
   },
   {
+    "pieutiwbyo": "0989C09854",
+    "zyokdziw": "颜",
+    "tiengdziw": "顔",
+    "thongqitmraZyokdziw": "U+989C",
+    "thongqitmraTiengdziw": "U+9854"
+  },
+  {
     "pieutiwbyo": "0989D0984D",
     "zyokdziw": "额",
     "tiengdziw": "額",
@@ -27893,6 +30693,13 @@
     "tiengdziw": "颯",
     "thongqitmraZyokdziw": "U+98D2",
     "thongqitmraTiengdziw": "U+98AF"
+  },
+  {
+    "pieutiwbyo": "098DF098DF",
+    "zyokdziw": "食",
+    "tiengdziw": "食",
+    "thongqitmraZyokdziw": "U+98DF",
+    "thongqitmraTiengdziw": "U+98DF"
   },
   {
     "pieutiwbyo": "098E3098E3",
@@ -28182,6 +30989,13 @@
     "thongqitmraTiengdziw": "U+99B1"
   },
   {
+    "pieutiwbyo": "099C609A45",
+    "zyokdziw": "駆",
+    "tiengdziw": "驅",
+    "thongqitmraZyokdziw": "U+99C6",
+    "thongqitmraTiengdziw": "U+9A45"
+  },
+  {
     "pieutiwbyo": "099D1099D1",
     "zyokdziw": "駑",
     "tiengdziw": "駑",
@@ -28308,6 +31122,13 @@
     "thongqitmraTiengdziw": "U+9A41"
   },
   {
+    "pieutiwbyo": "09A4509A45",
+    "zyokdziw": "驅",
+    "tiengdziw": "驅",
+    "thongqitmraZyokdziw": "U+9A45",
+    "thongqitmraTiengdziw": "U+9A45"
+  },
+  {
     "pieutiwbyo": "09A4A09A4A",
     "zyokdziw": "驊",
     "tiengdziw": "驊",
@@ -28362,6 +31183,13 @@
     "tiengdziw": "馴",
     "thongqitmraZyokdziw": "U+9A6F",
     "thongqitmraTiengdziw": "U+99B4"
+  },
+  {
+    "pieutiwbyo": "09A7109A45",
+    "zyokdziw": "驱",
+    "tiengdziw": "驅",
+    "thongqitmraZyokdziw": "U+9A71",
+    "thongqitmraTiengdziw": "U+9A45"
   },
   {
     "pieutiwbyo": "09A72099B9",
@@ -28469,6 +31297,13 @@
     "thongqitmraTiengdziw": "U+9A66"
   },
   {
+    "pieutiwbyo": "09AA809AA8",
+    "zyokdziw": "骨",
+    "tiengdziw": "骨",
+    "thongqitmraZyokdziw": "U+9AA8",
+    "thongqitmraTiengdziw": "U+9AA8"
+  },
+  {
     "pieutiwbyo": "09AAD09AAD",
     "zyokdziw": "骭",
     "tiengdziw": "骭",
@@ -28516,6 +31351,20 @@
     "tiengdziw": "體",
     "thongqitmraZyokdziw": "U+9AD4",
     "thongqitmraTiengdziw": "U+9AD4"
+  },
+  {
+    "pieutiwbyo": "09AD809AD8",
+    "zyokdziw": "高",
+    "tiengdziw": "高",
+    "thongqitmraZyokdziw": "U+9AD8",
+    "thongqitmraTiengdziw": "U+9AD8"
+  },
+  {
+    "pieutiwbyo": "09AD909AD8",
+    "zyokdziw": "髙",
+    "tiengdziw": "高",
+    "thongqitmraZyokdziw": "U+9AD9",
+    "thongqitmraTiengdziw": "U+9AD8"
   },
   {
     "pieutiwbyo": "09ADF09ADF",
@@ -28628,6 +31477,13 @@
     "tiengdziw": "鬱",
     "thongqitmraZyokdziw": "U+9B31",
     "thongqitmraTiengdziw": "U+9B31"
+  },
+  {
+    "pieutiwbyo": "09B3C09B3C",
+    "zyokdziw": "鬼",
+    "tiengdziw": "鬼",
+    "thongqitmraZyokdziw": "U+9B3C",
+    "thongqitmraTiengdziw": "U+9B3C"
   },
   {
     "pieutiwbyo": "09B4209B42",
@@ -29302,6 +32158,13 @@
     "thongqitmraTiengdziw": "U+9D8B"
   },
   {
+    "pieutiwbyo": "09D8F09DC4",
+    "zyokdziw": "鶏",
+    "tiengdziw": "鷄",
+    "thongqitmraZyokdziw": "U+9D8F",
+    "thongqitmraTiengdziw": "U+9DC4"
+  },
+  {
     "pieutiwbyo": "09D9209D92",
     "zyokdziw": "鶒",
     "tiengdziw": "鶒",
@@ -29342,6 +32205,13 @@
     "tiengdziw": "鷀",
     "thongqitmraZyokdziw": "U+9DC0",
     "thongqitmraTiengdziw": "U+9DC0"
+  },
+  {
+    "pieutiwbyo": "09DC409DC4",
+    "zyokdziw": "鷄",
+    "tiengdziw": "鷄",
+    "thongqitmraZyokdziw": "U+9DC4",
+    "thongqitmraTiengdziw": "U+9DC4"
   },
   {
     "pieutiwbyo": "09DD309DD3",
@@ -29419,6 +32289,13 @@
     "tiengdziw": "鳩",
     "thongqitmraZyokdziw": "U+9E20",
     "thongqitmraTiengdziw": "U+9CE9"
+  },
+  {
+    "pieutiwbyo": "09E2109DC4",
+    "zyokdziw": "鸡",
+    "tiengdziw": "鷄",
+    "thongqitmraZyokdziw": "U+9E21",
+    "thongqitmraTiengdziw": "U+9DC4"
   },
   {
     "pieutiwbyo": "09E2309CF4",
@@ -29904,6 +32781,20 @@
     "thongqitmraTiengdziw": "U+9F41"
   },
   {
+    "pieutiwbyo": "09F4A09F4A",
+    "zyokdziw": "齊",
+    "tiengdziw": "齊",
+    "thongqitmraZyokdziw": "U+9F4A",
+    "thongqitmraTiengdziw": "U+9F4A"
+  },
+  {
+    "pieutiwbyo": "09F5009F4A",
+    "zyokdziw": "齐",
+    "tiengdziw": "齊",
+    "thongqitmraZyokdziw": "U+9F50",
+    "thongqitmraTiengdziw": "U+9F4A"
+  },
+  {
     "pieutiwbyo": "09F5209F52",
     "zyokdziw": "齒",
     "tiengdziw": "齒",
@@ -30077,6 +32968,13 @@
     "tiengdziw": "刑",
     "thongqitmraZyokdziw": "U+206EC",
     "thongqitmraTiengdziw": "U+5211"
+  },
+  {
+    "pieutiwbyo": "20991053D4",
+    "zyokdziw": "𠦑",
+    "tiengdziw": "叔",
+    "thongqitmraZyokdziw": "U+20991",
+    "thongqitmraTiengdziw": "U+53D4"
   },
   {
     "pieutiwbyo": "20B9F053F1",
