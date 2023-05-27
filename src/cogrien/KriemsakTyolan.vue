@@ -118,6 +118,29 @@ const twkQhZQh = (dziwqrim: DziwqrimCungCileu) => {
       </VCol>
     </VRow>
     <VRow>
+      <VCol cols="12">
+        <VCard v-if="dziwdeu.dziwwngyan != null">
+          <VCardTitle> 字源 </VCardTitle>
+          <VCardText>
+            <p v-if="dziwdeu.dziwwngyan.punngrie != null">
+              {{ `本義：${dziwdeu.dziwwngyan.punngrie}` }}
+            </p>
+            <p v-if="dziwdeu.dziwwngyan.kudzau != null">
+              {{ `構造：${dziwdeu.dziwwngyan.kudzau}` }}
+            </p>
+            <p v-if="dziwdeu.dziwwngyan.doxeng != null">
+              {{ `図形：${dziwdeu.dziwwngyan.doxeng}` }}
+            </p>
+            <span v-if="dziwdeu.dziwwngyan.tyomyun !== ''">
+              {{ `${dziwdeu.dziwwngyan.tyomyun}` }}
+            </span>
+            <span v-if="dziwdeu.dziwwngyan.thytten !== ''">
+              {{ `⇒${dziwdeu.dziwwngyan.thytten}` }}
+            </span>
+          </VCardText>
+        </VCard>
+      </VCol>
+      <VDivider />
       <VCol
         v-for="xrongmyuk in dziwdeu.twkDziwqrim"
         :key="xrongmyuk.pieutiwbyo"
