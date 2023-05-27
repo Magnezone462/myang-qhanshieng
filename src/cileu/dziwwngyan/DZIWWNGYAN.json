@@ -1,7 +1,7 @@
 [
   {
     "pieutiwbyo": "04E00",
-    "tieng": "一",
+    "dziwbyo": "一",
     "punngrie": "｛一 *ʔit ひとつ｝",
     "kudzau": null,
     "doxeng": "一本の横線",
@@ -11,7 +11,7 @@
   },
   {
     "pieutiwbyo": "04E03",
-    "tieng": "七",
+    "dziwbyo": "七",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -21,7 +21,7 @@
   },
   {
     "pieutiwbyo": "04E08",
-    "tieng": "丈",
+    "dziwbyo": "丈",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -31,7 +31,7 @@
   },
   {
     "pieutiwbyo": "04E09",
-    "tieng": "三",
+    "dziwbyo": "三",
     "punngrie": "｛三 *[s]um 3｝",
     "kudzau": null,
     "doxeng": "三本の横線",
@@ -41,7 +41,7 @@
   },
   {
     "pieutiwbyo": "04E0A",
-    "tieng": "上",
+    "dziwbyo": "上",
     "punngrie": "｛上 *daŋʔ-s うえ｝",
     "kudzau": null,
     "doxeng": "横線の上部に点を打ち、上を示したもの",
@@ -51,7 +51,7 @@
   },
   {
     "pieutiwbyo": "04E0B",
-    "tieng": "下",
+    "dziwbyo": "下",
     "punngrie": "｛下 *gˤraʔ した｝",
     "kudzau": null,
     "doxeng": "基準線の下側に点を打った形",
@@ -61,7 +61,7 @@
   },
   {
     "pieutiwbyo": "04E14",
-    "tieng": "且",
+    "dziwbyo": "且",
     "punngrie": "｛俎 *tsraʔ まな板｝",
     "kudzau": null,
     "doxeng": "上から見たまな板の形。「俎」字は脚を含めてまな板を描いた字で、「且」字は脚の描写を省略した字。",
@@ -71,7 +71,7 @@
   },
   {
     "pieutiwbyo": "04E16",
-    "tieng": "世",
+    "dziwbyo": "世",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -81,7 +81,7 @@
   },
   {
     "pieutiwbyo": "04E18",
-    "tieng": "丘",
+    "dziwbyo": "丘",
     "punngrie": "｛丘 *kʷʰə おか｝",
     "kudzau": null,
     "doxeng": "2つの峰の形",
@@ -91,7 +91,7 @@
   },
   {
     "pieutiwbyo": "04E38",
-    "tieng": "丸",
+    "dziwbyo": "丸",
     "punngrie": "｛宛 *ʔorʔ かがむ、まげる｝",
     "kudzau": null,
     "doxeng": "丸まった人の形。《説文》の「仄」の反転形という説は誤り。",
@@ -101,7 +101,7 @@
   },
   {
     "pieutiwbyo": "04E3B",
-    "tieng": "主",
+    "dziwbyo": "主",
     "punngrie": "｛主 *toʔ 神主、位牌｝",
     "kudzau": null,
     "doxeng": "神主の形",
@@ -111,7 +111,7 @@
   },
   {
     "pieutiwbyo": "04E45",
-    "tieng": "久",
+    "dziwbyo": "久",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -121,7 +121,7 @@
   },
   {
     "pieutiwbyo": "04E58",
-    "tieng": "乘",
+    "dziwbyo": "乘",
     "punngrie": "｛乘 *Cə-ləŋ のる｝",
     "kudzau": null,
     "doxeng": "木に乗った人の形",
@@ -131,7 +131,7 @@
   },
   {
     "pieutiwbyo": "04E59",
-    "tieng": "乙",
+    "dziwbyo": "乙",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -141,7 +141,7 @@
   },
   {
     "pieutiwbyo": "04E5D",
-    "tieng": "九",
+    "dziwbyo": "九",
     "punngrie": "｛九 *ku 9｝",
     "kudzau": "表音文字「寸* Ku」",
     "doxeng": null,
@@ -151,7 +151,7 @@
   },
   {
     "pieutiwbyo": "04E5E",
-    "tieng": "乞",
+    "dziwbyo": "乞",
     "punngrie": "｛氣 *kʰə[p]-s 雲霧、空気｝",
     "kudzau": null,
     "doxeng": "気流の形と思われる",
@@ -161,7 +161,7 @@
   },
   {
     "pieutiwbyo": "04E89",
-    "tieng": "争",
+    "dziwbyo": "争",
     "punngrie": "｛争 *tsˤreŋ あらそう｝",
     "kudzau": null,
     "doxeng": "向かい合った手が1つのものを取り合う形",
@@ -171,7 +171,7 @@
   },
   {
     "pieutiwbyo": "04E8B",
-    "tieng": "事",
+    "dziwbyo": "事",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -181,7 +181,7 @@
   },
   {
     "pieutiwbyo": "04E94",
-    "tieng": "五",
+    "dziwbyo": "五",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -191,7 +191,7 @@
   },
   {
     "pieutiwbyo": "04E95",
-    "tieng": "井",
+    "dziwbyo": "井",
     "punngrie": "｛井 tseŋʔ 井戸｝｛阱 *dzeŋ あな｝",
     "kudzau": "井戸またはあなの形",
     "doxeng": null,
@@ -201,7 +201,7 @@
   },
   {
     "pieutiwbyo": "04E9E",
-    "tieng": "亞",
+    "dziwbyo": "亞",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -211,7 +211,7 @@
   },
   {
     "pieutiwbyo": "04EA4",
-    "tieng": "交",
+    "dziwbyo": "交",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -220,8 +220,28 @@
     "thongqitmra": "U+4EA4"
   },
   {
+    "pieutiwbyo": "04EAB",
+    "dziwbyo": "享",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4EAB"
+  },
+  {
+    "pieutiwbyo": "04EAC",
+    "dziwbyo": "京",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4EAC"
+  },
+  {
     "pieutiwbyo": "04EBA",
-    "tieng": "人",
+    "dziwbyo": "人",
     "punngrie": "｛人 *niŋ ひと｝",
     "kudzau": "ひとを横から見た形",
     "doxeng": null,
@@ -231,7 +251,7 @@
   },
   {
     "pieutiwbyo": "04ECA",
-    "tieng": "今",
+    "dziwbyo": "今",
     "punngrie": "｛吟 *[g](r)umʔ 口をつぐむ｝",
     "kudzau": null,
     "doxeng": "「曰」の倒文、あるいは「口」の前に遮る横線を加えた形",
@@ -240,8 +260,18 @@
     "thongqitmra": "U+4ECA"
   },
   {
+    "pieutiwbyo": "04ECB",
+    "dziwbyo": "介",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4ECB"
+  },
+  {
     "pieutiwbyo": "04EE5",
-    "tieng": "以",
+    "dziwbyo": "以",
     "punngrie": "｛以 *ləʔ ひきいる、もちいる｝",
     "kudzau": null,
     "doxeng": "人が物を携える形",
@@ -251,7 +281,7 @@
   },
   {
     "pieutiwbyo": "04EF6",
-    "tieng": "件",
+    "dziwbyo": "件",
     "punngrie": "｛件 *[g]r[a][n]ʔ わかつ、区分する｝",
     "kudzau": "意味分類符「人」＋意味分類符「牛」",
     "doxeng": null,
@@ -261,7 +291,7 @@
   },
   {
     "pieutiwbyo": "04F01",
-    "tieng": "企",
+    "dziwbyo": "企",
     "punngrie": "｛企 *kʰeʔ-s つまだつ｝",
     "kudzau": null,
     "doxeng": "人がつまさき立ちして遠くを望む形",
@@ -271,7 +301,7 @@
   },
   {
     "pieutiwbyo": "04F11",
-    "tieng": "休",
+    "dziwbyo": "休",
     "punngrie": "｛庥 *qʰ(r)u 木陰｝",
     "kudzau": null,
     "doxeng": "〈人＋𥝌〉人が木陰で休んでいる形",
@@ -281,7 +311,7 @@
   },
   {
     "pieutiwbyo": "04F55",
-    "tieng": "何",
+    "dziwbyo": "何",
     "punngrie": "｛荷 *gˤajʔ 運ぶ、担う｝",
     "kudzau": "表語文字「何*」＋飾符「口」",
     "doxeng": "人が物を担いでいる形",
@@ -291,7 +321,7 @@
   },
   {
     "pieutiwbyo": "04FAF",
-    "tieng": "侯",
+    "dziwbyo": "侯",
     "punngrie": "｛侯 *[g]ˤ(r)o まと｝",
     "kudzau": null,
     "doxeng": "的に矢を射た形",
@@ -301,7 +331,7 @@
   },
   {
     "pieutiwbyo": "04FC2",
-    "tieng": "係",
+    "dziwbyo": "係",
     "punngrie": "｛係 *kˤek-s つなぐ｝",
     "kudzau": null,
     "doxeng": "人をひもで繋ぎ留める形",
@@ -310,8 +340,18 @@
     "thongqitmra": "U+4FC2"
   },
   {
+    "pieutiwbyo": "04FDD",
+    "dziwbyo": "保",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+4FDD"
+  },
+  {
     "pieutiwbyo": "04FE1",
-    "tieng": "信",
+    "dziwbyo": "信",
     "punngrie": "｛信 *s-niŋ-s まこと｝",
     "kudzau": "表音文字「人」＋意味分類符「言」",
     "doxeng": null,
@@ -321,7 +361,7 @@
   },
   {
     "pieutiwbyo": "05009",
-    "tieng": "倉",
+    "dziwbyo": "倉",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -331,7 +371,7 @@
   },
   {
     "pieutiwbyo": "05143",
-    "tieng": "元",
+    "dziwbyo": "元",
     "punngrie": "｛元 *ŋor あたま｝",
     "kudzau": null,
     "doxeng": "頭を強調した人の形",
@@ -341,7 +381,7 @@
   },
   {
     "pieutiwbyo": "05144",
-    "tieng": "兄",
+    "dziwbyo": "兄",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -351,7 +391,7 @@
   },
   {
     "pieutiwbyo": "05145",
-    "tieng": "充",
+    "dziwbyo": "充",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -361,7 +401,7 @@
   },
   {
     "pieutiwbyo": "05148",
-    "tieng": "先",
+    "dziwbyo": "先",
     "punngrie": "｛先 *sˤər さき｝",
     "kudzau": null,
     "doxeng": "〈止＋人〉",
@@ -371,7 +411,7 @@
   },
   {
     "pieutiwbyo": "05149",
-    "tieng": "光",
+    "dziwbyo": "光",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -381,7 +421,7 @@
   },
   {
     "pieutiwbyo": "0514B",
-    "tieng": "克",
+    "dziwbyo": "克",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -391,7 +431,7 @@
   },
   {
     "pieutiwbyo": "05152",
-    "tieng": "兒",
+    "dziwbyo": "兒",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -401,7 +441,7 @@
   },
   {
     "pieutiwbyo": "05168",
-    "tieng": "全",
+    "dziwbyo": "全",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -411,7 +451,7 @@
   },
   {
     "pieutiwbyo": "0516C",
-    "tieng": "公",
+    "dziwbyo": "公",
     "punngrie": "｛瓮 *qˤoŋ-s かめ｝",
     "kudzau": null,
     "doxeng": "容器の形",
@@ -420,8 +460,18 @@
     "thongqitmra": "U+516C"
   },
   {
+    "pieutiwbyo": "05171",
+    "dziwbyo": "共",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5171"
+  },
+  {
     "pieutiwbyo": "05177",
-    "tieng": "具",
+    "dziwbyo": "具",
     "punngrie": "｛具 *[g](r)o-s そなえる、準備する｝",
     "kudzau": null,
     "doxeng": "〈鼎＋𠬞〉食器を準備する形",
@@ -431,7 +481,7 @@
   },
   {
     "pieutiwbyo": "0517C",
-    "tieng": "兼",
+    "dziwbyo": "兼",
     "punngrie": "｛兼 *[k]ˤem あわせる｝",
     "kudzau": null,
     "doxeng": "二本の稲を合わせて持つ形",
@@ -441,7 +491,7 @@
   },
   {
     "pieutiwbyo": "0518C",
-    "tieng": "册",
+    "dziwbyo": "册",
     "punngrie": "｛册 *[tsʰ](ˤ)rek 竹簡、書物｝",
     "kudzau": null,
     "doxeng": "簡冊の形",
@@ -451,7 +501,7 @@
   },
   {
     "pieutiwbyo": "0518D",
-    "tieng": "再",
+    "dziwbyo": "再",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -461,7 +511,7 @@
   },
   {
     "pieutiwbyo": "05197",
-    "tieng": "冗",
+    "dziwbyo": "冗",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -471,7 +521,7 @@
   },
   {
     "pieutiwbyo": "051A0",
-    "tieng": "冠",
+    "dziwbyo": "冠",
     "punngrie": "｛冠 *kˤor かんむり｝",
     "kudzau": "表音文字「元 NGor」＋意味分類符「冃」＋意味分類符「寸」",
     "doxeng": null,
@@ -481,7 +531,7 @@
   },
   {
     "pieutiwbyo": "051F6",
-    "tieng": "凶",
+    "dziwbyo": "凶",
     "punngrie": "｛凶 *qʰ(r)oŋ 不吉｝。",
     "kudzau": null,
     "doxeng": "鬼頭を強調した人の形。「鬼」の分化字「兇」の下部を略した字。",
@@ -491,7 +541,7 @@
   },
   {
     "pieutiwbyo": "051FA",
-    "tieng": "出",
+    "dziwbyo": "出",
     "punngrie": "｛出 *t-kʰut でる｝",
     "kudzau": null,
     "doxeng": "〈止＋凵〉穴から出ていく足の形",
@@ -501,7 +551,7 @@
   },
   {
     "pieutiwbyo": "05203",
-    "tieng": "刃",
+    "dziwbyo": "刃",
     "punngrie": "｛刃 *nə[n]-s は｝",
     "kudzau": "〈刀＋丶〉刀の刃部分を線で指し示した形",
     "doxeng": null,
@@ -511,7 +561,7 @@
   },
   {
     "pieutiwbyo": "05208",
-    "tieng": "刈",
+    "dziwbyo": "刈",
     "punngrie": "｛刈 *ŋat-s かる、かりとる｝",
     "kudzau": "表語文字「𬔖」＋意味分類符「刀」",
     "doxeng": null,
@@ -521,7 +571,7 @@
   },
   {
     "pieutiwbyo": "0521D",
-    "tieng": "初",
+    "dziwbyo": "初",
     "punngrie": "｛初 *tsʰra はじめ｝",
     "kudzau": null,
     "doxeng": "〈衣＋刀〉布を断つ形",
@@ -531,7 +581,7 @@
   },
   {
     "pieutiwbyo": "05236",
-    "tieng": "制",
+    "dziwbyo": "制",
     "punngrie": "｛制  *tet-s 断ち切る｝",
     "kudzau": null,
     "doxeng": "刀で木を切断した形",
@@ -541,7 +591,7 @@
   },
   {
     "pieutiwbyo": "0523A",
-    "tieng": "刺",
+    "dziwbyo": "刺",
     "punngrie": "｛刺 *tsʰek とげ｝",
     "kudzau": "表語文字「朿」＋意味分類符「刀」",
     "doxeng": "とげのある武器の形",
@@ -551,7 +601,7 @@
   },
   {
     "pieutiwbyo": "05247",
-    "tieng": "則",
+    "dziwbyo": "則",
     "punngrie": "｛則 *tsˤək のっとる、模範｝",
     "kudzau": null,
     "doxeng": "〈鼎＋刀〉模範となる鼎と、鼎を制作する彫刻刀",
@@ -561,7 +611,7 @@
   },
   {
     "pieutiwbyo": "0524D",
-    "tieng": "前",
+    "dziwbyo": "前",
     "punngrie": "｛剪 *[ts][e][n]ʔ 断つ、きる｝",
     "kudzau": "表音文字「歬 TSen」＋意味分類符「刀(→刂)」",
     "doxeng": null,
@@ -571,7 +621,7 @@
   },
   {
     "pieutiwbyo": "05272",
-    "tieng": "割",
+    "dziwbyo": "割",
     "punngrie": "｛割 *kˤat 断つ｝",
     "kudzau": "表音文字「害 Kat」＋意味分類符「刀」",
     "doxeng": null,
@@ -581,7 +631,7 @@
   },
   {
     "pieutiwbyo": "052A0",
-    "tieng": "加",
+    "dziwbyo": "加",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -591,7 +641,7 @@
   },
   {
     "pieutiwbyo": "052DD",
-    "tieng": "勝",
+    "dziwbyo": "勝",
     "punngrie": "｛勝 *l̥əŋ-s かつ、まさる｝",
     "kudzau": "表音文字「朕 Ləŋ」＋意味分類符「力」",
     "doxeng": null,
@@ -601,7 +651,7 @@
   },
   {
     "pieutiwbyo": "05316",
-    "tieng": "化",
+    "dziwbyo": "化",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -611,7 +661,7 @@
   },
   {
     "pieutiwbyo": "05320",
-    "tieng": "匠",
+    "dziwbyo": "匠",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -621,7 +671,7 @@
   },
   {
     "pieutiwbyo": "05340",
-    "tieng": "區",
+    "dziwbyo": "區",
     "punngrie": "｛區 *qˤ(r)o かくす｝",
     "kudzau": null,
     "doxeng": "〈𠃊（物をしまったり隠したりする場所の形）＋口（物体）〉物をしまった形。「区」は、「區」の内部を簡単な「㐅」に換えた字体。",
@@ -631,7 +681,7 @@
   },
   {
     "pieutiwbyo": "05341",
-    "tieng": "十",
+    "dziwbyo": "十",
     "punngrie": "｛針 *t-kəm はり｝",
     "kudzau": null,
     "doxeng": "はりの形",
@@ -641,7 +691,7 @@
   },
   {
     "pieutiwbyo": "05343",
-    "tieng": "千",
+    "dziwbyo": "千",
     "punngrie": "｛千 *s-n̥ˤiŋ 1000｝",
     "kudzau": "「一」＋注音符「人 Niŋ」",
     "doxeng": null,
@@ -651,7 +701,7 @@
   },
   {
     "pieutiwbyo": "05347",
-    "tieng": "升",
+    "dziwbyo": "升",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -661,7 +711,7 @@
   },
   {
     "pieutiwbyo": "05348",
-    "tieng": "午",
+    "dziwbyo": "午",
     "punngrie": "｛杵 *t-qʰaʔ きね｝",
     "kudzau": "杵の形",
     "doxeng": null,
@@ -670,8 +720,18 @@
     "thongqitmra": "U+5348"
   },
   {
+    "pieutiwbyo": "05354",
+    "dziwbyo": "協",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5354"
+  },
+  {
     "pieutiwbyo": "05360",
-    "tieng": "占",
+    "dziwbyo": "占",
     "punngrie": "｛占 *tem みる、うかがう、うらなう｝",
     "kudzau": "表語文字「𡆥(→卜)」＋飾符「口」",
     "doxeng": "卜兆が顕れた肩甲骨の形。",
@@ -681,7 +741,7 @@
   },
   {
     "pieutiwbyo": "05370",
-    "tieng": "印",
+    "dziwbyo": "印",
     "punngrie": "｛抑 *ʔik おさえる｝",
     "kudzau": null,
     "doxeng": "〈爪＋卩〉ひざまづいた人を上から手で抑える形",
@@ -691,7 +751,7 @@
   },
   {
     "pieutiwbyo": "05371",
-    "tieng": "危",
+    "dziwbyo": "危",
     "punngrie": "｛跪 *[g](r)ojʔ ひざまづく｝",
     "kudzau": "表音文字「厃 (N)Koj」＋意味分類符「卩」",
     "doxeng": null,
@@ -701,7 +761,7 @@
   },
   {
     "pieutiwbyo": "05373",
-    "tieng": "即",
+    "dziwbyo": "即",
     "punngrie": "｛即 *tsik （食事に）つく｝",
     "kudzau": "表音文字「卩 TSik」＋意味分類符「皀」",
     "doxeng": null,
@@ -711,7 +771,7 @@
   },
   {
     "pieutiwbyo": "0539A",
-    "tieng": "厚",
+    "dziwbyo": "厚",
     "punngrie": null,
     "kudzau": "表音文字「𣆪 Ko」＋意味分類符「厂」？",
     "doxeng": null,
@@ -721,7 +781,7 @@
   },
   {
     "pieutiwbyo": "0539F",
-    "tieng": "原",
+    "dziwbyo": "原",
     "punngrie": "｛源 *N-ɢʷar みなもと｝",
     "kudzau": null,
     "doxeng": "〈厂（崖）＋泉〉水源から水が湧く形。",
@@ -731,7 +791,7 @@
   },
   {
     "pieutiwbyo": "053BB",
-    "tieng": "去",
+    "dziwbyo": "去",
     "punngrie": "｛呿 *kʰ(r)a-s 口を大きく開く｝",
     "kudzau": "意味分類符「口」＋意味分類符「大」",
     "doxeng": null,
@@ -741,7 +801,7 @@
   },
   {
     "pieutiwbyo": "053C3",
-    "tieng": "參",
+    "dziwbyo": "參",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -751,7 +811,7 @@
   },
   {
     "pieutiwbyo": "053CA",
-    "tieng": "及",
+    "dziwbyo": "及",
     "punngrie": "｛及 *[g]-rəp およぶ、およぼす｝",
     "kudzau": null,
     "doxeng": "〈人＋又〉前の人に手を及ぼす形",
@@ -761,7 +821,7 @@
   },
   {
     "pieutiwbyo": "053D4",
-    "tieng": "叔",
+    "dziwbyo": "叔",
     "punngrie": "｛埱 *tʰuk 掘る｝",
     "kudzau": null,
     "doxeng": "〈弋（杙）＋小（土粒）＋又（手）〉杙で地面を掘る形",
@@ -771,7 +831,7 @@
   },
   {
     "pieutiwbyo": "053D6",
-    "tieng": "取",
+    "dziwbyo": "取",
     "punngrie": "｛取 *tsʰoʔ とる、とらえる｝",
     "kudzau": null,
     "doxeng": null,
@@ -781,7 +841,7 @@
   },
   {
     "pieutiwbyo": "053D7",
-    "tieng": "受",
+    "dziwbyo": "受",
     "punngrie": "｛受 *duʔ うける、うけとる｝",
     "kudzau": null,
     "doxeng": "物を受け取る形。受け取る物体は注音符「舟 Tu」になっている。",
@@ -791,7 +851,7 @@
   },
   {
     "pieutiwbyo": "053E0",
-    "tieng": "叠",
+    "dziwbyo": "叠",
     "punngrie": "｛疊 *lˤip かさなる、かさねる｝",
     "kudzau": "表音文字「𫦄(→冝) Lip」＋意味分類符「晶」",
     "doxeng": null,
@@ -801,7 +861,7 @@
   },
   {
     "pieutiwbyo": "053E3",
-    "tieng": "口",
+    "dziwbyo": "口",
     "punngrie": "｛口 *kʰˤ(r)oʔ くち｝",
     "kudzau": null,
     "doxeng": "口の形",
@@ -811,7 +871,7 @@
   },
   {
     "pieutiwbyo": "053E4",
-    "tieng": "古",
+    "dziwbyo": "古",
     "punngrie": "｛固 *[k]ˤa-s かたい｝",
     "kudzau": null,
     "doxeng": null,
@@ -821,7 +881,7 @@
   },
   {
     "pieutiwbyo": "053E5",
-    "tieng": "句",
+    "dziwbyo": "句",
     "punngrie": "｛句 *[k]ˤ(r)o まがる、まげる｝",
     "kudzau": "表音文字「丩 Ko」＋飾符「口」",
     "doxeng": null,
@@ -831,7 +891,7 @@
   },
   {
     "pieutiwbyo": "053EC",
-    "tieng": "召",
+    "dziwbyo": "召",
     "punngrie": "｛召 *daw-s 呼ぶ｝",
     "kudzau": "表音文字「刀 Taw」＋意味分類符「口」",
     "doxeng": null,
@@ -841,7 +901,7 @@
   },
   {
     "pieutiwbyo": "053EF",
-    "tieng": "可",
+    "dziwbyo": "可",
     "punngrie": "｛柯 *kˤaj 斧の柄｝",
     "kudzau": "表語文字「𠀀」＋飾符「口」",
     "doxeng": "斧の柄の形",
@@ -851,7 +911,7 @@
   },
   {
     "pieutiwbyo": "053F2",
-    "tieng": "史",
+    "dziwbyo": "史",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -861,7 +921,7 @@
   },
   {
     "pieutiwbyo": "053F8",
-    "tieng": "司",
+    "dziwbyo": "司",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -871,7 +931,7 @@
   },
   {
     "pieutiwbyo": "05404",
-    "tieng": "各",
+    "dziwbyo": "各",
     "punngrie": "｛格 *k-rˤak いたる、来る｝",
     "kudzau": null,
     "doxeng": "〈夂＋凵〉穴居に歩いてくる形",
@@ -881,7 +941,7 @@
   },
   {
     "pieutiwbyo": "05408",
-    "tieng": "合",
+    "dziwbyo": "合",
     "punngrie": "｛合 *kˤop あう｝",
     "kudzau": "二つの口が向かい合った形",
     "doxeng": null,
@@ -891,7 +951,7 @@
   },
   {
     "pieutiwbyo": "05409",
-    "tieng": "吉",
+    "dziwbyo": "吉",
     "punngrie": "｛硈 *kʰˤrit かたい｝",
     "kudzau": null,
     "doxeng": null,
@@ -901,7 +961,7 @@
   },
   {
     "pieutiwbyo": "0540E",
-    "tieng": "后",
+    "dziwbyo": "后",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -911,7 +971,7 @@
   },
   {
     "pieutiwbyo": "05411",
-    "tieng": "向",
+    "dziwbyo": "向",
     "punngrie": "｛響 *qʰaŋʔ ひびき｝",
     "kudzau": null,
     "doxeng": "〈宀（建物の形）＋口（音や声を表す）〉屋内で出した音声が響く形",
@@ -921,7 +981,7 @@
   },
   {
     "pieutiwbyo": "0541B",
-    "tieng": "君",
+    "dziwbyo": "君",
     "punngrie": "｛君 *[k]ur きみ、統治者｝",
     "kudzau": "表語文字「尹」＋飾符「口」",
     "doxeng": null,
@@ -931,7 +991,7 @@
   },
   {
     "pieutiwbyo": "05434",
-    "tieng": "吴",
+    "dziwbyo": "吴",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -941,7 +1001,7 @@
   },
   {
     "pieutiwbyo": "05439",
-    "tieng": "吹",
+    "dziwbyo": "吹",
     "punngrie": "｛吹 *tʰor ふく｝",
     "kudzau": null,
     "doxeng": "〈口＋欠〉口を開けた人の形",
@@ -951,7 +1011,7 @@
   },
   {
     "pieutiwbyo": "0544A",
-    "tieng": "告",
+    "dziwbyo": "告",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -961,7 +1021,7 @@
   },
   {
     "pieutiwbyo": "05468",
-    "tieng": "周",
+    "dziwbyo": "周",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -971,7 +1031,7 @@
   },
   {
     "pieutiwbyo": "0547C",
-    "tieng": "呼",
+    "dziwbyo": "呼",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -981,7 +1041,7 @@
   },
   {
     "pieutiwbyo": "054E1",
-    "tieng": "員",
+    "dziwbyo": "員",
     "punngrie": "｛圓 *ɢʷen まるい｝",
     "kudzau": "表語文字「〇」＋意味分類符「鼎」",
     "doxeng": null,
@@ -991,7 +1051,7 @@
   },
   {
     "pieutiwbyo": "05546",
-    "tieng": "商",
+    "dziwbyo": "商",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1001,7 +1061,7 @@
   },
   {
     "pieutiwbyo": "05553",
-    "tieng": "啓",
+    "dziwbyo": "啓",
     "punngrie": "｛啓 *kʰˤeʔ ひらく、あける｝",
     "kudzau": "表語文字「⿰户又」＋飾符「口」",
     "doxeng": "門を開く形",
@@ -1011,7 +1071,7 @@
   },
   {
     "pieutiwbyo": "05584",
-    "tieng": "善",
+    "dziwbyo": "善",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1021,7 +1081,7 @@
   },
   {
     "pieutiwbyo": "0559C",
-    "tieng": "喜",
+    "dziwbyo": "喜",
     "punngrie": "｛喜 *qʰ(r)əʔ たのしむ｝",
     "kudzau": null,
     "doxeng": null,
@@ -1031,7 +1091,7 @@
   },
   {
     "pieutiwbyo": "055AA",
-    "tieng": "喪",
+    "dziwbyo": "喪",
     "punngrie": null,
     "kudzau": "表音文字「桑 Saŋ」＋飾符「口」",
     "doxeng": null,
@@ -1041,7 +1101,7 @@
   },
   {
     "pieutiwbyo": "05668",
-    "tieng": "器",
+    "dziwbyo": "器",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1051,7 +1111,7 @@
   },
   {
     "pieutiwbyo": "056B4",
-    "tieng": "嚴",
+    "dziwbyo": "嚴",
     "punngrie": "｛譀 *qʰˤram-s おごる｝",
     "kudzau": "表語文字「喦」＋注表符「敢 Qam」",
     "doxeng": "口が多い人の形",
@@ -1061,7 +1121,7 @@
   },
   {
     "pieutiwbyo": "056DB",
-    "tieng": "四",
+    "dziwbyo": "四",
     "punngrie": "｛呬 l̥ri-s 息｝",
     "kudzau": null,
     "doxeng": "息を出した鼻の形",
@@ -1071,7 +1131,7 @@
   },
   {
     "pieutiwbyo": "056DE",
-    "tieng": "回",
+    "dziwbyo": "回",
     "punngrie": "｛回 *ɢʷˤə[r] まわる、かこむ｝",
     "kudzau": null,
     "doxeng": "四角形がまわりを取り囲んでいる形",
@@ -1081,7 +1141,7 @@
   },
   {
     "pieutiwbyo": "056E0",
-    "tieng": "因",
+    "dziwbyo": "因",
     "punngrie": "｛茵 *ʔin しとね、敷物｝",
     "kudzau": null,
     "doxeng": "人が敷物の上で寝ている形",
@@ -1091,7 +1151,7 @@
   },
   {
     "pieutiwbyo": "056F0",
-    "tieng": "困",
+    "dziwbyo": "困",
     "punngrie": "｛稛 *kʰˤunʔ くくる、縛る｝",
     "kudzau": "木材を縛った形",
     "doxeng": null,
@@ -1101,7 +1161,7 @@
   },
   {
     "pieutiwbyo": "0570D",
-    "tieng": "圍",
+    "dziwbyo": "圍",
     "punngrie": "｛圍 *ɢʷər めぐる｝",
     "kudzau": "表語文字「韋(→井)」＋意味分類符「囗」",
     "doxeng": "土地の周りを歩く形",
@@ -1111,7 +1171,7 @@
   },
   {
     "pieutiwbyo": "05716",
-    "tieng": "圖",
+    "dziwbyo": "圖",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1121,7 +1181,7 @@
   },
   {
     "pieutiwbyo": "05728",
-    "tieng": "在",
+    "dziwbyo": "在",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1131,7 +1191,7 @@
   },
   {
     "pieutiwbyo": "05782",
-    "tieng": "垂",
+    "dziwbyo": "垂",
     "punngrie": "｛陲 *doj さかい｝",
     "kudzau": "表音文字「(𡸁→)𠂹 Toj」＋意味分類符「土」",
     "doxeng": null,
@@ -1141,7 +1201,7 @@
   },
   {
     "pieutiwbyo": "057F7",
-    "tieng": "執",
+    "dziwbyo": "執",
     "punngrie": "｛執 *[t]ip とらえる｝",
     "kudzau": null,
     "doxeng": "捕らえた人の形",
@@ -1151,7 +1211,7 @@
   },
   {
     "pieutiwbyo": "0585E",
-    "tieng": "塞",
+    "dziwbyo": "塞",
     "punngrie": "｛塞 *[s]ˤək ふさぐ｝｛塞 *[s]ˤək-s とりで｝",
     "kudzau": "表語文字「𡫳」＋意味分類符「土」",
     "doxeng": "〈宀（家屋）＋㠭（柱などの建材と思われる）＋廾（手）〉",
@@ -1161,7 +1221,7 @@
   },
   {
     "pieutiwbyo": "0587E",
-    "tieng": "塾",
+    "dziwbyo": "塾",
     "punngrie": "｛塾 *duk へや、まなびや｝",
     "kudzau": "表音文字「丮 Tuk」＋意味分類符「亯／京／高」＋意味分類符「土」",
     "doxeng": null,
@@ -1171,7 +1231,7 @@
   },
   {
     "pieutiwbyo": "058D3",
-    "tieng": "壓",
+    "dziwbyo": "壓",
     "punngrie": "｛壓 *ʔrˤep くずれる、くずす｝",
     "kudzau": "表音文字「厭(→厂) ʔep」＋意味分類符「土」",
     "doxeng": null,
@@ -1181,7 +1241,7 @@
   },
   {
     "pieutiwbyo": "058EB",
-    "tieng": "士",
+    "dziwbyo": "士",
     "punngrie": "｛士 *[dz]rəʔ すぐれた人｝",
     "kudzau": null,
     "doxeng": "統率権の象徴である斧鉞の形",
@@ -1191,7 +1251,7 @@
   },
   {
     "pieutiwbyo": "058F9",
-    "tieng": "壹",
+    "dziwbyo": "壹",
     "punngrie": "｛噎 *qˤik のどにつかえる｝",
     "kudzau": null,
     "doxeng": null,
@@ -1201,7 +1261,7 @@
   },
   {
     "pieutiwbyo": "058FD",
-    "tieng": "壽",
+    "dziwbyo": "壽",
     "punngrie": "｛壽 *[N-t]uʔ 長寿｝",
     "kudzau": "表音文字「𠃬 Tu」＋意味分類符「老」＋飾符「口」「寸」",
     "doxeng": null,
@@ -1211,7 +1271,7 @@
   },
   {
     "pieutiwbyo": "0590F",
-    "tieng": "夏",
+    "dziwbyo": "夏",
     "punngrie": "｛夏 *gˤraʔ-s 夏｝",
     "kudzau": null,
     "doxeng": "〈日＋頁〉太陽が頭上から照りつける形",
@@ -1221,7 +1281,7 @@
   },
   {
     "pieutiwbyo": "05915",
-    "tieng": "夕",
+    "dziwbyo": "夕",
     "punngrie": "｛夕 *s-[l]ak よる｝",
     "kudzau": null,
     "doxeng": "月の形",
@@ -1231,7 +1291,7 @@
   },
   {
     "pieutiwbyo": "05916",
-    "tieng": "外",
+    "dziwbyo": "外",
     "punngrie": "｛外 *ŋʷˤat-s そと｝",
     "kudzau": "表語文字「卜*」＋注音符「月 NGʷat」",
     "doxeng": "縦線の外側に枝を書いた形",
@@ -1241,7 +1301,7 @@
   },
   {
     "pieutiwbyo": "0592E",
-    "tieng": "央",
+    "dziwbyo": "央",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1251,7 +1311,7 @@
   },
   {
     "pieutiwbyo": "0594F",
-    "tieng": "奏",
+    "dziwbyo": "奏",
     "punngrie": "｛奏 *tsˤo(ʔ)-s すすめる、献上する｝",
     "kudzau": "〈𠦪＋𠬞〉植物を差し出す形",
     "doxeng": null,
@@ -1261,7 +1321,7 @@
   },
   {
     "pieutiwbyo": "05965",
-    "tieng": "奥",
+    "dziwbyo": "奥",
     "punngrie": "｛奥 *ʔˤuk-s 奥、奥深い｝",
     "kudzau": "表語文字「匊」＋「𠬞」",
     "doxeng": "米を奥にしまった形",
@@ -1271,7 +1331,7 @@
   },
   {
     "pieutiwbyo": "05973",
-    "tieng": "女",
+    "dziwbyo": "女",
     "punngrie": "｛女 *nraʔ おんな｝",
     "kudzau": null,
     "doxeng": "ひざまづいた人、女性の形",
@@ -1281,7 +1341,7 @@
   },
   {
     "pieutiwbyo": "0597D",
-    "tieng": "好",
+    "dziwbyo": "好",
     "punngrie": "｛好 *n̥ˤuʔ-s このむ、愛する｝",
     "kudzau": "母親が子を抱いている形",
     "doxeng": null,
@@ -1291,7 +1351,7 @@
   },
   {
     "pieutiwbyo": "059BB",
-    "tieng": "妻",
+    "dziwbyo": "妻",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1301,7 +1361,7 @@
   },
   {
     "pieutiwbyo": "059CA",
-    "tieng": "姊",
+    "dziwbyo": "姊",
     "punngrie": "｛姊 *tsijʔ あね｝",
     "kudzau": "表音文字「𠂔 TSij」＋意味分類符「女」",
     "doxeng": null,
@@ -1311,7 +1371,7 @@
   },
   {
     "pieutiwbyo": "059D4",
-    "tieng": "委",
+    "dziwbyo": "委",
     "punngrie": null,
     "kudzau": "表音文字「禾 Koj」＋意味分類符「女」",
     "doxeng": null,
@@ -1321,7 +1381,7 @@
   },
   {
     "pieutiwbyo": "05A01",
-    "tieng": "威",
+    "dziwbyo": "威",
     "punngrie": "｛威 *ʔuj おどす｝",
     "kudzau": null,
     "doxeng": "〈戌＋女〉武器で人を脅す形",
@@ -1331,7 +1391,7 @@
   },
   {
     "pieutiwbyo": "05A7F",
-    "tieng": "婿",
+    "dziwbyo": "婿",
     "punngrie": "｛婿 *sˤ[ə]p-s むこ｝",
     "kudzau": "表音文字「咠(→胥) (T)Səp」＋意味分類符「女」",
     "doxeng": null,
@@ -1341,7 +1401,7 @@
   },
   {
     "pieutiwbyo": "05B50",
-    "tieng": "子",
+    "dziwbyo": "子",
     "punngrie": "｛子 *tsəʔ こども｝",
     "kudzau": null,
     "doxeng": "子供の形。",
@@ -1351,7 +1411,7 @@
   },
   {
     "pieutiwbyo": "05B54",
-    "tieng": "孔",
+    "dziwbyo": "孔",
     "punngrie": "｛㝅 *[k]ˤok-s やしなう｝",
     "kudzau": "乳を飲む子の形",
     "doxeng": null,
@@ -1361,7 +1421,7 @@
   },
   {
     "pieutiwbyo": "05B63",
-    "tieng": "季",
+    "dziwbyo": "季",
     "punngrie": "｛季 *kʷit-s 末子｝",
     "kudzau": "表音文字「禾* Kʷit」＋意味分類符「子」",
     "doxeng": null,
@@ -1371,7 +1431,7 @@
   },
   {
     "pieutiwbyo": "05B78",
-    "tieng": "學",
+    "dziwbyo": "學",
     "punngrie": "｛學 *gˤruk まなぶ｝",
     "kudzau": "表音文字「爻 Kuk」＋意味分類符「宀」＋意味分類符「𦥑」＋意味分類符「子」",
     "doxeng": null,
@@ -1381,7 +1441,7 @@
   },
   {
     "pieutiwbyo": "05B88",
-    "tieng": "守",
+    "dziwbyo": "守",
     "punngrie": "｛守 *s-tuʔ まもる｝",
     "kudzau": "表音文字「寸* Tu」＋意味分類符「宀」",
     "doxeng": null,
@@ -1391,7 +1451,7 @@
   },
   {
     "pieutiwbyo": "05B89",
-    "tieng": "安",
+    "dziwbyo": "安",
     "punngrie": "｛安 *ʔˤan すわる、とまる｝",
     "kudzau": "表語文字「⿻女丶(→女)」＋意味分類符「宀」",
     "doxeng": "人が座っている形",
@@ -1401,7 +1461,7 @@
   },
   {
     "pieutiwbyo": "05B97",
-    "tieng": "宗",
+    "dziwbyo": "宗",
     "punngrie": "｛宗 *tsˤuŋ みたまや、宗廟｝",
     "kudzau": null,
     "doxeng": "〈宀＋主〉神のいる建物の形",
@@ -1411,7 +1471,7 @@
   },
   {
     "pieutiwbyo": "05B98",
-    "tieng": "官",
+    "dziwbyo": "官",
     "punngrie": "｛官 *kʷˤan 役所、官署｝",
     "kudzau": null,
     "doxeng": "〈宀（建物）＋𠂤（師団）〉",
@@ -1421,7 +1481,7 @@
   },
   {
     "pieutiwbyo": "05B9B",
-    "tieng": "宛",
+    "dziwbyo": "宛",
     "punngrie": "｛館 *kˤorʔ-s やかた、やどる｝",
     "kudzau": "表音文字「夗 Kon」＋意味分類符「宀」",
     "doxeng": null,
@@ -1431,7 +1491,7 @@
   },
   {
     "pieutiwbyo": "05B9C",
-    "tieng": "宜",
+    "dziwbyo": "宜",
     "punngrie": "｛宜 *ŋ(r)aj 料理、酒のさかな｝",
     "kudzau": null,
     "doxeng": "〈且＋肉〉まな板の上にのせた肉の形。隷変でまな板の上部が“宀”形になり、肉とまな板の下部が“且”形になった。",
@@ -1441,7 +1501,7 @@
   },
   {
     "pieutiwbyo": "05BAB",
-    "tieng": "宫",
+    "dziwbyo": "宫",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1451,7 +1511,7 @@
   },
   {
     "pieutiwbyo": "05BB0",
-    "tieng": "宰",
+    "dziwbyo": "宰",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1461,7 +1521,7 @@
   },
   {
     "pieutiwbyo": "05BB3",
-    "tieng": "害",
+    "dziwbyo": "害",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1471,7 +1531,7 @@
   },
   {
     "pieutiwbyo": "05BB5",
-    "tieng": "宵",
+    "dziwbyo": "宵",
     "punngrie": "｛宵 *sew よる｝",
     "kudzau": "表音文字「小 Sew」＋意味分類符「月」＋意味分類符「宀」",
     "doxeng": null,
@@ -1481,7 +1541,7 @@
   },
   {
     "pieutiwbyo": "05BB6",
-    "tieng": "家",
+    "dziwbyo": "家",
     "punngrie": "｛家 *kˤra 家｝",
     "kudzau": "表音文字「𢑓 Ka」＋意味分類符「宀」",
     "doxeng": null,
@@ -1491,7 +1551,7 @@
   },
   {
     "pieutiwbyo": "05BBF",
-    "tieng": "宿",
+    "dziwbyo": "宿",
     "punngrie": "｛宿 *[s]uk やど、やどる｝",
     "kudzau": "表語文字「𠉦」＋意味分類符「宀」",
     "doxeng": "〈人＋𠀬（むしろ）〉人が寝る形",
@@ -1501,7 +1561,7 @@
   },
   {
     "pieutiwbyo": "05BD2",
-    "tieng": "寒",
+    "dziwbyo": "寒",
     "punngrie": "｛寒 *Cə-gˤa[n] さむい｝",
     "kudzau": null,
     "doxeng": "〈宀＋人＋艸〉人が屋内で寒さを凌ぐ形。下部は飾筆で「冫」とは無関係。",
@@ -1511,7 +1571,7 @@
   },
   {
     "pieutiwbyo": "05BE1",
-    "tieng": "寡",
+    "dziwbyo": "寡",
     "punngrie": "｛寡 *kʷˤraʔ 孤立、孤独｝",
     "kudzau": "表音文字「𪟊 Kʷa」＋意味分類符「宀」",
     "doxeng": null,
@@ -1521,7 +1581,7 @@
   },
   {
     "pieutiwbyo": "05BE2",
-    "tieng": "寢",
+    "dziwbyo": "寢",
     "punngrie": "｛寢 *tsʰimʔ へや、ねや｝",
     "kudzau": "表音文字「𠬶 TSim」＋意味分類符「宀」＋意味分類符「爿」",
     "doxeng": null,
@@ -1531,7 +1591,7 @@
   },
   {
     "pieutiwbyo": "05BE6",
-    "tieng": "實",
+    "dziwbyo": "實",
     "punngrie": "｛實 *mə-li[t] たから｝",
     "kudzau": null,
     "doxeng": "〈宀（家屋）＋周（琱）＋貝（財貨）〉家屋の中に財貨がある形",
@@ -1541,7 +1601,7 @@
   },
   {
     "pieutiwbyo": "05BE9",
-    "tieng": "審",
+    "dziwbyo": "審",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1551,7 +1611,7 @@
   },
   {
     "pieutiwbyo": "05BF8",
-    "tieng": "寸",
+    "dziwbyo": "寸",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1561,7 +1621,7 @@
   },
   {
     "pieutiwbyo": "05BFA",
-    "tieng": "寺",
+    "dziwbyo": "寺",
     "punngrie": "｛持 *drə もつ｝",
     "kudzau": "表音文字「之(→土) Tə」＋意味分類符「又(→寸)」",
     "doxeng": null,
@@ -1571,7 +1631,7 @@
   },
   {
     "pieutiwbyo": "05C04",
-    "tieng": "射",
+    "dziwbyo": "射",
     "punngrie": "｛射 *m-lak-s いる、矢を放つ｝",
     "kudzau": null,
     "doxeng": "弓で矢を射る形",
@@ -1581,7 +1641,7 @@
   },
   {
     "pieutiwbyo": "05C07",
-    "tieng": "將",
+    "dziwbyo": "將",
     "punngrie": "｛將 *tsaŋ すすめる、ささげる｝",
     "kudzau": "表語文字「𢌳(→寽)」＋注音符「爿 TSaŋ」",
     "doxeng": "祭肉を捧げる形",
@@ -1591,7 +1651,7 @@
   },
   {
     "pieutiwbyo": "05C08",
-    "tieng": "專",
+    "dziwbyo": "專",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1601,7 +1661,7 @@
   },
   {
     "pieutiwbyo": "05C09",
-    "tieng": "尉",
+    "dziwbyo": "尉",
     "punngrie": "｛熨 *ʔut 火のし｝",
     "kudzau": "「𡰥？」＋意味分類符「火(→小)」＋意味分類符「寸」",
     "doxeng": null,
@@ -1610,8 +1670,18 @@
     "thongqitmra": "U+5C09"
   },
   {
+    "pieutiwbyo": "05C0A",
+    "dziwbyo": "尊",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5C0A"
+  },
+  {
     "pieutiwbyo": "05C0B",
-    "tieng": "尋",
+    "dziwbyo": "尋",
     "punngrie": "｛䑣 *l̥rəm 舟が進む｝",
     "kudzau": "表音文字「⿱⿰丨㕛寸 Ləm」＋意味分類符「舟(→口)」",
     "doxeng": null,
@@ -1621,7 +1691,7 @@
   },
   {
     "pieutiwbyo": "05C0F",
-    "tieng": "小",
+    "dziwbyo": "小",
     "punngrie": "｛小 *sewʔ ちいさい｝",
     "kudzau": null,
     "doxeng": "小さい物体の形",
@@ -1631,7 +1701,7 @@
   },
   {
     "pieutiwbyo": "05C11",
-    "tieng": "少",
+    "dziwbyo": "少",
     "punngrie": "｛少 *s-tewʔ すくない｝",
     "kudzau": null,
     "doxeng": "小さい物体の形",
@@ -1641,7 +1711,7 @@
   },
   {
     "pieutiwbyo": "05C1A",
-    "tieng": "尚",
+    "dziwbyo": "尚",
     "punngrie": "｛堂 *dˤaŋ たてもの｝",
     "kudzau": "表語文字「冂」＋飾符「八」＋飾符「口」",
     "doxeng": "建物の形。",
@@ -1651,7 +1721,7 @@
   },
   {
     "pieutiwbyo": "05C31",
-    "tieng": "就",
+    "dziwbyo": "就",
     "punngrie": null,
     "kudzau": "表音文字「𫢁 TSuk」＋「尤」",
     "doxeng": null,
@@ -1661,7 +1731,7 @@
   },
   {
     "pieutiwbyo": "05C3A",
-    "tieng": "尺",
+    "dziwbyo": "尺",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1670,8 +1740,18 @@
     "thongqitmra": "U+5C3A"
   },
   {
+    "pieutiwbyo": "05C3B",
+    "dziwbyo": "尻",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+5C3B"
+  },
+  {
     "pieutiwbyo": "05C40",
-    "tieng": "局",
+    "dziwbyo": "局",
     "punngrie": null,
     "kudzau": "表音文字「句 Ko」＋「尸」",
     "doxeng": null,
@@ -1681,7 +1761,7 @@
   },
   {
     "pieutiwbyo": "05C48",
-    "tieng": "屈",
+    "dziwbyo": "屈",
     "punngrie": "｛屈 *kʰut （尾が）短い｝",
     "kudzau": "表音文字「出 Kut」＋意味分類符「尾」",
     "doxeng": null,
@@ -1691,7 +1771,7 @@
   },
   {
     "pieutiwbyo": "05C4B",
-    "tieng": "屋",
+    "dziwbyo": "屋",
     "punngrie": "｛屋 *qˤok 家、部屋｝",
     "kudzau": "表音文字「𡉉 Qok」＋意味分類符「室」",
     "doxeng": null,
@@ -1701,7 +1781,7 @@
   },
   {
     "pieutiwbyo": "05C6C",
-    "tieng": "屬",
+    "dziwbyo": "屬",
     "punngrie": "｛屬 *tok 続く、連なる、したがう｝",
     "kudzau": "表音文字「蜀 Tok」＋意味分類符「尾」",
     "doxeng": null,
@@ -1711,7 +1791,7 @@
   },
   {
     "pieutiwbyo": "05C71",
-    "tieng": "山",
+    "dziwbyo": "山",
     "punngrie": "｛山 *s-ŋrar やま｝",
     "kudzau": null,
     "doxeng": "山岳の形",
@@ -1721,7 +1801,7 @@
   },
   {
     "pieutiwbyo": "05CA9",
-    "tieng": "岩",
+    "dziwbyo": "岩",
     "punngrie": "｛岩 *ŋˤram いわ｝",
     "kudzau": null,
     "doxeng": "〈山＋石〉",
@@ -1731,7 +1811,7 @@
   },
   {
     "pieutiwbyo": "05CB3",
-    "tieng": "岳",
+    "dziwbyo": "岳",
     "punngrie": "｛岳 *ŋˤrok たけ、高い山｝",
     "kudzau": null,
     "doxeng": null,
@@ -1741,7 +1821,7 @@
   },
   {
     "pieutiwbyo": "05D50",
-    "tieng": "嵐",
+    "dziwbyo": "嵐",
     "punngrie": "｛嵐 *rˤəm 山のもや、山気｝",
     "kudzau": "表音文字「風 Rəm」＋意味分類符「山」",
     "doxeng": null,
@@ -1751,7 +1831,7 @@
   },
   {
     "pieutiwbyo": "05DDD",
-    "tieng": "川",
+    "dziwbyo": "川",
     "punngrie": "｛川 *[t-l̥]un かわ｝",
     "kudzau": null,
     "doxeng": "両岸の間を水が流れる形",
@@ -1761,7 +1841,7 @@
   },
   {
     "pieutiwbyo": "05DDE",
-    "tieng": "州",
+    "dziwbyo": "州",
     "punngrie": "｛州 *tu す、しま｝",
     "kudzau": "川の中にある島の形",
     "doxeng": null,
@@ -1771,7 +1851,7 @@
   },
   {
     "pieutiwbyo": "05DE2",
-    "tieng": "巢",
+    "dziwbyo": "巢",
     "punngrie": "｛巢 *[dz]ˤraw す、すみか｝",
     "kudzau": null,
     "doxeng": null,
@@ -1781,7 +1861,7 @@
   },
   {
     "pieutiwbyo": "05DE5",
-    "tieng": "工",
+    "dziwbyo": "工",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1791,7 +1871,7 @@
   },
   {
     "pieutiwbyo": "05DE6",
-    "tieng": "左",
+    "dziwbyo": "左",
     "punngrie": "｛左 *tsˤa[j]ʔ ひだり｝",
     "kudzau": "表語文字「𠂇」＋「工」",
     "doxeng": "左手の形。",
@@ -1801,7 +1881,7 @@
   },
   {
     "pieutiwbyo": "05DE8",
-    "tieng": "巨",
+    "dziwbyo": "巨",
     "punngrie": "｛矩 *kʷ(r)aʔ 定規、さしがね｝",
     "kudzau": null,
     "doxeng": null,
@@ -1811,7 +1891,7 @@
   },
   {
     "pieutiwbyo": "05DEE",
-    "tieng": "差",
+    "dziwbyo": "差",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1821,7 +1901,7 @@
   },
   {
     "pieutiwbyo": "05DF1",
-    "tieng": "己",
+    "dziwbyo": "己",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1831,7 +1911,7 @@
   },
   {
     "pieutiwbyo": "05DFE",
-    "tieng": "巾",
+    "dziwbyo": "巾",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1841,7 +1921,7 @@
   },
   {
     "pieutiwbyo": "05E02",
-    "tieng": "市",
+    "dziwbyo": "市",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1851,7 +1931,7 @@
   },
   {
     "pieutiwbyo": "05E0C",
-    "tieng": "希",
+    "dziwbyo": "希",
     "punngrie": "｛稀 *qʰəj まばら｝",
     "kudzau": "表語文字「𬼆」（織り目の形）＋意味分類符「巾」",
     "doxeng": null,
@@ -1861,7 +1941,7 @@
   },
   {
     "pieutiwbyo": "05E25",
-    "tieng": "帥",
+    "dziwbyo": "帥",
     "punngrie": "｛帥 *s-rut-s 身に帯びる布｝",
     "kudzau": "表語文字「⿰丨𢑑」＋意味分類符「巾」",
     "doxeng": "手で物を持つ形",
@@ -1871,7 +1951,7 @@
   },
   {
     "pieutiwbyo": "05E2B",
-    "tieng": "師",
+    "dziwbyo": "師",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1881,7 +1961,7 @@
   },
   {
     "pieutiwbyo": "05E2D",
-    "tieng": "席",
+    "dziwbyo": "席",
     "punngrie": "｛席 *s-m-tak 敷物、むしろ｝",
     "kudzau": "表音文字「石 Tak」＋意味分類符「巾」",
     "doxeng": null,
@@ -1891,7 +1971,7 @@
   },
   {
     "pieutiwbyo": "05E72",
-    "tieng": "干",
+    "dziwbyo": "干",
     "punngrie": "｛干 *kˤar 盾｝",
     "kudzau": null,
     "doxeng": "上部に装飾のある盾。中央部は省略されてただの横画になった。",
@@ -1901,7 +1981,7 @@
   },
   {
     "pieutiwbyo": "05E78",
-    "tieng": "幸",
+    "dziwbyo": "幸",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1911,7 +1991,7 @@
   },
   {
     "pieutiwbyo": "05E7B",
-    "tieng": "幻",
+    "dziwbyo": "幻",
     "punngrie": "｛弦 *[ɢ]ˤi[n] つる｝",
     "kudzau": "〈弓＋○〉弓の弦の部分を○印で示したもの",
     "doxeng": null,
@@ -1921,7 +2001,7 @@
   },
   {
     "pieutiwbyo": "05E7E",
-    "tieng": "幾",
+    "dziwbyo": "幾",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -1931,7 +2011,7 @@
   },
   {
     "pieutiwbyo": "05E8A",
-    "tieng": "床",
+    "dziwbyo": "床",
     "punngrie": "｛床 *kə-dzraŋ とこ｝",
     "kudzau": "表語文字「爿」＋意味分類符「木」",
     "doxeng": "寝台の形",
@@ -1941,7 +2021,7 @@
   },
   {
     "pieutiwbyo": "05EB6",
-    "tieng": "庶",
+    "dziwbyo": "庶",
     "punngrie": "｛庶 *tak-s 煮る｝",
     "kudzau": "表音文字「石 Ta」＋意味分類符「火」",
     "doxeng": null,
@@ -1951,7 +2031,7 @@
   },
   {
     "pieutiwbyo": "05EE3",
-    "tieng": "廣",
+    "dziwbyo": "廣",
     "punngrie": "｛廣 *kʷˤaŋʔ にわ、広場｝",
     "kudzau": "表音文字「黄 Kʷaŋ」＋意味分類符「广」",
     "doxeng": null,
@@ -1961,7 +2041,7 @@
   },
   {
     "pieutiwbyo": "05EF6",
-    "tieng": "延",
+    "dziwbyo": "延",
     "punngrie": "｛延 *[l]an のびゆく｝",
     "kudzau": null,
     "doxeng": "〈彳＋止〉道のりを進む形",
@@ -1971,7 +2051,7 @@
   },
   {
     "pieutiwbyo": "05EFA",
-    "tieng": "建",
+    "dziwbyo": "建",
     "punngrie": "｛建 *[k]a[n]-s たてる｝",
     "kudzau": null,
     "doxeng": "人が柱を立てる形",
@@ -1981,7 +2061,7 @@
   },
   {
     "pieutiwbyo": "05F13",
-    "tieng": "弓",
+    "dziwbyo": "弓",
     "punngrie": "｛弓 *kʷəŋ ゆみ｝",
     "kudzau": null,
     "doxeng": "弓の形",
@@ -1991,7 +2071,7 @@
   },
   {
     "pieutiwbyo": "05F15",
-    "tieng": "引",
+    "dziwbyo": "引",
     "punngrie": "｛引 *linʔ 引く｝",
     "kudzau": null,
     "doxeng": "弓が引かれる形",
@@ -2001,7 +2081,7 @@
   },
   {
     "pieutiwbyo": "05F26",
-    "tieng": "弦",
+    "dziwbyo": "弦",
     "punngrie": "｛弦 *[ɢ]ˤi[n] つる｝",
     "kudzau": "〈弓＋○〉弓の弦の部分を○印で示したもの",
     "doxeng": null,
@@ -2011,7 +2091,7 @@
   },
   {
     "pieutiwbyo": "05F31",
-    "tieng": "弱",
+    "dziwbyo": "弱",
     "punngrie": "｛弱 *newk よわい｝",
     "kudzau": "表音文字「㳮 Newk」＋意味分類符「弓」",
     "doxeng": null,
@@ -2021,7 +2101,7 @@
   },
   {
     "pieutiwbyo": "05F3A",
-    "tieng": "强",
+    "dziwbyo": "强",
     "punngrie": "｛𧖑 *gaŋ コクゾウムシ｝",
     "kudzau": "表音文字「𪪺 Kaŋ」＋意味分類符「虫」",
     "doxeng": null,
@@ -2031,7 +2111,7 @@
   },
   {
     "pieutiwbyo": "05F59",
-    "tieng": "彙",
+    "dziwbyo": "彙",
     "punngrie": "｛蝟 *ɢʷə[t]-s はりねずみ｝",
     "kudzau": "表音文字「𡇒 Qʷət」＋意味分類符「彖？」",
     "doxeng": null,
@@ -2041,7 +2121,7 @@
   },
   {
     "pieutiwbyo": "05F80",
-    "tieng": "往",
+    "dziwbyo": "往",
     "punngrie": "｛往 *ɢʷaŋʔ 行く｝",
     "kudzau": "（𡉚＝表音文字「王 Qʷaŋ」＋意味分類符「止」）＋意味分類符「彳」",
     "doxeng": null,
@@ -2051,7 +2131,7 @@
   },
   {
     "pieutiwbyo": "05F8C",
-    "tieng": "後",
+    "dziwbyo": "後",
     "punngrie": "｛後 *[ɢ]ˤ(r)oʔ うしろ、あと｝",
     "kudzau": "表語文字「⿱幺夊」＋意味分類符「彳」",
     "doxeng": "〈幺（繋がる家系を表す）＋夊（後退を表す）〉",
@@ -2061,7 +2141,7 @@
   },
   {
     "pieutiwbyo": "05F9E",
-    "tieng": "從",
+    "dziwbyo": "從",
     "punngrie": "｛從 *dzoŋ 従う｝",
     "kudzau": "表語文字「从」＋意味分類符「辵(→辶)」",
     "doxeng": "人が付き従う形",
@@ -2071,7 +2151,7 @@
   },
   {
     "pieutiwbyo": "05FC3",
-    "tieng": "心",
+    "dziwbyo": "心",
     "punngrie": "｛心 *səm 心臓｝",
     "kudzau": null,
     "doxeng": "心臓の形",
@@ -2081,7 +2161,7 @@
   },
   {
     "pieutiwbyo": "05FD7",
-    "tieng": "志",
+    "dziwbyo": "志",
     "punngrie": "｛志 *tə-s こころざし｝",
     "kudzau": "表音文字「之(→士) Tə」＋意味分類符「心」",
     "doxeng": null,
@@ -2091,7 +2171,7 @@
   },
   {
     "pieutiwbyo": "0601D",
-    "tieng": "思",
+    "dziwbyo": "思",
     "punngrie": "｛思 *[s]ə おもう｝",
     "kudzau": "表音文字「囟 Se」＋意味分類符「心」",
     "doxeng": null,
@@ -2101,7 +2181,7 @@
   },
   {
     "pieutiwbyo": "06052",
-    "tieng": "恒",
+    "dziwbyo": "恒",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2111,7 +2191,7 @@
   },
   {
     "pieutiwbyo": "0606F",
-    "tieng": "息",
+    "dziwbyo": "息",
     "punngrie": "｛息 *sək いき、息をつく｝",
     "kudzau": "〈自（呼吸器官である鼻＋心〉",
     "doxeng": null,
@@ -2121,7 +2201,7 @@
   },
   {
     "pieutiwbyo": "0610F",
-    "tieng": "意",
+    "dziwbyo": "意",
     "punngrie": "｛意 *ʔ(r)ək-s こころ｝",
     "kudzau": "表語文字「𠶷(→音)」＋意味分類符「心」",
     "doxeng": null,
@@ -2131,7 +2211,7 @@
   },
   {
     "pieutiwbyo": "0611B",
-    "tieng": "愛",
+    "dziwbyo": "愛",
     "punngrie": "｛愛 *qˤə[p]-s めぐむ、めでる｝",
     "kudzau": "表音文字「⿱旡夊 Kət」＋意味分類符「心」",
     "doxeng": null,
@@ -2141,7 +2221,7 @@
   },
   {
     "pieutiwbyo": "0614E",
-    "tieng": "慎",
+    "dziwbyo": "慎",
     "punngrie": "｛慎 *[d]i[n]-s つつしむ｝",
     "kudzau": "表音文字「真 Tin」＋意味分類符「心(→忄)」",
     "doxeng": null,
@@ -2151,7 +2231,7 @@
   },
   {
     "pieutiwbyo": "06176",
-    "tieng": "慶",
+    "dziwbyo": "慶",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2161,7 +2241,7 @@
   },
   {
     "pieutiwbyo": "061B2",
-    "tieng": "憲",
+    "dziwbyo": "憲",
     "punngrie": "｛憲 *qʰa[n] 楽しい｝",
     "kudzau": "表音文字「𡩜 Qan」＋意味分類符「心」",
     "doxeng": null,
@@ -2171,7 +2251,7 @@
   },
   {
     "pieutiwbyo": "06210",
-    "tieng": "成",
+    "dziwbyo": "成",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2181,7 +2261,7 @@
   },
   {
     "pieutiwbyo": "06211",
-    "tieng": "我",
+    "dziwbyo": "我",
     "punngrie": "｛錡 *ŋajʔ のこぎり｝",
     "kudzau": null,
     "doxeng": "のこぎり（歯付きの刃物）の形",
@@ -2191,7 +2271,7 @@
   },
   {
     "pieutiwbyo": "06212",
-    "tieng": "戒",
+    "dziwbyo": "戒",
     "punngrie": "｛戒 *kˤrək-s 備える、警戒する｝",
     "kudzau": null,
     "doxeng": "〈戈＋𠬞〉両手で武器を持って戦争に備える形",
@@ -2201,7 +2281,7 @@
   },
   {
     "pieutiwbyo": "0621A",
-    "tieng": "戚",
+    "dziwbyo": "戚",
     "punngrie": "｛戚 *tsʰˤiwk 親しい｝",
     "kudzau": "表音文字「𢦫 TSiwk」＋意味分類符「人」",
     "doxeng": null,
@@ -2211,7 +2291,7 @@
   },
   {
     "pieutiwbyo": "06237",
-    "tieng": "户",
+    "dziwbyo": "户",
     "punngrie": "｛户 *[ɢ]ʷˤaʔ とびら｝",
     "kudzau": null,
     "doxeng": "扉の形",
@@ -2221,7 +2301,7 @@
   },
   {
     "pieutiwbyo": "06240",
-    "tieng": "所",
+    "dziwbyo": "所",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2231,7 +2311,7 @@
   },
   {
     "pieutiwbyo": "06247",
-    "tieng": "扇",
+    "dziwbyo": "扇",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2241,7 +2321,7 @@
   },
   {
     "pieutiwbyo": "0624B",
-    "tieng": "手",
+    "dziwbyo": "手",
     "punngrie": "｛手 *[n̥]uʔ 手｝",
     "kudzau": null,
     "doxeng": "手の形",
@@ -2251,7 +2331,7 @@
   },
   {
     "pieutiwbyo": "0624D",
-    "tieng": "才",
+    "dziwbyo": "才",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2261,7 +2341,7 @@
   },
   {
     "pieutiwbyo": "0627F",
-    "tieng": "承",
+    "dziwbyo": "承",
     "punngrie": "｛拯 *təŋʔ すくう、あげる｝",
     "kudzau": "表語文字「丞」＋意味分類符「手」",
     "doxeng": "人を両手で上に持ち上げる形",
@@ -2271,7 +2351,7 @@
   },
   {
     "pieutiwbyo": "06298",
-    "tieng": "折",
+    "dziwbyo": "折",
     "punngrie": "｛折 *tet 断つ｝",
     "kudzau": null,
     "doxeng": "おので木を切断した形",
@@ -2281,7 +2361,7 @@
   },
   {
     "pieutiwbyo": "062D8",
-    "tieng": "拘",
+    "dziwbyo": "拘",
     "punngrie": "｛拘 *k(r)o とらえる｝",
     "kudzau": "表音文字「句 Ko」＋意味分類符「手」",
     "doxeng": null,
@@ -2291,7 +2371,7 @@
   },
   {
     "pieutiwbyo": "06383",
-    "tieng": "掃",
+    "dziwbyo": "掃",
     "punngrie": "｛掃 sˤuʔ はらう、はく｝",
     "kudzau": null,
     "doxeng": "〈帚（ほうき）＋手〉",
@@ -2301,7 +2381,7 @@
   },
   {
     "pieutiwbyo": "063D2",
-    "tieng": "插",
+    "dziwbyo": "插",
     "punngrie": "｛插 *mə-tsʰrop さしはさむ、さしこむ｝",
     "kudzau": "表語文字「臿(→𢆍)」＋意味分類符「手(→扌)」",
     "doxeng": "矢を穴にさしこむ形",
@@ -2311,7 +2391,7 @@
   },
   {
     "pieutiwbyo": "0641C",
-    "tieng": "搜",
+    "dziwbyo": "搜",
     "punngrie": "｛搜 *sru さがす｝",
     "kudzau": "表語文字「叟」＋意味分類符「手(→扌)」",
     "doxeng": "屋内で灯火を持つ形",
@@ -2321,7 +2401,7 @@
   },
   {
     "pieutiwbyo": "0652F",
-    "tieng": "支",
+    "dziwbyo": "支",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2331,7 +2411,7 @@
   },
   {
     "pieutiwbyo": "06539",
-    "tieng": "改",
+    "dziwbyo": "改",
     "punngrie": "｛改 *kˤəʔ あらためる｝",
     "kudzau": "表音文字「巳」＋意味分類符「攴」",
     "doxeng": null,
@@ -2341,7 +2421,7 @@
   },
   {
     "pieutiwbyo": "06559",
-    "tieng": "教",
+    "dziwbyo": "教",
     "punngrie": "｛教 *kˤraw おしえる｝",
     "kudzau": "表音文字「爻 Kaw」＋意味分類符「攴」＋意味分類符「子」。隷変で「爻＋子」の部分は“孝”形に変化した。",
     "doxeng": null,
@@ -2351,7 +2431,7 @@
   },
   {
     "pieutiwbyo": "06562",
-    "tieng": "敢",
+    "dziwbyo": "敢",
     "punngrie": "｛掩 *qramʔ おそいかかる、突然襲撃する｝",
     "kudzau": null,
     "doxeng": "〈豕＋𰅱＋又〉動物を網で捕らえる形",
@@ -2361,7 +2441,7 @@
   },
   {
     "pieutiwbyo": "06563",
-    "tieng": "散",
+    "dziwbyo": "散",
     "punngrie": "｛散 *mə-sˤa[n]ʔ-s ちらす｝",
     "kudzau": "表語文字「㪔」＋意味分類符「肉(→月)」",
     "doxeng": "除草する形",
@@ -2371,7 +2451,7 @@
   },
   {
     "pieutiwbyo": "065A4",
-    "tieng": "斤",
+    "dziwbyo": "斤",
     "punngrie": "｛斤 *kər おの｝",
     "kudzau": null,
     "doxeng": "斧の形",
@@ -2381,7 +2461,7 @@
   },
   {
     "pieutiwbyo": "065A5",
-    "tieng": "斥",
+    "dziwbyo": "斥",
     "punngrie": "｛宅 *m-tˤak 住居、すまい｝",
     "kudzau": "表音文字「乇 Tak」＋意味分類符「广」",
     "doxeng": null,
@@ -2391,7 +2471,7 @@
   },
   {
     "pieutiwbyo": "065AC",
-    "tieng": "斬",
+    "dziwbyo": "斬",
     "punngrie": "｛斬 *[ts]ramʔ 車がこわれること｝",
     "kudzau": null,
     "doxeng": "〈車＋斤〉",
@@ -2401,7 +2481,7 @@
   },
   {
     "pieutiwbyo": "065B0",
-    "tieng": "新",
+    "dziwbyo": "新",
     "punngrie": "｛薪 *siŋ たきぎ、まき｝",
     "kudzau": "表音文字「辛 Sin」＋意味分類符「木」「斤」",
     "doxeng": null,
@@ -2411,7 +2491,7 @@
   },
   {
     "pieutiwbyo": "065CB",
-    "tieng": "旋",
+    "dziwbyo": "旋",
     "punngrie": "｛旋 *s-ɢʷen めぐる｝",
     "kudzau": null,
     "doxeng": null,
@@ -2421,7 +2501,7 @@
   },
   {
     "pieutiwbyo": "065CF",
-    "tieng": "族",
+    "dziwbyo": "族",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2431,7 +2511,7 @@
   },
   {
     "pieutiwbyo": "065E2",
-    "tieng": "既",
+    "dziwbyo": "既",
     "punngrie": "｛既 *kə[t]-s （食べ）尽くす、尽きる｝",
     "kudzau": "表音文字「旡 Kət」＋意味分類符「皀」",
     "doxeng": null,
@@ -2441,7 +2521,7 @@
   },
   {
     "pieutiwbyo": "065E8",
-    "tieng": "旨",
+    "dziwbyo": "旨",
     "punngrie": "｛旨 *kijʔ うまい｝",
     "kudzau": "〈匕＋口〉。「口」は飾符かもしれない。なお「匕＋甘」とするのは誤説。",
     "doxeng": null,
@@ -2451,7 +2531,7 @@
   },
   {
     "pieutiwbyo": "065E9",
-    "tieng": "早",
+    "dziwbyo": "早",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2461,7 +2541,7 @@
   },
   {
     "pieutiwbyo": "065EC",
-    "tieng": "旬",
+    "dziwbyo": "旬",
     "punngrie": "｛旬 *s-N-qʷi[n] 十日間｝",
     "kudzau": "表音文字「(䀏→)勹*」＋意味分類符「日」",
     "doxeng": null,
@@ -2471,7 +2551,7 @@
   },
   {
     "pieutiwbyo": "06606",
-    "tieng": "昆",
+    "dziwbyo": "昆",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2481,7 +2561,7 @@
   },
   {
     "pieutiwbyo": "06613",
-    "tieng": "易",
+    "dziwbyo": "易",
     "punngrie": "｛賜 *s-lek-s たまう｝｛錫 *s-lˤek たまう｝",
     "kudzau": null,
     "doxeng": "盤から水を注ぐ形",
@@ -2491,7 +2571,7 @@
   },
   {
     "pieutiwbyo": "06614",
-    "tieng": "昔",
+    "dziwbyo": "昔",
     "punngrie": "｛昔 *sak むかし｝",
     "kudzau": "表音文字「𠈌 Sak」＋意味分類符「日」",
     "doxeng": null,
@@ -2501,7 +2581,7 @@
   },
   {
     "pieutiwbyo": "06625",
-    "tieng": "春",
+    "dziwbyo": "春",
     "punngrie": "｛春 *tʰur はる｝",
     "kudzau": "表音文字「芚 Tur」＋意味分類符「日」",
     "doxeng": null,
@@ -2511,7 +2591,7 @@
   },
   {
     "pieutiwbyo": "0662F",
-    "tieng": "是",
+    "dziwbyo": "是",
     "punngrie": "｛鞮 *tˤe くつ｝",
     "kudzau": "表音文字「⿱⿰子大册(→旦) Te」＋意味分類符「止」",
     "doxeng": null,
@@ -2521,7 +2601,7 @@
   },
   {
     "pieutiwbyo": "06676",
-    "tieng": "晶",
+    "dziwbyo": "晶",
     "punngrie": "｛星 *sˤeŋ ほし｝",
     "kudzau": "表語文字「晶」＋注音符「生 Seŋ」",
     "doxeng": "光る星の形",
@@ -2531,7 +2611,7 @@
   },
   {
     "pieutiwbyo": "066F2",
-    "tieng": "曲",
+    "dziwbyo": "曲",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2541,7 +2621,7 @@
   },
   {
     "pieutiwbyo": "066F4",
-    "tieng": "更",
+    "dziwbyo": "更",
     "punngrie": "｛更 *k-rˤaŋ あらためる｝",
     "kudzau": "表音文字「⿱丙丙 Raŋ」＋意味分類符「攴」",
     "doxeng": null,
@@ -2551,7 +2631,7 @@
   },
   {
     "pieutiwbyo": "066F8",
-    "tieng": "書",
+    "dziwbyo": "書",
     "punngrie": "｛書 *s-ta かく｝",
     "kudzau": "表音文字「者 Ta」＋意味分類符「聿」",
     "doxeng": null,
@@ -2561,7 +2641,7 @@
   },
   {
     "pieutiwbyo": "066F9",
-    "tieng": "曹",
+    "dziwbyo": "曹",
     "punngrie": "｛曹 *N-tsˤu くみ、一対｝",
     "kudzau": "表語文字「㯥」＋飾符「口(→日)」",
     "doxeng": "「東」を2つ並べた形",
@@ -2571,7 +2651,7 @@
   },
   {
     "pieutiwbyo": "066FE",
-    "tieng": "曾",
+    "dziwbyo": "曾",
     "punngrie": "｛甑 *[ts]əŋ-s こしき｝",
     "kudzau": "表語文字「𬎿」＋飾符「口(→日)」",
     "doxeng": "こしきの形",
@@ -2581,7 +2661,7 @@
   },
   {
     "pieutiwbyo": "06703",
-    "tieng": "會",
+    "dziwbyo": "會",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2591,7 +2671,7 @@
   },
   {
     "pieutiwbyo": "06708",
-    "tieng": "月",
+    "dziwbyo": "月",
     "punngrie": "｛月 *ŋʷat つき｝",
     "kudzau": null,
     "doxeng": "三日月の形",
@@ -2601,7 +2681,7 @@
   },
   {
     "pieutiwbyo": "06731",
-    "tieng": "朱",
+    "dziwbyo": "朱",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2611,7 +2691,7 @@
   },
   {
     "pieutiwbyo": "0675F",
-    "tieng": "束",
+    "dziwbyo": "束",
     "punngrie": "｛束 *s-[t]ok たばねる、縛る｝",
     "kudzau": null,
     "doxeng": "束ねたものの形",
@@ -2621,7 +2701,7 @@
   },
   {
     "pieutiwbyo": "06790",
-    "tieng": "析",
+    "dziwbyo": "析",
     "punngrie": "｛析 *sˤek 裂く、分ける｝",
     "kudzau": null,
     "doxeng": "〈木＋斤〉斧で木を割る形",
@@ -2631,7 +2711,7 @@
   },
   {
     "pieutiwbyo": "0679C",
-    "tieng": "果",
+    "dziwbyo": "果",
     "punngrie": "｛果 *kˤorʔ 木の実、果物｝",
     "kudzau": null,
     "doxeng": "実がなっている木の形",
@@ -2641,7 +2721,7 @@
   },
   {
     "pieutiwbyo": "067D3",
-    "tieng": "染",
+    "dziwbyo": "染",
     "punngrie": "｛染 *n[a]mʔ そめる、ひたす｝",
     "kudzau": null,
     "doxeng": null,
@@ -2651,7 +2731,7 @@
   },
   {
     "pieutiwbyo": "06851",
-    "tieng": "桑",
+    "dziwbyo": "桑",
     "punngrie": "｛桑 *[s]ˤaŋ クワ｝",
     "kudzau": "クワの形",
     "doxeng": null,
@@ -2661,7 +2741,7 @@
   },
   {
     "pieutiwbyo": "068C4",
-    "tieng": "棄",
+    "dziwbyo": "棄",
     "punngrie": "｛棄 *kʰi[t]-s 捨てる｝",
     "kudzau": null,
     "doxeng": "〈𠫓＋𠀠＋𠬞〉嬰児を捨てる形",
@@ -2671,7 +2751,7 @@
   },
   {
     "pieutiwbyo": "068EE",
-    "tieng": "森",
+    "dziwbyo": "森",
     "punngrie": "｛森 *s-rəm しげる、ならぶ｝",
     "kudzau": null,
     "doxeng": "木々が茂る形",
@@ -2681,7 +2761,7 @@
   },
   {
     "pieutiwbyo": "0696D",
-    "tieng": "業",
+    "dziwbyo": "業",
     "punngrie": "｛業 *[ŋ](r)ap 木の板｝",
     "kudzau": null,
     "doxeng": "鐘などの楽器を吊るす器具の形",
@@ -2691,7 +2771,7 @@
   },
   {
     "pieutiwbyo": "06A02",
-    "tieng": "樂",
+    "dziwbyo": "樂",
     "punngrie": "｛樂 *ŋ-rˤawk 音楽、楽器｝",
     "kudzau": "表語文字「⿱𢆶木」＋注音符「白 !Rak」",
     "doxeng": "木に糸を張った弦楽器の形",
@@ -2701,7 +2781,7 @@
   },
   {
     "pieutiwbyo": "06A39",
-    "tieng": "樹",
+    "dziwbyo": "樹",
     "punngrie": "｛樹 *m-toʔ うえる｝",
     "kudzau": "表語文字「权 To」＋注音符「豆」＋意味分類符「木」",
     "doxeng": "〈木＋又〉木を植える形",
@@ -2711,7 +2791,7 @@
   },
   {
     "pieutiwbyo": "06B21",
-    "tieng": "次",
+    "dziwbyo": "次",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2721,7 +2801,7 @@
   },
   {
     "pieutiwbyo": "06B62",
-    "tieng": "止",
+    "dziwbyo": "止",
     "punngrie": "｛趾 *təʔ あし｝",
     "kudzau": null,
     "doxeng": "あしの形",
@@ -2731,7 +2811,7 @@
   },
   {
     "pieutiwbyo": "06B63",
-    "tieng": "正",
+    "dziwbyo": "正",
     "punngrie": "｛征 *teŋ うつ、討伐する｝",
     "kudzau": "表音文字「丁 Teŋ」＋意味分類符「止」",
     "doxeng": null,
@@ -2741,7 +2821,7 @@
   },
   {
     "pieutiwbyo": "06B72",
-    "tieng": "歲",
+    "dziwbyo": "歲",
     "punngrie": "｛越 *[ɢ]ʷat こえる｝",
     "kudzau": "表音文字「戉 Qʷat」＋意味分類符「步」",
     "doxeng": null,
@@ -2751,7 +2831,7 @@
   },
   {
     "pieutiwbyo": "06B78",
-    "tieng": "歸",
+    "dziwbyo": "歸",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2761,7 +2841,7 @@
   },
   {
     "pieutiwbyo": "06B7B",
-    "tieng": "死",
+    "dziwbyo": "死",
     "punngrie": "｛夷 *lij すき、除草用の農具｝",
     "kudzau": "表音文字「尸(→匕) Lij」＋意味分類符「歹」",
     "doxeng": null,
@@ -2771,7 +2851,7 @@
   },
   {
     "pieutiwbyo": "06B8A",
-    "tieng": "殊",
+    "dziwbyo": "殊",
     "punngrie": "｛殊 *do 死ぬ｝",
     "kudzau": "表音文字「朱 To」＋意味分類符「(死→)歹」",
     "doxeng": null,
@@ -2781,7 +2861,7 @@
   },
   {
     "pieutiwbyo": "06BBA",
-    "tieng": "殺",
+    "dziwbyo": "殺",
     "punngrie": "｛殺 *sˤrat ころす｝",
     "kudzau": null,
     "doxeng": "〈虫＋攴〉小動物を叩き殺す形",
@@ -2791,7 +2871,7 @@
   },
   {
     "pieutiwbyo": "06BBB",
-    "tieng": "殻",
+    "dziwbyo": "殻",
     "punngrie": "｛殻 *kʰˤrok うつ、たたく｝",
     "kudzau": "表音文字「𡉉 Kok」＋意味分類符「殳」",
     "doxeng": null,
@@ -2801,7 +2881,7 @@
   },
   {
     "pieutiwbyo": "06BC1",
-    "tieng": "毁",
+    "dziwbyo": "毁",
     "punngrie": "｛毀 *qʷʰrajʔ 壊す、傷つける｝",
     "kudzau": null,
     "doxeng": "〈臼?＋土＋殳〉物を壊す形と思われる。「人を殴る形」は誤説。",
@@ -2811,7 +2891,7 @@
   },
   {
     "pieutiwbyo": "06C0F",
-    "tieng": "氏",
+    "dziwbyo": "氏",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -2821,7 +2901,7 @@
   },
   {
     "pieutiwbyo": "06C23",
-    "tieng": "氣",
+    "dziwbyo": "氣",
     "punngrie": "｛餼 *qʰrət-s （食物等を）おくる｝",
     "kudzau": "表音文字「乞 Kət」＋意味分類符「米(→乂)」",
     "doxeng": null,
@@ -2831,7 +2911,7 @@
   },
   {
     "pieutiwbyo": "06C34",
-    "tieng": "水",
+    "dziwbyo": "水",
     "punngrie": "｛水 *s-turʔ みず｝",
     "kudzau": "水流の形",
     "doxeng": null,
@@ -2841,7 +2921,7 @@
   },
   {
     "pieutiwbyo": "06C38",
-    "tieng": "永",
+    "dziwbyo": "永",
     "punngrie": null,
     "kudzau": null,
     "doxeng": "水流の続く形、あるいは「彳＋人」。",
@@ -2851,7 +2931,7 @@
   },
   {
     "pieutiwbyo": "06C42",
-    "tieng": "求",
+    "dziwbyo": "求",
     "punngrie": "｛蛷 *[g](r)u 多足の虫｝",
     "kudzau": null,
     "doxeng": "多足の虫の形",
@@ -2861,7 +2941,7 @@
   },
   {
     "pieutiwbyo": "06CB3",
-    "tieng": "河",
+    "dziwbyo": "河",
     "punngrie": "｛河 *gˤaj 川、黄河｝",
     "kudzau": "表音文字「可 Kaj」＋意味分類符「水」",
     "doxeng": null,
@@ -2871,7 +2951,7 @@
   },
   {
     "pieutiwbyo": "06CC9",
-    "tieng": "泉",
+    "dziwbyo": "泉",
     "punngrie": "｛泉 *dzon いずみ｝",
     "kudzau": null,
     "doxeng": "水源の形",
@@ -2881,7 +2961,7 @@
   },
   {
     "pieutiwbyo": "06CE3",
-    "tieng": "泣",
+    "dziwbyo": "泣",
     "punngrie": "｛泣 *k-r̥əp なく｝",
     "kudzau": "表音文字「立 Rəp」＋意味分類符「水」",
     "doxeng": null,
@@ -2891,7 +2971,7 @@
   },
   {
     "pieutiwbyo": "06D25",
-    "tieng": "津",
+    "dziwbyo": "津",
     "punngrie": "｛津 *[ts]i[n] 船着き場｝",
     "kudzau": "表音文字「𦘔(→聿) TSin」＋意味分類符「水(→氵)」",
     "doxeng": null,
@@ -2901,7 +2981,7 @@
   },
   {
     "pieutiwbyo": "06D89",
-    "tieng": "涉",
+    "dziwbyo": "涉",
     "punngrie": "｛涉 *dep わたる｝",
     "kudzau": null,
     "doxeng": "川を渡る足の形",
@@ -2911,7 +2991,7 @@
   },
   {
     "pieutiwbyo": "06F5C",
-    "tieng": "潜",
+    "dziwbyo": "潜",
     "punngrie": "｛潛 *[dz][o]m もぐる｝",
     "kudzau": "表音文字「朁 TSom」＋意味分類符「水(→氵)」",
     "doxeng": null,
@@ -2921,7 +3001,7 @@
   },
   {
     "pieutiwbyo": "06F80",
-    "tieng": "澀",
+    "dziwbyo": "澀",
     "punngrie": "｛澀 *[s-r]əp しぶる、とどこおる｝",
     "kudzau": "表語文字「歰(→歮)」＋意味分類符「水(→氵)」",
     "doxeng": "向かい合った足の形。",
@@ -2931,7 +3011,7 @@
   },
   {
     "pieutiwbyo": "0706B",
-    "tieng": "火",
+    "dziwbyo": "火",
     "punngrie": "｛火 *m̥ˤəjʔ 火｝",
     "kudzau": null,
     "doxeng": "火炎の形",
@@ -2941,7 +3021,7 @@
   },
   {
     "pieutiwbyo": "07070",
-    "tieng": "灰",
+    "dziwbyo": "灰",
     "punngrie": "｛灰 *m̥ˤə 灰｝",
     "kudzau": "表音文字「又 Qʷə」＋意味分類符「火」",
     "doxeng": null,
@@ -2951,7 +3031,7 @@
   },
   {
     "pieutiwbyo": "0707E",
-    "tieng": "灾",
+    "dziwbyo": "灾",
     "punngrie": "｛災 わざわい｝",
     "kudzau": "表音文字「(甾→)巛 TSə」＋意味分類符「火」",
     "doxeng": null,
@@ -2961,7 +3041,7 @@
   },
   {
     "pieutiwbyo": "0708E",
-    "tieng": "炎",
+    "dziwbyo": "炎",
     "punngrie": "｛炎 *[l]am 燃える｝",
     "kudzau": null,
     "doxeng": "〈火＋火〉火が燃える形",
@@ -2971,7 +3051,7 @@
   },
   {
     "pieutiwbyo": "07126",
-    "tieng": "焦",
+    "dziwbyo": "焦",
     "punngrie": "｛鷦 *tsew 小鳥、特にミソサザイ｝",
     "kudzau": "表音文字「小(→灬) (T)Sew」＋意味分類符「隹」",
     "doxeng": null,
@@ -2981,7 +3061,7 @@
   },
   {
     "pieutiwbyo": "07136",
-    "tieng": "然",
+    "dziwbyo": "然",
     "punngrie": "｛燃 *na[n] もえる、もやす｝",
     "kudzau": "表音文字「肰 Nan」＋意味分類符「火(→灬)」",
     "doxeng": null,
@@ -2991,7 +3071,7 @@
   },
   {
     "pieutiwbyo": "07232",
-    "tieng": "爲",
+    "dziwbyo": "爲",
     "punngrie": "｛爲 *ɢʷ(r)aj なす｝",
     "kudzau": null,
     "doxeng": "〈爪＋象〉象に手を加えて使役する形",
@@ -3001,7 +3081,7 @@
   },
   {
     "pieutiwbyo": "07235",
-    "tieng": "爵",
+    "dziwbyo": "爵",
     "punngrie": "｛爵 *[ts]ewk 爵｝",
     "kudzau": null,
     "doxeng": "爵（酒を汲む器物の一種）を手で持つ形",
@@ -3011,7 +3091,7 @@
   },
   {
     "pieutiwbyo": "0723D",
-    "tieng": "爽",
+    "dziwbyo": "爽",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3021,7 +3101,7 @@
   },
   {
     "pieutiwbyo": "07259",
-    "tieng": "牙",
+    "dziwbyo": "牙",
     "punngrie": "｛牙 *ŋrˤa 歯｝",
     "kudzau": null,
     "doxeng": "上下の歯の形",
@@ -3031,7 +3111,7 @@
   },
   {
     "pieutiwbyo": "0725B",
-    "tieng": "牛",
+    "dziwbyo": "牛",
     "punngrie": "｛牛 *[ŋ]ʷə ウシ｝",
     "kudzau": null,
     "doxeng": "ウシの正面顔",
@@ -3041,7 +3121,7 @@
   },
   {
     "pieutiwbyo": "072AC",
-    "tieng": "犬",
+    "dziwbyo": "犬",
     "punngrie": "｛犬 *kʷʰˤirʔ イヌ｝",
     "kudzau": null,
     "doxeng": "イヌの形",
@@ -3050,8 +3130,18 @@
     "thongqitmra": "U+72AC"
   },
   {
+    "pieutiwbyo": "072C2",
+    "dziwbyo": "狂",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+72C2"
+  },
+  {
     "pieutiwbyo": "07344",
-    "tieng": "獄",
+    "dziwbyo": "獄",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3061,7 +3151,7 @@
   },
   {
     "pieutiwbyo": "07372",
-    "tieng": "獲",
+    "dziwbyo": "獲",
     "punngrie": "｛獲 *ɢʷrak える、とらえる｝",
     "kudzau": "表語文字「隻(→蒦)」＋意味分類符「犬」",
     "doxeng": "鳥を捕まえる形",
@@ -3071,7 +3161,7 @@
   },
   {
     "pieutiwbyo": "07378",
-    "tieng": "獸",
+    "dziwbyo": "獸",
     "punngrie": "｛狩 *s-tuʔ-s かる｝",
     "kudzau": "表語文字「𰡧」＋飾符「口」",
     "doxeng": "〈單（狩猟具）＋犬（狩猟に用いる動物）〉",
@@ -3081,7 +3171,7 @@
   },
   {
     "pieutiwbyo": "0737B",
-    "tieng": "獻",
+    "dziwbyo": "獻",
     "punngrie": null,
     "kudzau": "表音文字「鬳(→南) NGar」＋意味分類符「犬」",
     "doxeng": null,
@@ -3091,7 +3181,7 @@
   },
   {
     "pieutiwbyo": "07384",
-    "tieng": "玄",
+    "dziwbyo": "玄",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3101,7 +3191,7 @@
   },
   {
     "pieutiwbyo": "07389",
-    "tieng": "玉",
+    "dziwbyo": "玉",
     "punngrie": "｛玉 *[ŋ](r)ok たま、宝石｝",
     "kudzau": null,
     "doxeng": "つないだ宝玉の形",
@@ -3111,7 +3201,7 @@
   },
   {
     "pieutiwbyo": "0738B",
-    "tieng": "王",
+    "dziwbyo": "王",
     "punngrie": "｛王 *ɢʷaŋ きみ｝",
     "kudzau": null,
     "doxeng": "鉞（統率権の象徴）の形",
@@ -3121,7 +3211,7 @@
   },
   {
     "pieutiwbyo": "074E6",
-    "tieng": "瓦",
+    "dziwbyo": "瓦",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3131,7 +3221,7 @@
   },
   {
     "pieutiwbyo": "07518",
-    "tieng": "甘",
+    "dziwbyo": "甘",
     "punngrie": "｛甘 *Nə-gˤəm 口に含む｝",
     "kudzau": null,
     "doxeng": "口に物を含む形",
@@ -3141,7 +3231,7 @@
   },
   {
     "pieutiwbyo": "0751A",
-    "tieng": "甚",
+    "dziwbyo": "甚",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3151,7 +3241,7 @@
   },
   {
     "pieutiwbyo": "0751F",
-    "tieng": "生",
+    "dziwbyo": "生",
     "punngrie": "｛生 *sreŋ はえる｝",
     "kudzau": null,
     "doxeng": "地面から芽生えた草の形",
@@ -3161,7 +3251,7 @@
   },
   {
     "pieutiwbyo": "07523",
-    "tieng": "産",
+    "dziwbyo": "産",
     "punngrie": "｛産 *s-ŋrarʔ うむ｝",
     "kudzau": "表音文字「产 NGar」＋意味分類符「生」",
     "doxeng": null,
@@ -3171,7 +3261,7 @@
   },
   {
     "pieutiwbyo": "07532",
-    "tieng": "甲",
+    "dziwbyo": "甲",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3181,7 +3271,7 @@
   },
   {
     "pieutiwbyo": "07533",
-    "tieng": "申",
+    "dziwbyo": "申",
     "punngrie": "｛電 *lˤi[n]-s 稲妻｝",
     "kudzau": null,
     "doxeng": "稲妻の形",
@@ -3191,7 +3281,7 @@
   },
   {
     "pieutiwbyo": "0754F",
-    "tieng": "畏",
+    "dziwbyo": "畏",
     "punngrie": "｛畏 *ʔuj-s おそれる｝",
     "kudzau": null,
     "doxeng": "鬼が杖のようなものを持っている形で、恐ろしいものの象徴を描いた形と思われる。",
@@ -3201,7 +3291,7 @@
   },
   {
     "pieutiwbyo": "0755D",
-    "tieng": "畝",
+    "dziwbyo": "畝",
     "punngrie": "｛畝 *mˤəʔ うね｝",
     "kudzau": "表音字「每 Mə」＋意味分類符「田」",
     "doxeng": null,
@@ -3211,7 +3301,7 @@
   },
   {
     "pieutiwbyo": "0756B",
-    "tieng": "畫",
+    "dziwbyo": "畫",
     "punngrie": "｛畫 *gʷˤrek 描く｝",
     "kudzau": "表語文字「乂」＋意味分類符「聿」＋意味分類符「周」",
     "doxeng": "古代のコンパスの形",
@@ -3221,7 +3311,7 @@
   },
   {
     "pieutiwbyo": "07570",
-    "tieng": "異",
+    "dziwbyo": "異",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3231,7 +3321,7 @@
   },
   {
     "pieutiwbyo": "0758F",
-    "tieng": "疏",
+    "dziwbyo": "疏",
     "punngrie": "｛疏 *sra 通る、通す｝",
     "kudzau": "表音文字「疋 Sa」＋意味分類符「(流→)㐬(→束)」",
     "doxeng": null,
@@ -3241,7 +3331,7 @@
   },
   {
     "pieutiwbyo": "07591",
-    "tieng": "疑",
+    "dziwbyo": "疑",
     "punngrie": "｛㘈 *[ŋ](r)ək 若く賢い｝",
     "kudzau": "表音文字「𠤗 NGə」＋意味分類符「子」",
     "doxeng": null,
@@ -3251,7 +3341,7 @@
   },
   {
     "pieutiwbyo": "075BE",
-    "tieng": "疾",
+    "dziwbyo": "疾",
     "punngrie": "｛疾 *[dz]i[t] はやい｝",
     "kudzau": "表音文字「疒 Tsit」＋意味分類符「矢」",
     "doxeng": null,
@@ -3261,7 +3351,7 @@
   },
   {
     "pieutiwbyo": "07686",
-    "tieng": "皆",
+    "dziwbyo": "皆",
     "punngrie": "｛諧 *gˤrəj かなう｝",
     "kudzau": null,
     "doxeng": null,
@@ -3271,7 +3361,7 @@
   },
   {
     "pieutiwbyo": "07687",
-    "tieng": "皇",
+    "dziwbyo": "皇",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3281,7 +3371,7 @@
   },
   {
     "pieutiwbyo": "076BF",
-    "tieng": "皿",
+    "dziwbyo": "皿",
     "punngrie": "｛皿 *mraŋʔ さら｝",
     "kudzau": null,
     "doxeng": "皿の形",
@@ -3291,7 +3381,7 @@
   },
   {
     "pieutiwbyo": "076CA",
-    "tieng": "益",
+    "dziwbyo": "益",
     "punngrie": "｛益 *qik 増える｝",
     "kudzau": null,
     "doxeng": "〈水＋皿〉水を容器に加えた形",
@@ -3301,7 +3391,7 @@
   },
   {
     "pieutiwbyo": "076E1",
-    "tieng": "盡",
+    "dziwbyo": "盡",
     "punngrie": null,
     "kudzau": null,
     "doxeng": "器をブラシで洗っている形？",
@@ -3311,7 +3401,7 @@
   },
   {
     "pieutiwbyo": "076E3",
-    "tieng": "監",
+    "dziwbyo": "監",
     "punngrie": "｛鑑 *k-rˤam みる、かんがみる｝",
     "kudzau": null,
     "doxeng": "水鏡を見る形。唐蘭や黄天樹（2009）が表音文字「見 Ken」に従うとするのは誤り。",
@@ -3321,7 +3411,7 @@
   },
   {
     "pieutiwbyo": "076F8",
-    "tieng": "相",
+    "dziwbyo": "相",
     "punngrie": "｛相 *saŋ みる、観察する｝",
     "kudzau": null,
     "doxeng": "〈木＋目〉木を見る形",
@@ -3331,7 +3421,7 @@
   },
   {
     "pieutiwbyo": "076FE",
-    "tieng": "盾",
+    "dziwbyo": "盾",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3341,7 +3431,7 @@
   },
   {
     "pieutiwbyo": "07701",
-    "tieng": "省",
+    "dziwbyo": "省",
     "punngrie": "｛省 *seŋʔ みる、視察する｝",
     "kudzau": "表音文字「生 Seŋ」＋意味分類符「目」",
     "doxeng": null,
@@ -3351,7 +3441,7 @@
   },
   {
     "pieutiwbyo": "0770B",
-    "tieng": "看",
+    "dziwbyo": "看",
     "punngrie": "｛看 *kʰˤa[r] 見る｝",
     "kudzau": "表音文字「㫃 Kar」＋意味分類符「目」",
     "doxeng": null,
@@ -3361,7 +3451,7 @@
   },
   {
     "pieutiwbyo": "0771F",
-    "tieng": "真",
+    "dziwbyo": "真",
     "punngrie": "｛珍 *tri[ŋ] たから、貴重｝",
     "kudzau": "表音文字「𠂈(→匕) Tiŋ」＋意味分類符「貝」＋注音符「丁(→一) Teŋ」＋飾符「八」",
     "doxeng": null,
@@ -3371,7 +3461,7 @@
   },
   {
     "pieutiwbyo": "077E2",
-    "tieng": "矢",
+    "dziwbyo": "矢",
     "punngrie": "｛矢 *l̥ijʔ や｝",
     "kudzau": null,
     "doxeng": "矢の形",
@@ -3381,7 +3471,7 @@
   },
   {
     "pieutiwbyo": "077F3",
-    "tieng": "石",
+    "dziwbyo": "石",
     "punngrie": "｛石 *dak いし｝",
     "kudzau": "表語文字「厂」＋飾符「口」",
     "doxeng": "石あるいは磬の形",
@@ -3391,7 +3481,7 @@
   },
   {
     "pieutiwbyo": "0793A",
-    "tieng": "示",
+    "dziwbyo": "示",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3401,7 +3491,7 @@
   },
   {
     "pieutiwbyo": "0795D",
-    "tieng": "祝",
+    "dziwbyo": "祝",
     "punngrie": "｛祝 *tuk いのる｝",
     "kudzau": "表語文字「兄*」＋意味分類符「主(→礻)」",
     "doxeng": "口を強調した座った人の形。兄弟の「兄」（口を強調した立った人の形）とは無関係。殷墟甲骨文では「丮 Tuk」＋意味分類符「口」からなる字も｛祝｝に用いられた。",
@@ -3411,7 +3501,7 @@
   },
   {
     "pieutiwbyo": "0796D",
-    "tieng": "祭",
+    "dziwbyo": "祭",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3421,7 +3511,7 @@
   },
   {
     "pieutiwbyo": "079C0",
-    "tieng": "秀",
+    "dziwbyo": "秀",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3431,7 +3521,7 @@
   },
   {
     "pieutiwbyo": "079C1",
-    "tieng": "私",
+    "dziwbyo": "私",
     "punngrie": null,
     "kudzau": "表音文字「厶 Lij」＋意味分類符「禾」",
     "doxeng": null,
@@ -3441,7 +3531,7 @@
   },
   {
     "pieutiwbyo": "079CB",
-    "tieng": "秋",
+    "dziwbyo": "秋",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3451,7 +3541,7 @@
   },
   {
     "pieutiwbyo": "079D1",
-    "tieng": "科",
+    "dziwbyo": "科",
     "punngrie": "｛科 *kʰˤoj しな、区分、わりあてる｝",
     "kudzau": "表音文字「禾 Koj」＋意味分類符「斗」",
     "doxeng": null,
@@ -3461,7 +3551,7 @@
   },
   {
     "pieutiwbyo": "07A31",
-    "tieng": "稱",
+    "dziwbyo": "稱",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3471,7 +3561,7 @@
   },
   {
     "pieutiwbyo": "07A3D",
-    "tieng": "稽",
+    "dziwbyo": "稽",
     "punngrie": "｛稽 *kˤij 考える｝",
     "kudzau": "表語文字「𥝐→𮂱」＋注音符「旨 Kij」",
     "doxeng": "木に手を加える形",
@@ -3481,7 +3571,7 @@
   },
   {
     "pieutiwbyo": "07A57",
-    "tieng": "穗",
+    "dziwbyo": "穗",
     "punngrie": "｛穗 *s-ɢʷit-s ほ｝",
     "kudzau": "表音文字「惠 Qʷit」＋意味分類符「禾」",
     "doxeng": null,
@@ -3491,7 +3581,7 @@
   },
   {
     "pieutiwbyo": "07A6B",
-    "tieng": "穫",
+    "dziwbyo": "穫",
     "punngrie": "｛穫 *ɢʷˤak 刈る、収穫する｝",
     "kudzau": "表音文字「(隻→)蒦 Qʷak」＋意味分類符「禾」",
     "doxeng": null,
@@ -3501,7 +3591,7 @@
   },
   {
     "pieutiwbyo": "07A74",
-    "tieng": "穴",
+    "dziwbyo": "穴",
     "punngrie": "｛穴 あな｝",
     "kudzau": null,
     "doxeng": "穴居の形と考えられる",
@@ -3511,7 +3601,7 @@
   },
   {
     "pieutiwbyo": "07A97",
-    "tieng": "窗",
+    "dziwbyo": "窗",
     "punngrie": "｛窗 *[tsʰ]rˤoŋ まど｝",
     "kudzau": "表音文字「悤(→忩) TSoŋ」＋意味分類符「穴」",
     "doxeng": null,
@@ -3521,7 +3611,7 @@
   },
   {
     "pieutiwbyo": "07ACB",
-    "tieng": "立",
+    "dziwbyo": "立",
     "punngrie": "｛立 *kə-rəp たつ｝",
     "kudzau": null,
     "doxeng": "人が地面に立っている形",
@@ -3531,7 +3621,7 @@
   },
   {
     "pieutiwbyo": "07AE0",
-    "tieng": "章",
+    "dziwbyo": "章",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3541,7 +3631,7 @@
   },
   {
     "pieutiwbyo": "07AF6",
-    "tieng": "競",
+    "dziwbyo": "競",
     "punngrie": "｛競 *m-kraŋʔ-s 言い争う、きそう｝",
     "kudzau": null,
     "doxeng": "〈（言＋人）×２〉二人の人が言い争う形",
@@ -3551,7 +3641,7 @@
   },
   {
     "pieutiwbyo": "07B11",
-    "tieng": "笑",
+    "dziwbyo": "笑",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3561,7 +3651,7 @@
   },
   {
     "pieutiwbyo": "07B4B",
-    "tieng": "筋",
+    "dziwbyo": "筋",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3571,7 +3661,7 @@
   },
   {
     "pieutiwbyo": "07CFB",
-    "tieng": "系",
+    "dziwbyo": "系",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3581,7 +3671,7 @@
   },
   {
     "pieutiwbyo": "07D20",
-    "tieng": "素",
+    "dziwbyo": "素",
     "punngrie": "｛索 *[s]ˤak 縄、縄をよる｝",
     "kudzau": null,
     "doxeng": "端を縛った縄の形。「索」字と同一字だったが、秦漢代に分化した。",
@@ -3591,7 +3681,7 @@
   },
   {
     "pieutiwbyo": "07D22",
-    "tieng": "索",
+    "dziwbyo": "索",
     "punngrie": "｛索 *[s]ˤak 縄、縄をよる｝",
     "kudzau": null,
     "doxeng": "端を縛った縄の形。",
@@ -3601,7 +3691,7 @@
   },
   {
     "pieutiwbyo": "07D30",
-    "tieng": "細",
+    "dziwbyo": "細",
     "punngrie": "｛細 *[s]ˤe-s ほそい｝",
     "kudzau": "表音文字「囟 Se」＋意味分類符「糸」",
     "doxeng": null,
@@ -3611,7 +3701,7 @@
   },
   {
     "pieutiwbyo": "07D33",
-    "tieng": "紳",
+    "dziwbyo": "紳",
     "punngrie": "｛紳 *l̥i[n] たばねる、しばる｝",
     "kudzau": "表音文字「申 Lin」＋意味分類符「糸」",
     "doxeng": null,
@@ -3621,7 +3711,7 @@
   },
   {
     "pieutiwbyo": "07D72",
-    "tieng": "絲",
+    "dziwbyo": "絲",
     "punngrie": "｛絲 *[s]ə いと｝",
     "kudzau": null,
     "doxeng": "縛った糸の形",
@@ -3631,7 +3721,7 @@
   },
   {
     "pieutiwbyo": "07D76",
-    "tieng": "絶",
+    "dziwbyo": "絶",
     "punngrie": "｛絶 *dzot 断ち切る｝",
     "kudzau": "表語文字「糿」＋注音符「卩 !TSit」",
     "doxeng": "糸を刀で切る形",
@@ -3641,7 +3731,7 @@
   },
   {
     "pieutiwbyo": "07E23",
-    "tieng": "縣",
+    "dziwbyo": "縣",
     "punngrie": "｛懸 *Cə-[g]ʷˤe[n] かける、つるす｝",
     "kudzau": "首をつるした形",
     "doxeng": null,
@@ -3651,7 +3741,7 @@
   },
   {
     "pieutiwbyo": "07E6D",
-    "tieng": "繭",
+    "dziwbyo": "繭",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3661,7 +3751,7 @@
   },
   {
     "pieutiwbyo": "07E7C",
-    "tieng": "繼",
+    "dziwbyo": "繼",
     "punngrie": "｛繼 *[k]ˤek-s つぐ、つづく｝",
     "kudzau": "表語文字「㡭」＋意味分類符「糸」",
     "doxeng": "糸がつながった形。「断」とは無関係。",
@@ -3671,7 +3761,7 @@
   },
   {
     "pieutiwbyo": "07F6A",
-    "tieng": "罪",
+    "dziwbyo": "罪",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3681,7 +3771,7 @@
   },
   {
     "pieutiwbyo": "07F9E",
-    "tieng": "羞",
+    "dziwbyo": "羞",
     "punngrie": "｛羞 *s-nu すすめる、ささげる｝",
     "kudzau": null,
     "doxeng": "〈羊＋又〉動物を献上する形",
@@ -3691,7 +3781,7 @@
   },
   {
     "pieutiwbyo": "07FBD",
-    "tieng": "羽",
+    "dziwbyo": "羽",
     "punngrie": "｛羽 *ɢʷraʔ はね｝",
     "kudzau": "鳥の羽の形と思われる",
     "doxeng": null,
@@ -3701,7 +3791,7 @@
   },
   {
     "pieutiwbyo": "07FD2",
-    "tieng": "習",
+    "dziwbyo": "習",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3711,7 +3801,7 @@
   },
   {
     "pieutiwbyo": "08003",
-    "tieng": "考",
+    "dziwbyo": "考",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3721,7 +3811,7 @@
   },
   {
     "pieutiwbyo": "08005",
-    "tieng": "者",
+    "dziwbyo": "者",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3731,7 +3821,7 @@
   },
   {
     "pieutiwbyo": "08033",
-    "tieng": "耳",
+    "dziwbyo": "耳",
     "punngrie": "｛耳 *nəʔ みみ｝",
     "kudzau": "みみの形",
     "doxeng": null,
@@ -3741,7 +3831,7 @@
   },
   {
     "pieutiwbyo": "08056",
-    "tieng": "聖",
+    "dziwbyo": "聖",
     "punngrie": "｛聽 *l̥ˤeŋ きく｝",
     "kudzau": null,
     "doxeng": "〈耳（＋人）＋口〉音を耳で聞く形",
@@ -3751,7 +3841,7 @@
   },
   {
     "pieutiwbyo": "08072",
-    "tieng": "聲",
+    "dziwbyo": "聲",
     "punngrie": "｛聲 *l̥eŋ こえ、おと｝",
     "kudzau": null,
     "doxeng": "〈石/磬（楽器の形）＋耳〉音をきく形",
@@ -3761,7 +3851,7 @@
   },
   {
     "pieutiwbyo": "08085",
-    "tieng": "肅",
+    "dziwbyo": "肅",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3770,8 +3860,18 @@
     "thongqitmra": "U+8085"
   },
   {
+    "pieutiwbyo": "08096",
+    "dziwbyo": "肖",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+8096"
+  },
+  {
     "pieutiwbyo": "080A1",
-    "tieng": "股",
+    "dziwbyo": "股",
     "punngrie": "｛股 *kʷˤaʔ また｝",
     "kudzau": "表語文字「夃(→殳)」＋意味分類符「肉(→月)」",
     "doxeng": "人の股の部分を○印で示したもの",
@@ -3781,7 +3881,7 @@
   },
   {
     "pieutiwbyo": "080A9",
-    "tieng": "肩",
+    "dziwbyo": "肩",
     "punngrie": "｛肩 *kˤe[n] かた｝",
     "kudzau": "表語文字「囗*(→戸)」＋意味分類符「肉(→月)」",
     "doxeng": "肩胛骨の形。のちに肩胛骨の形の部分は“戸”形に変化した。",
@@ -3791,7 +3891,7 @@
   },
   {
     "pieutiwbyo": "080AF",
-    "tieng": "肯",
+    "dziwbyo": "肯",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3801,7 +3901,7 @@
   },
   {
     "pieutiwbyo": "080B2",
-    "tieng": "育",
+    "dziwbyo": "育",
     "punngrie": "｛冑 *lru-s かぶと｝",
     "kudzau": "表音文字「由 Lu」＋意味分類符「冃」",
     "doxeng": null,
@@ -3811,7 +3911,7 @@
   },
   {
     "pieutiwbyo": "080C3",
-    "tieng": "胃",
+    "dziwbyo": "胃",
     "punngrie": "｛胃 *ɢʷə[t]-s 胃｝",
     "kudzau": "表語文字「𡇒(→田)」＋意味分類符「肉(→月)」",
     "doxeng": "胃の形",
@@ -3821,7 +3921,7 @@
   },
   {
     "pieutiwbyo": "0810A",
-    "tieng": "脊",
+    "dziwbyo": "脊",
     "punngrie": "｛脊 *tsek 背骨｝",
     "kudzau": "表音文字「朿 TSek」＋意味分類符「肉」",
     "doxeng": null,
@@ -3831,7 +3931,7 @@
   },
   {
     "pieutiwbyo": "081E3",
-    "tieng": "臣",
+    "dziwbyo": "臣",
     "punngrie": null,
     "kudzau": null,
     "doxeng": "大きな目の形",
@@ -3841,7 +3941,7 @@
   },
   {
     "pieutiwbyo": "081EA",
-    "tieng": "自",
+    "dziwbyo": "自",
     "punngrie": "｛鼻 *m-bij-s はな｝",
     "kudzau": "鼻の形",
     "doxeng": null,
@@ -3851,17 +3951,17 @@
   },
   {
     "pieutiwbyo": "081ED",
-    "tieng": "臭",
-    "punngrie": null,
+    "dziwbyo": "臭",
+    "punngrie": "｛臭 *[qʰ]u-s かぐ｝",
     "kudzau": null,
-    "doxeng": null,
-    "tyomyun": "｛臭 *[qʰ]u-s かぐ｝\n図形：〈自（鼻すなわち嗅覚器官）＋犬（嗅覚に優れた動物）〉",
+    "doxeng": "〈自（鼻すなわち嗅覚器官）＋犬（嗅覚に優れた動物）〉",
+    "tyomyun": "",
     "thytten": "",
     "thongqitmra": "U+81ED"
   },
   {
     "pieutiwbyo": "081F3",
-    "tieng": "至",
+    "dziwbyo": "至",
     "punngrie": "｛至 *ti[t]-s いたる｝",
     "kudzau": null,
     "doxeng": "矢が目標に到達した形",
@@ -3871,7 +3971,7 @@
   },
   {
     "pieutiwbyo": "081FC",
-    "tieng": "臼",
+    "dziwbyo": "臼",
     "punngrie": "｛臼 *gʷəʔ うす｝",
     "kudzau": null,
     "doxeng": "うすの形",
@@ -3881,7 +3981,7 @@
   },
   {
     "pieutiwbyo": "08208",
-    "tieng": "興",
+    "dziwbyo": "興",
     "punngrie": "｛興 *[r̥]əŋ おこす、はじめる｝",
     "kudzau": null,
     "doxeng": "〈同＋舁〉物を持ち上げる形",
@@ -3891,7 +3991,7 @@
   },
   {
     "pieutiwbyo": "0820A",
-    "tieng": "舊",
+    "dziwbyo": "舊",
     "punngrie": "｛舊 *gʷəʔ-s ミミズク｝",
     "kudzau": null,
     "doxeng": "〈隹／雈（鳥の形）＋凵（罠）〉おとりの鳥の形。「凵」は後に表音文字「臼 Kʷə」に変化した。「旧」は「舊」の上部を省略した字。",
@@ -3901,7 +4001,7 @@
   },
   {
     "pieutiwbyo": "0820C",
-    "tieng": "舌",
+    "dziwbyo": "舌",
     "punngrie": "｛舌 *m-lat した｝",
     "kudzau": null,
     "doxeng": "舌の形",
@@ -3911,7 +4011,7 @@
   },
   {
     "pieutiwbyo": "0820D",
-    "tieng": "舍",
+    "dziwbyo": "舍",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3921,7 +4021,7 @@
   },
   {
     "pieutiwbyo": "0821F",
-    "tieng": "舟",
+    "dziwbyo": "舟",
     "punngrie": "｛舟 *tu ふね｝",
     "kudzau": "ふねの形",
     "doxeng": null,
@@ -3931,7 +4031,7 @@
   },
   {
     "pieutiwbyo": "08272",
-    "tieng": "色",
+    "dziwbyo": "色",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -3941,7 +4041,7 @@
   },
   {
     "pieutiwbyo": "082E5",
-    "tieng": "若",
+    "dziwbyo": "若",
     "punngrie": "｛若 *nak 草を摘む｝",
     "kudzau": "表語文字「𦫿」＋飾符「口」",
     "doxeng": "草を手で摘む形",
@@ -3951,7 +4051,7 @@
   },
   {
     "pieutiwbyo": "08349",
-    "tieng": "草",
+    "dziwbyo": "草",
     "punngrie": "｛草 *tsʰˤuʔ くさ｝",
     "kudzau": "表音文字「早 TSu」＋意味分類符「艸(→艹)」",
     "doxeng": null,
@@ -3961,7 +4061,7 @@
   },
   {
     "pieutiwbyo": "083EF",
-    "tieng": "華",
+    "dziwbyo": "華",
     "punngrie": "｛華 *qʷʰˤra 花｝",
     "kudzau": "「𠂹」？＋「于 Qʷa」＋意味分類符「艸」",
     "doxeng": null,
@@ -3971,7 +4071,7 @@
   },
   {
     "pieutiwbyo": "0846C",
-    "tieng": "葬",
+    "dziwbyo": "葬",
     "punngrie": "｛葬 *[ts]ˤaŋ-s ほうむる｝",
     "kudzau": null,
     "doxeng": "〈竹＋死＋廾〉死体を土中に埋める形",
@@ -3981,7 +4081,7 @@
   },
   {
     "pieutiwbyo": "084CB",
-    "tieng": "蓋",
+    "dziwbyo": "蓋",
     "punngrie": "｛蓋 kˤap-s ふた｝",
     "kudzau": "表語文字「去*」＋意味分類符「皿」＋意味分類符「艸」",
     "doxeng": "蓋と器物の形",
@@ -3991,7 +4091,7 @@
   },
   {
     "pieutiwbyo": "085A6",
-    "tieng": "薦",
+    "dziwbyo": "薦",
     "punngrie": "｛薦 *Cə-tsˤə[r]-s 牧草｝",
     "kudzau": "表音文字「廌 TSər」＋意味分類符「艸」",
     "doxeng": null,
@@ -4001,7 +4101,7 @@
   },
   {
     "pieutiwbyo": "085DD",
-    "tieng": "藝",
+    "dziwbyo": "藝",
     "punngrie": "｛藝 *ŋet-s 植える、栽培する｝",
     "kudzau": "表語文字「埶(→∅)」＋意味分類符「艸(→艹)」＋「云」",
     "doxeng": "植物を土に植える形。",
@@ -4011,7 +4111,7 @@
   },
   {
     "pieutiwbyo": "0864E",
-    "tieng": "虎",
+    "dziwbyo": "虎",
     "punngrie": "｛虎 [kə-r̥]ˤaʔ トラ｝",
     "kudzau": null,
     "doxeng": "トラの形",
@@ -4021,7 +4121,7 @@
   },
   {
     "pieutiwbyo": "08650",
-    "tieng": "虐",
+    "dziwbyo": "虐",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -4031,7 +4131,7 @@
   },
   {
     "pieutiwbyo": "08655",
-    "tieng": "處",
+    "dziwbyo": "處",
     "punngrie": "｛處 *[t-r̥]aʔ 居る、とどまる｝",
     "kudzau": "表語文字「凥」＋注表符「虍 Ra」",
     "doxeng": "〈尸＋几〉人が台に腰掛けた形",
@@ -4041,7 +4141,7 @@
   },
   {
     "pieutiwbyo": "0865A",
-    "tieng": "虚",
+    "dziwbyo": "虚",
     "punngrie": "｛墟 *[k-r̥]a 大きな丘、やま｝",
     "kudzau": "表音文字「(虎→)虍 Ra」＋意味分類符「丘」",
     "doxeng": null,
@@ -4051,7 +4151,7 @@
   },
   {
     "pieutiwbyo": "0865F",
-    "tieng": "號",
+    "dziwbyo": "號",
     "punngrie": "｛號 *gˤaw さけぶ｝",
     "kudzau": null,
     "doxeng": null,
@@ -4061,7 +4161,7 @@
   },
   {
     "pieutiwbyo": "086C7",
-    "tieng": "蛇",
+    "dziwbyo": "蛇",
     "punngrie": "｛蛇 *Cə-laj へび｝",
     "kudzau": "表語文字「它」＋意味分類符「虫」",
     "doxeng": "ヘビの形",
@@ -4070,8 +4170,18 @@
     "thongqitmra": "U+86C7"
   },
   {
+    "pieutiwbyo": "0871C",
+    "dziwbyo": "蜜",
+    "punngrie": null,
+    "kudzau": null,
+    "doxeng": null,
+    "tyomyun": "",
+    "thytten": "",
+    "thongqitmra": "U+871C"
+  },
+  {
     "pieutiwbyo": "08840",
-    "tieng": "血",
+    "dziwbyo": "血",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -4081,7 +4191,7 @@
   },
   {
     "pieutiwbyo": "08846",
-    "tieng": "衆",
+    "dziwbyo": "衆",
     "punngrie": "｛衆 *tuŋ-s 多くの人｝",
     "kudzau": null,
     "doxeng": "〈日＋㐺〉太陽の下にいる人々の形。「日」は後に“血”形に変化した。",
@@ -4091,7 +4201,7 @@
   },
   {
     "pieutiwbyo": "0884C",
-    "tieng": "行",
+    "dziwbyo": "行",
     "punngrie": "｛行 *[g]ˤaŋ みち｝",
     "kudzau": null,
     "doxeng": "十字路の形",
@@ -4101,7 +4211,7 @@
   },
   {
     "pieutiwbyo": "0885B",
-    "tieng": "衛",
+    "dziwbyo": "衛",
     "punngrie": "｛衛 *ɢʷ(r)a[t]-s まもる｝",
     "kudzau": "表語文字「⿴行舛」＋意味分類符「方」",
     "doxeng": "四方を護衛する形",
@@ -4111,7 +4221,7 @@
   },
   {
     "pieutiwbyo": "08861",
-    "tieng": "衡",
+    "dziwbyo": "衡",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -4121,7 +4231,7 @@
   },
   {
     "pieutiwbyo": "08863",
-    "tieng": "衣",
+    "dziwbyo": "衣",
     "punngrie": "｛衣 *ʔ(r)əj ころも、きぬ｝",
     "kudzau": "上衣の形",
     "doxeng": null,
@@ -4131,7 +4241,7 @@
   },
   {
     "pieutiwbyo": "08870",
-    "tieng": "衰",
+    "dziwbyo": "衰",
     "punngrie": "｛蓑 *sˤoj みの、雨具｝",
     "kudzau": "表語文字「𠌺」＋意味分類符「衣」",
     "doxeng": "雨具の形",
@@ -4141,7 +4251,7 @@
   },
   {
     "pieutiwbyo": "08972",
-    "tieng": "襲",
+    "dziwbyo": "襲",
     "punngrie": "｛襲 *s-l[ə]p （衣服を）かさねる｝",
     "kudzau": "表音文字「龖(→龍) Ləp」＋意味分類符「衣」。",
     "doxeng": null,
@@ -4151,7 +4261,7 @@
   },
   {
     "pieutiwbyo": "0897F",
-    "tieng": "西",
+    "dziwbyo": "西",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -4161,7 +4271,7 @@
   },
   {
     "pieutiwbyo": "0898B",
-    "tieng": "見",
+    "dziwbyo": "見",
     "punngrie": "｛見 *kˤen-s みる｝",
     "kudzau": null,
     "doxeng": "目を強調した人の形",
@@ -4171,7 +4281,7 @@
   },
   {
     "pieutiwbyo": "0898F",
-    "tieng": "規",
+    "dziwbyo": "規",
     "punngrie": "｛規 *kʷe コンパス｝",
     "kudzau": "表音文字「(𧠹→)見 Kʷe」？＋意味分類符「(矩→)矢」",
     "doxeng": null,
@@ -4181,7 +4291,7 @@
   },
   {
     "pieutiwbyo": "08996",
-    "tieng": "視",
+    "dziwbyo": "視",
     "punngrie": "｛視 *[d]ijʔ みる｝",
     "kudzau": "表語文字「⿱目人」＋注音符「示」",
     "doxeng": "目を強調した立っている人の形。「見」（目を強調した座っている人の形）とは別字。",
@@ -4191,7 +4301,7 @@
   },
   {
     "pieutiwbyo": "089AA",
-    "tieng": "親",
+    "dziwbyo": "親",
     "punngrie": "｛親 *[tsʰ]i[n] したしい、ちかい｝",
     "kudzau": "表音文字「(新→)亲 (T)Sin」＋意味分類符「見*」",
     "doxeng": null,
@@ -4201,7 +4311,7 @@
   },
   {
     "pieutiwbyo": "089D2",
-    "tieng": "角",
+    "dziwbyo": "角",
     "punngrie": "｛角 *kˤrok つの｝",
     "kudzau": null,
     "doxeng": "牛の角の形",
@@ -4211,7 +4321,7 @@
   },
   {
     "pieutiwbyo": "089E3",
-    "tieng": "解",
+    "dziwbyo": "解",
     "punngrie": "｛解 *kˤreʔ とく、わける｝",
     "kudzau": null,
     "doxeng": "〈角＋刀＋牛〉刀を使って牛の頭部から角を分解する形",
@@ -4221,7 +4331,7 @@
   },
   {
     "pieutiwbyo": "08A00",
-    "tieng": "言",
+    "dziwbyo": "言",
     "punngrie": "｛言 *ŋa[n] 言う｝",
     "kudzau": "表語文字「舌」＋飾符「一」",
     "doxeng": null,
@@ -4231,7 +4341,7 @@
   },
   {
     "pieutiwbyo": "08A08",
-    "tieng": "計",
+    "dziwbyo": "計",
     "punngrie": "｛計 *kˤ[i][j]-s はかる、協議する｝",
     "kudzau": "表音文字「十 Kəp」＋意味分類符「言」",
     "doxeng": null,
@@ -4241,7 +4351,7 @@
   },
   {
     "pieutiwbyo": "08A2D",
-    "tieng": "設",
+    "dziwbyo": "設",
     "punngrie": "｛設 *ŋ̊et もうける、たてる｝",
     "kudzau": "表音文字「⿰𡉣攴(→殳) NGet」＋意味分類符「言」",
     "doxeng": null,
@@ -4251,7 +4361,7 @@
   },
   {
     "pieutiwbyo": "08A34",
-    "tieng": "訴",
+    "dziwbyo": "訴",
     "punngrie": "｛訴 *s-ŋˤak-s うったえる｝",
     "kudzau": "表音文字「(㡿→)斥 NGak」＋意味分類符「言」",
     "doxeng": null,
@@ -4261,7 +4371,7 @@
   },
   {
     "pieutiwbyo": "08C37",
-    "tieng": "谷",
+    "dziwbyo": "谷",
     "punngrie": "｛谷＝たに｝",
     "kudzau": null,
     "doxeng": "山間のたにの形",
@@ -4271,7 +4381,7 @@
   },
   {
     "pieutiwbyo": "08C61",
-    "tieng": "象",
+    "dziwbyo": "象",
     "punngrie": "｛象 *s-[l]aŋʔ ゾウ｝",
     "kudzau": null,
     "doxeng": "ゾウの側面形",
@@ -4281,7 +4391,7 @@
   },
   {
     "pieutiwbyo": "08C9D",
-    "tieng": "貝",
+    "dziwbyo": "貝",
     "punngrie": "｛貝 *pˤat-s 貝｝",
     "kudzau": null,
     "doxeng": "タカラガイの形",
@@ -4291,7 +4401,7 @@
   },
   {
     "pieutiwbyo": "08CAB",
-    "tieng": "貫",
+    "dziwbyo": "貫",
     "punngrie": "｛貫 *kˤon つらぬく｝",
     "kudzau": null,
     "doxeng": "貝を貫き通した形",
@@ -4301,7 +4411,7 @@
   },
   {
     "pieutiwbyo": "08CAC",
-    "tieng": "責",
+    "dziwbyo": "責",
     "punngrie": "｛責 *tsˤrek とりたてる、要求する｝",
     "kudzau": "表音文字「朿 TSek」＋意符「貝」",
     "doxeng": null,
@@ -4311,7 +4421,7 @@
   },
   {
     "pieutiwbyo": "08CB4",
-    "tieng": "貴",
+    "dziwbyo": "貴",
     "punngrie": "｛貴 *kuj-s とうとい、価値ある｝",
     "kudzau": "表音文字「㬰 Kuj」＋意味分類符「貝」",
     "doxeng": null,
@@ -4321,7 +4431,7 @@
   },
   {
     "pieutiwbyo": "08CCA",
-    "tieng": "賊",
+    "dziwbyo": "賊",
     "punngrie": "｛賊 *kə-dzˤək こわす、傷つける｝",
     "kudzau": "表語文字「戝」＋意味分類符「刀」",
     "doxeng": "戈で貝を傷つける形",
@@ -4331,7 +4441,7 @@
   },
   {
     "pieutiwbyo": "08D0A",
-    "tieng": "贊",
+    "dziwbyo": "贊",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -4341,7 +4451,7 @@
   },
   {
     "pieutiwbyo": "08D64",
-    "tieng": "赤",
+    "dziwbyo": "赤",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -4351,7 +4461,7 @@
   },
   {
     "pieutiwbyo": "08D66",
-    "tieng": "赦",
+    "dziwbyo": "赦",
     "punngrie": "｛赦 *[l̥]ak-s ゆるす｝",
     "kudzau": "表音文字「亦(→赤) Lak」＋意味分類符「攴」",
     "doxeng": null,
@@ -4361,7 +4471,7 @@
   },
   {
     "pieutiwbyo": "08D70",
-    "tieng": "走",
+    "dziwbyo": "走",
     "punngrie": "｛走 *tsˤoʔ 走る｝",
     "kudzau": "表語文字「夭*(→土)」＋意味分類符「止」",
     "doxeng": "走っている人の形",
@@ -4371,7 +4481,7 @@
   },
   {
     "pieutiwbyo": "08DB3",
-    "tieng": "足",
+    "dziwbyo": "足",
     "punngrie": "｛足 *tsok あし｝",
     "kudzau": null,
     "doxeng": "足の形",
@@ -4381,7 +4491,7 @@
   },
   {
     "pieutiwbyo": "08EAB",
-    "tieng": "身",
+    "dziwbyo": "身",
     "punngrie": "｛身 *n̥iŋ み、からだ｝",
     "kudzau": null,
     "doxeng": "〈人＋○〉ヒトの身体の部分を○で示したもの",
@@ -4391,7 +4501,7 @@
   },
   {
     "pieutiwbyo": "08ECA",
-    "tieng": "車",
+    "dziwbyo": "車",
     "punngrie": "｛車 *[t-k]ʰra くるま｝",
     "kudzau": null,
     "doxeng": "車両の形",
@@ -4401,7 +4511,7 @@
   },
   {
     "pieutiwbyo": "08ECD",
-    "tieng": "軍",
+    "dziwbyo": "軍",
     "punngrie": "｛軍 *[k]ʷər 兵士、軍隊｝",
     "kudzau": "「車」？＋意味分類符「(䀏→)勹*」",
     "doxeng": null,
@@ -4411,7 +4521,7 @@
   },
   {
     "pieutiwbyo": "08F44",
-    "tieng": "轄",
+    "dziwbyo": "轄",
     "punngrie": "｛轄 *gˤrat 車のくさび｝",
     "kudzau": "表音文字「害 Kat」＋意味分類符「車」",
     "doxeng": null,
@@ -4421,7 +4531,7 @@
   },
   {
     "pieutiwbyo": "08F9B",
-    "tieng": "辛",
+    "dziwbyo": "辛",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -4431,7 +4541,7 @@
   },
   {
     "pieutiwbyo": "08FAD",
-    "tieng": "辭",
+    "dziwbyo": "辭",
     "punngrie": "｛治 lrə おさめる｝",
     "kudzau": "表語文字「𤔔(→舌)」＋注音符「𬔖(→辛) Lə」",
     "doxeng": "両手で糸を操る形",
@@ -4441,7 +4551,7 @@
   },
   {
     "pieutiwbyo": "08FB1",
-    "tieng": "辱",
+    "dziwbyo": "辱",
     "punngrie": "｛耨 *nˤok-s 除草する｝",
     "kudzau": null,
     "doxeng": "〈辰（農具）＋又（手）〉農具を手に持つ形",
@@ -4451,7 +4561,7 @@
   },
   {
     "pieutiwbyo": "09001",
-    "tieng": "送",
+    "dziwbyo": "送",
     "punngrie": "｛送 *[s]ˤoŋ-s おくる｝",
     "kudzau": null,
     "doxeng": null,
@@ -4461,7 +4571,7 @@
   },
   {
     "pieutiwbyo": "09006",
-    "tieng": "逆",
+    "dziwbyo": "逆",
     "punngrie": "｛逆 *ŋrak むかえる｝",
     "kudzau": "表音文字「屰 NGak」＋意味分類符「辵(→辶)」",
     "doxeng": null,
@@ -4471,7 +4581,7 @@
   },
   {
     "pieutiwbyo": "0901F",
-    "tieng": "速",
+    "dziwbyo": "速",
     "punngrie": "｛速 *[s]ˤok すみやか、はやい｝",
     "kudzau": "表音文字「束* Sok」＋意味分類符「辵(→辶)」",
     "doxeng": null,
@@ -4481,7 +4591,7 @@
   },
   {
     "pieutiwbyo": "09020",
-    "tieng": "造",
+    "dziwbyo": "造",
     "punngrie": "｛造 *(mə-)tsʰˤuʔ-s 至る、行く｝",
     "kudzau": "表音文字「告* TSu」＋意味分類符「辵(→辶)」",
     "doxeng": null,
@@ -4491,7 +4601,7 @@
   },
   {
     "pieutiwbyo": "09038",
-    "tieng": "逸",
+    "dziwbyo": "逸",
     "punngrie": "｛逸 *[l]i[k] 逃げ去る｝",
     "kudzau": "表音文字「(𬌍→)兔(→免) Lik」＋意味分類符「辵(→辶)」",
     "doxeng": null,
@@ -4501,7 +4611,7 @@
   },
   {
     "pieutiwbyo": "09063",
-    "tieng": "遣",
+    "dziwbyo": "遣",
     "punngrie": "｛遣 *[k]ʰe[n]ʔ つかわす｝",
     "kudzau": "表語文字「𠳋」＋意味分類符「辵(→辶)」",
     "doxeng": "〈𦥑（両手の形）＋𠂤（旅団）〉使者を送る形",
@@ -4511,7 +4621,7 @@
   },
   {
     "pieutiwbyo": "09077",
-    "tieng": "遷",
+    "dziwbyo": "遷",
     "punngrie": "｛遷 *[tsʰ]ar うつる、移動する｝",
     "kudzau": "表音文字「䙴 TSar」＋意味分類符「辵(→辶)」",
     "doxeng": null,
@@ -4521,7 +4631,7 @@
   },
   {
     "pieutiwbyo": "0907A",
-    "tieng": "遺",
+    "dziwbyo": "遺",
     "punngrie": "｛遺 *lujs 送る｝",
     "kudzau": "表音文字「貴* Luj」＋意味分類符「辵(→辶)」",
     "doxeng": null,
@@ -4531,7 +4641,7 @@
   },
   {
     "pieutiwbyo": "090CA",
-    "tieng": "郊",
+    "dziwbyo": "郊",
     "punngrie": "｛郊 *[k]ˤraw 城外、都の外｝",
     "kudzau": "表音文字「交 Kaw」＋意味分類符「邑」",
     "doxeng": null,
@@ -4541,7 +4651,7 @@
   },
   {
     "pieutiwbyo": "090ED",
-    "tieng": "郭",
+    "dziwbyo": "郭",
     "punngrie": "｛郭 *kʷˤak くるわ、外城｝",
     "kudzau": "表語文字「𩫏」＋意味分類符「邑」",
     "doxeng": "城牆の形",
@@ -4551,7 +4661,7 @@
   },
   {
     "pieutiwbyo": "09109",
-    "tieng": "鄉",
+    "dziwbyo": "鄉",
     "punngrie": "｛郷 *qʰaŋ さと｝",
     "kudzau": "表音文字「卿 Qaŋ」＋意味分類符「(邑→)𨛜」",
     "doxeng": null,
@@ -4561,7 +4671,7 @@
   },
   {
     "pieutiwbyo": "0914C",
-    "tieng": "酌",
+    "dziwbyo": "酌",
     "punngrie": "｛酌 *tewk くむ、（酒を）つぐ｝",
     "kudzau": "表音文字「勺 Tewk」＋意味分類符「酉」",
     "doxeng": null,
@@ -4571,7 +4681,7 @@
   },
   {
     "pieutiwbyo": "0919C",
-    "tieng": "醜",
+    "dziwbyo": "醜",
     "punngrie": "｛醜 *[k-l̥]uʔ とどまる｝",
     "kudzau": "表音文字「酉 Lu」＋意味分類符「鬼」",
     "doxeng": null,
@@ -4581,7 +4691,7 @@
   },
   {
     "pieutiwbyo": "091AB",
-    "tieng": "醫",
+    "dziwbyo": "醫",
     "punngrie": "｛醷 *ʔ(r)ək あまざけ｝",
     "kudzau": "表音文字「殹(→医) ʔə」＋意味分類符「酉(→∅)」",
     "doxeng": null,
@@ -4591,7 +4701,7 @@
   },
   {
     "pieutiwbyo": "091C7",
-    "tieng": "采",
+    "dziwbyo": "采",
     "punngrie": "｛採 *[s-r̥]ˤəʔ とる｝",
     "kudzau": null,
     "doxeng": "〈爪＋木/枼〉葉を摘み取る形",
@@ -4601,7 +4711,7 @@
   },
   {
     "pieutiwbyo": "091CD",
-    "tieng": "重",
+    "dziwbyo": "重",
     "punngrie": "｛重 *N-troŋ おもい｝",
     "kudzau": null,
     "doxeng": "人が荷物を背負っている形",
@@ -4611,7 +4721,7 @@
   },
   {
     "pieutiwbyo": "091D1",
-    "tieng": "金",
+    "dziwbyo": "金",
     "punngrie": "｛金 *k(r)um かね、金属｝",
     "kudzau": "表音文字「今 Kum」＋意味分類符「火」＋意味分類符「吕」",
     "doxeng": null,
@@ -4621,7 +4731,7 @@
   },
   {
     "pieutiwbyo": "091DC",
-    "tieng": "釜",
+    "dziwbyo": "釜",
     "punngrie": "｛釜 *b(r)aʔ かま｝",
     "kudzau": "表音文字「父 Pa」＋意味分類符「金」",
     "doxeng": null,
@@ -4631,7 +4741,7 @@
   },
   {
     "pieutiwbyo": "0958B",
-    "tieng": "開",
+    "dziwbyo": "開",
     "punngrie": "｛啓 *kʰˤeʔ ひらく｝",
     "kudzau": "表音文字「开 Ke」＋意味分類符「門」",
     "doxeng": null,
@@ -4641,7 +4751,7 @@
   },
   {
     "pieutiwbyo": "09591",
-    "tieng": "閑",
+    "dziwbyo": "閑",
     "punngrie": "｛闌 *[r]ˤan かんぬき｝",
     "kudzau": null,
     "doxeng": "〈門＋木〉門に渡される木",
@@ -4651,7 +4761,7 @@
   },
   {
     "pieutiwbyo": "09593",
-    "tieng": "間",
+    "dziwbyo": "間",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -4661,7 +4771,7 @@
   },
   {
     "pieutiwbyo": "0964D",
-    "tieng": "降",
+    "dziwbyo": "降",
     "punngrie": "｛降 *k-rˤuŋ-s おりる、くだる｝",
     "kudzau": null,
     "doxeng": "〈𨸏（階段）＋夂（下降する足）〉階段を降りる形",
@@ -4671,7 +4781,7 @@
   },
   {
     "pieutiwbyo": "09670",
-    "tieng": "陰",
+    "dziwbyo": "陰",
     "punngrie": "｛陰 *q(r)um くもる、かげる｝",
     "kudzau": "表音文字「今 Kum」＋意味分類符「云」＋意味分類符「𨸏」",
     "doxeng": null,
@@ -4681,7 +4791,7 @@
   },
   {
     "pieutiwbyo": "09677",
-    "tieng": "陷",
+    "dziwbyo": "陷",
     "punngrie": "｛陷 *g-rˤəms 落とし穴、おとしいれる｝",
     "kudzau": "表語文字「臽」＋意味分類符「阜」",
     "doxeng": "人が穴に落ちた形",
@@ -4691,7 +4801,7 @@
   },
   {
     "pieutiwbyo": "096BB",
-    "tieng": "隻",
+    "dziwbyo": "隻",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -4701,7 +4811,7 @@
   },
   {
     "pieutiwbyo": "096C6",
-    "tieng": "集",
+    "dziwbyo": "集",
     "punngrie": "｛集 *dz[u]p とどまる｝",
     "kudzau": null,
     "doxeng": "〈隹＋木〉鳥が樹の上にとまっている形",
@@ -4711,7 +4821,7 @@
   },
   {
     "pieutiwbyo": "096D9",
-    "tieng": "雙",
+    "dziwbyo": "雙",
     "punngrie": "｛雙 *[s]roŋ 一対｝",
     "kudzau": null,
     "doxeng": "二匹の鳥",
@@ -4721,7 +4831,7 @@
   },
   {
     "pieutiwbyo": "096E8",
-    "tieng": "雨",
+    "dziwbyo": "雨",
     "punngrie": "｛雨 *ɢʷraʔ 雨｝",
     "kudzau": "空から雨が降る形",
     "doxeng": null,
@@ -4731,7 +4841,7 @@
   },
   {
     "pieutiwbyo": "096EA",
-    "tieng": "雪",
+    "dziwbyo": "雪",
     "punngrie": "｛雪 *sot ゆき｝",
     "kudzau": "表音文字「彗(→彐) Sot」＋意味分類符「雨」",
     "doxeng": null,
@@ -4741,7 +4851,7 @@
   },
   {
     "pieutiwbyo": "096F2",
-    "tieng": "雲",
+    "dziwbyo": "雲",
     "punngrie": "｛雲 *ɢʷə[r] 雲｝",
     "kudzau": "（云＝表音文字「亘囘 Qʷan」＋「上」）＋意味分類符「雨」",
     "doxeng": null,
@@ -4751,7 +4861,7 @@
   },
   {
     "pieutiwbyo": "09700",
-    "tieng": "需",
+    "dziwbyo": "需",
     "punngrie": "｛濡 *no ぬれる、つかる｝",
     "kudzau": "〈雨＋天〉雨に濡れる人の形",
     "doxeng": null,
@@ -4761,7 +4871,7 @@
   },
   {
     "pieutiwbyo": "09752",
-    "tieng": "青",
+    "dziwbyo": "青",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -4771,7 +4881,7 @@
   },
   {
     "pieutiwbyo": "09759",
-    "tieng": "静",
+    "dziwbyo": "静",
     "punngrie": null,
     "kudzau": "表音文字「争 TSeŋ」＋注音符「井 TSeŋ」＋注音符「生 (T)Seŋ」",
     "doxeng": null,
@@ -4781,7 +4891,7 @@
   },
   {
     "pieutiwbyo": "09769",
-    "tieng": "革",
+    "dziwbyo": "革",
     "punngrie": "｛革 *kˤrək 皮革｝",
     "kudzau": null,
     "doxeng": "動物の皮革を切り開いた形",
@@ -4791,7 +4901,7 @@
   },
   {
     "pieutiwbyo": "097F3",
-    "tieng": "音",
+    "dziwbyo": "音",
     "punngrie": "｛音 *qrəm 音｝",
     "kudzau": null,
     "doxeng": "〈言＋丶〉「言」の下部の「口」部分に点を加え、音声を指し示す",
@@ -4801,7 +4911,7 @@
   },
   {
     "pieutiwbyo": "09803",
-    "tieng": "頃",
+    "dziwbyo": "頃",
     "punngrie": "｛耿 *[kʷ]ˤreŋʔ 耳が垂れる｝",
     "kudzau": null,
     "doxeng": "耳の大きな顔の形",
@@ -4811,7 +4921,7 @@
   },
   {
     "pieutiwbyo": "09808",
-    "tieng": "須",
+    "dziwbyo": "須",
     "punngrie": "｛鬚 *[s-n]o くちひげ｝",
     "kudzau": "ひげを生やした人の形",
     "doxeng": null,
@@ -4821,7 +4931,7 @@
   },
   {
     "pieutiwbyo": "09854",
-    "tieng": "顔",
+    "dziwbyo": "顔",
     "punngrie": "｛顔 *ŋˤran かお｝",
     "kudzau": "表音文字「产 NGan」＋意味分類符「頁」。「产」は飾筆が加えられて「彦」になった。",
     "doxeng": null,
@@ -4831,7 +4941,7 @@
   },
   {
     "pieutiwbyo": "09858",
-    "tieng": "願",
+    "dziwbyo": "願",
     "punngrie": "｛元 *ŋor あたま｝",
     "kudzau": "表音文字「(𥆞→)𡚇 NGon」＋意味分類符「頁」。漢代に「𡚇」は「原」形に変化した。",
     "doxeng": null,
@@ -4841,7 +4951,7 @@
   },
   {
     "pieutiwbyo": "098DF",
-    "tieng": "食",
+    "dziwbyo": "食",
     "punngrie": "｛食 *mə-lək たべる｝",
     "kudzau": null,
     "doxeng": "〈口＋皀〉器に盛られた物を食べる形",
@@ -4851,7 +4961,7 @@
   },
   {
     "pieutiwbyo": "098F2",
-    "tieng": "飲",
+    "dziwbyo": "飲",
     "punngrie": "｛飲 *qumʔ 飲む｝",
     "kudzau": null,
     "doxeng": "酒器中の酒を舌を出して飲む形",
@@ -4861,7 +4971,7 @@
   },
   {
     "pieutiwbyo": "09996",
-    "tieng": "首",
+    "dziwbyo": "首",
     "punngrie": "｛首 *l̥uʔ あたま｝",
     "kudzau": null,
     "doxeng": "人の頭部の形",
@@ -4871,7 +4981,7 @@
   },
   {
     "pieutiwbyo": "09999",
-    "tieng": "香",
+    "dziwbyo": "香",
     "punngrie": "｛香 *qʰaŋ かおり、かおる｝",
     "kudzau": null,
     "doxeng": null,
@@ -4881,7 +4991,7 @@
   },
   {
     "pieutiwbyo": "09A45",
-    "tieng": "驅",
+    "dziwbyo": "驅",
     "punngrie": "｛駆 *[k]ʰ(r)o かる｝",
     "kudzau": "表音文字「區(→区) Ko」＋意味分類符「馬」",
     "doxeng": null,
@@ -4891,7 +5001,7 @@
   },
   {
     "pieutiwbyo": "09AA8",
-    "tieng": "骨",
+    "dziwbyo": "骨",
     "punngrie": "｛骨 *kˤut ほね｝",
     "kudzau": "表語文字「冎」＋意味分類符「肉(→月)」",
     "doxeng": "連なった骨の形",
@@ -4901,7 +5011,7 @@
   },
   {
     "pieutiwbyo": "09AD8",
-    "tieng": "高",
+    "dziwbyo": "高",
     "punngrie": "｛高 *Cə.[k]ˤaw たかい｝",
     "kudzau": null,
     "doxeng": null,
@@ -4911,7 +5021,7 @@
   },
   {
     "pieutiwbyo": "09B31",
-    "tieng": "鬱",
+    "dziwbyo": "鬱",
     "punngrie": "｛鬱 *ʔut 生い茂る｝",
     "kudzau": "表語文字「⿲林⿱勹大」＋「爵？」",
     "doxeng": "草木が茂る中に人が隠れる形",
@@ -4921,7 +5031,7 @@
   },
   {
     "pieutiwbyo": "09B3C",
-    "tieng": "鬼",
+    "dziwbyo": "鬼",
     "punngrie": "｛鬼 *k-ʔujʔ 霊、怪異｝",
     "kudzau": null,
     "doxeng": "鬼頭を強調した人の形。「面を被った人」は誤説。",
@@ -4931,7 +5041,7 @@
   },
   {
     "pieutiwbyo": "09B5A",
-    "tieng": "魚",
+    "dziwbyo": "魚",
     "punngrie": "｛魚 *ŋa うお、さかな｝",
     "kudzau": null,
     "doxeng": "魚の形",
@@ -4941,7 +5051,7 @@
   },
   {
     "pieutiwbyo": "09BAE",
-    "tieng": "鮮",
+    "dziwbyo": "鮮",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -4951,7 +5061,7 @@
   },
   {
     "pieutiwbyo": "09DC4",
-    "tieng": "鷄",
+    "dziwbyo": "鷄",
     "punngrie": "｛雞 *kˤe ニワトリ｝",
     "kudzau": null,
     "doxeng": null,
@@ -4961,7 +5071,7 @@
   },
   {
     "pieutiwbyo": "09E7F",
-    "tieng": "鹿",
+    "dziwbyo": "鹿",
     "punngrie": "｛鹿 *mə-rˤok シカ｝",
     "kudzau": "シカの形",
     "doxeng": null,
@@ -4971,7 +5081,7 @@
   },
   {
     "pieutiwbyo": "09ED1",
-    "tieng": "黑",
+    "dziwbyo": "黑",
     "punngrie": "｛墨 mˤək すみ｝",
     "kudzau": null,
     "doxeng": "手を縛られた人（墨刑に処される人）の形？",
@@ -4981,7 +5091,7 @@
   },
   {
     "pieutiwbyo": "09F13",
-    "tieng": "鼓",
+    "dziwbyo": "鼓",
     "punngrie": "｛鼓 *[k]ˤaʔ つづみ｝",
     "kudzau": "表語文字「壴」＋意味分類符「攴」",
     "doxeng": "太鼓の形",
@@ -4991,7 +5101,7 @@
   },
   {
     "pieutiwbyo": "09F4A",
-    "tieng": "齊",
+    "dziwbyo": "齊",
     "punngrie": null,
     "kudzau": null,
     "doxeng": null,
@@ -5001,7 +5111,7 @@
   },
   {
     "pieutiwbyo": "09F52",
-    "tieng": "齒",
+    "dziwbyo": "齒",
     "punngrie": "｛齒 *[t-k]ʰəʔ は｝",
     "kudzau": "表語文字「𠚕」＋注音符「止 Tə」",
     "doxeng": "歯の形",
@@ -5011,7 +5121,7 @@
   },
   {
     "pieutiwbyo": "09F9C",
-    "tieng": "龜",
+    "dziwbyo": "龜",
     "punngrie": "｛龜 *[k]ʷə カメ｝",
     "kudzau": "カメの形",
     "doxeng": null,

@@ -9,6 +9,20 @@ export interface DziwbyoCileu {
 }
 
 /**
+ * 字源資料
+ */
+export interface DziwwngyanCileu {
+  pieutiwbyo: string
+  dziwbyo: string
+  punngrie: string | null
+  kudzau: string | null
+  doxeng: string | null
+  tyomyun: string
+  thytten: string
+  thongqitmra: string
+}
+
+/**
  * 字音甲資料: プロナンシエーション エー データ
  */
 export interface DziwqrimKrapCileu {
