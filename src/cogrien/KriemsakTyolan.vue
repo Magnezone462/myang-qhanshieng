@@ -13,6 +13,12 @@ const shiochiemkho = jyongShiochiemkho()
 
 const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.dziwdu}`
 
+const dziwwngyanDophenngyan = ((): string => {
+  const pieutiwbyo = dziwdeu.dziwwngyan?.pieutiwbyo ?? ''
+  const dzentryei = pieutiwbyo.slice(0, 2)
+  return new URL(`../cisren/dziwwngyan/${dzentryei}/${pieutiwbyo}.png`, import.meta.url).href
+})()
+
 const qanZyepheng = (tuiziang: DziwqrimCungCileu) => {
   kriemsakDziwqrimkho.triwZyepheng(tuiziang.zyepheng)
   kriemsakDziwqrimkho.triwShiwxryn('')
@@ -119,9 +125,16 @@ const twkQhZQh = (dziwqrim: DziwqrimCungCileu) => {
     </VRow>
     <VRow>
       <VCol cols="12">
-        <VCard v-if="dziwdeu.dziwwngyan != null">
+        <VCard
+          v-if="dziwdeu.dziwwngyan != null"
+          maxWidth="538px"
+          variant="outlined"
+        >
+          <VImg :src="dziwwngyanDophenngyan" />
+          <VDivider />
           <VCardTitle> 字源 </VCardTitle>
-          <VCardText>
+          <VCardSubtitle> @kanji_jigen </VCardSubtitle>
+          <VCardText lang="ja-JP">
             <p v-if="dziwdeu.dziwwngyan.punngrie != null">
               {{ `本義：${dziwdeu.dziwwngyan.punngrie}` }}
             </p>
@@ -146,7 +159,7 @@ const twkQhZQh = (dziwqrim: DziwqrimCungCileu) => {
         :key="xrongmyuk.pieutiwbyo"
         cols="12"
       >
-        <VCard>
+        <VCard variant="outlined">
           <VCardTitle
             @click="qanZyepheng(xrongmyuk)"
             style="cursor: pointer"
