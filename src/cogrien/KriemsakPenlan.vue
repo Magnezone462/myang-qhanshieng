@@ -1,22 +1,22 @@
 <script setup lang="ts">
 import { KriemsakPieuchiem } from '@/cisren/muikio'
-import { jyongXeithongkho } from '@/changkho/xeithong'
+import { jyongQhanshiengkho } from '@/changkho/qhanshieng'
 import KriemsakPenlanDziwbyo from '@/cogrien/KriemsakPenlanDziwbyo.vue'
 import KriemsakPenlanDziwqrim from '@/cogrien/KriemsakPenlanDziwqrim.vue'
 import KriemsakPenlanDziwxeng from './KriemsakPenlanDziwxeng.vue'
 import KriemsakPenlanShiochiem from '@/cogrien/KriemsakPenlanShiochiem.vue'
 import KriemsakPenlanLeksriw from '@/cogrien/KriemsakPenlanLeksriw.vue'
 
-const xeithongkho = jyongXeithongkho()
+const qhanshiengkho = jyongQhanshiengkho()
 </script>
 
 <template>
   <VNavigationDrawer
-    v-model="xeithongkho.kriemsakPenlanThryuthei"
+    v-model="qhanshiengkho.thryuthei"
     location="left"
   >
     <VTabs
-      v-model="xeithongkho.kriemsakPieuchiem"
+      v-model="qhanshiengkho.thryutheiPieuchiem"
       fixed-tabs
     >
       <VTab :value="KriemsakPieuchiem.dziwbyo"> 符 </VTab>
@@ -34,7 +34,7 @@ const xeithongkho = jyongXeithongkho()
       </VTab>
     </VTabs>
 
-    <VWindow v-model="xeithongkho.kriemsakPieuchiem">
+    <VWindow v-model="qhanshiengkho.thryutheiPieuchiem">
       <VWindowItem :value="KriemsakPieuchiem.dziwbyo">
         <KriemsakPenlanDziwbyo />
       </VWindowItem>

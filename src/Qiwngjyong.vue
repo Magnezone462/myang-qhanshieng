@@ -1,20 +1,13 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
 import { onMounted } from 'vue'
-import { useTheme as jyongTyodei } from 'vuetify'
+import { useTheme } from 'vuetify'
 import { Nguaikuan } from '@/cisren/muikio'
-import { jyongXeithongkho } from '@/changkho/xeithong'
 import { jyongXeithongPundhikho } from '@/changkho/xeithongPundhi'
-import { jyongDziwdeukho } from '@/changkho/dziwdeu'
-import ChriosriwTyolan from './cogrien/ChriosriwTyolan.vue'
-import KriemsakPenlan from '@/cogrien/KriemsakPenlan.vue'
-import KriemsakTyolan from '@/cogrien/KriemsakTyolan.vue'
 import ShiettriwPenlan from '@/cogrien/ShiettriwPenlan.vue'
 
-const tyodei = jyongTyodei()
-const xeithongkho = jyongXeithongkho()
+const tyodei = useTheme()
 const xeithongPundhikho = jyongXeithongPundhikho()
-const dziwdeukho = jyongDziwdeukho()
 
 onMounted(() => {
   if (xeithongPundhikho.nguaikuan === Nguaikuan.dzidung) {
@@ -32,7 +25,11 @@ onMounted(() => {
     <ShiettriwPenlan temporary />
 
     <VSystemBar>
+      <VBtn @click="$router.push('/')"> 漢字文聲義</VBtn>
+      <VBtn @click="$router.push('/qhanla')"> 漢羅變换器</VBtn>
+
       <VSpacer />
+
       <VBtn
         href="https://github.com/Magnezone462/myang-qhanshieng"
         target="_blank"
@@ -41,21 +38,6 @@ onMounted(() => {
       </VBtn>
     </VSystemBar>
 
-    <VAppBar>
-      <VAppBarNavIcon @click="xeithongkho.xuanKriemsakPenlanThryuthei()" />
-      <VAppBarTitle>漢字文聲義</VAppBarTitle>
-      <VBtn
-        @click="xeithongkho.xuanShiettriwPenlanThryuthei()"
-        icon="mdi-cog-outline"
-      >
-      </VBtn>
-    </VAppBar>
-
-    <KriemsakPenlan />
-
-    <VMain>
-      <ChriosriwTyolan v-if="dziwdeukho.dziwdu === ''" />
-      <KriemsakTyolan v-else />
-    </VMain>
+    <RouterView />
   </VApp>
 </template>

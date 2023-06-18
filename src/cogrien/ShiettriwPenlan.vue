@@ -26,7 +26,7 @@ const xuanNguaikuan = (kradriw: Nguaikuan) => {
 
 <template>
   <VNavigationDrawer
-    v-model="xeithongkho.shiettriwPenlanThryuthei"
+    v-model="xeithongkho.shiettriwThryuthei"
     location="right"
   >
     <VToolbar>

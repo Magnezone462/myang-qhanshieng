@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { KriemsakPieuchiem, KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/muikio'
-import { jyongXeithongkho } from '@/changkho/xeithong'
+import { jyongQhanshiengkho } from '@/changkho/qhanshieng'
 import { jyongKriemsakDziwqrimkho } from '@/changkho/kriemsakDziwqrim'
 import { jyongDziwdeukho } from '@/changkho/dziwdeu'
 import { jyongShiochiemkho } from '@/changkho/shiochiem'
@@ -8,7 +8,7 @@ import type { DziwqrimCungCileu } from '@/cisren/lyixeng'
 
 const kriemsakDziwqrimkho = jyongKriemsakDziwqrimkho()
 const dziwdeu = jyongDziwdeukho()
-const xeithongkho = jyongXeithongkho()
+const qhanshiengkho = jyongQhanshiengkho()
 const shiochiemkho = jyongShiochiemkho()
 
 const myutshiodangMyangtiwPyangqan = `mkdictionaries:///?text=${dziwdeu.dziwdu}`
@@ -22,14 +22,14 @@ const dziwwngyanDophenngyan = ((): string => {
 const qanZyepheng = (tuiziang: DziwqrimCungCileu) => {
   kriemsakDziwqrimkho.triwZyepheng(tuiziang.zyepheng)
   kriemsakDziwqrimkho.triwShiwxryn('')
-  xeithongkho.kriemsakPieuchiem = KriemsakPieuchiem.dziqrim
+  qhanshiengkho.thryutheiPieuchiem = KriemsakPieuchiem.dziqrim
   kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.zyepheng)
 }
 
 const qanShiwxryn = (tuiziang: DziwqrimCungCileu) => {
   kriemsakDziwqrimkho.triwShiwxryn(tuiziang.shiwxryn)
   kriemsakDziwqrimkho.triwZyepheng('')
-  xeithongkho.kriemsakPieuchiem = KriemsakPieuchiem.dziqrim
+  qhanshiengkho.thryutheiPieuchiem = KriemsakPieuchiem.dziqrim
   kriemsakDziwqrimkho.triwPyangshiwk(Pyangshiwk.briengshyixryn)
 }
 
