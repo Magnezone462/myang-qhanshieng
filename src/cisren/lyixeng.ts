@@ -120,3 +120,9 @@ export interface DziwxengQhZQhBushyuCileu {
 }
 
 export type Dziwxeng = DziwxengSikrokXaumraCileu | DziwxengQhZQhBushyuCileu
+
+/** 漢羅 */
+export interface Qhanla {
+  dziwbyo: string
+  zyepheng: string
+}
