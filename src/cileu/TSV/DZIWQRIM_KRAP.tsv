@@ -236,6 +236,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 04F9D-qiwi1	依		qiəi	qiwi1	微	止	開	三	平	微	影	微	U+4F9D
 04F9D-qiwi2	依		qiə́i	qiwi2	尾	止	開	三	上	尾	影	微	U+4F9D
 04FA3-lio2	侣		lió	lio2	語	遇	開	三	上	語	來	魚	U+4FA3
+04FB5-chim1	侵		chim	chim1	侵	深	開	三	平	侵	清	侵	U+4FB5
+04FB5-chim2	侵		chím	chim2	寢	深	開	三	上	寢	清	侵	U+4FB5
 04FB7-gyok4	侷		gyok	gyok4	沃	通	開	三	入	燭	群	鍾	U+4FB7
 04FC2-kei3	係		kêi	kei3	霽	蟹	開	四	去	霽	見	齊	U+4FC2
 04FC2-xei3	係		xêi	xei3	霽	蟹	開	四	去	霽	匣	齊	U+4FC2
@@ -290,6 +292,10 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 0503C-driw3	值		driə̂	driw3	寘	止	開	三	去	志	澄	之	U+503C
 0503C-driwk4	值		driək	driwk4	職	曾	開	三	入	職	澄	蒸	U+503C
 05041-thiwng1	偁		thiəŋ	thiwng1	蒸	曾	開	三	平	蒸	昌	蒸	U+5041
+05048-griei3	偈		griêi	griei3	霽	蟹	開	三	去	祭	群	祭	U+5048
+05048-griet4	偈		griet	griet4	屑	山	開	三	入	薛	群	仙	U+5048
+05048-khriei3	偈		khriêi	khriei3	霽	蟹	開	三	去	祭	溪	祭	U+5048
+05048-khriet4	偈		khriet	khriet4	屑	山	開	三	入	薛	溪	仙	U+5048
 05049-xyui2	偉		xyúi	xyui2	尾	止	合	三	上	尾	云	微	U+5049
 0504A-xyo2	偊		xyó	xyo2	麌	遇	合	三	上	麌	云	虞	U+504A
 0504C-niak4	偌		niak	niak4	藥	宕	開	三	入	藥	日	陽	U+504C
@@ -307,6 +313,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 0508D-bang1	傍		baŋ	bang1	陽	宕	開	一	平	唐	並	唐	U+508D
 0508D-bang3	傍		bâŋ	bang3	漾	宕	開	一	去	宕	並	唐	U+508D
 0508D-prang1	傍		praŋ	prang1	庚	梗	開	二	平	庚	幫	庚	U+508D
+05091-griet4	傑		griet	griet4	屑	山	開	三	入	薛	群	仙	U+5091
 05098-san2	傘		sán	san2	旱	山	開	一	上	旱	心	寒	U+5098
 05098-san3	傘		sân	san3	翰	山	開	一	去	翰	心	寒	U+5098
 0509A-xrau3	傚		xrâu	xrau3	效	效	開	二	去	效	匣	肴	U+509A
@@ -393,6 +400,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 051BD-liet4	冽		liet	liet4	屑	山	開	三	入	薛	來	仙	U+51BD
 051C0-chreng1	净		chreŋ	chreng1	庚	梗	開	二	平	耕	初	耕	U+51C0
 051C0-dzieng3	净		dziêŋ	dzieng3	敬	梗	開	三	去	勁	從	清	U+51C0
+051C4-chei1	凄		chei	chei1	齊	蟹	開	四	平	齊	清	齊	U+51C4
+051C4-chen3	凄		chên	chen3	霰	山	開	四	去	霰	清	先	U+51C4
 051C9-liang1	凉		liaŋ	liang1	陽	宕	開	三	平	陽	來	陽	U+51C9
 051C9-liang3	凉		liâŋ	liang3	漾	宕	開	三	去	漾	來	陽	U+51C9
 051CA-chieng3	凊		chiêŋ	chieng3	敬	梗	開	三	去	勁	清	清	U+51CA
@@ -972,6 +981,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 059F1-khrua1	姱		khrua	khrua1	麻	假	合	二	平	麻	溪	麻	U+59F1
 059F6-qwp4	姶		qəp	qwp4	合	咸	開	一	入	合	影	覃	U+59F6
 059FB-qin1	姻		qin	qin1	真	臻	開	三	平	真	影	真	U+59FB
+059FF-ci1	姿		ci	ci1	支	止	開	三	平	脂	精	脂	U+59FF
+059FF-ci3	姿		cî	ci3	寘	止	開	三	去	至	精	脂	U+59FF
 05A01-qyui1	威		qyui	qyui1	微	止	合	三	平	微	影	微	U+5A01
 05A09-pheng1	娉		pheŋ	pheng1	青	梗	開	四	平	青	滂	青	U+5A09
 05A09-phieng3	娉		phiêŋ	phieng3	敬	梗	開	三	去	勁	滂	清	U+5A09
@@ -1076,9 +1087,11 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 05BC2-dzek4	寂		dzek	dzek4	錫	梗	開	四	入	錫	從	青	U+5BC2
 05BC4-krie3	寄		kriê	krie3	寘	止	開	三	去	寘	見	支	U+5BC4
 05BC7-khu3	寇		khû	khu3	宥	流	開	一	去	候	溪	侯	U+5BC7
+05BD1-chim2	寑		chím	chim2	寢	深	開	三	上	寢	清	侵	U+5BD1
 05BD2-xan1	寒		xan	xan1	寒	山	開	一	平	寒	匣	寒	U+5BD2
 05BD3-ngyo3	寓		ŋyô	ngyo3	遇	遇	合	三	去	遇	疑	虞	U+5BD3
 05BE1-krua2	寡		kruá	krua2	馬	假	合	二	上	馬	見	麻	U+5BE1
+05BE2-chim2	寢		chím	chim2	寢	深	開	三	上	寢	清	侵	U+5BE2
 05BE4-ngo3	寤		ŋô	ngo3	遇	遇	開	一	去	暮	疑	模	U+5BE4
 05BE6-zhit4	實		zhit	zhit4	質	臻	開	三	入	質	船	真	U+5BE6
 05BE9-shim2	審		shím	shim2	寢	深	開	三	上	寢	書	侵	U+5BE9
@@ -1185,6 +1198,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 05D4B-mryi1	嵋		mryi	mryi1	支	止	開	三	平	脂	明	脂	U+5D4B
 05D4E-ngyo1	嵎		ŋyo	ngyo1	虞	遇	合	三	平	虞	疑	虞	U+5D4E
 05D52-ngrem1	嵒		ŋrem	ngrem1	咸	咸	開	二	平	咸	疑	咸	U+5D52
+05D65-griet4	嵥		griet	griet4	屑	山	開	三	入	薛	群	仙	U+5D65
 05D6B-ciw1	嵫		ciə	ciw1	支	止	開	三	平	之	精	之	U+5D6B
 05D6F-chrie1	嵯		chrie	chrie1	支	止	開	三	平	支	初	支	U+5D6F
 05D6F-dza1	嵯		dza	dza1	歌	果	開	一	平	歌	從	歌	U+5D6F
@@ -1409,6 +1423,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 0605F-qhyong1	恟		qhyoŋ	qhyong1	冬	通	開	三	平	鍾	曉	鍾	U+605F
 06062-khui1	恢		khui	khui1	灰	蟹	合	一	平	灰	溪	灰	U+6062
 06062-khyui2	恢		khyúi	khyui2	尾	止	合	三	上	尾	溪	微	U+6062
+06063-ci3	恣		cî	ci3	寘	止	開	三	去	至	精	脂	U+6063
 06069-qwn1	恩		qən	qwn1	元	臻	開	一	平	痕	影	痕	U+6069
 0606A-khak4	恪		khak	khak4	藥	宕	開	一	入	鐸	溪	唐	U+606A
 0606B-dung3	恫		dûŋ	dung3	送	通	開	一	去	送	定	東	U+606B
@@ -1500,6 +1515,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 06177-khang2	慷		kháŋ	khang2	養	宕	開	一	上	蕩	溪	唐	U+6177
 06182-qyu1	憂		qyu	qyu1	尤	流	開	三	平	尤	影	尤	U+6182
 06192-kui3	憒		kûi	kui3	隊	蟹	合	一	去	隊	見	灰	U+6192
+061A9-khriei3	憩		khriêi	khriei3	霽	蟹	開	三	去	祭	溪	祭	U+61A9
 061AB-mryn2	憫		mrýn	mryn2	軫	臻	開	三	上	軫	明	真	U+61AB
 061AC-kryeng2	憬		kryéŋ	kryeng2	梗	梗	合	三	上	梗	見	庚	U+61AC
 061B6-qiwk4	憶		qiək	qiwk4	職	曾	開	三	入	職	影	蒸	U+61B6
@@ -1913,6 +1929,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 06760-kung1	杠		kuŋ	kung1	東	通	開	一	平	東	見	東	U+6760
 06762-muk4kung1	杢		mukkuŋ	muk4kung1	null	null	null	null	null	null	null	null	U+6762
 0676A-mieu2	杪		miéu	mieu2	篠	效	開	三	上	小	明	宵	U+676A
+06770-griet4	杰		griet	griet4	屑	山	開	三	入	薛	群	仙	U+6770
 06774-qhiam1	杴		qhiam	qhiam1	咸	咸	開	三	平	嚴	曉	嚴	U+6774
 06775-thio2	杵		thió	thio2	語	遇	開	三	上	語	昌	魚	U+6775
 0677B-nryu2	杻		nryú	nryu2	有	流	開	三	上	有	娘	尤	U+677B
@@ -1979,6 +1996,9 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 0683C-krak4	格		krak	krak4	陌	梗	開	二	入	陌	見	庚	U+683C
 0683C-lak4	格		lak	lak4	藥	宕	開	一	入	鐸	來	唐	U+683C
 0683C-xak4	格		xak	xak4	藥	宕	開	一	入	鐸	匣	唐	U+683C
+0683D-cwi1	栽		cəi	cwi1	灰	蟹	開	一	平	咍	精	咍	U+683D
+0683D-dzwi3	栽		dzə̂i	dzwi3	隊	蟹	開	一	去	代	從	咍	U+683D
+06840-griet4	桀		griet	griet4	屑	山	開	三	入	薛	群	仙	U+6840
 06841-xang1	桁		xaŋ	xang1	陽	宕	開	一	平	唐	匣	唐	U+6841
 06841-xang3	桁		xâŋ	xang3	漾	宕	開	一	去	宕	匣	唐	U+6841
 06841-xrang1	桁		xraŋ	xrang1	庚	梗	開	二	平	庚	匣	庚	U+6841
@@ -2068,6 +2088,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 0699C-brang1	榜		braŋ	brang1	庚	梗	開	二	平	庚	並	庚	U+699C
 0699C-pang2	榜		páŋ	pang2	養	宕	開	一	上	蕩	幫	唐	U+699C
 0699C-prang3	榜		prâŋ	prang3	敬	梗	開	二	去	敬	幫	庚	U+699C
+069A4-griet4	榤		griet	griet4	屑	山	開	三	入	薛	群	仙	U+69A4
 069A9-grien1	榩		grien	grien1	先	山	開	三	平	仙	群	仙	U+69A9
 069AD-zia3	榭		ziâ	zia3	禡	假	開	三	去	禡	邪	麻	U+69AD
 069B7-krok4	榷		krok	krok4	覺	江	開	二	入	覺	見	江	U+69B7
@@ -2139,6 +2160,9 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 06AEA-lek4	櫪		lek	lek4	錫	梗	開	四	入	錫	來	青	U+6AEA
 06B16-lam2	欖		lám	lam2	感	咸	開	一	上	敢	來	談	U+6B16
 06B20-khiam3	欠		khiâm	khiam3	艷	咸	開	三	去	釅	溪	嚴	U+6B20
+06B21-chi3	次		chî	chi3	寘	止	開	三	去	至	清	脂	U+6B21
+06B21-ci1	次		ci	ci1	支	止	開	三	平	脂	精	脂	U+6B21
+06B21-ci3	次		cî	ci3	寘	止	開	三	去	至	精	脂	U+6B21
 06B23-qhiwn1	欣		qhiən	qhiwn1	文	臻	開	三	平	欣	曉	欣	U+6B23
 06B2E-kyat4	欮		kyat	kyat4	月	山	合	三	入	月	見	元	U+6B2E
 06B31-qhrep4	欱		qhrep	qhrep4	洽	咸	開	二	入	洽	曉	咸	U+6B31
@@ -2429,6 +2453,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	shiwxryn	xrynshie
 06EC9-xuang2	滉		xuáŋ	xuang2	養	宕	合	一	上	蕩	匣	唐	U+6EC9
 06ECB-ciw1	滋		ciə	ciw1	支	止	開	三	平	之	精	之	U+6ECB
 06ECD-dri2	滍		drí	dri2	紙	止	開	三	上	旨	澄	脂	U+6ECD
+06ED0-griet4	滐		griet	griet4	屑	山	開	三	入	薛	群	仙	U+6ED0
 06ED5-dwng1	滕		dəŋ	dwng1	蒸	曾	開	一	平	登	定	登	U+6ED5
 06EEC-xo2	滬		xó	xo2	麌	遇	開	一	上	姥	匣	模	U+6EEC
 06EF7-dek4	滷		dek	dek4	錫	梗	開	四	入	錫	定	青	U+6EF7

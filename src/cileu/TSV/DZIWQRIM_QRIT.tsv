@@ -236,6 +236,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 04F9D-qiwi1	依		qiəi	qiwi1	1	8	11	2	"[""切三""]"	於機反		於機反		於希切				影	微	平	U+4F9D
 04F9D-qiwi2	依		qiə́i	qiwi2	2	7	3	2	"[""切三"", ""TIVK75-100br""]"	null		null		null		隱豈切		null	null	null	U+4F9D
 04FA3-lio2	侣		lió	lio2	2	8	2	2	"[""切三""]"	力舉反		力舉反		力舉切				來	語	上	U+4FA3
+04FB5-chim1	侵		chim	chim1	1	46	1	2	"[""切三"", ""S6187""]"	七林反		七林反		七林切				清	侵	平	U+4FB5
+04FB5-chim2	侵		chím	chim2	2	44	1	2	"[""切三""]"	null		null		null		null		清	寢	上	U+4FB5
 04FB7-gyok4	侷		gyok	gyok4	4	3	5	2	"[""切三""]"	null		null		渠玉切				null	null	null	U+4FB7
 04FC2-kei3	係		kêi	kei3	3	13	9	3	"[""P3696(1)v""]"	古詣反		古詣反		古詣切				null	null	null	U+4FC2
 04FC2-xei3	係		xêi	xei3	3	13	10	3	"[""P3696(1)v""]"	null		null		null		胡計切		匣	霽	去	U+4FC2
@@ -290,6 +292,10 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 0503C-driw3	值		driə̂	driw3	3	7	2	0	"[""藤田2018""]"	直吏反		直吏反		直吏切				澄	志	去	U+503C
 0503C-driwk4	值		driək	driwk4	4	29	2	3	"[""Дх1372+3703""]"	null		null		null		逐力切		null	null	null	U+503C
 05041-thiwng1	偁		thiəŋ	thiwng1	1	49	17	2	"[""切三""]"	處陵反		處陵反		處陵切				昌	蒸	平	U+5041
+05048-griei3	偈		griêi	griei3	3	14	30	3	"[""P3696(1)v""]"	其憩反		其憩反		其憩切				群	祭	去	U+5048
+05048-griet4	偈		griet	griet4	4	15	4	2	"[""切三""]"	null		渠列反		渠列切				群	薛	入	U+5048
+05048-khriei3	偈		khriêi	khriei3	3	14	26	3	"[""P3696(1)v""]"	null		null		null		去例切		null	null	null	U+5048
+05048-khriet4	偈		khriet	khriet4	4	15	9	2	"[""切三""]"	null		null		null		丘傑切		null	null	null	U+5048
 05049-xyui2	偉		xyúi	xyui2	2	7	7	2	"[""切三"", ""TIVK75-100br""]"	韋鬼反		韋鬼反		于鬼切				云	尾	上	U+5049
 0504A-xyo2	偊		xyó	xyo2	2	9	2	2	"[""切三""]"	null		null		null		王矩切		null	null	null	U+504A
 0504C-niak4	偌		niak	niak4	4	27	6	2	"[""P3799""]"	null		null		null		null		null	null	null	U+504C
@@ -307,6 +313,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 0508D-bang1	傍		baŋ	bang1	1	38	20	2	"[""切三""]"	步光反		步光反		步光切				並	唐	平	U+508D
 0508D-bang3	傍		bâŋ	bang3	3	41	7	0	"[""藤田2018""]"	蒲浪反		蒲浪反		蒲浪切				並	宕	去	U+508D
 0508D-prang1	傍		praŋ	prang1	1	39	5	2	"[""切三""]"	null		null		null		晡横切		null	null	null	U+508D
+05091-griet4	傑		griet	griet4	4	15	4	2	"[""切三""]"	渠列反		渠列反		渠列切				群	薛	入	U+5091
 05098-san2	傘		sán	san2	2	22	21	1	"[""切一""]"	null		蘇旱反		蘇旱切				心	旱	上	U+5098
 05098-san3	傘		sân	san3	3	27	29	3	"[""S6176r""]"	null		蘇旦反		null				null	null	null	U+5098
 0509A-xrau3	傚		xrâu	xrau3	3	34	1	0	"[""藤田2018""]"	null		null		胡教切				匣	效	去	U+509A
@@ -393,6 +400,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 051BD-liet4	冽		liet	liet4	4	15	2	2	"[""切三""]"	吕薛反		吕結反		良薛切				來	薛	入	U+51BD
 051C0-chreng1	净		chreŋ	chreng1	1	40	9	2	"[""切三""]"	null		null		楚耕切				null	null	null	U+51C0
 051C0-dzieng3	净		dziêŋ	dzieng3	3	44	13	0	"[""藤田2018""]"	null		null		null		null		從	勁	去	U+51C0
+051C4-chei1	凄		chei	chei1	1	12	3	2	"[""切三""]"	七嵇反		七嵇反		七稽切				清	齊	平	U+51C4
+051C4-chen3	凄		chên	chen3	3	30	2	0	"[""藤田2018""]"	null		null		null		倉甸切		null	null	null	U+51C4
 051C9-liang1	凉		liaŋ	liang1	1	37	3	2	"[""切三""]"	吕張反		吕張反		吕張切				來	陽	平	U+51C9
 051C9-liang3	凉		liâŋ	liang3	3	40	2	0	"[""藤田2018""]"	null		null		力讓切				來	漾	去	U+51C9
 051CA-chieng3	凊		chiêŋ	chieng3	3	44	12	0	"[""藤田2018""]"	七政反		七政反		七政切				清	勁	去	U+51CA
@@ -972,6 +981,8 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 059F1-khrua1	姱		khrua	khrua1	1	34	11	2	"[""切三""]"	null		苦瓜反		苦瓜切				溪	麻	平	U+59F1
 059F6-qwp4	姶		qəp	qwp4	4	20	12	2	"[""切三""]"	烏合反		烏合反		烏合切				影	合	入	U+59F6
 059FB-qin1	姻		qin	qin1	1	17	9	2	"[""切三""]"	於鄰反		於鄰反		於真切				影	真	平	U+59FB
+059FF-ci1	姿		ci	ci1	1	6	5	1	"[""大谷8107""]"	□□□		即夷反		即夷切				精	脂	平	U+59FF
+059FF-ci3	姿		cî	ci3	3	6	31	0	"[""藤田2018""]"	null		資四反	《王一》資四反脱字。	null				null	null	null	U+59FF
 05A01-qyui1	威		qyui	qyui1	1	8	7	2	"[""切三""]"	於非反		於非反		於非切				影	微	平	U+5A01
 05A09-pheng1	娉		pheŋ	pheng1	1	42	8	2	"[""切三""]"	null		null		null		null		滂	青	平	U+5A09
 05A09-phieng3	娉		phiêŋ	phieng3	3	44	8	0	"[""藤田2018""]"	null		匹政反		匹正切				滂	勁	去	U+5A09
@@ -1076,9 +1087,11 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 05BC2-dzek4	寂		dzek	dzek4	4	16	13	2	"[""切三""]"	昨歷反		昨歷反		前歷切				從	錫	入	U+5BC2
 05BC4-krie3	寄		kriê	krie3	3	5	14	3	"[""P3696(1)r""]"	居義反		居義反		居義切				見	寘	去	U+5BC4
 05BC7-khu3	寇		khû	khu3	3	47	2	2	"[""P3694r""]"	苦候反		苦候反		苦候切				溪	候	去	U+5BC7
+05BD1-chim2	寑		chím	chim2	2	44	1	2	"[""切三""]"	七稔反		七稔反		七稔切				null	null	null	U+5BD1
 05BD2-xan1	寒		xan	xan1	1	24	1	2	"[""切三""]"	胡安反		胡安反		胡安切				匣	寒	平	U+5BD2
 05BD3-ngyo3	寓		ŋyô	ngyo3	3	10	1	0	"[""藤田2018""]"	虞樹反		虞樹反		牛具切				疑	遇	去	U+5BD3
 05BE1-krua2	寡		kruá	krua2	2	32	19	2	"[""切三""]"	古瓦反		古瓦反		古瓦切				見	馬	上	U+5BE1
+05BE2-chim2	寢		chím	chim2	2	44	1	2	"[""切三""]"	七稔反		七稔反		七稔切				清	寢	上	U+5BE2
 05BE4-ngo3	寤		ŋô	ngo3	3	11	7	0	"[""藤田2018""]"	五故反		吾故反		五故切				疑	暮	去	U+5BE4
 05BE6-zhit4	實		zhit	zhit4	4	5	3	2	"[""切三""]"	神質反		神質反		神質切				船	質	入	U+5BE6
 05BE9-shim2	審		shím	shim2	2	44	10	2	"[""切三""]"	式稔反		式稔反		式荏切	原作“式任切”。			書	寢	上	U+5BE9
@@ -1185,6 +1198,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 05D4B-mryi1	嵋		mryi	mryi1	1	6	27	2	"[""切三"", ""P3696(2)""]"	null		null		武悲切				明	脂	平	U+5D4B
 05D4E-ngyo1	嵎		ŋyo	ngyo1	1	10	1	2	"[""切三""]"	語俱反		語俱反		遇俱切				疑	虞	平	U+5D4E
 05D52-ngrem1	嵒		ŋrem	ngrem1	1	51	5	2	"[""切三""]"	五咸反		五咸反		五咸切				疑	咸	平	U+5D52
+05D65-griet4	嵥		griet	griet4	4	15	4	2	"[""切三""]"	null		null		渠列切				null	null	null	U+5D65
 05D6B-ciw1	嵫		ciə	ciw1	1	7	21	2	"[""切三""]"	子之反		子慈反		子之切				null	null	null	U+5D6B
 05D6F-chrie1	嵯		chrie	chrie1	1	5	34	0	"[""藤田2018""]"	null		null		楚宜切				null	null	null	U+5D6F
 05D6F-dza1	嵯		dza	dza1	1	33	16	2	"[""切三""]"	昨何反		昨何反		昨何切				從	歌	平	U+5D6F
@@ -1409,6 +1423,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 0605F-qhyong1	恟		qhyoŋ	qhyong1	1	3	8	2	"[""P3696(2)""]"	許容反		許容反		許容切				曉	鍾	平	U+605F
 06062-khui1	恢		khui	khui1	1	15	2	2	"[""切三""]"	苦回反		苦回反		苦回切				溪	灰	平	U+6062
 06062-khyui2	恢		khyúi	khyui2	2	7	null	2	"[""切三""]"	null		null		null		苦虺切		null	null	null	U+6062
+06063-ci3	恣		cî	ci3	3	6	31	0	"[""藤田2018""]"	資四反		資四反		資四切				精	至	去	U+6063
 06069-qwn1	恩		qən	qwn1	1	23	3	2	"[""切三""]"	烏痕反		烏痕反		烏痕切				影	痕	平	U+6069
 0606A-khak4	恪		khak	khak4	4	28	8	3	"[""Дх1372+3703""]"	苦各反		苦各反		苦各切				溪	鐸	入	U+606A
 0606B-dung3	恫		dûŋ	dung3	3	1	10	3	"[""P3696(1)r""]"	null		null		徒弄切				定	送	去	U+606B
@@ -1500,6 +1515,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 06177-khang2	慷		kháŋ	khang2	2	36	13	2	"[""切三""]"	苦朗反		苦朗反		苦朗切				溪	蕩	上	U+6177
 06182-qyu1	憂		qyu	qyu1	1	43	2	1	"[""大谷5397""]"	□□□	《切三》於求反。	於求反		於求切				影	尤	平	U+6182
 06192-kui3	憒		kûi	kui3	3	18	11	0	"[""藤田2018""]"	古對反		古對反		古對切				見	隊	去	U+6192
+061A9-khriei3	憩		khriêi	khriei3	3	14	26	3	"[""P3696(1)v""]"	去例反		去例反		去例切				溪	祭	去	U+61A9
 061AB-mryn2	憫		mrýn	mryn2	2	16	6	1	"[""切一""]"	眉殞反		眉殞反		眉殞切				明	軫	上	U+61AB
 061AC-kryeng2	憬		kryéŋ	kryeng2	2	37	8	2	"[""切三""]"	舉永反		舉永反		俱永切				見	梗	上	U+61AC
 061B6-qiwk4	憶		qiək	qiwk4	4	29	15	0	"[""藤田2018""]"	於力反		於力反		於力切				影	職	入	U+61B6
@@ -1913,6 +1929,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 06760-kung1	杠		kuŋ	kung1	1	1	22	3	"[""切二""]"	null		null		null		沽紅切		null	null	null	U+6760
 06762-muk4kung1	杢		mukkuŋ	muk4kung1	null	null	null	null	[]	null		null		null		null		null	null	null	U+6762
 0676A-mieu2	杪		miéu	mieu2	2	28	10	2	"[""切三""]"	亡沼反		亡沼反		亡沼切				明	小	上	U+676A
+06770-griet4	杰		griet	griet4	4	15	4	2	"[""切三""]"	null		null		渠列切				群	薛	入	U+6770
 06774-qhiam1	杴		qhiam	qhiam1	1	53	2	2	"[""切三""]"	虚嚴反		虚嚴反		虚嚴切				曉	嚴	平	U+6774
 06775-thio2	杵		thió	thio2	2	8	8	2	"[""切三""]"	昌与反		昌与反		昌與切				昌	語	上	U+6775
 0677B-nryu2	杻		nryú	nryu2	2	41	4	2	"[""切三""]"	女久反		女久反		女久切				娘	有	上	U+677B
@@ -1979,6 +1996,9 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 0683C-krak4	格		krak	krak4	4	19	23	2	"[""切三""]"	古陌反		古陌反		古伯切				見	陌	入	U+683C
 0683C-lak4	格		lak	lak4	4	28	3	0	"[""藤田2018""]"	null		null		null		歷各切		null	null	null	U+683C
 0683C-xak4	格		xak	xak4	4	28	16	3	"[""Дх1372+3703""]"	null		null		null		曷各切		null	null	null	U+683C
+0683D-cwi1	栽		cəi	cwi1	1	16	8	1	"[""P3695""]"	祖才反		祖才反		祖才切				精	咍	平	U+683D
+0683D-dzwi3	栽		dzə̂i	dzwi3	3	19	15	0	"[""藤田2018""]"	null		null		昨代切				從	代	去	U+683D
+06840-griet4	桀		griet	griet4	4	15	4	2	"[""切三""]"	渠列反		渠列反		渠列切				群	薛	入	U+6840
 06841-xang1	桁		xaŋ	xang1	1	38	16	2	"[""切三""]"	胡郎反		胡郎反		胡郎切				匣	唐	平	U+6841
 06841-xang3	桁		xâŋ	xang3	3	41	3	0	"[""藤田2018""]"	null		null		null		下浪切		匣	宕	去	U+6841
 06841-xrang1	桁		xraŋ	xrang1	1	39	27	2	"[""切三""]"	null		户庚反		户庚切				匣	庚	平	U+6841
@@ -2068,6 +2088,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 0699C-brang1	榜		braŋ	brang1	1	39	8	2	"[""切三""]"	薄庚反		薄庚反		薄庚切				並	庚	平	U+699C
 0699C-pang2	榜		páŋ	pang2	2	36	4	2	"[""切三""]"	〼〼〼	《切三》誤作“薄朗反”，《藤田2018》博朗反。	博朗反		北朗切				幫	蕩	上	U+699C
 0699C-prang3	榜		prâŋ	prang3	3	42	null	0	"[""藤田2018""]"	null		補孟反		北孟切				幫	映	去	U+699C
+069A4-griet4	榤		griet	griet4	4	15	4	2	"[""切三""]"	渠列反		渠列反		渠列切				null	null	null	U+69A4
 069A9-grien1	榩		grien	grien1	1	28	39	2	"[""切三""]"	null		null		渠焉切				null	null	null	U+69A9
 069AD-zia3	榭		ziâ	zia3	3	37	10	2	"[""S6176v""]"	似夜反		似夜反		辭夜切				邪	禡	去	U+69AD
 069B7-krok4	榷		krok	krok4	4	4	1	2	"[""切三""]"	null		null		古岳切				見	覺	入	U+69B7
@@ -2139,6 +2160,9 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 06AEA-lek4	櫪		lek	lek4	4	16	4	2	"[""切三""]"	閭激反		閭激反		郎擊切				來	錫	入	U+6AEA
 06B16-lam2	欖		lám	lam2	2	34	2	1	"[""P4917""]"	盧敢反		盧敢反		盧敢切				來	敢	上	U+6B16
 06B20-khiam3	欠		khiâm	khiam3	3	56	4	2	"[""P3694r""]"	去劍反		去劍反		去劍切				溪	釅	去	U+6B20
+06B21-chi3	次		chî	chi3	3	6	32	0	"[""藤田2018""]"	七四反		七四反		七四切				清	至	去	U+6B21
+06B21-ci1	次		ci	ci1	1	6	5	2	"[""切三"", ""P3696(2)""]"	null		null		null		津私切		精	脂	平	U+6B21
+06B21-ci3	次		cî	ci3	3	6	31	0	"[""藤田2018""]"	null		null		null		資四切		null	null	null	U+6B21
 06B23-qhiwn1	欣		qhiən	qhiwn1	1	20	4	2	"[""切三""]"	許斤反		許斤反		許斤切				曉	欣	平	U+6B23
 06B2E-kyat4	欮		kyat	kyat4	4	9	4	2	"[""切三""]"	null		居月反		居月切				null	null	null	U+6B2E
 06B31-qhrep4	欱		qhrep	qhrep4	4	22	7	2	"[""切三""]"	呼洽反		呼洽反		呼洽切				null	null	null	U+6B31
@@ -2429,6 +2453,7 @@ pieutiwbyo	dziwbyo	dziwbyoNguaidziw	zyepheng	zyephengNguaidziw	ChXZiosryoSishien
 06EC9-xuang2	滉		xuáŋ	xuang2	2	36	15	2	"[""切三""]"	胡廣反		胡廣反		胡廣切				匣	蕩	上	U+6EC9
 06ECB-ciw1	滋		ciə	ciw1	1	7	21	2	"[""切三""]"	子之反		子慈反		子之切				精	之	平	U+6ECB
 06ECD-dri2	滍		drí	dri2	2	5	13	2	"[""切三""]"	直几反		直几反		直几切				null	null	null	U+6ECD
+06ED0-griet4	滐		griet	griet4	4	15	4	2	"[""切三""]"	null		null		渠列切				null	null	null	U+6ED0
 06ED5-dwng1	滕		dəŋ	dwng1	1	50	13	2	"[""切三""]"	徒登反		徒登反		徒登切				定	登	平	U+6ED5
 06EEC-xo2	滬		xó	xo2	2	10	16	2	"[""切三""]"	null		胡古反		侯古切				匣	姥	上	U+6EEC
 06EF7-dek4	滷		dek	dek4	4	16	8	2	"[""切三""]"	null		徒歷反		徒歷切				null	null	null	U+6EF7
