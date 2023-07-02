@@ -3,7 +3,7 @@ import { createPinia } from 'pinia'
 import { createPersistedState } from 'pinia-plugin-persistedstate'
 
 import Qiwngjyong from '@/Qiwngjyong.vue'
-// import router from './router'
+import lojyukhri from './lojyu'
 
 import '@mdi/font/css/materialdesignicons.css'
 import '@/cisren/dziwthei.scss'
@@ -21,7 +21,7 @@ pinia.use(createPersistedState())
 const qiwngjyong = createApp(Qiwngjyong)
 
 qiwngjyong.use(pinia)
-// app.use(router)
+qiwngjyong.use(lojyukhri)
 qiwngjyong.use(vuetify)
 
 qiwngjyong.mount('#app')

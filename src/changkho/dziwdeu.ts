@@ -6,8 +6,11 @@ import type {
   DziwxengSikrokXaumraCileu,
 } from '@/cisren/lyixeng'
 import { jyongLeksriwkho } from '@/changkho/leksriw'
+import { useRouter } from 'vue-router'
 
 export const jyongDziwdeukho = defineStore('dziwdeu', () => {
+  const lojyukhri = useRouter()
+
   const dziwdu = ref('')
   const dziwduco = ref(<string[]>[])
   const dziwqrimco = ref(<DziwqrimCungCileu[]>[])
@@ -28,7 +31,10 @@ export const jyongDziwdeukho = defineStore('dziwdeu', () => {
     for (const xrongmyuk of zyoktiengLietprieu) {
       dziwduco.value.push(xrongmyuk.tiengdziw)
     }
-    if (dziwduco.value.length === 1) {
+    if (dziwduco.value.length === 0) {
+      dziwdu.value = ''
+      lojyukhri.push({ name: 'tyoqieu', query: undefined })
+    } else if (dziwduco.value.length === 1) {
       triwQrimXeng(dziwduco.value[0])
       dziwwngyan.value = DZIWWNGYAN.find((kiwlyok) => kiwlyok.dziwbyo === dziwduco.value[0])
     } else if (dziwduco.value.includes(grien)) {
@@ -39,6 +45,7 @@ export const jyongDziwdeukho = defineStore('dziwdeu', () => {
     }
   }
   const triwQrimXeng = async (grien: string): Promise<void> => {
+    lojyukhri.push({ name: 'tyoqieu', query: { dziwdu: grien } })
     dziwqrimco.value = []
     const leksriwkho = jyongLeksriwkho()
 
