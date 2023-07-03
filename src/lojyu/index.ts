@@ -8,6 +8,11 @@ const lojyukhri = createRouter({
       name: 'tyoqieu',
       component: () => import('@/dido/TyoqieuDido.vue'),
     },
+    {
+      path: '/:dziwdu',
+      name: 'ketkua',
+      component: () => import('@/dido/KetkuaDido.vue'),
+    },
   ],
 })
 

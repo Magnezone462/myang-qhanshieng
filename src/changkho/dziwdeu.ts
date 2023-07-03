@@ -21,7 +21,6 @@ export const jyongDziwdeukho = defineStore('dziwdeu', () => {
   const twkDziwqrim = computed(() => dziwqrimco.value)
 
   const triwDziwdu = async (grien: string): Promise<void> => {
-    dziwdu.value = ''
     dziwduco.value = []
     dziwxengSikrokXaumra.value = []
     dziwwngyan.value = null
@@ -33,7 +32,7 @@ export const jyongDziwdeukho = defineStore('dziwdeu', () => {
     }
     if (dziwduco.value.length === 0) {
       dziwdu.value = ''
-      lojyukhri.push({ name: 'tyoqieu', query: undefined })
+      lojyukhri.push({ name: 'tyoqieu' })
     } else if (dziwduco.value.length === 1) {
       triwQrimXeng(dziwduco.value[0])
       dziwwngyan.value = DZIWWNGYAN.find((kiwlyok) => kiwlyok.dziwbyo === dziwduco.value[0])
@@ -41,11 +40,12 @@ export const jyongDziwdeukho = defineStore('dziwdeu', () => {
       triwQrimXeng(grien)
       dziwwngyan.value = DZIWWNGYAN.find((kiwlyok) => kiwlyok.dziwbyo === grien)
     } else {
-      dziwdu.value = ''
+      triwQrimXeng(dziwduco.value[0])
+      dziwwngyan.value = DZIWWNGYAN.find((kiwlyok) => kiwlyok.dziwbyo === dziwduco.value[0])
     }
   }
   const triwQrimXeng = async (grien: string): Promise<void> => {
-    lojyukhri.push({ name: 'tyoqieu', query: { dziwdu: grien } })
+    lojyukhri.push({ name: 'ketkua', params: { dziwdu: grien } })
     dziwqrimco.value = []
     const leksriwkho = jyongLeksriwkho()
 
