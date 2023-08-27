@@ -10,15 +10,15 @@ import { useRoute } from 'vue-router'
 
 const xeithongkho = jyongXeithongkho()
 const dziwdeu = jyongDziwdeukho()
-const route = useRoute()
+const lojyu = useRoute()
 
 onMounted(() => {
   if (
     dziwdeu.dziwdu === '' ||
-    route.query.dziwdu !== '' ||
-    typeof route.query.dziwdu === 'string'
+    lojyu.query.dziwdu !== '' ||
+    typeof lojyu.query.dziwdu === 'string'
   ) {
-    dziwdeu.triwDziwdu(route.query.dziwdu as string)
+    dziwdeu.triwDziwdu(lojyu.query.dziwdu as string)
   }
 })
 </script>

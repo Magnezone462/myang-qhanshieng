@@ -1,4 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
+import TyoqieuDido from '@/dido/TyoqieuDido.vue'
 
 const lojyukhri = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -6,7 +7,7 @@ const lojyukhri = createRouter({
     {
       path: '/',
       name: 'tyoqieu',
-      component: () => import('@/dido/TyoqieuDido.vue'),
+      component: TyoqieuDido,
     },
   ],
 })
