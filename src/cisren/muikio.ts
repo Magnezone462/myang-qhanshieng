@@ -1,31 +1,40 @@
-// 檢索字音方式: サーチ プロナンシエーション モード
-export const KriemsakDziwqrimPyangshiwk = {
-  zyepheng: 0,
-  briengshyixryn: 1,
-  twixrynxrok: 2,
-} as const
+/* eslint-disable @typescript-eslint/no-unused-vars */
+export class GyungkioChakngo extends Error {
+  constructor(kradriw: never) {
+    super(`${kradriw}`)
+  }
+}
+
+export const KriemsakDziwqrimPyangshiwk = (({ prototype, ...zhiwngjio }) => zhiwngjio)(
+  class {
+    static readonly zyepheng: unique symbol = Symbol('zyepheng')
+    static readonly briengshyixryn: unique symbol = Symbol('briengshyixryn')
+    static readonly twixrynxrok: unique symbol = Symbol('twixrynxrok')
+  },
+)
 export type KriemsakDziwqrimPyangshiwk =
   (typeof KriemsakDziwqrimPyangshiwk)[keyof typeof KriemsakDziwqrimPyangshiwk]
 
-// 檢索標籤: サーチ タブ
-export const KriemsakPieuchiem = {
-  dziwbyo: 0,
-  dziqrim: 1,
-  dziwxeng: 2,
-  shiochiem: 3,
-  leksriw: 4,
-} as const
+export const KriemsakPieuchiem = (({ prototype, ...zhiwngjio }) => zhiwngjio)(
+  class {
+    static readonly dziwbyo: unique symbol = Symbol('dziwbyo')
+    static readonly dziqrim: unique symbol = Symbol('dziqrim')
+    static readonly dziwxeng: unique symbol = Symbol('dziwxeng')
+    static readonly shiochiem: unique symbol = Symbol('shiochiem')
+    static readonly leksriw: unique symbol = Symbol('leksriw')
+  },
+)
 export type KriemsakPieuchiem = (typeof KriemsakPieuchiem)[keyof typeof KriemsakPieuchiem]
 
-// 檢索字形方式: サーチ グリフ モード
-export const KriemsakDziwxengPyangshiwk = {
-  sikrokXaumra: 0,
-  QhZQhBushyu: 1,
-} as const
+export const KriemsakDziwxengPyangshiwk = (({ prototype, ...zhiwngjio }) => zhiwngjio)(
+  class {
+    static readonly sikrokXaumra: unique symbol = Symbol('sikrokXaumra')
+    static readonly QhZQhBushyu: unique symbol = Symbol('QhZQhBushyu')
+  },
+)
 export type KriemsakDziwxengPyangshiwk =
   (typeof KriemsakDziwxengPyangshiwk)[keyof typeof KriemsakDziwxengPyangshiwk]
 
-// 外觀: アピアランス
 export const Nguaikuan = {
   chiensriwk: 'light',
   shimsriwk: 'dark',

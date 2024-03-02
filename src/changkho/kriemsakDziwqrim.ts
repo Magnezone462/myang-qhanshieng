@@ -1,71 +1,33 @@
 import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
-import { KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/muikio'
+import { GyungkioChakngo, KriemsakDziwqrimPyangshiwk as Pyangshiwk } from '@/cisren/muikio'
 import type { DziwqrimKrapCileu } from '@/cisren/lyixeng'
 
-/**
- * 下拉框: ドロップダウン フィールド
- */
 type Xralakhyang = string | null
 
-/**
- * 用檢索字音庫: ユーズ サーチ プロナンシエーション ストア
- */
 export const jyongKriemsakDziwqrimkho = defineStore('kriemsakDziwqrim', () => {
-  /**
-   * 方式: モード
-   */
-  const pyangshiwk = ref(<Pyangshiwk>Pyangshiwk.zyepheng)
+  const pyangshiwk = ref<Pyangshiwk>(Pyangshiwk.zyepheng)
+  const zyepheng = ref('')
+  const shiwxryn = ref<Xralakhyang>(null)
+  const xrynshiep = ref<Xralakhyang>(null)
+  const khwixwp = ref<Xralakhyang>(null)
+  const twixryi = ref<Xralakhyang>(null)
+  const sishieng = ref<Xralakhyang>(null)
+  const xrynmyuk = ref<Xralakhyang>(null)
+  const shiengmu = ref<Xralakhyang>(null)
+  const ketkua = ref<DziwqrimKrapCileu[]>([])
 
-  /**
-   * 隋拼: スイ チャイニーズ アルファベット
-   */
-  const zyepheng = ref(<string>'')
-
-  /**
-   * 詩韵: チャイニーズ ポエム ライム
-   */
-  const shiwxryn = ref(<Xralakhyang>null)
-
-  // 韵攝, 開合, 等位, 四聲, 韵目, 聲母: チャイニーズ ライム スタヂーズ インフォメーションズ
-  const xrynshiep = ref(<Xralakhyang>null)
-  const khwixwp = ref(<Xralakhyang>null)
-  const twixryi = ref(<Xralakhyang>null)
-  const sishieng = ref(<Xralakhyang>null)
-  const xrynmyuk = ref(<Xralakhyang>null)
-  const shiengmu = ref(<Xralakhyang>null)
-
-  /**
-   * 結果: リザルト
-   */
-  const ketkua = ref(<DziwqrimKrapCileu[]>[])
-
-  /**
-   * 得結果: ゲット リザルト
-   */
   const twkKetkua = computed(() => ketkua.value)
 
-  /**
-   * 置方式: セット モード
-   */
-  const triwPyangshiwk = (grien: Pyangshiwk) => (pyangshiwk.value = grien)
+  const triwPyangshiwk = (grien: Pyangshiwk): void => void (pyangshiwk.value = grien)
 
-  /**
-   * 置隋拼: セット スイ チャイニーズ アルファベット
-   */
-  const triwZyepheng = (grien: string) => (zyepheng.value = grien)
+  const triwZyepheng = (grien: string): void => void (zyepheng.value = grien)
 
-  /**
-   * 置詩韵: セット チャイニーズ ポエム ライム
-   */
-  const triwShiwxryn = (grien: Xralakhyang) => (shiwxryn.value = grien)
+  const triwShiwxryn = (grien: Xralakhyang): void => void (shiwxryn.value = grien)
 
-  /**
-   * 置結果: セット リザルト
-   */
   const triwKetkua = async (): Promise<void> => {
     const DZIWQRIM_KRAP = (await import('@/cileu/DZIWQRIM_KRAP.json')).default
-    // 記録: レコード
+
     ketkua.value = DZIWQRIM_KRAP.filter((kiwlyok) => {
       switch (pyangshiwk.value) {
         case Pyangshiwk.zyepheng:
@@ -100,6 +62,9 @@ export const jyongKriemsakDziwqrimkho = defineStore('kriemsakDziwqrim', () => {
             lioShiengmu
           )
         }
+
+        default:
+          throw new GyungkioChakngo(pyangshiwk.value)
       }
     })
   }
