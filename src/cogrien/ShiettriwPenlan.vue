@@ -1,25 +1,30 @@
 <script setup lang="ts">
-import { useTheme as jyongTyodei } from 'vuetify'
-import { Nguaikuan } from '@/cisren/muikio'
+import { useTheme } from 'vuetify'
+import { GyungkioChakngo, Nguaikuan } from '@/cisren/muikio'
 import { jyongXeithongkho } from '@/changkho/xeithong'
-import { jyongXeithongPundhikho } from '@/changkho/xeithongPundhi'
+import { jyongTyodeikho } from '@/changkho/tyodei'
 
-const tyodei = jyongTyodei()
+const tyodei = useTheme()
 const xeithongkho = jyongXeithongkho()
-const xeithongPundhikho = jyongXeithongPundhikho()
+const tyodeikho = jyongTyodeikho()
 
 const xuanNguaikuan = (kradriw: Nguaikuan) => {
-  xeithongPundhikho.nguaikuan = kradriw
-  if (kradriw === Nguaikuan.dzidung) {
-    tyodei.global.name.value = window.matchMedia('(prefers-color-scheme: dark)').matches
-      ? 'dark'
-      : 'light'
-  } else {
-    if (kradriw === 'dark') {
-      tyodei.global.name.value = 'dark'
-    } else {
-      tyodei.global.name.value = 'light'
-    }
+  tyodeikho.nguaikuan = kradriw
+
+  switch (kradriw) {
+    case Nguaikuan.dzidung:
+      tyodei.global.name.value = matchMedia('(prefers-color-scheme: dark)').matches
+        ? 'dark'
+        : 'light'
+      break
+
+    case Nguaikuan.shimsriwk:
+    case Nguaikuan.chiensriwk:
+      tyodei.global.name.value = String(kradriw.description)
+      break
+
+    default:
+      throw new GyungkioChakngo(kradriw)
   }
 }
 </script>
@@ -39,7 +44,7 @@ const xuanNguaikuan = (kradriw: Nguaikuan) => {
         <VCol cols="6">
           <VBtn
             @click="xuanNguaikuan(Nguaikuan.chiensriwk)"
-            :class="xeithongPundhikho.nguaikuan === Nguaikuan.chiensriwk ? 'v-btn--active' : ''"
+            :class="tyodeikho.nguaikuan === Nguaikuan.chiensriwk ? 'v-btn--active' : ''"
             block
           >
             淺色
@@ -48,7 +53,7 @@ const xuanNguaikuan = (kradriw: Nguaikuan) => {
         <VCol cols="6">
           <VBtn
             @click="xuanNguaikuan(Nguaikuan.shimsriwk)"
-            :class="xeithongPundhikho.nguaikuan === Nguaikuan.shimsriwk ? 'v-btn--active' : ''"
+            :class="tyodeikho.nguaikuan === Nguaikuan.shimsriwk ? 'v-btn--active' : ''"
             block
           >
             深色
@@ -57,7 +62,7 @@ const xuanNguaikuan = (kradriw: Nguaikuan) => {
         <VCol cols="12">
           <VBtn
             @click="xuanNguaikuan(Nguaikuan.dzidung)"
-            :class="xeithongPundhikho.nguaikuan === Nguaikuan.dzidung ? 'v-btn--active' : ''"
+            :class="tyodeikho.nguaikuan === Nguaikuan.dzidung ? 'v-btn--active' : ''"
             block
           >
             自動

@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 export class GyungkioChakngo extends Error {
   constructor(kradriw: never) {
-    super(`${kradriw}`)
+    super(String(kradriw))
   }
 }
 
@@ -35,9 +35,11 @@ export const KriemsakDziwxengPyangshiwk = (({ prototype, ...zhiwngjio }) => zhiw
 export type KriemsakDziwxengPyangshiwk =
   (typeof KriemsakDziwxengPyangshiwk)[keyof typeof KriemsakDziwxengPyangshiwk]
 
-export const Nguaikuan = {
-  chiensriwk: 'light',
-  shimsriwk: 'dark',
-  dzidung: 'automatic',
-} as const
+export const Nguaikuan = (({ prototype, ...zhiwngjio }) => zhiwngjio)(
+  class {
+    static readonly chiensriwk: unique symbol = Symbol('light')
+    static readonly shimsriwk: unique symbol = Symbol('dark')
+    static readonly dzidung: unique symbol = Symbol('automatic')
+  },
+)
 export type Nguaikuan = (typeof Nguaikuan)[keyof typeof Nguaikuan]
